@@ -191,7 +191,7 @@ Because the Eastern Catholic Churches are in full, visible communion with the Bi
 
 A Latin Catholic **fully satisfies** their Sunday or Holy Day of obligation by participating in an Eastern Catholic Divine Liturgy (or equivalent Eucharistic Liturgy).
 
-- **Canonical Basis:** Under the Latin Church's Code of Canon Law, [CIC can. 1248 §1](eastern-catholics.md#L4) provides:
+- **Canonical Basis:** Under the Latin Church's Code of Canon Law, [CIC can. 1248 §1](eastern-catholic-churches.md#L4) provides:
   > "A person who assists at a Mass celebrated anywhere in a Catholic rite either on the holy day itself or in the evening of the preceding day satisfies the obligation of participating in the Mass."
 - **Application:** Divine Liturgies celebrated in any of the Eastern Catholic Churches satisfy this obligation as they are Eucharistic sacrifices celebrated in a valid Catholic rite.
 
@@ -199,7 +199,7 @@ A Latin Catholic **fully satisfies** their Sunday or Holy Day of obligation by p
 
 A Latin Catholic **may licitly and validly receive Holy Communion** at any Eastern Catholic Divine Liturgy, provided they are properly disposed (i.e., in a state of grace, having observed the eucharistic fast).
 
-- **Canonical Basis:** Under [CIC can. 923](eastern-catholics.md#L4):
+- **Canonical Basis:** Under [CIC can. 923](eastern-catholic-churches.md#L4):
   > "The Christian faithful can participate in the eucharistic sacrifice and receive holy communion in any Catholic rite, without prejudice to the prescript of can. 844."
 - **Liturgical Practice:** Roman Catholics should respect and follow the receiving custom of the particular Eastern Church they are visiting. For example, in Byzantine parishes, Holy Communion is typically received under both kinds via a liturgical spoon (intinction), while standing, opening the mouth wide, and not repeating the Roman custom of saying "Amen" before receiving.
 

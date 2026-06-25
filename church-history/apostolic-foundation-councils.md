@@ -9,7 +9,7 @@ As taught in Vatican II's Dogmatic Constitution on the Church:
 > "This is the unique Church of Christ which in the Creed is professed as one, holy, catholic and apostolic, which our Saviour, after His Resurrection, commissioned Peter to shepherd, and him and the other apostles to extend and direct with authority, which He erected for all ages as 'the pillar and mainstay of the truth.'"
 > — _Lumen Gentium_, 8
 
-This history is preserved and handed down through the dual, inseparable streams of **Sacred Scripture** and **Sacred Tradition**, which together form a single sacred deposit of the Word of God (see [bible.md](bible.md) for the development and history of the Biblical canon).
+This history is preserved and handed down through the dual, inseparable streams of **Sacred Scripture** and **Sacred Tradition**, which together form a single sacred deposit of the Word of God (see [../scripture/bible-history-canon.md](../scripture/bible-history-canon.md) for the development and history of the Biblical canon).
 
 ---
 

@@ -169,15 +169,15 @@ A major milestone of modern ecumenical history occurred on December 7, 1965, dur
 - They lamented the offensive words, groundless accusations, and untoward gestures that characterized the split.
 - They committed to a dialogue of charity and a theological search for full reconciliation.
 
-(For a sequential list of popes who oversaw these ecumenical transformations, see [popes.md](popes.md).)
+(For a sequential list of popes who oversaw these ecumenical transformations, see [papal-chronology.md](papal-chronology.md).)
 
 ### The Dialogue of Truth
 
 In 1979, the **Joint International Commission for Theological Dialogue Between the Catholic Church and the Orthodox Church** was established. The commission has issued several agreed-upon statements on critical issues, including:
 
 - **The Munich Document (1982):** On the relationship of the mystery of the Church to the Holy Eucharist.
-- **The Balamand Declaration (1993):** Reissued principles on ecumenical dialogue. Both sides formally rejected "uniatism" (the proselytization or creation of Eastern-rate Catholic bodies out of Orthodox populations) as a method for seeking unity, while simultaneously affirming the legitimate rights of existing Eastern Catholic Churches (see [eastern-catholics.md](eastern-catholics.md)) to exist and minister to their faithful.
+- **The Balamand Declaration (1993):** Reissued principles on ecumenical dialogue. Both sides formally rejected "uniatism" (the proselytization or creation of Eastern-rate Catholic bodies out of Orthodox populations) as a method for seeking unity, while simultaneously affirming the legitimate rights of existing Eastern Catholic Churches (see [eastern-catholic-churches.md](eastern-catholic-churches.md)) to exist and minister to their faithful.
 - **The Ravenna Document (2007):** Agreed that during the first millennium, the Bishop of Rome was recognized as the first (_protos_) among patriarchs, but noted that there remains disagreement on how this primacy should be exercised in a reunited Church.
 - **The Chieti (2016) and Alexandria (2023) Documents:** Continued the historical exploration of Synodal ecclesiology and primacy in the first millennium.
 
-Despite these theological steps, hurdles remain. The structural status of Eastern Catholic Churches (often called Byzantine-rite Catholics, see [eastern-catholics.md](eastern-catholics.md)), questions of local jurisdiction, and deep-seated historical memories (such as the Fourth Crusade's sack of Constantinople in 1204) continue to shape relations between the two ancient Communions. Nonetheless, many clergy, monastics, and laypeople in both Greek Orthodoxy and Roman Catholicism share a profound mutual respect and hope for eventual full communion.
+Despite these theological steps, hurdles remain. The structural status of Eastern Catholic Churches (often called Byzantine-rite Catholics, see [eastern-catholic-churches.md](eastern-catholic-churches.md)), questions of local jurisdiction, and deep-seated historical memories (such as the Fourth Crusade's sack of Constantinople in 1204) continue to shape relations between the two ancient Communions. Nonetheless, many clergy, monastics, and laypeople in both Greek Orthodoxy and Roman Catholicism share a profound mutual respect and hope for eventual full communion.

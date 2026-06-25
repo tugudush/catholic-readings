@@ -18,7 +18,7 @@ Under Spanish colonial rule (1565–1898), the Catholic Church in the Philippine
 
 By the mid-19th century, native priests began demanding the "secularization" of parishes (the transfer of parish administration from Spanish friars blockaded in religious orders to native secular priests). This movement was led by pioneering figures like Father Pedro Pelaez and later Father José Burgos.
 
-On February 17, 1872, three Filipino secular priests—**Mariano Gomez, José Burgos, and Jacinto Zamora** (collectively remembered as **Gomburza**)—were executed by garrote on false charges of mutiny in the Cavite Arsenal. Their martyrdom galvanized the nationalist movement, deeply inspiring national hero José Rizal and paving the intellectual road to the Philippine Revolution of 1896 (discussed in the context of global history in [catholic-history.md](catholic-history.md)).
+On February 17, 1872, three Filipino secular priests—**Mariano Gomez, José Burgos, and Jacinto Zamora** (collectively remembered as **Gomburza**)—were executed by garrote on false charges of mutiny in the Cavite Arsenal. Their martyrdom galvanized the nationalist movement, deeply inspiring national hero José Rizal and paving the intellectual road to the Philippine Revolution of 1896 (discussed in the context of global history in [apostolic-foundation-councils.md](apostolic-foundation-councils.md)).
 
 ```mermaid
 graph TD
@@ -117,7 +117,7 @@ Liturgically, the Aglipayan Church retains an aesthetic and sacramental life tha
 
 The central rite of the IFI is the Holy Eucharist, celebrated through the **Misa Filipina** (Philippine Mass). The structure of the service closely mirrors both the pre-Vatican II Latin Mass and the Eucharistic Liturgy of the Anglican _Book of Common Prayer_. In some modern parishes, it resembles the post-Vatican II Roman Rite (_Novus Ordo_).
 
-The IFI was a pioneer in using **vernacular languages** (such as Tagalog, Ilokano, and Hiligaynon) and English in the liturgy, decades before the Roman Catholic Church adopted this discipline at the Second Vatican Council (outlined in [eastern-catholics.md](eastern-catholics.md)).
+The IFI was a pioneer in using **vernacular languages** (such as Tagalog, Ilokano, and Hiligaynon) and English in the liturgy, decades before the Roman Catholic Church adopted this discipline at the Second Vatican Council (outlined in [eastern-catholic-churches.md](eastern-catholic-churches.md)).
 
 ### Devotional Life and Nationalism
 
@@ -133,7 +133,7 @@ Aglipayans maintain strong traditional Catholic popular devotions:
 
 The Iglesia Filipina Independiente is an **autocephalous** (self-governing) church, operating under a conciliar and democratic framework that heavily incorporates lay leadership.
 
-- **The Obispo Máximo (Supreme Bishop):** The primate and spiritual head, chief pastor, and chief executive of the church. He is elected to a **non-renewable six-year term** by the General Assembly, representing a cooperative model of leadership (unlike the supreme lifetime authority of the Pope in [popes.md](popes.md)).
+- **The Obispo Máximo (Supreme Bishop):** The primate and spiritual head, chief pastor, and chief executive of the church. He is elected to a **non-renewable six-year term** by the General Assembly, representing a cooperative model of leadership (unlike the supreme lifetime authority of the Pope in [papal-chronology.md](papal-chronology.md)).
 - **The Supreme Council of Bishops (SCB):** Composed of all active bishops. It governs matters of doctrine, liturgy, and pastoral care, acting as the corporate episcopate.
 - **The National Lay Council (NLC):** A unique governing body representing the lay faithful, which has an active voice in financial, social, and administrative decisions of the church.
 - **The General Assembly:** The highest governing body of the IFI, which meets every six years to elect the Obispo Máximo and vote on major constitutional and canonical amendments. It consists of all bishops, representatives of the clergy, and delegates from the laity.
@@ -151,7 +151,7 @@ Throughout its history, the IFI has transformed from an isolated nationalist sec
 The IFI is in full communion with:
 
 - **The Anglican Communion:** Formalized via the 1961 Concordat of Intercommunion with the Episcopal Church in the USA and subsequently extended to all member churches of the Anglican Communion, including the Episcopal Church in the Philippines.
-- **The Union of Utrecht (Old Catholic Churches):** Sharing a common independent Catholic identity that rejects papal supremacy (analogous to the Greek Orthodox position in [greek-orthodox.md](greek-orthodox.md)), the IFI established full communion with the Old Catholic Churches of Europe.
+- **The Union of Utrecht (Old Catholic Churches):** Sharing a common independent Catholic identity that rejects papal supremacy (analogous to the Greek Orthodox position in [greek-orthodox-church.md](greek-orthodox-church.md)), the IFI established full communion with the Old Catholic Churches of Europe.
 - **The Church of Sweden:** A Lutheran state church that preserves the historic episcopate, establishing mutual recognition and full communion.
 
 The IFI is also an active member of the **World Council of Churches (WCC)** and a founding member of the **National Council of Churches in the Philippines (NCCP)**.
