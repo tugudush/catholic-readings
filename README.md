@@ -4,6 +4,8 @@ Welcome to the **Holy Agent** repository—a comprehensive, highly authoritative
 
 This repository serves as a meticulously verified, structured reference system for exploring the deposit of faith, the development of doctrine, and the magnificent historical witness of the Catholic Church.
 
+> 📝 **Note on Content & Future Additions**: This database is an ongoing repository of Catholic theology, historical monographs, and liturgical readings. New documents, primary source citations, and theological treatises will continue to be added, completed, and expanded in future updates.
+
 ---
 
 ## 1. Sacred Scripture & Divine Revelation
