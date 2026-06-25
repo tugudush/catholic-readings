@@ -10,7 +10,7 @@ This repository serves as a meticulously verified, structured reference system f
 
 Explore the foundations of biblical studies, the history of transcription, canonization, and standard translations in Catholic history:
 
-- **The Canon of Scripture**: Learn about the [bible.md](bible.md) canon (73 books, including the deuterocanonicals), historical regional councils (Hippo, Carthage) and the Council of Trent, the Special role of the Latin Vulgate, and the historical context of the Douay-Rheims translation.
+- **The Canon of Scripture**: Learn about the [scripture/bible-history-canon.md](scripture/bible-history-canon.md) canon (73 books, including the deuterocanonicals), historical regional councils (Hippo, Carthage) and the Council of Trent, the Special role of the Latin Vulgate, and the historical context of the Douay-Rheims translation.
 
 ---
 
@@ -18,11 +18,11 @@ Explore the foundations of biblical studies, the history of transcription, canon
 
 A collection of scholarly historical analyses mapping the journey of the Church from its apostolic foundation to the modern era, including ecumenical and interreligious relations:
 
-- **Chronological List of Popes**: Consult [popes.md](popes.md) for a comprehensive, tabular history detailing every Pope from Saint Peter to the present day, along with their dates of pontificate, origins, and key contributions.
-- **General Ecclesiastical History**: Read [catholic-history.md](catholic-history.md) for structural and historical developments within the global Church.
-- **Relations with the Jewish People**: Review the deep theological studies on the covenants, biblical covenants, and Catholic-Jewish relations in [catholic-jews.md](catholic-jews.md) and [israel.md](israel.md).
-- **The Eastern Rites & Eastern Orthodoxy**: Understand the theology, spiritual traditions, and organizational structures of the twenty-three self-governing Eastern Catholic Churches in [eastern-catholics.md](eastern-catholics.md), as well as theological relations with Eastern Orthodoxy in [greek-orthodox.md](greek-orthodox.md).
-- **Other Ecumenical Histories**: Explore historical-devotional monographs covering unique topics in [philippine-independent-church.md](philippine-independent-church.md) and [solomon.md](solomon.md).
+- **Chronological List of Popes**: Consult [church-history/papal-chronology.md](church-history/papal-chronology.md) for a comprehensive, tabular history detailing every Pope from Saint Peter to the present day, along with their dates of pontificate, origins, and key contributions.
+- **General Ecclesiastical History**: Read [church-history/apostolic-foundation-councils.md](church-history/apostolic-foundation-councils.md) for structural and historical developments within the global Church.
+- **Relations with the Jewish People**: Review the deep theological studies on the covenants, biblical covenants, and Catholic-Jewish relations in [church-history/hebrew-catholicism-relations.md](church-history/hebrew-catholicism-relations.md) and [church-history/jewish-exile-gathering.md](church-history/jewish-exile-gathering.md).
+- **The Eastern Rites & Eastern Orthodoxy**: Understand the theology, spiritual traditions, and organizational structures of the twenty-three self-governing Eastern Catholic Churches in [church-history/eastern-catholic-churches.md](church-history/eastern-catholic-churches.md), as well as theological relations with Eastern Orthodoxy in [church-history/greek-orthodox-church.md](church-history/greek-orthodox-church.md).
+- **Other Ecumenical Histories**: Explore historical-devotional monographs covering unique topics in [church-history/philippine-independent-church-schism.md](church-history/philippine-independent-church-schism.md) and [church-history/king-solomon-history.md](church-history/king-solomon-history.md).
 
 ---
 
@@ -30,10 +30,10 @@ A collection of scholarly historical analyses mapping the journey of the Church 
 
 Sacred traditions of prayer and worship that shape the daily life of Catholic believers in both Western and Eastern rites:
 
-- **Foundational Daily Prayers**: Explore [prayers.md](prayers.md) for essential prayers (including the Sign of the Cross, the Lord's Prayer, Hail Mary, and Doxology) represented in both Latin Rite and Eastern/Byzantine Rite traditions.
+- **Foundational Daily Prayers**: Explore [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md) for essential prayers (including the Sign of the Cross, the Lord's Prayer, Hail Mary, and Doxology) represented in both Latin Rite and Eastern/Byzantine Rite traditions.
 - **The Holy Rosary**: Detailed historical documents and prayer guides can be found under the rosary directory:
-  - **Historical Development**: Read [rosary/history.md](rosary/history.md) to discover the early origins of the Psalter, the Dominican tradition, the codification by Pope St. Pius V, the Battle of Lepanto, and modern papal endorsements.
-  - **How to Meditate & Pray**: See [rosary/how-to-pray.md](rosary/how-to-pray.md) for a complete devotional structure of the mysteries (Joyful, Sorrowful, Glorious, and Luminous) and step-by-step instructions.
+  - **Historical Development**: Read [liturgy/rosary/history.md](liturgy/rosary/history.md) to discover the early origins of the Psalter, the Dominican tradition, the codification by Pope St. Pius V, the Battle of Lepanto, and modern papal endorsements.
+  - **How to Meditate & Pray**: See [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md) for a complete devotional structure of the mysteries (Joyful, Sorrowful, Glorious, and Luminous) and step-by-step instructions.
 
 ---
 
@@ -41,8 +41,8 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 
 Theological truths regarding the visible and invisible creation:
 
-- **Holy Angels**: Learn about the nature, hierarchy, and roles of the heavenly hosts in [angels.md](angels.md).
-- **The Fall of the Rebel Angels**: Review the theological analysis of the angelic fall and its consequences in [fallen-angels.md](fallen-angels.md).
+- **Holy Angels**: Learn about the nature, hierarchy, and roles of the heavenly hosts in [angelology/angelic-hierarchy-choirs.md](angelology/angelic-hierarchy-choirs.md).
+- **The Fall of the Rebel Angels**: Review the theological analysis of the angelic fall and its consequences in [angelology/fallen-angels-demonology.md](angelology/fallen-angels-demonology.md).
 
 ---
 

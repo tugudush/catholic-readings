@@ -10,9 +10,9 @@ These guidelines are designed to help AI agents maintain the absolute highest st
 
 - **Substantive Depth**: Avoid brief, shallow summaries. Documents must be scholarly, historically grounded, and comprehensive, citing specific primary source documents.
 - **Ecclesiastical Terminology**: Always use formal and traditional Catholic terminology (e.g., _Blessed Virgin Mary_, _Theotokos_, _transubstantiation_, _corporal_, _encyclical_, _sui iuris_, _Sacred Scripture_). Do not use slang, overly colloquial phrasing, or imprecise secular shorthand when describing sacred concepts.
-- **Structured Layouts**: Use descriptive headings, clean bullet points, and chronological tables where appropriate. For example, see [popes.md](popes.md) for how table frameworks are used to organize extensive chronological histories.
+- **Structured Layouts**: Use descriptive headings, clean bullet points, and chronological tables where appropriate. For example, see [church-history/papal-chronology.md](church-history/papal-chronology.md) for how table frameworks are used to organize extensive chronological histories.
 - **Relative Markdown Links**: Use relative markdown links instead of copying documentation or duplicating concepts across files (the **Link, don't embed** principle). For example, see [miracles/README.md](miracles/README.md) for how directories connect subtopics.
-- **No Backticks for Files/Paths**: In any markdown files, prefer to refer to file paths or individual files using clean markdown links such as [bible.md](bible.md) rather than wrapping them in backticks.
+- **No Backticks for Files/Paths**: In any markdown files, prefer to refer to file paths or individual files using clean markdown links such as [scripture/bible-history-canon.md](scripture/bible-history-canon.md) rather than wrapping them in backticks.
 
 ---
 
@@ -21,16 +21,23 @@ These guidelines are designed to help AI agents maintain the absolute highest st
 Before adding or modifying any documents, check the existing directory structure below to keep our files modular, organized, and properly linked:
 
 - **Root Documents**:
-  - [angels.md](angels.md) & [fallen-angels.md](fallen-angels.md): Angelology, creation, and the fall of the rebel angels.
-  - [bible.md](bible.md): The canon of Scripture (73 books), historical councils, and approved Catholic translations.
-  - [catholic-history.md](catholic-history.md), [catholic-jews.md](catholic-jews.md), & [israel.md](israel.md): Ecclesial developments, historical relations, and theology of the covenants.
-  - [eastern-catholics.md](eastern-catholics.md) & [greek-orthodox.md](greek-orthodox.md): Theology of Eastern Catholic _sui iuris_ Churches, the 5 Rite families, and Catholic-Orthodox relations.
-  - [philippine-independent-church.md](philippine-independent-church.md) & [solomon.md](solomon.md): Ecumenical and historical monographs.
-  - [popes.md](popes.md): Comprehensive, chronological list of popes from St. Peter to the present.
-  - [prayers.md](prayers.md): Compilation of foundational daily prayers from both Eastern and Western liturgical traditions.
-- [rosary/](rosary/):
-  - [rosary/history.md](rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
-  - [rosary/how-to-pray.md](rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
+  - [README.md](README.md): Master portal and database index.
+  - [AGENTS.md](AGENTS.md): Agent development and Catholic theology conventions guidelines.
+- [scripture/](scripture/):
+  - [scripture/bible-history-canon.md](scripture/bible-history-canon.md): The canon of Scripture (73 books), historical councils, and approved Catholic translations.
+- [angelology/](angelology/):
+  - [angelology/angelic-hierarchy-choirs.md](angelology/angelic-hierarchy-choirs.md) & [angelology/fallen-angels-demonology.md](angelology/fallen-angels-demonology.md): Angel classification, the nine choirs, creation, and the fall of the rebel angels.
+- [church-history/](church-history/):
+  - [church-history/apostolic-foundation-councils.md](church-history/apostolic-foundation-councils.md): Structural and historical developments within the global Church from apostolic times.
+  - [church-history/hebrew-catholicism-relations.md](church-history/hebrew-catholicism-relations.md) & [church-history/jewish-exile-gathering.md](church-history/jewish-exile-gathering.md): Theological studies on Israel, the covenants, biblical exile/gathering, and Catholic-Jewish relations.
+  - [church-history/eastern-catholic-churches.md](church-history/eastern-catholic-churches.md) & [church-history/greek-orthodox-church.md](church-history/greek-orthodox-church.md): Theology of Eastern Catholic _sui iuris_ Churches, the 5 Rite families, and Catholic-Orthodox relations.
+  - [church-history/philippine-independent-church-schism.md](church-history/philippine-independent-church-schism.md) & [church-history/king-solomon-history.md](church-history/king-solomon-history.md): Ecumenical and historical-devotional monographs.
+  - [church-history/papal-chronology.md](church-history/papal-chronology.md): Comprehensive, chronological list of popes from St. Peter to the present.
+- [liturgy/](liturgy/):
+  - [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md): Compilation of foundational daily prayers from both Eastern and Western liturgical traditions.
+  - [liturgy/rosary/](liturgy/rosary/):
+    - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
+    - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
 - [miracles/](miracles/):
   - [miracles/README.md](miracles/README.md): Master index and theological principles of discerning private revelations.
   - [miracles/marian-apparitions/](miracles/marian-apparitions/): Approved Marian appearances (e.g., Guadalupe, Fatima, Lourdes).
@@ -73,7 +80,7 @@ Never treat private revelations, pastoral disciplines, or theological opinions w
 The Catholic Church is a communion of 24 churches (the Latin Church and 23 Eastern Catholic _sui iuris_ churches). Always avoid Latin-centrism:
 
 - If a doctrine is shared but the liturgical practice, terminology, or discipline differs (e.g., clerical celibacy, utilizing leavened vs. unleavened bread, the direction and holding of the fingers in the Sign of the Cross), highlight the Eastern Catholic tradition explicitly alongside the Latin tradition.
-- Refer to [eastern-catholics.md](eastern-catholics.md), [prayers.md](prayers.md), and [greek-orthodox.md](greek-orthodox.md) for clear examples.
+- Refer to [church-history/eastern-catholic-churches.md](church-history/eastern-catholic-churches.md), [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md), and [church-history/greek-orthodox-church.md](church-history/greek-orthodox-church.md) for clear examples.
 
 ### 3. Handle Scripture and Biblical Translations Accurately
 

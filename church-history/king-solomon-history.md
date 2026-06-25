@@ -58,8 +58,8 @@ Catholic tradition recognizes Solomon's unique status as the founding father of 
 
 ## See Also and Related Topics
 
-- For a discussion of how Scripture was compiled and the status of translations, see [bible.md](bible.md).
-- To explore Catholic teaching on spiritual beings, see [fallen-angels.md](fallen-angels.md).
+- For a discussion of how Scripture was compiled and the status of translations, see [../scripture/bible-history-canon.md](../scripture/bible-history-canon.md).
+- To explore Catholic teaching on spiritual beings, see [../angelology/fallen-angels-demonology.md](../angelology/fallen-angels-demonology.md).
 
 ## Key Sources
 
