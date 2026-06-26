@@ -107,6 +107,7 @@ CCC §§ 1601, 1614, 1641, 2384 treat matrimony as an eschatological sign: the c
 ## 4. The Sacred Congregation for the Doctrine of the Faith (1979)
 
 ### _Some Aspects of Christian Eschatology_
+
 **(17 May 1979)**
 
 Issued during the pontificate of Pope John Paul II by Cardinal Franjo Šeper as Prefect of the CDF, this letter addressed several pastoral questions that had arisen in the post-conciliar period:
@@ -122,6 +123,7 @@ Issued during the pontificate of Pope John Paul II by Cardinal Franjo Šeper as 
 ## 5. The International Theological Commission (1992)
 
 ### _Some Current Questions Regarding Eschatology_
+
 **(1992)**
 
 A document of the International Theological Commission (ITC), the advisory body of theologians serving the CDF. Following the 1979 CDF norms, the ITC addressed:
@@ -138,6 +140,7 @@ A document of the International Theological Commission (ITC), the advisory body 
 ## 6. The 2024 Dicastery Norms
 
 ### _Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena_
+
 **(17 May 2024)**
 
 Issued by the Dicastery for the Doctrine of the Faith under Cardinal Víctor Manuel Fernández, Prefect, with the explicit aim of reforming the **1978 norms** of the former CDF. The 2024 norms revise the language used by bishops in declaring their judgments on alleged apparitions, visions, and messages, replacing the older six categories ("constat de supernaturalitate," etc.) with **six new categories** that better reflect the **pastoral and prudential nature** of the discernment.
@@ -168,22 +171,22 @@ Several popes have contributed specific teachings to the doctrinal corpus of Cat
 
 ## 8. Quick Doctrinal Reference Table
 
-| Doctrine | Authority Level | Magisterial Reference |
-|---|---|---|
-| The immortality of the human soul | Definitive dogma | Lateran IV (1215); CCC 366, 382, 997 |
-| Particular judgment at the moment of death | Definitive dogma | Lyons II (1274); CCC 1021–1022 |
-| The resurrection of the body | Definitive dogma | Apostles' Creed; Lateran IV; CCC 988–1004 |
-| The reality of heaven | Definitive dogma | Benedict XII, _Benedictus Deus_; CCC 1023–1029 |
-| The reality of hell and its eternity | Definitive dogma | Fourth Lateran Council; CCC 1033–1037 |
-| The existence of purgatory | Definitive dogma | Lyons II; Trent Session XXV; CCC 1030–1032 |
-| The Second Coming of Christ | Definitive dogma | Nicene Creed; CCC 668, 1042–1050 |
-| The Last Judgment | Definitive dogma | Nicene Creed; CCC 1038–1041 |
-| The new heavens and new earth | Definitive dogma | CCC 1042, 1060 |
-| The corporal Assumption of the Blessed Virgin Mary | Definitive dogma | Pius XII, _Munificentissimus Deus_ (1950) |
-| The dating of the day or hour of the Second Coming | **Impossible** — Church teaching | CCC 1040; Mark 13:32 |
-| Approved private revelations (e.g., Fatima, Lourdes, La Salette) | **Pious belief** — non-binding | CDF, 26 June 2000; CCC 67 |
-| Mitigated millenarianism | **Not safe to teach** | DH 3839; CDF 1979 |
-| Speculation on "three days of darkness" or other popular chastisements | **Private claim** — to be discerned | DDF Norms 2024 |
+| Doctrine                                                               | Authority Level                     | Magisterial Reference                          |
+| ---------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------- |
+| The immortality of the human soul                                      | Definitive dogma                    | Lateran IV (1215); CCC 366, 382, 997           |
+| Particular judgment at the moment of death                             | Definitive dogma                    | Lyons II (1274); CCC 1021–1022                 |
+| The resurrection of the body                                           | Definitive dogma                    | Apostles' Creed; Lateran IV; CCC 988–1004      |
+| The reality of heaven                                                  | Definitive dogma                    | Benedict XII, _Benedictus Deus_; CCC 1023–1029 |
+| The reality of hell and its eternity                                   | Definitive dogma                    | Fourth Lateran Council; CCC 1033–1037          |
+| The existence of purgatory                                             | Definitive dogma                    | Lyons II; Trent Session XXV; CCC 1030–1032     |
+| The Second Coming of Christ                                            | Definitive dogma                    | Nicene Creed; CCC 668, 1042–1050               |
+| The Last Judgment                                                      | Definitive dogma                    | Nicene Creed; CCC 1038–1041                    |
+| The new heavens and new earth                                          | Definitive dogma                    | CCC 1042, 1060                                 |
+| The corporal Assumption of the Blessed Virgin Mary                     | Definitive dogma                    | Pius XII, _Munificentissimus Deus_ (1950)      |
+| The dating of the day or hour of the Second Coming                     | **Impossible** — Church teaching    | CCC 1040; Mark 13:32                           |
+| Approved private revelations (e.g., Fatima, Lourdes, La Salette)       | **Pious belief** — non-binding      | CDF, 26 June 2000; CCC 67                      |
+| Mitigated millenarianism                                               | **Not safe to teach**               | DH 3839; CDF 1979                              |
+| Speculation on "three days of darkness" or other popular chastisements | **Private claim** — to be discerned | DDF Norms 2024                                 |
 
 ---
 
