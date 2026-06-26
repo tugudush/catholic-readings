@@ -39,7 +39,25 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 
 ---
 
-## 4. Angelology & Creation
+## 4. The Seven Sacraments
+
+A comprehensive study of the seven sacraments of the Catholic Church, drawn from Sacred Scripture, the ecumenical councils, the Catechism of the Catholic Church, the Codes of Canon Law of both East and West, and the Magisterium of the Popes:
+
+- **Master Index & Foundational Theology**: Read [sacraments/README.md](sacraments/README.md) for the foundational theology of the sacraments as efficacious signs of grace instituted by Christ, and the classification of the seven into the three sacraments of initiation, the two sacraments of healing, and the two sacraments at the service of communion and mission.
+- **The Sacraments of Initiation**:
+  - **Baptism**: See [sacraments/baptism.md](sacraments/baptism.md) for the gateway to the spiritual life, including the matter (water), form (Trinitarian formula), minister, effects (forgiveness of original and personal sin, indelible character), infant baptism, and the baptism of desire and baptism of blood.
+  - **Confirmation / Chrismation**: See [sacraments/confirmation.md](sacraments/confirmation.md) for the sealing of the Holy Spirit, with explicit presentation of the Latin Rite practice (bishop as ordinary minister) and the Eastern Catholic practice (Chrismation by the priest together with Baptism).
+  - **The Most Holy Eucharist**: See [sacraments/eucharist.md](sacraments/eucharist.md) for the source and summit of Christian life, including the Real Presence of Christ Body, Blood, Soul, and Divinity, transubstantiation defined at the Council of Trent, the sacrificial nature of the Mass, the reservation and adoration of the Blessed Sacrament, and the Latin and Eastern liturgical traditions.
+- **The Sacraments of Healing**:
+  - **Penance and Reconciliation**: See [sacraments/penance-reconciliation.md](sacraments/penance-reconciliation.md) for the sacrament of confession, including the matter (contrition, confession, satisfaction), the form (sacramental absolution), the minister (bishop or priest with jurisdiction), the effects (forgiveness of mortal sin and reconciliation with the Church), the seal of confession, and the practice of frequent confession.
+  - **Anointing of the Sick**: See [sacraments/anointing-of-the-sick.md](sacraments/anointing-of-the-sick.md) for the sacrament of strength, peace, and forgiveness for the seriously ill, including the matter (oil of the sick blessed by the bishop), the form, the minister (bishop or priest), and the connection with Viaticum.
+- **The Sacraments at the Service of Communion and Mission**:
+  - **Holy Orders**: See [sacraments/holy-orders.md](sacraments/holy-orders.md) for the sacrament of apostolic ministry in three degrees (episcopate, presbyterate, diaconate), with the apostolic succession, the indelible character, and an explicit comparison of the Latin Rite discipline of clerical celibacy with the Eastern Catholic tradition of married priests (with celibate bishops in both East and West).
+  - **Matrimony**: See [sacraments/matrimony.md](sacraments/matrimony.md) for the conjugal covenant raised to the dignity of a sacrament, with the unity and indissolubility of marriage, the goods of marriage, the theological foundation in Genesis and Ephesians 5, the Eastern Catholic crowning rite, and the Catholic teaching on the indissolubility of the bond.
+
+---
+
+## 5. Angelology & Creation
 
 Theological truths regarding the visible and invisible creation:
 
@@ -48,7 +66,7 @@ Theological truths regarding the visible and invisible creation:
 
 ---
 
-## 5. Approved Miracles, Apparitions & Supernatural signs
+## 6. Approved Miracles, Apparitions & Supernatural signs
 
 The Church's rigorous discernment of private revelations and miracles designed to strengthen the faith of believers is documented extensively under the miracles directory:
 

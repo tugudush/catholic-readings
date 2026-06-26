@@ -44,6 +44,15 @@ Before adding or modifying any documents, check the existing directory structure
   - [miracles/eucharistic-miracles/](miracles/eucharistic-miracles/): Approved host/wine conversions (e.g., Lanciano, Bolsena-Orvieto).
   - [miracles/saint-phenomena/](miracles/saint-phenomena/): Miraculous saintly signs (e.g., stigmata, liquefaction).
   - [miracles/prophecies-visions/](miracles/prophecies-visions/): Private revelations (e.g., Divine Mercy, Sacred Heart).
+- [sacraments/](sacraments/):
+  - [sacraments/README.md](sacraments/README.md): Master index and foundational theology of the seven sacraments of the Catholic Church (Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, Matrimony), classified as sacraments of initiation, sacraments of healing, and sacraments at the service of communion and mission.
+  - [sacraments/baptism.md](sacraments/baptism.md): The gateway to the spiritual life, with the matter (water), form (Trinitarian formula), minister, effects, and infant baptism; Latin and Eastern Catholic rites presented.
+  - [sacraments/confirmation.md](sacraments/confirmation.md): The sealing of the Holy Spirit, with the chrism, the form, the minister (bishop in the Latin Rite, priest in the Eastern Catholic Churches), and the indelible character; both Chrismation (East) and Confirmation (West) presented.
+  - [sacraments/eucharist.md](sacraments/eucharist.md): The Most Holy Eucharist as sacrament and sacrifice, with the doctrine of transubstantiation (Council of Trent, Session XIII), the Real Presence of Christ Body, Blood, Soul, and Divinity, the Mass as the sacrificial memorial of the Cross, and the reservation and adoration of the Blessed Sacrament; Latin and Eastern liturgical traditions presented.
+  - [sacraments/penance-reconciliation.md](sacraments/penance-reconciliation.md): The sacrament of forgiveness for sins committed after Baptism, with the matter (contrition, confession, satisfaction), the form (priestly absolution), the minister (bishop or priest with jurisdiction), the seal of confession, and the Council of Trent, Session XIV.
+  - [sacraments/anointing-of-the-sick.md](sacraments/anointing-of-the-sick.md): The sacrament of strength and healing for the seriously ill, with the matter (oil of the sick blessed by the bishop), the form, the minister, and the connection with Viaticum; Latin and Eastern Catholic rites presented.
+  - [sacraments/holy-orders.md](sacraments/holy-orders.md): The sacrament of apostolic ministry in three degrees (episcopate, presbyterate, diaconate), with apostolic succession, the indelible character, and an explicit comparison of the Latin Rite discipline of clerical celibacy with the Eastern Catholic tradition of married priests.
+  - [sacraments/matrimony.md](sacraments/matrimony.md): The conjugal covenant raised to the dignity of a sacrament, with the unity and indissolubility of marriage, the goods of marriage, the theological foundation in Genesis and Ephesians 5, and the Eastern Catholic crowning rite.
 
 ---
 
