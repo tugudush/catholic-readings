@@ -86,6 +86,15 @@ Sacred signs, blessed objects, and devotional items that the Church sets apart t
 - **Master Index & Foundational Theology**: Read [sacramentals/README.md](sacramentals/README.md) for the Catechism's definition of sacramentals (CCC 1667–1679), their distinction from the seven sacraments, the categories of blessings (of persons, meals, objects, and places), exorcisms, and the principal blessed objects (holy water, ashes, palms, candles, scapulars, medals, crucifixes, rosaries, relics).
 - **The Brown Scapular of Our Lady of Mount Carmel**: See [sacramentals/brown-scapular.md](sacramentals/brown-scapular.md) for the most widely worn sacramental in the Catholic Church — a reduced form of the Carmelite habit, received through the rite of enrollment, signifying Marian consecration, and connected with the tradition of the promise to Blessed Simon Stock and the Sabbatine Privilege.
 
+## 8. Eschatology & The Last Things
+
+The Church's teaching on the "four last things" (death, judgment, heaven, hell), with the doctrines of purgatory, the resurrection of the body, the Second Coming of Christ, the Last Judgment, and the new heavens and new earth. This directory carefully distinguishes dogma, approved private revelation, pastoral discipline, and theological opinion:
+
+- **Master Index & Foundational Theology**: Read [eschatology/README.md](eschatology/README.md) for the introductory overview of Catholic eschatology, the four essential doctrinal distinctions, the patristic background (St. Augustine, St. John Damascene), and the relationship between eschatology and the Council of Trent and Vatican II.
+- **Doctrinal Foundations**: See [eschatology/doctrinal-foundations.md](eschatology/doctrinal-foundations.md) for the magisterial sources — Sacred Scripture, the Ecumenical Councils, the Catechism of the Catholic Church (CCC §§ 668, 988–1060), Pope Benedict XVI's _Spe Salvi_, the 1979 CDF letter, the 1992 ITC document, and the 2024 Dicastery norms for the discernment of alleged supernatural phenomena.
+- **Reading List**: Consult [eschatology/reading-list.md](eschatology/reading-list.md) for a doctrinally graded reading list — Magisterial, scholastic, contemporary, and patristic — with works by Ludwig Ott, Joseph Ratzinger (Pope Benedict XVI), Charles Arminjon, Reginald Garrigou-Lagrange, St. Thomas Aquinas, St. Augustine, and others, together with a suggested reading order.
+- **The Three Days of Darkness**: Read [eschatology/three-days-of-darkness.md](eschatology/three-days-of-darkness.md) for a faithful Catholic pastoral treatment of the popular "Three Days of Darkness" devotion, including the approved apparition at La Salette (1846), the 1915 Holy Office decree, and the 2024 Dicastery norms on supernatural phenomena discernment.
+
 ---
 
 ## Theological Conventions & Scholarly Rigor
