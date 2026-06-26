@@ -78,6 +78,15 @@ The Church's rigorous discernment of private revelations and miracles designed t
 
 ---
 
+## 7. Sacramentals & Religious Objects
+
+Sacred signs, blessed objects, and devotional items that the Church sets apart through prayer to sanctify the circumstances of daily life and to dispose the faithful to receive the grace of the seven sacraments ([CCC 1667](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1667); [CCC 1677](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1677)):
+
+- **Master Index & Foundational Theology**: Read [sacramentals/README.md](sacramentals/README.md) for the Catechism's definition of sacramentals (CCC 1667–1679), their distinction from the seven sacraments, the categories of blessings (of persons, meals, objects, and places), exorcisms, and the principal blessed objects (holy water, ashes, palms, candles, scapulars, medals, crucifixes, rosaries, relics).
+- **The Brown Scapular of Our Lady of Mount Carmel**: See [sacramentals/brown-scapular.md](sacramentals/brown-scapular.md) for the most widely worn sacramental in the Catholic Church — a reduced form of the Carmelite habit, received through the rite of enrollment, signifying Marian consecration, and connected with the tradition of the promise to Blessed Simon Stock and the Sabbatine Privilege.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:

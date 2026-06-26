@@ -44,6 +44,9 @@ Before adding or modifying any documents, check the existing directory structure
   - [miracles/eucharistic-miracles/](miracles/eucharistic-miracles/): Approved host/wine conversions (e.g., Lanciano, Bolsena-Orvieto).
   - [miracles/saint-phenomena/](miracles/saint-phenomena/): Miraculous saintly signs (e.g., stigmata, liquefaction).
   - [miracles/prophecies-visions/](miracles/prophecies-visions/): Private revelations (e.g., Divine Mercy, Sacred Heart).
+- [sacramentals/](sacramentals/):
+  - [sacramentals/README.md](sacramentals/README.md): Foundational theology of sacramentals (CCC 1667–1679): sacred signs that resemble the sacraments, blessings, exorcisms, and blessed objects, distinguished from the seven sacraments themselves.
+  - [sacramentals/brown-scapular.md](sacramentals/brown-scapular.md): The Brown Scapular of Our Lady of Mount Carmel — the reduced Carmelite habit, the tradition of the promise to Blessed Simon Stock, the Sabbatine Privilege, the rite of enrollment, and the Carmelite saints associated with it.
 - [sacraments/](sacraments/):
   - [sacraments/README.md](sacraments/README.md): Master index and foundational theology of the seven sacraments of the Catholic Church (Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, Matrimony), classified as sacraments of initiation, sacraments of healing, and sacraments at the service of communion and mission.
   - [sacraments/baptism.md](sacraments/baptism.md): The gateway to the spiritual life, with the matter (water), form (Trinitarian formula), minister, effects, and infant baptism; Latin and Eastern Catholic rites presented.
