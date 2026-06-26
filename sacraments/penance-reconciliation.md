@@ -38,6 +38,21 @@ Contrition is "sorrow of the soul and detestation for the sin committed, togethe
 - **Perfect contrition** (Latin: _contritio cordis_) arises from a love of God above all things and effects the reconciliation of the sinner with God even before sacramental confession, provided there is a resolution to confess as soon as possible ([CCC 1452](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1452)).
 - **Imperfect contrition** (Latin: _attritio_), also called **sorrow of the lower mind**, arises from the consideration of the ugliness of sin or the fear of God's punishment; it is sufficient for the validity of the sacrament when joined with the sacrament ([CCC 1453](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1453)).
 
+##### Perfect Contrition When Sacramental Confession Is Impossible
+
+The Church teaches that **perfect contrition obtains forgiveness of mortal sins even without the actual reception of the sacrament**, provided two conditions are met simultaneously:
+
+1. **The contrition is truly perfect** — it arises from the love of God above all things (_amor Dei super omnia_), not merely from fear of hell or the ugliness of sin ([CCC 1452](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1452)).
+2. **It includes the firm resolution (_votum_) to receive sacramental confession as soon as possible** — the desire for the sacrament is contained within perfect contrition itself and is inseparable from it ([Council of Trent, Session XIV, c. 4](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/); Denzinger 1677).
+
+This teaching applies precisely when sacramental confession is **morally or physically impossible** — for example, when no priest is available, in danger of sudden death, during persecution, or in any circumstance where the penitent _would_ confess if they could, but cannot. The Baltimore Catechism states the principle plainly: _"Perfect contrition obtains pardon for mortal sin when we cannot go to confession"_ (Baltimore Catechism No. 3, Q. 766).
+
+**How does this not contradict the necessity of the sacrament?** The Council of Trent itself answered this question: the reconciliation effected by perfect contrition is _"not to be attributed to the contrition without the desire of the sacrament which is included in it"_ (Denzinger 1677). In other words, the extraordinary forgiveness does not bypass the sacrament — it already contains the sacrament by desire (_in voto_). The ordinary means established by Christ (sacramental confession to a priest) remains binding; the extraordinary means (perfect contrition with the _votum confessionis_) is the Church's teaching on how God, who is not bound by His sacraments, extends mercy when the ordinary means is inaccessible.
+
+**A pastoral caution**: No one can infallibly self-diagnose perfect contrition. The subjective certainty that one has perfect contrition is not equivalent to the objective certainty conferred by sacramental absolution. This is precisely why the Church **obliges** the faithful to confess all mortal sins in kind and number to a priest whenever possible ([CCC 1456](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1456); [Code of Canon Law, c. 988](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)). The extraordinary means is a safety net of divine mercy, not a substitute for the ordinary means. One who deliberately avoids confession while claiming "perfect contrition" deceives himself; one who genuinely longs for the sacrament but cannot reach it entrusts himself to the God who reads hearts and will not be outdone in mercy.
+
+> "God cannot be bound by the sacraments. Man is bound to the sacraments; God is not." (cf. St. Thomas Aquinas, _Summa Theologiae_ III, q. 64, a. 7; [CCC 1257](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1257) on the analogous principle for Baptism).
+
 #### b) Confession (Disclosure of Sins)
 
 The disclosure or confession of sins to a priest is an essential element of the sacrament ([CCC 1422](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1422)). The Council of Trent defined that, for those who have committed **mortal sin**, confession of each grave sin is required by divine law ([Council of Trent, Session XIV, c. 6](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/); [CCC 1456](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1456)). Venial sins may be confessed profitably but are not required.
@@ -97,7 +112,7 @@ For those who have committed **mortal sin**, sacramental confession is required 
 
 ## 6. Necessity of the Sacrament
 
-The Council of Trent defined that, although the faithful who have committed grave sin after Baptism can be reconciled by perfect contrition (which, however, implies the desire to confess), the **ordinary means** by which the Christian who has fallen into mortal sin is restored to grace is the sacramental confession to a priest ([Council of Trent, Session XIV, c. 6](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)).
+The Council of Trent defined that, although the faithful who have committed grave sin after Baptism can be reconciled by perfect contrition (which, however, implies the desire to confess — see [§2.1.a, Perfect Contrition When Sacramental Confession Is Impossible](#perfect-contrition-when-sacramental-confession-is-impossible)), the **ordinary means** by which the Christian who has fallen into mortal sin is restored to grace is the sacramental confession to a priest ([Council of Trent, Session XIV, c. 6](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)).
 
 > "Without the sacrament of Penance, the sacrament of the Eucharist, the Body and Blood of Christ, would be received unworthily and would be a cause of condemnation. Those who have not confessed their sins in Penance cannot worthily receive the Holy Eucharist unless they have recourse to sacramental confession as soon as possible." (cf. [CCC 1385](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1385); [Council of Trent, Session XIII, c. 7](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/))
 
@@ -137,12 +152,12 @@ The theology of the sacrament is identical in East and West:
 
 ### 9.2 Differences in Liturgical Practice
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Celebration** | Often individual and brief; sometimes in the confessional, sometimes face-to-face | Often more public and liturgical, especially in monastic and cathedral traditions |
-| **Formula of absolution** | "I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit." (Roman Missal of Paul VI, _Ordo Paenitentiae_, 1973) | Longer, deprecatory formula invoking the saints and the Holy Trinity; the priest prays and blesses |
-| **Preparation** | Examination of conscience; Act of Contrition | Reading of the _Prayer of St. Basil the Great_ and the _Prayer of St. Ephrem the Syrian_; prostrations |
-| **Indulgences** | Plenary indulgence attached to the devout reception of the sacrament | Plenary indulgence also attached |
+| Aspect                    | Latin Rite                                                                                                                                             | Eastern Catholic Churches                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Celebration**           | Often individual and brief; sometimes in the confessional, sometimes face-to-face                                                                      | Often more public and liturgical, especially in monastic and cathedral traditions                      |
+| **Formula of absolution** | "I absolve you from your sins in the name of the Father, and of the Son, and of the Holy Spirit." (Roman Missal of Paul VI, _Ordo Paenitentiae_, 1973) | Longer, deprecatory formula invoking the saints and the Holy Trinity; the priest prays and blesses     |
+| **Preparation**           | Examination of conscience; Act of Contrition                                                                                                           | Reading of the _Prayer of St. Basil the Great_ and the _Prayer of St. Ephrem the Syrian_; prostrations |
+| **Indulgences**           | Plenary indulgence attached to the devout reception of the sacrament                                                                                   | Plenary indulgence also attached                                                                       |
 
 The Eastern traditions sometimes call the sacrament **"Holy Repentance"** (Greek: _Hagia Metanoia_) or **"Confession"** (Greek: _Exomologēsis_).
 
@@ -162,17 +177,17 @@ In the Latin Rite, children are ordinarily admitted to the sacrament of Penance 
 
 ## 12. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Florence** (1439) | Defined matter, form, minister, and effects of Penance in _Exsultate Deo_. |
-| **Council of Trent, Session XIV** (1551) | Definitive teaching on the sacrament of Penance, the necessity of confession, and the distinction between mortal and venial sin. |
-| **Council of Trent, Session VI** (1547) | Decreed on justification, including the doctrine that mortal sin after Baptism requires sacramental restoration. |
-| **Catechism of the Catholic Church** | [CCC 1422–1498](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1422) |
-| **Lumen Gentium** (Vatican II) | [§26](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **Code of Canon Law** | c. 959–997 (The Sacrament of Penance) |
-| **Code of Canons of the Eastern Churches** | c. 718–730 (Divine Liturgy and other acts of worship — including the sacrament of Penance) |
-| **Pope Paul VI**, _Paenitemini_ (1966) | Apostolic Constitution on the revision of penitential discipline. |
-| **John Paul II**, _Reconciliatio et Paenitentia_ (1984) | Apostolic Exhortation on reconciliation and penance in the mission of the Church today. |
+| Source                                                  | Reference                                                                                                                        |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Council of Florence** (1439)                          | Defined matter, form, minister, and effects of Penance in _Exsultate Deo_.                                                       |
+| **Council of Trent, Session XIV** (1551)                | Definitive teaching on the sacrament of Penance, the necessity of confession, and the distinction between mortal and venial sin. |
+| **Council of Trent, Session VI** (1547)                 | Decreed on justification, including the doctrine that mortal sin after Baptism requires sacramental restoration.                 |
+| **Catechism of the Catholic Church**                    | [CCC 1422–1498](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1422)                                  |
+| **Lumen Gentium** (Vatican II)                          | [§26](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                                                |
+| **Code of Canon Law**                                   | c. 959–997 (The Sacrament of Penance)                                                                                            |
+| **Code of Canons of the Eastern Churches**              | c. 718–730 (Divine Liturgy and other acts of worship — including the sacrament of Penance)                                       |
+| **Pope Paul VI**, _Paenitemini_ (1966)                  | Apostolic Constitution on the revision of penitential discipline.                                                                |
+| **John Paul II**, _Reconciliatio et Paenitentia_ (1984) | Apostolic Exhortation on reconciliation and penance in the mission of the Church today.                                          |
 
 ---
 
