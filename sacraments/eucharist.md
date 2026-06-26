@@ -177,6 +177,7 @@ The Church has investigated and approved several historical miracles in which th
 
 - For Baptism, the first sacrament of initiation, see [baptism.md](baptism.md).
 - For Confirmation / Chrismation, the second sacrament of initiation, see [confirmation.md](confirmation.md).
+- For the Order of the Mass — the fourfold structure, prayers, and history of the Eucharistic celebration in the Latin Rite and Eastern Catholic Churches — see [../liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md).
 - For Penance, by which the faithful are restored to a state of grace for worthy Communion, see [penance-reconciliation.md](penance-reconciliation.md).
 - For the Eucharistic miracles that have confirmed Catholic faith in the Real Presence, see [miracles/eucharistic-miracles/lanciano.md](../miracles/eucharistic-miracles/lanciano.md) and [miracles/eucharistic-miracles/bolsena-orvieto.md](../miracles/eucharistic-miracles/bolsena-orvieto.md).
 - For the scriptural foundations, see [scripture/bible-history-canon.md](../scripture/bible-history-canon.md).

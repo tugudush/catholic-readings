@@ -35,6 +35,7 @@ Before adding or modifying any documents, check the existing directory structure
   - [church-history/papal-chronology.md](church-history/papal-chronology.md): Comprehensive, chronological list of popes from St. Peter to the present.
 - [liturgy/](liturgy/):
   - [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md): Compilation of foundational daily prayers from both Eastern and Western liturgical traditions.
+  - [liturgy/order-of-the-mass.md](liturgy/order-of-the-mass.md): The Order of the Mass — the central act of Catholic worship, presented in the fourfold structure (Introductory Rites, Liturgy of the Word, Liturgy of the Eucharist, Concluding Rites), with historical development from Justin Martyr through the Roman Canon, the Council of Trent, and the post-conciliar Roman Missal of Pope St. Paul VI, and a comparison with the Byzantine Divine Liturgy and other Eastern Catholic rites.
   - [liturgy/rosary/](liturgy/rosary/):
     - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
