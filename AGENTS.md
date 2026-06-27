@@ -36,6 +36,7 @@ Before adding or modifying any documents, check the existing directory structure
 - [liturgy/](liturgy/):
   - [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md): Compilation of foundational daily prayers from both Eastern and Western liturgical traditions.
   - [liturgy/order-of-the-mass.md](liturgy/order-of-the-mass.md): The Order of the Mass — the central act of Catholic worship, presented in the fourfold structure (Introductory Rites, Liturgy of the Word, Liturgy of the Eucharist, Concluding Rites), with historical development from Justin Martyr through the Roman Canon, the Council of Trent, and the post-conciliar Roman Missal of Pope St. Paul VI, and a comparison with the Byzantine Divine Liturgy and other Eastern Catholic rites.
+  - [liturgy/prayers-for-the-dead.md](liturgy/prayers-for-the-dead.md): Comprehensive guide to the Catholic rites, prayers, and devotional practices surrounding death — from the sacraments for the dying (Penance, Anointing of the Sick, Viaticum, Apostolic Pardon) through the Commendation of the Dying, funeral rites, and periodic commemorations (3rd, 7th, 30th, 40th day, anniversary, All Souls' Day), with the novena for the dead and other devotions.
   - [liturgy/rosary/](liturgy/rosary/):
     - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.

@@ -24,6 +24,12 @@ A pastoral treatment of specific private revelations and popular eschatological 
 
 - **[The Three Days of Darkness](three-days-of-darkness.md)**: The popular Catholic devotion associated with Our Lady of La Salette (1846), Blessed Anna Maria Taigi, Marie-Julie Jahenny, Servant of God Luisa Piccarreta, and other mystics — explained with proper doctrinal distinctions, including the 1915 Holy Office decree and the 2024 Dicastery norms on the discernment of alleged supernatural phenomena.
 
+## 4. Prayers for the Dying and the Dead
+
+For the practical rites and prayers surrounding death — from the sacraments for the dying through the funeral liturgy and periodic commemorations — see:
+
+- **[Prayers for the Dying and the Dead](../liturgy/prayers-for-the-dead.md)**: A comprehensive guide to the Catholic rites, prayers, and devotional practices surrounding death, including the Sacrament of Penance, Anointing of the Sick, Viaticum, the Apostolic Pardon, the Commendation of the Dying, the funeral rites (Vigil, Funeral Mass, Committal), and the periodic commemorations (3rd, 7th, 30th, 40th day, anniversary, All Souls' Day), with the novena for the dead and other devotions.
+
 ---
 
 ## Theological Distinctions Essential to Catholic Eschatology

@@ -146,3 +146,4 @@ The medieval and early-modern Latin tradition concentrated the sacrament's celeb
 - For the Eucharist received as Viaticum, see [eucharist.md](eucharist.md).
 - For the theology of redemptive suffering united to the Passion of Christ, see [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md).
 - For the scriptural canon, see [scripture/bible-history-canon.md](../scripture/bible-history-canon.md).
+- For the complete guide to prayers for the dying and the dead, including the Commendation of the Dying, funeral rites, and periodic commemorations, see [liturgy/prayers-for-the-dead.md](../liturgy/prayers-for-the-dead.md).
