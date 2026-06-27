@@ -155,3 +155,4 @@ The Latin Rite requires at least one sponsor — a man for a male candidate, a w
 - For the First Communion that ordinarily follows immediately upon initiation in the Eastern Churches, see [eucharist.md](eucharist.md).
 - For the scriptural canon from which all Baptism texts are drawn, see [scripture/bible-history-canon.md](../scripture/bible-history-canon.md).
 - For the theology of original sin that motivates infant Baptism, see [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) (Council of Trent, Session V).
+- For the indelible character of Baptism and the canonical status of Catholics who join other religions, see [apostasy-formal-defection.md](apostasy-formal-defection.md).
