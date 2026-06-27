@@ -133,7 +133,7 @@ The Eastern Catholic Churches have analogous requirements, with the addition of 
 
 Catholic marriages between a Catholic and a baptized non-Catholic (e.g., a Christian of another confession) are called **mixed marriages** (Latin: _matrimonia mixta_). They are valid but illicit without the express permission of the competent authority (Code of Canon Law, c. 1124). Catholic marriages between a Catholic and a non-baptized person (e.g., a Jewish or Muslim partner) are called **disparities of cult** (Latin: _disparitas cultus_); they are ordinarily not permitted without a dispensation (Code of Canon Law, c. 1086).
 
-In all mixed marriages, the Catholic party undertakes to do everything possible to ensure that the children are baptized and raised in the Catholic faith.
+In all mixed marriages, the Catholic party undertakes to do everything possible to ensure that the children are baptized and raised in the Catholic faith. A non-Catholic party who was formerly Catholic remains bound by canonical form because of the indelible baptismal character — see [sacraments/apostasy-formal-defection.md](apostasy-formal-defection.md) for a full treatment.
 
 ---
 

@@ -62,6 +62,7 @@ Before adding or modifying any documents, check the existing directory structure
   - [sacraments/anointing-of-the-sick.md](sacraments/anointing-of-the-sick.md): The sacrament of strength and healing for the seriously ill, with the matter (oil of the sick blessed by the bishop), the form, the minister, and the connection with Viaticum; Latin and Eastern Catholic rites presented.
   - [sacraments/holy-orders.md](sacraments/holy-orders.md): The sacrament of apostolic ministry in three degrees (episcopate, presbyterate, diaconate), with apostolic succession, the indelible character, and an explicit comparison of the Latin Rite discipline of clerical celibacy with the Eastern Catholic tradition of married priests.
   - [sacraments/matrimony.md](sacraments/matrimony.md): The conjugal covenant raised to the dignity of a sacrament, with the unity and indissolubility of marriage, the goods of marriage, the theological foundation in Genesis and Ephesians 5, and the Eastern Catholic crowning rite.
+  - [sacraments/apostasy-formal-defection.md](sacraments/apostasy-formal-defection.md): Apostasy and the indelible baptismal character — the dogma that once baptized Catholic, always Catholic; the canonical institute of formal defection and its abrogation by Benedict XVI's _Omnium in Communione_ (2009); the present juridical status of Catholics who join other religions; and the sacramental and marriage-law implications.
 
 ---
 

@@ -55,6 +55,7 @@ A comprehensive study of the seven sacraments of the Catholic Church, drawn from
 - **The Sacraments at the Service of Communion and Mission**:
   - **Holy Orders**: See [sacraments/holy-orders.md](sacraments/holy-orders.md) for the sacrament of apostolic ministry in three degrees (episcopate, presbyterate, diaconate), with the apostolic succession, the indelible character, and an explicit comparison of the Latin Rite discipline of clerical celibacy with the Eastern Catholic tradition of married priests (with celibate bishops in both East and West).
   - **Matrimony**: See [sacraments/matrimony.md](sacraments/matrimony.md) for the conjugal covenant raised to the dignity of a sacrament, with the unity and indissolubility of marriage, the goods of marriage, the theological foundation in Genesis and Ephesians 5, the Eastern Catholic crowning rite, and the Catholic teaching on the indissolubility of the bond.
+- **Apostasy & Formal Defection**: See [sacraments/apostasy-formal-defection.md](sacraments/apostasy-formal-defection.md) for the dogma of the indelible baptismal character, the canonical institute of formal defection and its abrogation by Pope Benedict XVI's _Omnium in Communione_ (2009), the present juridical status of Catholics who convert to other religions, and the implications for marriage law and the sacraments.
 
 ---
 
