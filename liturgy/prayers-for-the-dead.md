@@ -405,3 +405,4 @@ The Church grants **indulgences** applicable to the souls in Purgatory:
 - For the theology of Purgatory and the afterlife, see [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md).
 - For the foundational daily prayers (Sign of the Cross, Lord's Prayer, Hail Mary, _Requiem Aeternam_), see [liturgy/foundational-prayers.md](foundational-prayers.md).
 - For the Order of the Mass (including the Requiem Mass), see [liturgy/order-of-the-mass.md](order-of-the-mass.md).
+- For regional funeral customs and cultural practices surrounding death, see [cultural-practices/filipino-funeral-traditions.md](../cultural-practices/filipino-funeral-traditions.md) for a comprehensive guide to Filipino traditions including the wake (_Burol_), _Pasiyam_, the 40-day mourning period, and the distinction between cultural practice and Catholic liturgy.

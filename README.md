@@ -99,6 +99,16 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
+## 9. Cultural Practices & Regional Catholic Traditions
+
+The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
+
+- **Master Index & Scope**: Read [cultural-practices/README.md](cultural-practices/README.md) for the introductory overview of this directory, its guiding principles, and the scope of regional Catholic cultural practices.
+- **Filipino Funeral Traditions**: See [cultural-practices/filipino-funeral-traditions.md](cultural-practices/filipino-funeral-traditions.md) for a comprehensive guide to Filipino customs surrounding death — the wake (*Burol*), the 9-day *Pasiyam*, the 40-day mourning period (*Waksi*), All Souls' Day (*Undas*), and the clear distinction between Filipino cultural practices and Catholic liturgical practice.
+- **International Catholic Funeral Traditions**: See [cultural-practices/international-catholic-funeral-traditions.md](cultural-practices/international-catholic-funeral-traditions.md) for a global survey of Catholic funeral and mourning traditions across Italy, Mexico, Ireland, Poland, Spain, Lebanon, the Eastern Catholic Churches, France, Germany, and India — with comparative tables and theological assessment.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
