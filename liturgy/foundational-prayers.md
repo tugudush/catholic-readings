@@ -141,7 +141,128 @@ A faithful summary of the Apostles' faith, originating as a baptismal creed in t
   Sanctorum communionem, remissionem peccatorum,
   carnis resurrectionem, vitam aeternam. Amen._
 
-_Note on Eastern Practice:_ Eastern Catholic Churches (Byzantine, Maronite, Chaldean, etc.) do not traditionally use the Apostles' Creed in liturgical services, but recite the **Nicene-Constantinopolitan Creed**. In their Greek and Byzantine-rite liturgies, they omit the Latin clause _Filioque_ ("and the Son") to preserve the original Greek Conciliar text, which is an accepted theological and canonical difference in complete communion with Rome.
+_Note on Eastern Practice:_ Eastern Catholic Churches (Byzantine, Maronite, Chaldean, etc.) do not traditionally use the Apostles' Creed in liturgical services, but recite the **Nicene-Constantinopolitan Creed** (see § 5a below). In their Greek and Byzantine-rite liturgies, they omit the Latin clause _Filioque_ ("and the Son") to preserve the original Greek Conciliar text, which is an accepted theological and canonical difference in complete communion with Rome.
+
+---
+
+## 5a. The Nicene-Constantinopolitan Creed (_Symbolum Nicaeno-Constantinopolitanum_)
+
+The most widely accepted ecumenical creed in Christendom, formulated at the **First Council of Nicaea (AD 325)** and expanded at the **First Council of Constantinople (AD 381)**. It is the definitive Trinitarian profession of faith of the Catholic Church, the Eastern Orthodox Churches, the Oriental Orthodox Churches, and the overwhelming majority of Protestant churches. It is recited in the Latin Rite at Sunday Masses and solemnities, and in the Byzantine Rite at every Divine Liturgy.
+
+### Latin Rite (with the _Filioque_)
+
+The version used in the Roman Missal, including the _Filioque_ clause ("and the Son") added by the Latin Church in the early medieval period as a clarification of the eternal procession of the Holy Spirit.
+
+- **English (ICEL):**
+  I believe in one God,
+  the Father almighty,
+  maker of heaven and earth,
+  of all things visible and invisible.
+
+  I believe in one Lord Jesus Christ,
+  the Only Begotten Son of God,
+  born of the Father before all ages.
+  God from God, Light from Light,
+  true God from true God,
+  begotten, not made, consubstantial with the Father;
+  through him all things were made.
+  For us men and for our salvation
+  he came down from heaven,
+  and by the Holy Spirit was incarnate of the Virgin Mary,
+  and became man.
+  For our sake he was crucified under Pontius Pilate,
+  he suffered death and was buried,
+  and rose again on the third day
+  in accordance with the Scriptures.
+  He ascended into heaven
+  and is seated at the right hand of the Father.
+  He will come again in glory
+  to judge the living and the dead
+  and his kingdom will have no end.
+
+  I believe in the Holy Spirit, the Lord, the giver of life,
+  who proceeds from the Father and the Son,
+  who with the Father and the Son is adored and glorified,
+  who has spoken through the prophets.
+
+  I believe in one, holy, catholic and apostolic Church.
+  I confess one Baptism for the forgiveness of sins
+  and I look forward to the resurrection of the dead
+  and the life of the world to come. Amen.
+
+- **Latin:**
+  _Credo in unum Deum,
+  Patrem omnipotentem,
+  factorem caeli et terrae,
+  visibilium omnium et invisibilium._
+
+  _Et in unum Dominum Iesum Christum,
+  Filium Dei unigenitum,
+  et ex Patre natum ante omnia saecula.
+  Deum de Deo, lumen de lumine,
+  Deum verum de Deo vero,
+  genitum, non factum, consubstantialem Patri:
+  per quem omnia facta sunt.
+  Qui propter nos homines et propter nostram salutem
+  descendit de caelis.
+  Et incarnatus est de Spiritu Sancto
+  ex Maria Virgine, et homo factus est.
+  Crucifixus etiam pro nobis sub Pontio Pilato,
+  passus et sepultus est,
+  et resurrexit tertia die, secundum Scripturas,
+  et ascendit in caelum, sedet ad dexteram Patris.
+  Et iterum venturus est cum gloria,
+  iudicare vivos et mortuos,
+  cuius regni non erit finis._
+
+  _Et in Spiritum Sanctum, Dominum et vivificantem,
+  qui ex Patre Filioque procedit.
+  Qui cum Patre et Filio simul adoratur et conglorificatur:
+  qui locutus est per prophetas._
+
+  _Et unam, sanctam, catholicam et apostolicam Ecclesiam.
+  Confiteor unum baptisma in remissionem peccatorum.
+  Et expecto resurrectionem mortuorum,
+  et vitam venturi saeculi. Amen._
+
+### Eastern Catholic / Byzantine Rite (without the _Filioque_)
+
+In the Byzantine, Alexandrian, Antiochian, Armenian, and Chaldean liturgical traditions, the Creed is recited without the _Filioque_ clause, preserving the original Greek text of the First Council of Constantinople (AD 381). This variance in wording does **not** signify a difference in dogma; the Catholic Church teaches that the Holy Spirit proceeds eternally from the Father and the Son as from one principle (Council of Florence, _Laetentur Caeli_, 1439), and the Eastern Catholic _sui iuris_ Churches are in full communion with the Apostolic See.
+
+- **English (translated from the Greek):**
+  I believe in one God,
+  Father almighty,
+  maker of heaven and earth,
+  of all things visible and invisible.
+
+  And in one Lord Jesus Christ,
+  the only-begotten Son of God,
+  begotten of the Father before all ages.
+  Light of Light, true God of true God,
+  begotten, not made, of one essence with the Father,
+  through whom all things were made.
+  For us men and for our salvation
+  he came down from heaven
+  and was incarnate by the Holy Spirit and the Virgin Mary,
+  and became man.
+  He was crucified for us under Pontius Pilate,
+  and suffered and was buried.
+  He rose on the third day according to the Scriptures.
+  He ascended into heaven
+  and is seated at the right hand of the Father.
+  He will come again in glory
+  to judge the living and the dead,
+  and his kingdom will have no end.
+
+  And in the Holy Spirit, the Lord, the Giver of life,
+  who proceeds from the Father,
+  who with the Father and the Son is together worshipped and together glorified,
+  who spoke through the prophets.
+
+  In one, holy, catholic, and apostolic Church.
+  I confess one baptism for the remission of sins.
+  I look for the resurrection of the dead,
+  and the life of the age to come. Amen.
 
 ---
 
