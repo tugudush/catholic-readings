@@ -69,6 +69,7 @@ A comprehensive study of the seven sacraments of the Catholic Church, drawn from
 
 A growing collection of comprehensive biographies of saints and holy figures in the Catholic tradition, emphasizing their historical context, spiritual contributions, and enduring legacy:
 
+- **St. Athanasius of Alexandria**: Read [saints/st-athanasius.md](saints/st-athanasius.md) for a comprehensive biography of the great Father and Doctor of the Church — his early life in Alexandria, his role as deacon-secretary at the First Council of Nicaea (325), his five exiles for defending the Nicene faith against Arianism, his landmark theological works (*On the Incarnation of the Word*, *Three Orations against the Arians*, *Life of St. Antony*), his 39th Festal Letter establishing the biblical canon, and his enduring legacy as the "Champion of Nicene Orthodoxy."
 - **St. Ignatius of Loyola**: Read [saints/st-ignatius-loyola.md](saints/st-ignatius-loyola.md) for a comprehensive biography of the founder of the Society of Jesus — his early life as a Basque knight, his conversion at Pamplona and Loyola, his pilgrimage to Manresa and Jerusalem, his studies in Paris, the founding of the Jesuits, the composition of the Spiritual Exercises, his governance as Superior General, his canonization in 1622, and his profound influence on Catholic spirituality and education.
 
 ---

@@ -52,6 +52,7 @@ Before adding or modifying any documents, check the existing directory structure
   - [miracles/saint-phenomena/](miracles/saint-phenomena/): Miraculous saintly signs (e.g., stigmata, liquefaction).
   - [miracles/prophecies-visions/](miracles/prophecies-visions/): Private revelations (e.g., Divine Mercy, Sacred Heart).
 - [saints/](saints/):
+  - [saints/st-athanasius.md](saints/st-athanasius.md): Comprehensive biography of St. Athanasius of Alexandria (c. 296–373 A.D.) — the twentieth Bishop (Patriarch) of Alexandria, Father and Doctor of the Church, deacon at the Council of Nicaea, defender of the Nicene Creed against Arianism through five exiles, author of *On the Incarnation of the Word*, and the earliest witness to the 27-book New Testament canon.
   - [saints/st-ignatius-loyola.md](saints/st-ignatius-loyola.md): Comprehensive biography of St. Ignatius of Loyola (1491–1556) — his early life as a Basque knight, his conversion at Pamplona and Loyola, his pilgrimage to Manresa and Jerusalem, his studies in Paris, the founding of the Society of Jesus (the Jesuits), the Spiritual Exercises, his governance as Superior General, and his canonization and legacy.
 - [sacramentals/](sacramentals/):
   - [sacramentals/README.md](sacramentals/README.md): Foundational theology of sacramentals (CCC 1667–1679): sacred signs that resemble the sacraments, blessings, exorcisms, and blessed objects, distinguished from the seven sacraments themselves.
