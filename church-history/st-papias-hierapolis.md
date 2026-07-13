@@ -206,6 +206,8 @@ Despite the fragmentary survival of his work, St. Papias of Hierapolis remains a
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the direct disciples of the Apostles.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The early Church's structural and historical development from apostolic times.
+- [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.
+- [st-cletus-anacletus.md](st-cletus-anacletus.md) — St. Cletus (Anacletus), the second successor of St. Peter and third Bishop of Rome.
 - [st-polycarp-smyrna.md](st-polycarp-smyrna.md) — St. Polycarp of Smyrna, fellow hearer of St. John and companion of Papias.
 - [st-clement-rome.md](st-clement-rome.md) — St. Clement of Rome, fellow Apostolic Father and witness to apostolic succession.
 - [../scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The development of the canon of Sacred Scripture, including the role of the early Fathers and the formation of the Gospels.

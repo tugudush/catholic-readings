@@ -281,7 +281,7 @@ Following the conventions of [AGENTS.md](../AGENTS.md), this document distinguis
 
 - [sacramentals/README.md](../sacramentals/README.md) — foundational theology of sacramentals in general.
 - [sacraments/README.md](../../sacraments/README.md) — the seven sacraments, to which the scapular is ordered as a preparation.
-- [miracles/marian-apparitions/](../../miracles/marian-apparitions/) — Marian apparitions, including the historical apparitions associated with the Carmelite tradition.
+- [miracles/README.md](../../miracles/README.md) — Marian apparitions, including the historical apparitions associated with the Carmelite tradition (see the Marian Apparitions section of the miracles index).
 - [liturgy/rosary/history.md](../../liturgy/rosary/history.md) — the Most Holy Rosary, a complementary Marian devotion frequently prayed by those who wear the scapular.
 - [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md) — foundational daily prayers, including the Memorare and the Magnificat.
 - [church-history/eastern-catholic-churches.md](../../church-history/eastern-catholic-churches.md) — the 23 Eastern Catholic _sui iuris_ Churches, in which various Marian sacramentals and scapular-like devotions are also practiced.

@@ -175,6 +175,8 @@ St. Clement of Rome is a monumental figure in the history of the Church for the 
 ## 8. Further Reading
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with the broader context of the direct disciples of the Apostles.
+- [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.
+- [st-cletus-anacletus.md](st-cletus-anacletus.md) — St. Cletus (Anacletus), the second successor of St. Peter and third Bishop of Rome.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The early Church's structural and historical development from apostolic times.
 - [papal-chronology.md](papal-chronology.md) — The chronological list of popes, beginning with St. Peter.
 - [st-polycarp-smyrna.md](st-polycarp-smyrna.md) — St. Polycarp of Smyrna, fellow Apostolic Father and disciple of St. John.

@@ -228,7 +228,7 @@ The Catholic Church identifies several foundational doctrines of Protestantism t
 > "The Council of Trent decreed that 'in public lectures, disputations, preaching, and exposition,' the Vulgate is the 'authentic' version; and this is the existing custom of the Church."
 > — _Providentissimus Deus_ (Pope Leo XIII, 1893)
 
-The Catholic faith therefore rejects the principle that the Bible can be interpreted independently of the Church that compiled, canonized, and transmitted it. The Catholic canon of **73 books** (including the seven deuterocanonical books of the Old Testament, listed in [scripture/bible-history-canon.md](scripture/bible-history-canon.md)) differs from the shorter Protestant canon of **66 books**.
+The Catholic faith therefore rejects the principle that the Bible can be interpreted independently of the Church that compiled, canonized, and transmitted it. The Catholic canon of **73 books** (including the seven deuterocanonical books of the Old Testament, listed in [scripture/bible-history-canon.md](../scripture/bible-history-canon.md)) differs from the shorter Protestant canon of **66 books**.
 
 ### 6.2 _Sola Fide_: Justification by Faith Alone vs. Justification by Faith and Works
 

@@ -206,6 +206,8 @@ The history of the early Catholic Church shows that her core elements—the **pr
 ## Further Reading
 
 - [apostolic-fathers.md](apostolic-fathers.md) — A comprehensive monograph on the direct disciples of the Apostles, including St. Clement of Rome, St. Ignatius of Antioch, St. Polycarp of Smyrna, St. Papias of Hierapolis, and the earliest extra-biblical Christian writings.
+- [st-linus-pope.md](st-linus-pope.md) — Dedicated biography of St. Linus, second successor of St. Peter and second Bishop of Rome.
+- [st-cletus-anacletus.md](st-cletus-anacletus.md) — Dedicated biography of St. Cletus (Anacletus), second successor of St. Peter and third Bishop of Rome.
 - [st-clement-rome.md](st-clement-rome.md) — Dedicated biography of St. Clement of Rome, third successor of St. Peter and author of _1 Clement_.
 - [st-polycarp-smyrna.md](st-polycarp-smyrna.md) — Dedicated biography of St. Polycarp of Smyrna, disciple of St. John and apostolic martyr.
 - [st-papias-hierapolis.md](st-papias-hierapolis.md) — Dedicated biography of St. Papias of Hierapolis, hearer of St. John and preserver of Gospel origin traditions.

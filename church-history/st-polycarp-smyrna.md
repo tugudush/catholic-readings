@@ -199,6 +199,8 @@ St. Polycarp of Smyrna is of immense and enduring importance for the following r
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the direct disciples of the Apostles.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The early Church's structural and historical development from apostolic times.
 - [st-clement-rome.md](st-clement-rome.md) — St. Clement of Rome, fellow Apostolic Father and witness to apostolic succession.
+- [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.
+- [st-cletus-anacletus.md](st-cletus-anacletus.md) — St. Cletus (Anacletus), the second successor of St. Peter and third Bishop of Rome.
 - [st-papias-hierapolis.md](st-papias-hierapolis.md) — St. Papias of Hierapolis, fellow hearer of St. John and preserver of apostolic oral tradition.
 - [eastern-catholic-churches.md](eastern-catholic-churches.md) — The Eastern Catholic _sui iuris_ Churches, which preserve the liturgical traditions rooted in the world of the Apostolic Fathers.
 - [../saints/st-ignatius-loyola.md](../saints/st-ignatius-loyola.md) — St. Ignatius of Loyola, who took his religious name from St. Ignatius of Antioch, Polycarp's fellow disciple of St. John.

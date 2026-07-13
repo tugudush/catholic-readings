@@ -53,6 +53,12 @@ It was in this crucible that the Apostolic Fathers wrote, demonstrating that the
 
 $$ \text{St. Peter} \longrightarrow \text{St. Linus} \longrightarrow \text{St. Anacletus (Cletus)} \longrightarrow \text{St. Clement I} $$
 
+For dedicated biographies of the early Roman succession and other Apostolic Fathers, see:
+
+- [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.
+- [st-cletus-anacletus.md](st-cletus-anacletus.md) — St. Cletus (Anacletus), the second successor of St. Peter and third Bishop of Rome.
+- [st-ignatius-antioch.md](st-ignatius-antioch.md) — St. Ignatius of Antioch, third Bishop of Antioch, disciple of St. John, and author of seven letters on the monarchial episcopate and the Real Presence.
+
 According to St. Irenaeus of Lyons (_Against Heresies_, III, 3, 3), Clement had seen the Apostles and conferred with them; he still had "the preaching of the Apostles in his ears and their tradition before his eyes." The early Church historian Eusebius of Caesarea identifies him as the companion of St. Paul mentioned in **Philippians 4:3** ("whose names are in the book of life"), though this identification is not certain.
 
 Tertullian and St. Jerome record that Clement was consecrated by St. Peter himself. He was martyred under the Emperor Trajan, traditionally by being tied to an anchor and thrown into the Black Sea. He is commemorated in the Roman Canon (Eucharistic Prayer I) and his feast day is **23 November**.
@@ -81,6 +87,8 @@ This is not by Clement but is likely the transcript of a homily by an unknown Co
 ---
 
 ## 4. St. Ignatius of Antioch: The Monarchial Episcopate and the Real Presence
+
+For a dedicated biography, see [st-ignatius-antioch.md](st-ignatius-antioch.md).
 
 ### Life and Identity
 
@@ -349,6 +357,7 @@ The Apostolic Fathers wrote in Greek (the lingua franca of the Eastern Mediterra
 ## 14. Further Reading
 
 - [st-clement-rome.md](st-clement-rome.md) — Dedicated biography of St. Clement of Rome, third successor of St. Peter, author of _1 Clement_, and the earliest witness to apostolic succession and Roman primacy.
+- [st-ignatius-antioch.md](st-ignatius-antioch.md) — Dedicated biography of St. Ignatius of Antioch, third Bishop of Antioch, disciple of St. John, author of seven letters, and the earliest extra-biblical witness to the monarchial episcopate and the Real Presence.
 - [st-polycarp-smyrna.md](st-polycarp-smyrna.md) — Dedicated biography of St. Polycarp of Smyrna, direct disciple of St. John, teacher of St. Irenaeus, and apostolic martyr.
 - [st-papias-hierapolis.md](st-papias-hierapolis.md) — Dedicated biography of St. Papias of Hierapolis, hearer of St. John and preserver of the earliest patristic testimony to the origins of the Gospels.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The broader history of the early Church from apostolic times through the ecumenical councils.
