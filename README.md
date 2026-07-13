@@ -22,9 +22,14 @@ A collection of scholarly historical analyses mapping the journey of the Church 
 
 - **Chronological List of Popes**: Consult [church-history/papal-chronology.md](church-history/papal-chronology.md) for a comprehensive, tabular history detailing every Pope from Saint Peter to the present day, along with their dates of pontificate, origins, and key contributions.
 - **General Ecclesiastical History**: Read [church-history/apostolic-foundation-councils.md](church-history/apostolic-foundation-councils.md) for structural and historical developments within the global Church.
+- **The Apostolic Fathers**: Discover the [church-history/apostolic-fathers.md](church-history/apostolic-fathers.md) — the direct disciples of the Apostles, including St. Clement of Rome, St. Ignatius of Antioch, St. Polycarp of Smyrna, and St. Papias of Hierapolis, along with the earliest Christian writings (the Didache, the Epistle of Barnabas, the Shepherd of Hermas, and the Epistle to Diognetus). Individual dedicated biographies include:
+  - **St. Clement of Rome** ([church-history/st-clement-rome.md](church-history/st-clement-rome.md)) — third successor of St. Peter, apostolic succession, and Roman primacy.
+  - **St. Polycarp of Smyrna** ([church-history/st-polycarp-smyrna.md](church-history/st-polycarp-smyrna.md)) — disciple of St. John and archetype of the apostolic martyr.
+  - **St. Papias of Hierapolis** ([church-history/st-papias-hierapolis.md](church-history/st-papias-hierapolis.md)) — hearer of St. John and preserver of Gospel origin traditions.
 - **Relations with the Jewish People**: Review the deep theological studies on the covenants, biblical covenants, and Catholic-Jewish relations in [church-history/hebrew-catholicism-relations.md](church-history/hebrew-catholicism-relations.md) and [church-history/jewish-exile-gathering.md](church-history/jewish-exile-gathering.md).
 - **The Eastern Rites & Eastern Orthodoxy**: Understand the theology, spiritual traditions, and organizational structures of the twenty-three self-governing Eastern Catholic Churches in [church-history/eastern-catholic-churches.md](church-history/eastern-catholic-churches.md), as well as theological relations with Eastern Orthodoxy in [church-history/greek-orthodox-church.md](church-history/greek-orthodox-church.md).
 - **Other Ecumenical Histories**: Explore historical-devotional monographs covering unique topics in [church-history/philippine-independent-church-schism.md](church-history/philippine-independent-church-schism.md), [church-history/protestant-reformation.md](church-history/protestant-reformation.md), [church-history/king-solomon-history.md](church-history/king-solomon-history.md), and [church-history/sects-and-non-christian-communities.md](church-history/sects-and-non-christian-communities.md).
+- **Traditionalist Catholic Societies**: Understand the distinction between the Society of St. Pius X (SSPX/FSSPX) and the Priestly Fraternity of St. Peter (FSSP) — their origins, the 1988 Écône consecrations and schism, canonical status (irregular vs. regular), and the differences in their relationship with the Holy See — in [church-history/traditionalist-societies-sspx-fssp.md](church-history/traditionalist-societies-sspx-fssp.md).
 
 ---
 
@@ -60,7 +65,15 @@ A comprehensive study of the seven sacraments of the Catholic Church, drawn from
 
 ---
 
-## 5. Angelology & Creation
+## 5. Saints & Holy Men and Women
+
+A growing collection of comprehensive biographies of saints and holy figures in the Catholic tradition, emphasizing their historical context, spiritual contributions, and enduring legacy:
+
+- **St. Ignatius of Loyola**: Read [saints/st-ignatius-loyola.md](saints/st-ignatius-loyola.md) for a comprehensive biography of the founder of the Society of Jesus — his early life as a Basque knight, his conversion at Pamplona and Loyola, his pilgrimage to Manresa and Jerusalem, his studies in Paris, the founding of the Jesuits, the composition of the Spiritual Exercises, his governance as Superior General, his canonization in 1622, and his profound influence on Catholic spirituality and education.
+
+---
+
+## 6. Angelology & Creation
 
 Theological truths regarding the visible and invisible creation:
 
@@ -69,7 +82,7 @@ Theological truths regarding the visible and invisible creation:
 
 ---
 
-## 6. Approved Miracles, Apparitions & Supernatural signs
+## 7. Approved Miracles, Apparitions & Supernatural signs
 
 The Church's rigorous discernment of private revelations and miracles designed to strengthen the faith of believers is documented extensively under the miracles directory:
 
@@ -81,14 +94,14 @@ The Church's rigorous discernment of private revelations and miracles designed t
 
 ---
 
-## 7. Sacramentals & Religious Objects
+## 8. Sacramentals & Religious Objects
 
 Sacred signs, blessed objects, and devotional items that the Church sets apart through prayer to sanctify the circumstances of daily life and to dispose the faithful to receive the grace of the seven sacraments ([CCC 1667](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1667); [CCC 1677](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1677)):
 
 - **Master Index & Foundational Theology**: Read [sacramentals/README.md](sacramentals/README.md) for the Catechism's definition of sacramentals (CCC 1667–1679), their distinction from the seven sacraments, the categories of blessings (of persons, meals, objects, and places), exorcisms, and the principal blessed objects (holy water, ashes, palms, candles, scapulars, medals, crucifixes, rosaries, relics).
 - **The Brown Scapular of Our Lady of Mount Carmel**: See [sacramentals/brown-scapular.md](sacramentals/brown-scapular.md) for the most widely worn sacramental in the Catholic Church — a reduced form of the Carmelite habit, received through the rite of enrollment, signifying Marian consecration, and connected with the tradition of the promise to Blessed Simon Stock and the Sabbatine Privilege.
 
-## 8. Eschatology & The Last Things
+## 9. Eschatology & The Last Things
 
 The Church's teaching on the "four last things" (death, judgment, heaven, hell), with the doctrines of purgatory, the resurrection of the body, the Second Coming of Christ, the Last Judgment, and the new heavens and new earth. This directory carefully distinguishes dogma, approved private revelation, pastoral discipline, and theological opinion:
 
@@ -99,7 +112,7 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
-## 9. Cultural Practices & Regional Catholic Traditions
+## 10. Cultural Practices & Regional Catholic Traditions
 
 The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
 

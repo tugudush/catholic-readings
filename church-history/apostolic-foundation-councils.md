@@ -200,3 +200,15 @@ Today, the Catholic Church is a communion of churches consisting of:
 ## Conclusion: The Unfolding Legacy
 
 The history of the early Catholic Church shows that her core elements—the **primacy of Peter**, **apostolic succession**, **doctrinal consistency through councils**, and **sacramental worship** described by the early Fathers—were not late creations, but the organic development of the seed planted by Jesus Christ. In the midst of external persecutions and internal heresies, the early Church maintained her unity, establishing a spiritual and historical lineage that remains unbroken to this day.
+
+---
+
+## Further Reading
+
+- [apostolic-fathers.md](apostolic-fathers.md) — A comprehensive monograph on the direct disciples of the Apostles, including St. Clement of Rome, St. Ignatius of Antioch, St. Polycarp of Smyrna, St. Papias of Hierapolis, and the earliest extra-biblical Christian writings.
+- [st-clement-rome.md](st-clement-rome.md) — Dedicated biography of St. Clement of Rome, third successor of St. Peter and author of _1 Clement_.
+- [st-polycarp-smyrna.md](st-polycarp-smyrna.md) — Dedicated biography of St. Polycarp of Smyrna, disciple of St. John and apostolic martyr.
+- [st-papias-hierapolis.md](st-papias-hierapolis.md) — Dedicated biography of St. Papias of Hierapolis, hearer of St. John and preserver of Gospel origin traditions.
+- [papal-chronology.md](papal-chronology.md) — The full chronological list of popes from St. Peter to the present.
+- [../saints/st-ignatius-loyola.md](../saints/st-ignatius-loyola.md) — Biography of St. Ignatius of Loyola, founder of the Society of Jesus, who took his religious name from St. Ignatius of Antioch.
+- [../scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The development of the canon of Sacred Scripture.
