@@ -80,10 +80,10 @@ In the Latin Rite, the only exception to the indissolubility of a consummated sa
 
 Catholic theology classically distinguishes three goods (Latin: _bona matrimonii_) that flow from the indissoluble conjugal covenant:
 
-| Good | Latin | Meaning |
-| --- | --- | --- |
-| **Offspring** | _bonum prolis_ | The procreation and education of children. |
-| **Fidelity** | _bonum fidei_ | The mutual fidelity of the spouses, in which they pledge an unbreakable conjugal love. |
+| Good          | Latin              | Meaning                                                                                                                                      |
+| ------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Offspring** | _bonum prolis_     | The procreation and education of children.                                                                                                   |
+| **Fidelity**  | _bonum fidei_      | The mutual fidelity of the spouses, in which they pledge an unbreakable conjugal love.                                                       |
 | **Sacrament** | _bonum sacramenti_ | The marriage as a sign of Christ's love for his Church, ordered to the salvation of the spouses and to the building up of the Mystical Body. |
 
 Vatican II affirms:
@@ -152,13 +152,13 @@ The theology of marriage is identical in East and West:
 
 ### 10.2 Differences in Liturgical Practice
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Crowning** | The priest blesses the rings but does not crown the spouses | The priest (or bishop) crowns the bride and groom as a visible sign of the marriage covenant |
-| **Liturgical context** | Within the nuptial Mass (when both parties are Catholic) or within the marriage ceremony | Within the crowning rite, frequently attached to the Divine Liturgy (Divine Liturgy of St. John Chrysostom in the Byzantine tradition) |
-| **Common Cup** | Common cup is optional | Common cup is frequently used as a sign of the shared life of the spouses |
-| **Procession** | The procession with the spouses and witnesses | The **Dance of Isaiah** (or "Great Entrance") in the Byzantine tradition |
-| **Marriage indissolubility** | Absolutey indissoluble (with rare Pauline/Petrine exceptions) | Absolutey indissoluble (with rare Pauline/Petrine exceptions) |
+| Aspect                       | Latin Rite                                                                               | Eastern Catholic Churches                                                                                                              |
+| ---------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crowning**                 | The priest blesses the rings but does not crown the spouses                              | The priest (or bishop) crowns the bride and groom as a visible sign of the marriage covenant                                           |
+| **Liturgical context**       | Within the nuptial Mass (when both parties are Catholic) or within the marriage ceremony | Within the crowning rite, frequently attached to the Divine Liturgy (Divine Liturgy of St. John Chrysostom in the Byzantine tradition) |
+| **Common Cup**               | Common cup is optional                                                                   | Common cup is frequently used as a sign of the shared life of the spouses                                                              |
+| **Procession**               | The procession with the spouses and witnesses                                            | The **Dance of Isaiah** (or "Great Entrance") in the Byzantine tradition                                                               |
+| **Marriage indissolubility** | Absolutey indissoluble (with rare Pauline/Petrine exceptions)                            | Absolutey indissoluble (with rare Pauline/Petrine exceptions)                                                                          |
 
 Theological content is identical in East and West.
 
@@ -190,18 +190,18 @@ This teaching is part of the Catholic understanding of the goods of marriage, pa
 
 ## 13. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Trent, Session XXIV** (1563) | Definitive teaching on the sacrament of Matrimony, the seven sacraments, the indissolubility of the marriage bond, the evil of polygamy and divorce. |
-| **Catechism of the Catholic Church** | [CCC 1601–1666](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1601) |
-| **_Gaudium et Spes_** (Vatican II) | [§§46–52](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **Lumen Gentium** (Vatican II) | [§§11, 35](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **_Familiaris Consortio_** (John Paul II, 1981) | Apostolic Exhortation on the role of the Christian family in the modern world. |
-| **_Casti Connubii_** (Pius XI, 1930) | Encyclical on Christian marriage. |
-| **_Humanae Vitae_** (Paul VI, 1968) | Encyclical on the regulation of birth. |
-| **_Theology of the Body_** (John Paul II, 1979–1984) | Catechesis on human love in the divine plan. |
-| **Code of Canon Law** | c. 1055–1165 (Matrimony) |
-| **Code of Canons of the Eastern Churches** | c. 776–866 (Matrimony) |
+| Source                                               | Reference                                                                                                                                            |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Council of Trent, Session XXIV** (1563)            | Definitive teaching on the sacrament of Matrimony, the seven sacraments, the indissolubility of the marriage bond, the evil of polygamy and divorce. |
+| **Catechism of the Catholic Church**                 | [CCC 1601–1666](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1601)                                                      |
+| **_Gaudium et Spes_** (Vatican II)                   | [§§46–52](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                                                                |
+| **Lumen Gentium** (Vatican II)                       | [§§11, 35](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                                                               |
+| **_Familiaris Consortio_** (John Paul II, 1981)      | Apostolic Exhortation on the role of the Christian family in the modern world.                                                                       |
+| **_Casti Connubii_** (Pius XI, 1930)                 | Encyclical on Christian marriage.                                                                                                                    |
+| **_Humanae Vitae_** (Paul VI, 1968)                  | Encyclical on the regulation of birth.                                                                                                               |
+| **_Theology of the Body_** (John Paul II, 1979–1984) | Catechesis on human love in the divine plan.                                                                                                         |
+| **Code of Canon Law**                                | c. 1055–1165 (Matrimony)                                                                                                                             |
+| **Code of Canons of the Eastern Churches**           | c. 776–866 (Matrimony)                                                                                                                               |
 
 ---
 
@@ -212,3 +212,4 @@ This teaching is part of the Catholic understanding of the goods of marriage, pa
 - For Holy Orders, which is incompatible with marriage in the Latin Rite and imposes celibacy on priests, see [holy-orders.md](holy-orders.md).
 - For Penance, which is frequently received in preparation for marriage, see [penance-reconciliation.md](penance-reconciliation.md).
 - For the scriptural foundations of marriage in Genesis, the Gospels, and Ephesians, see [scripture/bible-history-canon.md](../scripture/bible-history-canon.md).
+- For **convalidation** — bringing a civil marriage into full sacramental standing, including the canonical form requirement, the moral theology of conjugal relations in civil marriages, the distinction between simple convalidation and radical sanation, and mixed marriage requirements — see [convalidation.md](convalidation.md).

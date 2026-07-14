@@ -32,6 +32,14 @@ The Catholic Church professes exactly **seven sacraments**, as defined by the [C
 - [Holy Orders](holy-orders.md) — the apostolic ministry in three degrees: episcopate, presbyterate, diaconate.
 - [Matrimony](matrimony.md) — the conjugal covenant raised by Christ to the dignity of a sacrament.
 
+#### Related Canonical Documents
+
+The following documents treat topics that are intimately connected with the sacraments — particularly the Sacrament of Penance — though they primarily address canonical and moral questions rather than sacramental theology proper:
+
+- [Apostasy & Formal Defection](apostasy-formal-defection.md) — the dogma of the indelible baptismal character, the canonical institute of formal defection and its abrogation by Benedict XVI's _Omnium in Communione_ (2009), the present juridical status of Catholics who join other religions, and the sacramental and marriage-law implications.
+- [Abortion & Excommunication](abortion-excommunication.md) — the canonical penalty of latae sententiae excommunication for the procurement of abortion (Canon 1397 §2), the conditions of imputability (Canons 1323–1325), the distinction between the canonical censure and mortal sin, and the remission of the censure through the Sacrament of Reconciliation.
+- [Convalidation](convalidation.md) — the canonical institute by which a civil marriage is brought into full sacramental standing, including the canonical form requirement, the moral theology of conjugal relations in civil marriages, the distinction between simple convalidation and radical sanation, mixed marriage requirements, and the practical process.
+
 ### 1.3 Matter, Form, and Minister
 
 Catholic sacramental theology classically distinguishes the **matter** (the visible element or action), the **form** (the essential words pronounced), and the **minister** (the one who validly performs the rite). The reception of the sacrament requires, on the part of the believer, the proper **intention** and **dispositions** (faith, repentance, charity, and the willingness to receive what the sacrament signifies).
