@@ -218,13 +218,79 @@ The version used in the Roman Missal, including the _Filioque_ clause ("and the 
   and I look forward to the resurrection of the dead  
   and the life of the world to come. Amen.
 
-- **Latin:**  \n  _Credo in unum Deum,  \n  Patrem omnipotentem,  \n  factorem caeli et terrae,  \n  visibilium omnium et invisibilium._  \n  <br>\n  _Et in unum Dominum Iesum Christum,  \n  Filium Dei unigenitum,  \n  et ex Patre natum ante omnia saecula.  \n  Deum de Deo, lumen de lumine,  \n  Deum verum de Deo vero,  \n  genitum, non factum, consubstantialem Patri:  \n  per quem omnia facta sunt.  \n  Qui propter nos homines et propter nostram salutem  \n  descendit de caelis.  \n  Et incarnatus est de Spiritu Sancto  \n  ex Maria Virgine, et homo factus est.  \n  Crucifixus etiam pro nobis sub Pontio Pilato,  \n  passus et sepultus est,  \n  et resurrexit tertia die, secundum Scripturas,  \n  et ascendit in caelum, sedet ad dexteram Patris.  \n  Et iterum venturus est cum gloria,  \n  iudicare vivos et mortuos,  \n  cuius regni non erit finis._  \n  <br>\n  _Et in Spiritum Sanctum, Dominum et vivificantem,  \n  qui ex Patre Filioque procedit.  \n  Qui cum Patre et Filio simul adoratur et conglorificatur:  \n  qui locutus est per prophetas._  \n  <br>\n  _Et unam, sanctam, catholicam et apostolicam Ecclesiam.  \n  Confiteor unum baptisma in remissionem peccatorum.  \n  Et expecto resurrectionem mortuorum,  \n  et vitam venturi saeculi. Amen._
+- **Latin:**  
+  _Credo in unum Deum,  
+  Patrem omnipotentem,  
+  factorem caeli et terrae,  
+  visibilium omnium et invisibilium._  
+  <br>
+  _Et in unum Dominum Iesum Christum,  
+  Filium Dei unigenitum,  
+  et ex Patre natum ante omnia saecula.  
+  Deum de Deo, lumen de lumine,  
+  Deum verum de Deo vero,  
+  genitum, non factum, consubstantialem Patri:  
+  per quem omnia facta sunt.  
+  Qui propter nos homines et propter nostram salutem  
+  descendit de caelis.  
+  Et incarnatus est de Spiritu Sancto  
+  ex Maria Virgine, et homo factus est.  
+  Crucifixus etiam pro nobis sub Pontio Pilato,  
+  passus et sepultus est,  
+  et resurrexit tertia die, secundum Scripturas,  
+  et ascendit in caelum, sedet ad dexteram Patris.  
+  Et iterum venturus est cum gloria,  
+  iudicare vivos et mortuos,  
+  cuius regni non erit finis._  
+  <br>
+  _Et in Spiritum Sanctum, Dominum et vivificantem,  
+  qui ex Patre Filioque procedit.  
+  Qui cum Patre et Filio simul adoratur et conglorificatur:  
+  qui locutus est per prophetas._  
+  <br>
+  _Et unam, sanctam, catholicam et apostolicam Ecclesiam.  
+  Confiteor unum baptisma in remissionem peccatorum.  
+  Et expecto resurrectionem mortuorum,  
+  et vitam venturi saeculi. Amen._
 
 ### Eastern Catholic / Byzantine Rite (without the _Filioque_)
 
 In the Byzantine, Alexandrian, Antiochian, Armenian, and Chaldean liturgical traditions, the Creed is recited without the _Filioque_ clause, preserving the original Greek text of the First Council of Constantinople (AD 381). This variance in wording does **not** signify a difference in dogma; the Catholic Church teaches that the Holy Spirit proceeds eternally from the Father and the Son as from one principle (Council of Florence, _Laetentur Caeli_, 1439), and the Eastern Catholic _sui iuris_ Churches are in full communion with the Apostolic See.
 
-- **English (translated from the Greek):**  \n  I believe in one God,  \n  Father almighty,  \n  maker of heaven and earth,  \n  of all things visible and invisible.  \n  <br>\n  And in one Lord Jesus Christ,  \n  the only-begotten Son of God,  \n  begotten of the Father before all ages.  \n  Light of Light, true God of true God,  \n  begotten, not made, of one essence with the Father,  \n  through whom all things were made.  \n  For us men and for our salvation  \n  he came down from heaven  \n  and was incarnate by the Holy Spirit and the Virgin Mary,  \n  and became man.  \n  He was crucified for us under Pontius Pilate,  \n  and suffered and was buried.  \n  He rose on the third day according to the Scriptures.  \n  He ascended into heaven  \n  and is seated at the right hand of the Father.  \n  He will come again in glory  \n  to judge the living and the dead,  \n  and his kingdom will have no end.  \n  <br>\n  And in the Holy Spirit, the Lord, the Giver of life,  \n  who proceeds from the Father,  \n  who with the Father and the Son is together worshipped and together glorified,  \n  who spoke through the prophets.  \n  <br>\n  In one, holy, catholic, and apostolic Church.  \n  I confess one baptism for the remission of sins.  \n  I look for the resurrection of the dead,  \n  and the life of the age to come. Amen.
+- **English (translated from the Greek):**  
+  I believe in one God,  
+  Father almighty,  
+  maker of heaven and earth,  
+  of all things visible and invisible.  
+  <br>
+  And in one Lord Jesus Christ,  
+  the only-begotten Son of God,  
+  begotten of the Father before all ages.  
+  Light of Light, true God of true God,  
+  begotten, not made, of one essence with the Father,  
+  through whom all things were made.  
+  For us men and for our salvation  
+  he came down from heaven  
+  and was incarnate by the Holy Spirit and the Virgin Mary,  
+  and became man.  
+  He was crucified for us under Pontius Pilate,  
+  and suffered and was buried.  
+  He rose on the third day according to the Scriptures.  
+  He ascended into heaven  
+  and is seated at the right hand of the Father.  
+  He will come again in glory  
+  to judge the living and the dead,  
+  and his kingdom will have no end.  
+  <br>
+  And in the Holy Spirit, the Lord, the Giver of life,  
+  who proceeds from the Father,  
+  who with the Father and the Son is together worshipped and together glorified,  
+  who spoke through the prophets.  
+  <br>
+  In one, holy, catholic, and apostolic Church.  
+  I confess one baptism for the remission of sins.  
+  I look for the resurrection of the dead,  
+  and the life of the age to come. Amen.
 
 ---
 
