@@ -100,6 +100,7 @@ The Catholic Church does **not** teach a detailed, binding taxonomy of demonic r
 - **Satan (the Devil)** is the chief of the demons (CCC 414).
 - **Other demons** are subordinate fallen angels who, like Satan, definitively rejected God.
 - The biblical category **"Legion"** (Mark 5:9, Luke 8:30) indicates that multiple demons can operate collectively.
+- **Fallen angels retain their natural angelic powers** — the fall impairs grace, not nature (see "Retained Natural Powers After the Fall" below).
 
 The Church's official exorcism rite, _De Exorcismis et Supplicationibus Quibusdam_ (1999), invokes authority over "every unclean spirit, every power of darkness, every infernal assault of the adversary, every legion, company and diabolical faction" — comprehensive biblical language rather than a numbered rank chart.
 
@@ -112,6 +113,49 @@ While not a defined dogma, the theological reasoning of St. Thomas Aquinas (the 
 - **By confederation**: Demons share a common enmity against God and humanity, and thus may be said to form a confederation to attack more effectively.
 
 Aquinas is careful to note, however, that the order directed toward beatitude (holiness and grace) is **irreparably lost** by the fallen angels. Whatever authority they retain does not mitigate their punishment — "the higher their office, the more severe the torment."
+
+### Retained Natural Powers After the Fall
+
+A key principle in Catholic angelology is that **the fall of the angels did not impair their natural powers** — only their supernatural relationship with God was lost.
+
+#### The Distinction Between Nature and Grace
+
+Catholic doctrine draws a clear line between:
+
+- **Natural perfection**: what an angel is and can do by its created nature — its spiritual intelligence, strength, mode of acting, and capacity for knowledge.
+- **Supernatural life**: grace, friendship with God, and the capacity for beatitude — a gratuitous gift above and beyond created nature.
+
+The fall severs the latter definitively but leaves the former intact. The *Catholic Encyclopedia* (s.v. "Devil") states:
+
+> *"The fall of the angels did not impair their natural powers... Lucifer still retained the gifts that enabled him to influence his brethren before their fall."*
+
+The Catechism (CCC 391, citing the Fourth Lateran Council) affirms that the devil and the other demons *"were indeed created naturally good by God, but they became evil by their own doing."* Their nature, being created good, remains even after their sin.
+
+#### Implications for Satan's Power Relative to Unfallen Angels
+
+Since the natural hierarchy among angels persists after the fall (per St. Thomas Aquinas, *ST* I, q. 109, a. 1), a fallen angel of a higher original choir retains a **greater native capacity** than an unfallen angel of a lower choir:
+
+- **Satan** (likely a Cherub or Seraph before his fall, see [angelic-hierarchy-choirs.md](angelic-hierarchy-choirs.md)) retains the natural capacities of that high order — immense intelligence, spiritual strength, and influence.
+- An **unfallen Guardian Angel** (the lowest choir) has less natural capacity by virtue of its lower place in the angelic hierarchy.
+- An **unfallen Archangel** such as St. Michael has greater natural capacity than a Guardian Angel but still less than a fallen Cherub.
+
+However, this natural superiority is **not the decisive factor** in spiritual combat, for three reasons:
+
+1. **The good angels are confirmed in grace** (Augustine, *Enchiridion* 28; CCC 393). They possess something Satan irrevocably lacks: union with God, which elevates and perfects their natural operations.
+
+2. **Satan acts only by divine permission** (CCC 395). His power is not infinite; he cannot prevent the building of God's Kingdom. The good angels, by contrast, act in direct obedience to God's will.
+
+3. **Victory belongs to God, not to natural rank**. In Revelation 12:7–9, St. Michael the Archangel (of the second-lowest choir) defeats Satan and casts him out of heaven — not because Archangels naturally outrank Cherubim, but because Michael fights under God's authority.
+
+#### Summary
+
+| Aspect | Effect of the Fall |
+|--------|-------------------|
+| **Natural powers** (intelligence, strength, abilities) | Retained — not diminished |
+| **Supernatural grace** (friendship with God, beatitude) | Irreparably lost |
+| **Natural hierarchy among fallen angels** | Persists — some demons remain naturally higher than others |
+| **Power relative to unfallen angels** | Naturally superior if originally higher-ranked, but constrained by divine Providence |
+| **Ultimate authority** | Subject to God's permission; good angels act by God's command |
 
 ### Important Distinctions
 
@@ -237,10 +281,12 @@ The Church consistently warns against excessive speculation about demonic affair
 - St. Thomas Aquinas, _Commentary on the Sentences_, Bk. 2, Dist. 6, Q. 1, Art. 4
 - St. Thomas Aquinas, _Commentary on Matthew_, 12:24
 - St. Thomas Aquinas, _Summa Theologiae_, I, Q. 63 (the angelic fall)
+- St. Thomas Aquinas, _Summa Theologiae_, I, Q. 109, a. 1 (the ordering of demons after the fall)
 - St. Ambrose of Milan, _Concerning Repentance_, Bk. 2, Ch. 4
+- St. Augustine of Hippo, _Enchiridion_ (Handbook on Faith, Hope, and Love), ch. 28 (confirmation of the good angels in grace)
 - John Cassian, _Conferences_, Conference 7 & 8
 - Origen, _Contra Celsum_, Bk. 7
 
 ### Reference Works
 
-- Catholic Encyclopedia (1913): entries on "Demons," "Demonology," "Devil," "Asmodeus," "Abaddon," "Beelzebub," "Exorcism"
+- Catholic Encyclopedia (1913): entries on "Angels," "Demons," "Demonology," "Devil," "Asmodeus," "Abaddon," "Beelzebub," "Exorcism"
