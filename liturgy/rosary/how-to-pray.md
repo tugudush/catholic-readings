@@ -45,13 +45,14 @@ graph TD
    - On the **next three small beads**, pray three **Hail Marys** (_Ave Maria_). These are traditionally offered for an increase in the theological virtues of Faith, Hope, and Charity.
    - On the spacer chain before the centerpiece, pray the **Glory Be** (_Gloria Patri_).
 2. **The Decades (Repeated five times, once for each Mystery):**
-   - State the **First Mystery** of the day (e.g., "The First Joyful Mystery is the Annunciation").
+   - State the **First Mystery** of the day using the traditional formula: **"The [ordinal] [type] Mystery, the [mystery name]."**
+     For example: _"The First Joyful Mystery, the Annunciation."_
    - At the centerpiece (or the adjacent large bead), pray the **Our Father**.
    - Moving clockwise (or counter-clockwise) onto the loop, pray one **Hail Mary** on each of the **ten small beads** of the decade, whilst silently meditating on the spiritual fruits of the mystery.
    - At the end of the ten Hail Marys, on the spacer before the next large bead, pray the **Glory Be**.
    - Pray the **Fatima Prayer** ("O My Jesus...").
 3. **Subsequent Decades:**
-   - State the **Next Mystery**, and pray the **Our Father** on the single large bead.
+   - State the **Next Mystery** using the same formula (e.g., _"The Second Joyful Mystery, the Visitation"_), and pray the **Our Father** on the single large bead.
    - Repeat the ten **Hail Marys**, one **Glory Be**, and one **Fatima Prayer**. Continue this until you have completed all five decades.
 4. **Concluding Prayers:**
    - After the fifth decade is complete, return to the **Centerpiece**.
@@ -138,8 +139,8 @@ graph TD
 
 ### Concluding Rosary Prayer
 
-> Let us pray.  
->  
+> Let us pray.
+>
 > O God, whose only-begotten Son,  
 > by His life, death, and resurrection,  
 > has purchased for us the rewards of eternal life,  
@@ -160,38 +161,38 @@ Catholic tradition assigns the twenty mysteries of Christ's life to four distinc
 
 _Meditated upon on **Mondays and Saturdays** (and historically Sundays of Advent)._
 
-1. **The Annunciation:** The Archangel Gabriel announces to Mary that she will conceive the Son of God (_Luke 1:26-38_).
-2. **The Visitation:** Mary visits her cousin Elizabeth, who is pregnant with John the Baptist (_Luke 1:39-56_).
-3. **The Nativity:** Jesus Christ, the Savior of the world, is born in a stable in Bethlehem (_Luke 2:1-21_).
-4. **The Presentation:** Mary and Joseph present the infant Jesus in the Temple of Jerusalem in accordance with the Law of Moses (_Luke 2:22-38_).
-5. **The Finding in the Temple:** After searching for three days, Mary and Joseph find the twelve-year-old Jesus teaching the scholars in the Temple (_Luke 2:41-52_).
+1. **"The First Joyful Mystery, the Annunciation."** — The Archangel Gabriel announces to Mary that she will conceive the Son of God (_Luke 1:26-38_).
+2. **"The Second Joyful Mystery, the Visitation."** — Mary visits her cousin Elizabeth, who is pregnant with John the Baptist (_Luke 1:39-56_).
+3. **"The Third Joyful Mystery, the Nativity."** — Jesus Christ, the Savior of the world, is born in a stable in Bethlehem (_Luke 2:1-21_).
+4. **"The Fourth Joyful Mystery, the Presentation."** — Mary and Joseph present the infant Jesus in the Temple of Jerusalem in accordance with the Law of Moses (_Luke 2:22-38_).
+5. **"The Fifth Joyful Mystery, the Finding in the Temple."** — After searching for three days, Mary and Joseph find the twelve-year-old Jesus teaching the scholars in the Temple (_Luke 2:41-52_).
 
 ### II. The Luminous Mysteries (Mysteries of Light)
 
 _Meditated upon on **Thursdays**._
 
-1. **The Baptism in the Jordan:** Jesus is baptized by John, and the Holy Spirit descends upon Him like a dove as the Father proclaims Him His beloved Son (_Matthew 3:13-17_).
-2. **The Wedding at Cana:** At Mary's request, Jesus performs His first public miracle by turning water into wine, revealing His glory (_John 2:1-12_).
-3. **The Proclamation of the Kingdom:** Jesus preaches the Gospel, announces the arrival of the Kingdom of God, and invites all to repentance and conversion (_Mark 1:14-15_).
-4. **The Transfiguration:** Jesus is transfigured on Mount Tabor in the presence of Peter, James, and John, His face shining like the sun (_Matthew 17:1-8_).
-5. **The Institution of the Eucharist:** At the Last Supper, Jesus offers His Body and Blood under the signs of bread and wine, establishing the New Covenant (_Matthew 26:26-29_).
+1. **"The First Luminous Mystery, the Baptism in the Jordan."** — Jesus is baptized by John, and the Holy Spirit descends upon Him like a dove as the Father proclaims Him His beloved Son (_Matthew 3:13-17_).
+2. **"The Second Luminous Mystery, the Wedding at Cana."** — At Mary's request, Jesus performs His first public miracle by turning water into wine, revealing His glory (_John 2:1-12_).
+3. **"The Third Luminous Mystery, the Proclamation of the Kingdom."** — Jesus preaches the Gospel, announces the arrival of the Kingdom of God, and invites all to repentance and conversion (_Mark 1:14-15_).
+4. **"The Fourth Luminous Mystery, the Transfiguration."** — Jesus is transfigured on Mount Tabor in the presence of Peter, James, and John, His face shining like the sun (_Matthew 17:1-8_).
+5. **"The Fifth Luminous Mystery, the Institution of the Eucharist."** — At the Last Supper, Jesus offers His Body and Blood under the signs of bread and wine, establishing the New Covenant (_Matthew 26:26-29_).
 
 ### III. The Sorrowful Mysteries
 
 _Meditated upon on **Tuesdays and Fridays** (and historically Sundays of Lent)._
 
-1. **The Agony in the Garden:** Jesus prays in deep anguish at Gethsemane on the eve of His passion, submitting His will to the Father (_Luke 22:39-46_).
-2. **The Scourging at the Pillar:** Pilate orders Jesus to be bound to a pillar and brutally beaten (_John 19:1_).
-3. **The Crowning with Thorns:** Roman soldiers weave a crown of thorns and mockingly place it on Jesus' head (_Matthew 27:27-31_).
-4. **The Carrying of the Cross:** Jesus carries His heavy wooden cross through the streets of Jerusalem up to Calvary (_John 19:16-17_).
-5. **The Crucifixion:** Jesus is nailed to the cross and dies after three hours of agonizing suffering (_Luke 23:33-49_).
+1. **"The First Sorrowful Mystery, the Agony in the Garden."** — Jesus prays in deep anguish at Gethsemane on the eve of His passion, submitting His will to the Father (_Luke 22:39-46_).
+2. **"The Second Sorrowful Mystery, the Scourging at the Pillar."** — Pilate orders Jesus to be bound to a pillar and brutally beaten (_John 19:1_).
+3. **"The Third Sorrowful Mystery, the Crowning with Thorns."** — Roman soldiers weave a crown of thorns and mockingly place it on Jesus' head (_Matthew 27:27-31_).
+4. **"The Fourth Sorrowful Mystery, the Carrying of the Cross."** — Jesus carries His heavy wooden cross through the streets of Jerusalem up to Calvary (_John 19:16-17_).
+5. **"The Fifth Sorrowful Mystery, the Crucifixion."** — Jesus is nailed to the cross and dies after three hours of agonizing suffering (_Luke 23:33-49_).
 
 ### IV. The Glorious Mysteries
 
 _Meditated upon on **Wednesdays and Sundays**._
 
-1. **The Resurrection:** Jesus rises gloriously from the dead on the third day, conquering sin and death (_Matthew 28:1-10_).
-2. **The Ascension:** Jesus ascends bodily into Heaven forty days after His resurrection to take His place at the right hand of the Father (_Acts 1:1-11_).
-3. **The Descent of the Holy Spirit:** The Holy Spirit descends as tongues of fire upon Mary and the Apostles gathered in the Upper Room on Pentecost (_Acts 2:1-41_).
-4. **The Assumption:** At the end of her earthly life, the Blessed Virgin Mary is taken body and soul into Heaven by God (_Catechism of the Catholic Church #966_).
-5. **The Coronation:** Mary is crowned by her Son as Queen of Heaven and Earth, surrounded by all the choirs of angels (_Revelation 12:1_).
+1. **"The First Glorious Mystery, the Resurrection."** — Jesus rises gloriously from the dead on the third day, conquering sin and death (_Matthew 28:1-10_).
+2. **"The Second Glorious Mystery, the Ascension."** — Jesus ascends bodily into Heaven forty days after His resurrection to take His place at the right hand of the Father (_Acts 1:1-11_).
+3. **"The Third Glorious Mystery, the Descent of the Holy Spirit."** — The Holy Spirit descends as tongues of fire upon Mary and the Apostles gathered in the Upper Room on Pentecost (_Acts 2:1-41_).
+4. **"The Fourth Glorious Mystery, the Assumption."** — At the end of her earthly life, the Blessed Virgin Mary is taken body and soul into Heaven by God (_Catechism of the Catholic Church #966_).
+5. **"The Fifth Glorious Mystery, the Coronation."** — Mary is crowned by her Son as Queen of Heaven and Earth, surrounded by all the choirs of angels (_Revelation 12:1_).
