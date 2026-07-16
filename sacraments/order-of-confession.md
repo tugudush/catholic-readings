@@ -12,17 +12,23 @@ A practical, step-by-step guide to the **Sacrament of Penance and Reconciliation
 4. **Absolution** — receiving God's forgiveness through the priest.
 5. **Satisfaction (Penance)** — performing the prayers or works assigned.
 
+> **A note on practical guides:** Fr. David Michael Moses's popular video series _Confession 101_ breaks the same journey into **15 practical steps** — from finding the confessional to walking out in a state of grace. The guide below follows this structure while remaining grounded in the Church's five traditional movements.
+
 ---
 
 ## I. Before Confession — Preparation
 
 ### 1. Find a Time and Place
 
-Check your local parish's confession schedule. Most parishes offer confessions on Saturdays (typically late afternoon/early evening) or by appointment. You may also attend a **communal penance service** during Advent or Lent, where individual confession is still included.
+Check your local parish's confession schedule. Most parishes post confession times on their website — look for headings like **Sacraments**, **Confession**, or **Mass Times**. You can also check the parish bulletin. If all else fails, call the parish office to confirm.
+
+Most parishes offer confessions on Saturdays (typically late afternoon/early evening) or by appointment. You may also attend a **communal penance service** during Advent or Lent, where individual confession is still included.
 
 ### 2. Examine Your Conscience
 
-Prayerfully review your life since your last confession. Ask the Holy Spirit to enlighten you. Go through the **Ten Commandments** and the **Precepts of the Church**. Below is a concise examination; for a more thorough version, see [penance-reconciliation.md](penance-reconciliation.md#5-mortal-and-venial-sin).
+Prayerfully review your life since your last confession. Ask the Holy Spirit to enlighten you. You may **write your sins down** on a piece of paper or simply remember them — whichever helps you be most honest and thorough.
+
+Go through the **Ten Commandments** and the **Precepts of the Church**. Below is a concise examination; for a more thorough version, see [penance-reconciliation.md](penance-reconciliation.md#5-mortal-and-venial-sin).
 
 | Commandment / Precept                                                | Questions to ask yourself                                                                                                                                                                             |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,7 +73,18 @@ If you are unsure which to use, the **Modern Formula** is the one printed in the
 
 ## II. In the Confessional — Step by Step
 
-### Step 1: Enter and Choose Your Position
+### Step 1: Find the Confessional
+
+Once inside the church, look for a line of people waiting — even one person can indicate confession is underway. If there is no line, look for a **confessional box** (a wooden booth built into the wall) or a **reconciliation room** (a small, plainly furnished room).
+
+Some confessionals have **indicator lights**:
+
+- **Red light** — someone is inside. Wait your turn.
+- **Green light or no light** — the confessional is free. Enter when ready.
+
+If there are no lights at all, no line, and the door is closed or the curtain drawn, knock gently or wait a moment — the priest may be finishing with a penitent.
+
+### Step 2: Choose Your Position
 
 You may choose between two options:
 
@@ -76,41 +93,64 @@ You may choose between two options:
 
 Choose whichever you are more comfortable with.
 
-### Step 2: The Opening
+### Step 3: The Opening
 
-Make the Sign of the Cross and say:
+Some priests begin by making the Sign of the Cross. If there is an awkward silence, he may be waiting for you. In that case, make the Sign of the Cross yourself and say:
 
 > **"Bless me, Father, for I have sinned. It has been [length of time] since my last confession."**
 
 If this is your first confession in many years — or you do not remember ever making a proper confession — say so plainly:
 
-> **"Father, this is my first confession in a very long time"** or **"I don't remember if I ever made my First Confession."**
+> **"Father, this is my first confession in a very long time — can you walk me through it?"**
 
-The priest will likely reassure you and guide you.
+or
 
-### Step 3: Confess Your Sins
+> **"I don't remember if I ever made my First Confession."**
 
-Tell the priest the **kind** of sin and, for grave sins, the **number** of times (or approximate frequency). Be honest, clear, and concise. Avoid unnecessary details or stories.
+The priest has almost certainly heard this before and will gently guide you through each step.
+
+### Step 4: Confess Your Sins
+
+Tell the priest the **kind** of sin and, for grave sins, the **number** of times (or approximate frequency). Be honest, clear, and concise.
+
+> **A memorable rule:** _"Bring the nuggets, but you can keep the sauce."_ — Fr. David Michael Moses
+>
+> Be **specific** about your sins (the nuggets), but leave out the unnecessary background stories (the sauce). The priest does not need to know every detail of the circumstances — just what you did wrong and how often.
 
 **Examples of how to confess:**
+
+| Too vague                         | Too specific                                                                                                                                                     | Just right                                          |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| "I gossiped."                     | "I told my sister that I saw my neighbor reading a newspaper, and they do not get the paper delivered, but my other neighbor does, and I heard it went missing…" | "I gossiped a few times about a friend."            |
+| "I wasn't a good person."         | _(lengthy narrative about a fight with a coworker involving every email, text, and conversation)_                                                                | "I lost my temper at work and insulted a coworker." |
+| "I broke the Eighth Commandment." | _(full account of who said what to whom, going back three weeks)_                                                                                                | "I lied to my spouse about where I was."            |
+
+**Additional examples:**
 
 - _"I have missed Mass on Sundays about ten times."_
 - _"I have used pornography regularly for several years."_
 - _"I have had sex outside of marriage with my partner."_
-- _"I have lied at work to cover up mistakes."_
 - _"I have stolen from my employer."_
 
 > **What if I forget a sin?** If you sincerely forget a mortal sin, the confession is still valid. Mention it in your next confession.
 >
-> **What if I am embarrassed?** The priest is bound by the **Seal of Confession** — he can never, under any penalty, reveal what he hears (Code of Canon Law, c. 983). Everything you say stays between you, the priest, and God.
+> **What if I am embarrassed?** The priest is bound by the **Seal of Confession** — he can never, under any penalty, reveal what he hears (Code of Canon Law, c. 983). Everything you say stays between you, the priest, and God. Don't worry about shocking the priest — he has heard far worse.
 
-### Step 4: Receive the Priest's Counsel and Penance
+### Step 5: Apologize and Conclude Your Confession
 
-After you have finished confessing, the priest may offer brief advice or encouragement. He will then assign you a **penance** — usually a set of prayers (e.g., one Our Father and three Hail Marys) or an act of charity to perform after confession.
+When you have finished naming your sins, conclude with a clear statement of sorrow:
 
-> **Listen carefully to the penance.** If you forget it, you may ask the priest to repeat it.
+> **"I am sorry for these and all my sins, Father."**
 
-### Step 5: Pray the Act of Contrition
+This signals to the priest that you have finished confessing. He will then know to move on to counsel and absolution.
+
+### Step 6: Receive the Priest's Counsel and Penance
+
+The priest may offer brief advice or encouragement. He will then assign you a **penance** — usually a set of prayers (e.g., one Our Father and three Hail Marys) or an act of charity to perform after confession.
+
+> **Remember what he tells you to do.** This will be your penance to complete after confession. If you forget it, you may ask the priest to repeat it.
+
+### Step 7: Pray the Act of Contrition
 
 The priest will ask you to pray an Act of Contrition. You may use the one you prepared, or read from a card in the confessional. If you do not have one and cannot remember it, simply say from your heart:
 
@@ -139,7 +179,7 @@ Both approved formulas (from [foundational-prayers.md](../liturgy/foundational-p
     Our Savior Jesus Christ suffered and died for us.
     In His name, my God, have mercy. Amen.
 
-### Step 6: Receive Absolution
+### Step 8: Receive Absolution
 
 The priest extends his right hand over you (or toward you) and prays the words of absolution:
 
@@ -149,7 +189,7 @@ You respond: **"Amen."**
 
 This is the moment of sacramental forgiveness — your sins are washed away.
 
-### Step 7: The Dismissal
+### Step 9: The Dismissal
 
 The priest concludes with words such as:
 
@@ -171,15 +211,23 @@ You then leave the confessional.
 
 Complete the assigned penance as soon as possible — ideally the same day, before receiving Communion. This fulfills the third act of the penitent: **satisfaction** (CCC 1459).
 
-### 2. Thank God
+### 2. Leave in Peace
 
-Spend a few moments in silent thanksgiving. You have been restored to the state of grace. Pray:
+You walk out of the confessional fully forgiven — restored to the state of grace you received at Baptism. Spend a few moments in silent thanksgiving before the Blessed Sacrament. Pray from your heart:
 
-> _"Lord, I thank you for your mercy. Help me to live in your grace and to avoid sin."_
+> _"Lord, I thank You for Your mercy. Help me to live in Your grace and to avoid sin."_
 
-### 3. Return to the Sacraments Regularly
+> _"You have made me new again. Keep me close to You."_
+
+### 3. Return to Confession Regularly
 
 The Church encourages frequent confession — even of venial sins — as a means of growing in holiness (CCC 1458). Monthly confession is a common and salutary practice among devout Catholics.
+
+> As Fr. David Michael Moses says: _"If you haven't been in a while, you're missing out — because confession is the best. There is nothing like the joy of walking in as a sinner and walking out made new again."_
+
+### 4. Repeat as Needed
+
+Confession is not a one-time reset — it is a lifelong rhythm of grace. Make it a regular part of your spiritual life. Each time you return, you are not starting over; you are picking up where you left off, strengthened by the mercy you received the last time.
 
 ---
 
@@ -219,24 +267,31 @@ For a fuller treatment, see [penance-reconciliation.md](penance-reconciliation.m
 
 ## VI. Summary Checklist
 
-| Stage                   | Action                                           |
-| ----------------------- | ------------------------------------------------ |
-| **Before**              | ☐ Find confession schedule                       |
-|                         | ☐ Examine conscience (Ten Commandments)          |
-|                         | ☐ Stir up contrition (Act of Contrition)         |
-| **In the confessional** | ☐ "Bless me, Father, for I have sinned…"         |
-|                         | ☐ Confess sins (kind and number for mortal sins) |
-|                         | ☐ Listen to counsel and receive penance          |
-|                         | ☐ Pray the Act of Contrition                     |
-|                         | ☐ Receive absolution ("Amen")                    |
-|                         | ☐ Dismissal ("Thanks be to God")                 |
-| **After**               | ☐ Do the penance                                 |
-|                         | ☐ Thank God for His mercy                        |
-|                         | ☐ Return to confession regularly                 |
+| Stage                   | Action                                                  |
+| ----------------------- | ------------------------------------------------------- |
+| **Before**              | ☐ Find confession schedule (website, bulletin, or call) |
+|                         | ☐ Examine conscience (Ten Commandments)                 |
+|                         | ☐ Stir up contrition (Act of Contrition)                |
+| **In the confessional** | ☐ Find the confessional (check red/green light)         |
+|                         | ☐ Choose your position (anonymous or face-to-face)      |
+|                         | ☐ "Bless me, Father, for I have sinned…"                |
+|                         | ☐ Confess sins — bring the nuggets, keep the sauce      |
+|                         | ☐ "I am sorry for these and all my sins"                |
+|                         | ☐ Listen to counsel and receive penance                 |
+|                         | ☐ Pray the Act of Contrition                            |
+|                         | ☐ Receive absolution ("Amen")                           |
+|                         | ☐ Dismissal ("Thanks be to God")                        |
+| **After**               | ☐ Do the penance (same day if possible)                 |
+|                         | ☐ Give thanks — you are restored to the state of grace  |
+|                         | ☐ Return to confession regularly                        |
 
 ---
 
-## VII. Cross-References
+## VII. Source
+
+This document incorporates practical guidance from Fr. David Michael Moses's video **Confession 101** ([YouTube](https://www.youtube.com/watch?v=a0sNNXaHwVY)), particularly the "nuggets" rule for confessing sins and the 15-step framework for navigating the sacrament from preparation to regular practice.
+
+## VIII. Cross-References
 
 - [penance-reconciliation.md](penance-reconciliation.md) — theological and doctrinal foundations of the sacrament
 - [foundational-prayers.md](../liturgy/foundational-prayers.md#7-the-act-of-contrition) — Act of Contrition (both formulas)

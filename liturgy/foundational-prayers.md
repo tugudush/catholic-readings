@@ -50,6 +50,24 @@ Composed by Jesus Christ Himself (Matthew 6:9-13 and Luke 11:2-4), this is the p
   Et ne nos inducas in tentationem,  
   sed libera nos a malo. Amen._
 
+### Latin Rite (Modern ICEL / Ecumenical Alternative)
+
+Some modern English translations render the traditional petitions more literally from the Greek. This version is used in various ecumenical and liturgical texts (including the English Language Liturgical Consultation [ELLC] and some ICEL missal translations outside the United States):
+
+- **English (Modern Alternative):**  
+  Our Father in heaven,  
+  hallowed be your name,  
+  your kingdom come,  
+  your will be done,  
+  on earth as in heaven.  
+  Give us today our daily bread.  
+  Forgive us our sins  
+  as we forgive those who sin against us.  
+  Do not bring us to the test,  
+  but deliver us from evil. Amen.
+
+  > **Note:** The United States Conference of Catholic Bishops retained the traditional "trespasses" / "trespass" and "lead us not into temptation" in the 2010 ICEL Roman Missal. The alternative rendering of πειρασμός (_peirasmos_) as "the test" rather than "temptation" reflects the sense of a trial or testing (cf. James 1:13) rather than an enticement to sin. The Latin _debita_ / _debitoribus_ is literally "debts" / "debtors," rendered as "trespasses" in the traditional form and "sins" in this version.
+
 ### Eastern Catholic / Byzantine Usage
 
 In the Eastern Liturgies, the Lord's prayer is always followed immediately by the priestly doxology. The faithful do not say "Amen" on their own; instead, the priest (or head of household) completes it:
