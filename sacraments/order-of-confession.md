@@ -250,7 +250,47 @@ Certain grave sins carry the automatic penalty of **latae sententiae** excommuni
 
 ---
 
-## V. Eastern Catholic Practice
+## V. What Else Can You Ask the Priest During Confession?
+
+A common practical question is whether the confessional is the right place to discuss other pastoral matters — such as **convalidation of a civil marriage**, **enrollment in the Brown Scapular**, or similar topics. The short answer is: **you may raise them briefly, but they are best handled outside the sacrament.** Here is why.
+
+### 5.1 The Primary Purpose of Confession
+
+The Sacrament of Penance exists for one principal end: **the forgiveness of sins** through the confession of sins, the priest's absolution, and the performance of penance ([CCC 1422](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1422)). The priest's role in the confessional is to act _in persona Christi_ as minister of the sacrament — receiving the confession, offering counsel pertinent to the penitent's spiritual state, assigning penance, and granting absolution.
+
+Matters that go beyond this scope — canonical processes, sacramental enrollments, detailed pastoral planning — belong to the priest's broader ministry but are not part of the sacrament itself.
+
+### 5.2 The Seal of Confession Is a Factor
+
+Everything spoken during sacramental confession is protected by the **seal of confession** (Latin: _sigillum confessionis_). The priest is absolutely forbidden to reveal anything he has heard in confession, directly or indirectly ([Code of Canon Law, c. 983–984](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)). This means:
+
+- If you discuss **convalidation** in detail during confession, the priest **cannot** afterwards act on that information — he cannot prepare paperwork, contact your spouse, or make canonical arrangements, because he would be using knowledge gained under the seal.
+- If you simply mention that you need convalidation and ask to arrange a meeting, the priest can treat that as a request for a pastoral appointment (which falls outside the seal), but the line can become blurred.
+
+**Practical rule of thumb:** If you want the priest to _do something_ about it afterward, discuss it _outside_ of confession.
+
+### 5.3 Specific Topics
+
+| Topic                                                 | Can I mention it in confession?                                              | Should it be handled in confession?                                                                                                         | What to do instead                                                                                                                                     |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Convalidation** (regularizing a civil marriage)     | ✅ Yes — you can say you are in a civil marriage and desire to regularize it | ❌ No — convalidation involves a canonical process (premarital investigation, permissions, ceremony) that cannot be arranged under the seal | Say: _"Father, I'd like to arrange a convalidation — can I meet with you after?"_ Then schedule a separate appointment                                 |
+| **Brown Scapular enrollment**                         | ✅ Yes — you can ask about being enrolled                                    | ❌ No — enrollment is a separate sacramental rite with its own liturgy and preparation                                                      | Say: _"Father, I'd like to be enrolled in the Brown Scapular — when could we do that?"_ The enrollment can be done after confession or at another time |
+| **Annulment / prior marriage**                        | ✅ Yes, if it relates to your state of grace or a sin to confess             | ❌ No — annulment investigations are handled by a diocesan tribunal, not in the confessional                                                | Schedule an appointment with the priest or contact the tribunal directly                                                                               |
+| **Blessing of objects** (rosaries, medals, scapulars) | ✅ You may ask briefly                                                       | ⚠️ The priest _can_ bless an object after confession (outside the confessional), but it is not part of the rite of Penance                  | Ask after confession, or bring the object to the sacristy before or after Mass                                                                         |
+| **Spiritual direction / ongoing struggles**           | ✅ The priest may offer brief counsel as part of the sacrament               | ⚠️ Extended spiritual direction is better handled in a dedicated session                                                                    | Schedule a spiritual direction appointment if you need ongoing guidance                                                                                |
+| **Questions about Church teaching**                   | ✅ Brief questions are fine                                                  | ❌ Lengthy catechesis is not appropriate during confession                                                                                  | Ask after Mass, or schedule a meeting                                                                                                                  |
+
+### 5.4 The Bottom Line
+
+The confessional is primarily for **confessing sins and receiving absolution**. Brief questions or requests for follow-up are fine — priests are used to hearing _"Father, can I talk to you about something else after?"_ But anything that involves paperwork, canonical processes, liturgical rites, or extended discussion should be moved outside the sacrament, where the priest can act on it freely.
+
+> **A simple formula:** _"Father, I also have a question about [convalidation / scapular enrollment / etc.] — could we talk about that after confession?"_
+
+This respects the integrity of the sacrament while opening the door for the pastoral follow-up you need.
+
+---
+
+## VI. Eastern Catholic Practice
 
 The Eastern Catholic Churches (Byzantine, Maronite, Chaldean, etc.) celebrate the same sacrament — often called **Holy Repentance** (Greek: _Hagia Metanoia_) or **Confession** (Greek: _Exomologēsis_) — with the same essential structure but a more liturgical character:
 
@@ -265,37 +305,39 @@ For a fuller treatment, see [penance-reconciliation.md](penance-reconciliation.m
 
 ---
 
-## VI. Summary Checklist
+## VII. Summary Checklist
 
-| Stage                   | Action                                                  |
-| ----------------------- | ------------------------------------------------------- |
-| **Before**              | ☐ Find confession schedule (website, bulletin, or call) |
-|                         | ☐ Examine conscience (Ten Commandments)                 |
-|                         | ☐ Stir up contrition (Act of Contrition)                |
-| **In the confessional** | ☐ Find the confessional (check red/green light)         |
-|                         | ☐ Choose your position (anonymous or face-to-face)      |
-|                         | ☐ "Bless me, Father, for I have sinned…"                |
-|                         | ☐ Confess sins — bring the nuggets, keep the sauce      |
-|                         | ☐ "I am sorry for these and all my sins"                |
-|                         | ☐ Listen to counsel and receive penance                 |
-|                         | ☐ Pray the Act of Contrition                            |
-|                         | ☐ Receive absolution ("Amen")                           |
-|                         | ☐ Dismissal ("Thanks be to God")                        |
-| **After**               | ☐ Do the penance (same day if possible)                 |
-|                         | ☐ Give thanks — you are restored to the state of grace  |
-|                         | ☐ Return to confession regularly                        |
+| Stage                   | Action                                                                                                                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Before**              | ☐ Find confession schedule (website, bulletin, or call)                                                                                                              |
+|                         | ☐ Examine conscience (Ten Commandments)                                                                                                                              |
+|                         | ☐ Stir up contrition (Act of Contrition)                                                                                                                             |
+| **In the confessional** | ☐ Find the confessional (check red/green light)                                                                                                                      |
+|                         | ☐ Choose your position (anonymous or face-to-face)                                                                                                                   |
+|                         | ☐ "Bless me, Father, for I have sinned…"                                                                                                                             |
+|                         | ☐ Confess sins — bring the nuggets, keep the sauce                                                                                                                   |
+|                         | ☐ "I am sorry for these and all my sins"                                                                                                                             |
+|                         | ☐ Listen to counsel and receive penance                                                                                                                              |
+|                         | ☐ Pray the Act of Contrition                                                                                                                                         |
+|                         | ☐ Receive absolution ("Amen")                                                                                                                                        |
+|                         | ☐ Dismissal ("Thanks be to God")                                                                                                                                     |
+|                         | ☐ Need to discuss other matters (convalidation, scapular enrollment, etc.)? See [§V — What Else Can You Ask?](#v-what-else-can-you-ask-the-priest-during-confession) |
+| **After**               | ☐ Do the penance (same day if possible)                                                                                                                              |
+|                         | ☐ Give thanks — you are restored to the state of grace                                                                                                               |
+|                         | ☐ Return to confession regularly                                                                                                                                     |
 
 ---
 
-## VII. Source
+## VIII. Source
 
 This document incorporates practical guidance from Fr. David Michael Moses's video **Confession 101** ([YouTube](https://www.youtube.com/watch?v=a0sNNXaHwVY)), particularly the "nuggets" rule for confessing sins and the 15-step framework for navigating the sacrament from preparation to regular practice.
 
-## VIII. Cross-References
+## IX. Cross-References
 
 - [penance-reconciliation.md](penance-reconciliation.md) — theological and doctrinal foundations of the sacrament
 - [foundational-prayers.md](../liturgy/foundational-prayers.md#7-the-act-of-contrition) — Act of Contrition (both formulas)
 - [abortion-excommunication.md](abortion-excommunication.md) — the canonical penalty for abortion and its remission in confession
 - [apostasy-formal-defection.md](apostasy-formal-defection.md) — the indelible baptismal character and return to the sacraments
 - [convalidation.md](convalidation.md) — bringing a civil marriage into sacramental standing
+- [brown-scapular.md](../sacramentals/brown-scapular.md) — enrollment and theology of the Brown Scapular
 - [eucharist.md](eucharist.md) — worthily receiving Holy Communion in a state of grace
