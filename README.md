@@ -16,7 +16,16 @@ Explore the foundations of biblical studies, the history of transcription, canon
 
 ---
 
-## 2. Church History & Ecclesial Developments
+## 2. Christology: The Person and Work of Jesus Christ
+
+The Church's doctrine concerning the Person of Jesus Christ — the eternal Son of God, the Second Person of the Blessed Trinity, who by the Holy Spirit was incarnate of the Virgin Mary and became man for our salvation. This directory presents both the dogmatic foundations of Christology and the devotional life that flows from contemplation of Christ in His various mysteries and aspects:
+
+- **Master Index & Scope**: Read [christology/README.md](christology/README.md) for the introductory overview of the Christology directory, its scope, and its relationship to other directories in this repository.
+- **The Child Jesus (Santo Niño)**: See [christology/child-jesus-santo-nino.md](christology/child-jesus-santo-nino.md) for a comprehensive theological and historical study of devotion to the Child Jesus — including the theological significance of Christ's infancy, the spiritual childhood taught by the Gospel, the devotion to the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines with its papal endorsements, and other major Child Jesus devotions throughout the world.
+
+---
+
+## 3. Church History & Ecclesial Developments
 
 A collection of scholarly historical analyses mapping the journey of the Church from its apostolic foundation to the modern era, including ecumenical and interreligious relations:
 
@@ -36,7 +45,7 @@ A collection of scholarly historical analyses mapping the journey of the Church 
 
 ---
 
-## 3. Liturgy, Prayers & Sacramentals
+## 4. Liturgy, Prayers & Sacramentals
 
 Sacred traditions of prayer and worship that shape the daily life of Catholic believers in both Western and Eastern rites:
 
@@ -49,7 +58,7 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 
 ---
 
-## 4. The Seven Sacraments
+## 5. The Seven Sacraments
 
 A comprehensive study of the seven sacraments of the Catholic Church, drawn from Sacred Scripture, the ecumenical councils, the Catechism of the Catholic Church, the Codes of Canon Law of both East and West, and the Magisterium of the Popes:
 
@@ -71,7 +80,7 @@ A comprehensive study of the seven sacraments of the Catholic Church, drawn from
 
 ---
 
-## 5. Saints & Holy Men and Women
+## 6. Saints & Holy Men and Women
 
 A growing collection of comprehensive biographies of saints and holy figures in the Catholic tradition, emphasizing their historical context, spiritual contributions, and enduring legacy:
 
@@ -80,7 +89,7 @@ A growing collection of comprehensive biographies of saints and holy figures in 
 
 ---
 
-## 6. Angelology & Creation
+## 7. Angelology & Creation
 
 Theological truths regarding the visible and invisible creation:
 
@@ -89,7 +98,7 @@ Theological truths regarding the visible and invisible creation:
 
 ---
 
-## 7. Approved Miracles, Apparitions & Supernatural signs
+## 8. Approved Miracles, Apparitions & Supernatural Signs
 
 The Church's rigorous discernment of private revelations and miracles designed to strengthen the faith of believers is documented extensively under the miracles directory:
 
@@ -101,14 +110,14 @@ The Church's rigorous discernment of private revelations and miracles designed t
 
 ---
 
-## 8. Sacramentals & Religious Objects
+## 9. Sacramentals & Religious Objects
 
 Sacred signs, blessed objects, and devotional items that the Church sets apart through prayer to sanctify the circumstances of daily life and to dispose the faithful to receive the grace of the seven sacraments ([CCC 1667](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1667); [CCC 1677](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1677)):
 
 - **Master Index & Foundational Theology**: Read [sacramentals/README.md](sacramentals/README.md) for the Catechism's definition of sacramentals (CCC 1667–1679), their distinction from the seven sacraments, the categories of blessings (of persons, meals, objects, and places), exorcisms, and the principal blessed objects (holy water, ashes, palms, candles, scapulars, medals, crucifixes, rosaries, relics).
 - **The Brown Scapular of Our Lady of Mount Carmel**: See [sacramentals/brown-scapular.md](sacramentals/brown-scapular.md) for the most widely worn sacramental in the Catholic Church — a reduced form of the Carmelite habit, received through the rite of enrollment, signifying Marian consecration, and connected with the tradition of the promise to Blessed Simon Stock and the Sabbatine Privilege.
 
-## 9. Eschatology & The Last Things
+## 10. Eschatology & The Last Things
 
 The Church's teaching on the "four last things" (death, judgment, heaven, hell), with the doctrines of purgatory, the resurrection of the body, the Second Coming of Christ, the Last Judgment, and the new heavens and new earth. This directory carefully distinguishes dogma, approved private revelation, pastoral discipline, and theological opinion:
 
@@ -119,7 +128,7 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
-## 10. Cultural Practices & Regional Catholic Traditions
+## 11. Cultural Practices & Regional Catholic Traditions
 
 The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
 

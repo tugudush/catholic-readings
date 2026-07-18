@@ -161,6 +161,8 @@ Catholic tradition assigns the twenty mysteries of Christ's life to four distinc
 
 _Meditated upon on **Mondays and Saturdays** (and historically Sundays of Advent)._
 
+> For a comprehensive theological and historical study of devotion to the Christ Child whose infancy and hidden life are contemplated in these mysteries, see [christology/child-jesus-santo-nino.md](../../christology/child-jesus-santo-nino.md).
+
 1. **"The First Joyful Mystery, the Annunciation."** — The Archangel Gabriel announces to Mary that she will conceive the Son of God (_Luke 1:26-38_).
 2. **"The Second Joyful Mystery, the Visitation."** — Mary visits her cousin Elizabeth, who is pregnant with John the Baptist (_Luke 1:39-56_).
 3. **"The Third Joyful Mystery, the Nativity."** — Jesus Christ, the Savior of the world, is born in a stable in Bethlehem (_Luke 2:1-21_).

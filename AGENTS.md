@@ -25,6 +25,9 @@ Before adding or modifying any documents, check the existing directory structure
   - [AGENTS.md](AGENTS.md): Agent development and Catholic theology conventions guidelines.
 - [scripture/](scripture/):
   - [scripture/bible-history-canon.md](scripture/bible-history-canon.md): The canon of Scripture (73 books), historical councils, and approved Catholic translations.
+- [christology/](christology/):
+  - [christology/README.md](christology/README.md): Master index and overview of Christology — the Person and work of Jesus Christ, the Incarnation, the hypostatic union, and the mysteries of Christ's life.
+  - [christology/child-jesus-santo-nino.md](christology/child-jesus-santo-nino.md): Comprehensive theological and historical study of devotion to the Child Jesus (Santo Niño) — including the theological significance of Christ's infancy, spiritual childhood, the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines, and other major Child Jesus devotions worldwide.
 - [angelology/](angelology/):
   - [angelology/angelic-hierarchy-choirs.md](angelology/angelic-hierarchy-choirs.md) & [angelology/fallen-angels-demonology.md](angelology/fallen-angels-demonology.md): Angel classification, the nine choirs, creation, and the fall of the rebel angels.
 - [church-history/](church-history/):

@@ -24,6 +24,10 @@ These documents focus on:
 | [filipino-funeral-traditions.md](filipino-funeral-traditions.md) | Filipino traditions for the deceased: the wake (*Burol*), *Pasiyam*, the 40-day mourning period (*Waksi*), *Undas*, and the distinction between Filipino cultural practices and Catholic liturgical practice |
 | [international-catholic-funeral-traditions.md](international-catholic-funeral-traditions.md) | A global survey of Catholic funeral and mourning traditions across Italy, Mexico, Ireland, Poland, Spain, Lebanon, the Eastern Catholic Churches, France, Germany, and India — with comparative tables and theological assessment |
 
+## Related Documents
+
+- [christology/child-jesus-santo-nino.md](../christology/child-jesus-santo-nino.md) — The devotion to the Santo Niño de Cebú, one of the most significant Filipino Catholic devotions, with its historical origins in the Magellan expedition (1521), the discovery of the statue by Legazpi (1565), the Sinulog Festival, and papal endorsements.
+
 ---
 
 *"The Church encourages us to pray for the dead... to help them attain to the beatific vision."* — CCC 1689

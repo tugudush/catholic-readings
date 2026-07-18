@@ -66,3 +66,4 @@ In fidelity to the repository conventions (see [AGENTS.md](../AGENTS.md)), each 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The chronological list of popes, many of whom are canonized saints.
 - [miracles/saint-phenomena/](../miracles/saint-phenomena/) — Miraculous phenomena associated with the saints (stigmata, liquefaction, incorruptibility).
 - [miracles/prophecies-visions/](../miracles/prophecies-visions/) — Private revelations given to canonized saints (St. Faustina, St. Margaret Mary Alacoque).
+- [christology/child-jesus-santo-nino.md](../christology/child-jesus-santo-nino.md) — The devotion to the Child Jesus and the theology of spiritual childhood, closely connected to St. Thérèse of Lisieux's "Little Way" and the Carmelite tradition.

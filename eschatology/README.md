@@ -2,7 +2,7 @@
 
 Welcome to the central directory for **Eschatology** (from the Greek ἐσχατολογία, _eschatologia_, "discourse on the last things") within the Holy Agent repository. This directory gathers the Church's authoritative teachings, theological synthesis, patristic and scholastic commentary, and devotional materials on the "four last things" (_novissima_) — **death, judgment, heaven, and hell** — together with the doctrines of **purgatory, the resurrection of the body, the Second Coming of Christ (Parousia), the Last Judgment, and the new heavens and new earth**.
 
-Catholic eschatology is fundamentally **christological** and **ecclesial**: its horizon is not the speculative calculation of dates or "end-times charts," but the **definitive triumph of the Paschal Mystery of Jesus Christ**, in whom the dead will rise, every knee will bow, and God will be all in all ([1 Corinthians 15:28](https://www.drbo.org/x/d?b=drb&c=1co&g=15&p=28)).
+Catholic eschatology is fundamentally **christological** and **ecclesial** — for the Person and work of Jesus Christ, see the [christology/](../christology/) directory. Its horizon is not the speculative calculation of dates or "end-times charts," but the **definitive triumph of the Paschal Mystery of Jesus Christ**, in whom the dead will rise, every knee will bow, and God will be all in all ([1 Corinthians 15:28](https://www.drbo.org/x/d?b=drb&c=1co&g=15&p=28)).
 
 ---
 
