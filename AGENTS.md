@@ -48,13 +48,21 @@ Before adding or modifying any documents, check the existing directory structure
 - [liturgy/](liturgy/):
   - [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md): Compilation of foundational daily prayers from both Eastern and Western liturgical traditions.
   - [liturgy/order-of-the-mass.md](liturgy/order-of-the-mass.md): The Order of the Mass — the central act of Catholic worship, presented in the fourfold structure (Introductory Rites, Liturgy of the Word, Liturgy of the Eucharist, Concluding Rites), with historical development from Justin Martyr through the Roman Canon, the Council of Trent, and the post-conciliar Roman Missal of Pope St. Paul VI, and a comparison with the Byzantine Divine Liturgy and other Eastern Catholic rites.
+  - [liturgy/order-of-the-mass-visualized.md](liturgy/order-of-the-mass-visualized.md): A visual flowchart and diagrammatic companion to the Order of the Mass, presenting the fourfold structure in graphical form.
   - [liturgy/prayers-for-the-dead.md](liturgy/prayers-for-the-dead.md): Comprehensive guide to the Catholic rites, prayers, and devotional practices surrounding death — from the sacraments for the dying (Penance, Anointing of the Sick, Viaticum, Apostolic Pardon) through the Commendation of the Dying, funeral rites, and periodic commemorations (3rd, 7th, 30th, 40th day, anniversary, All Souls' Day), with the novena for the dead and other devotions.
   - [liturgy/rosary/](liturgy/rosary/):
     - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
 - [miracles/](miracles/):
   - [miracles/README.md](miracles/README.md): Master index and theological principles of discerning private revelations.
-  - [miracles/marian-apparitions/](miracles/marian-apparitions/): Approved Marian appearances (e.g., Guadalupe, Fatima, Lourdes).
+  - [miracles/marian-apparitions/](miracles/marian-apparitions/): Approved Marian appearances:
+    - [miracles/marian-apparitions/guadalupe.md](miracles/marian-apparitions/guadalupe.md): Our Lady of Guadalupe (1531, Mexico).
+    - [miracles/marian-apparitions/miraculous-medal.md](miracles/marian-apparitions/miraculous-medal.md): The Miraculous Medal and Our Lady of the Immaculate Conception (1830, Paris).
+    - [miracles/marian-apparitions/la-salette.md](miracles/marian-apparitions/la-salette.md): Our Lady of La Salette (1846, France).
+    - [miracles/marian-apparitions/lourdes.md](miracles/marian-apparitions/lourdes.md): Our Lady of Lourdes (1858, France).
+    - [miracles/marian-apparitions/knock.md](miracles/marian-apparitions/knock.md): Our Lady of Knock (1879, Ireland).
+    - [miracles/marian-apparitions/fatima.md](miracles/marian-apparitions/fatima.md): Our Lady of Fatima (1917, Portugal).
+    - [miracles/marian-apparitions/akita.md](miracles/marian-apparitions/akita.md): Our Lady of Akita (1973, Japan).
   - [miracles/eucharistic-miracles/](miracles/eucharistic-miracles/): Approved host/wine conversions (e.g., Lanciano, Bolsena-Orvieto).
   - [miracles/saint-phenomena/](miracles/saint-phenomena/): Miraculous saintly signs (e.g., stigmata, liquefaction).
   - [miracles/prophecies-visions/](miracles/prophecies-visions/): Private revelations (e.g., Divine Mercy, Sacred Heart).
@@ -124,6 +132,9 @@ Before adding or modifying any documents, check the existing directory structure
   - [cultural-practices/README.md](cultural-practices/README.md): Master index for regional Catholic cultural practices, liturgical inculturation, and the distinction between universal doctrine and local custom.
   - [cultural-practices/filipino-funeral-traditions.md](cultural-practices/filipino-funeral-traditions.md): Filipino funeral customs and the 40-day mourning period — the wake (*Burol*), *Pasiyam*, *Waksi*, *Undas*, and the distinction between Filipino cultural practices and Catholic liturgical practice.
   - [cultural-practices/international-catholic-funeral-traditions.md](cultural-practices/international-catholic-funeral-traditions.md): A global survey of Catholic funeral and mourning traditions across Italy, Mexico, Ireland, Poland, Spain, Lebanon, the Eastern Catholic Churches, France, Germany, and India — with comparative tables and theological assessment.
+- [private-confessions/](private-confessions/):
+  - [private-confessions/confession.md](private-confessions/confession.md): A detailed examination of conscience structured around the Ten Commandments, the Precepts of the Church, the seven capital sins, and the duties of one's state in life — a pastoral aid for preparing for the Sacrament of Penance.
+  - [private-confessions/abortion.md](private-confessions/abortion.md): A pastoral treatment of the moral, spiritual, and personal dimensions of abortion — including the canonical penalty of excommunication, the distinction between the censure and mortal sin, and the path to reconciliation and healing through the Sacrament of Penance — distinct from the canonical-juridical treatment in [sacraments/abortion-excommunication.md](sacraments/abortion-excommunication.md).
 
 ---
 
