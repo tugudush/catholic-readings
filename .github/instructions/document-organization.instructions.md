@@ -16,7 +16,9 @@ Current topic directories:
 
 - [scripture/](../../scripture/) — Sacred Scripture, canon, translations
 - [angelology/](../../angelology/) — Angels, choirs, fallen angels
+- [christology/](../../christology/) — The Person and work of Jesus Christ, the Incarnation, the hypostatic union
 - [church-history/](../../church-history/) — Councils, popes, schisms, relations with other communions
+- [gifts-holy-spirit/](../../gifts-holy-spirit/) — The nine charismatic gifts (charisms) of the Holy Spirit from 1 Corinthians 12:8–10
 - [liturgy/](../../liturgy/) — Prayers, sacraments, devotionals
 - [miracles/](../../miracles/) — Approved apparitions, Eucharistic miracles, saint phenomena, private revelations
 

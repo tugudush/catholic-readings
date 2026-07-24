@@ -133,7 +133,24 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
-## 11. Cultural Practices & Regional Catholic Traditions
+## 11. The Nine Spiritual Gifts (Charisms) of the Holy Spirit
+
+A comprehensive theological study of the nine charismatic gifts enumerated by St. Paul in 1 Corinthians 12:8–10 — distinct from the seven gifts of the Holy Spirit (Isaiah 11:2) that are permanent dispositions for personal sanctification. These charisms are gratuitous manifestations of the Spirit given for the common good and the building up of the Church:
+
+- **Master Index & Foundational Theology**: Read [gifts-holy-spirit/README.md](gifts-holy-spirit/README.md) for the foundational theology of the nine charisms, the critical distinction between charisms and the seven gifts of the Holy Spirit, and an overview of each gift with its Greek terminology.
+- **Word of Wisdom** (λόγος σοφίας): See [gifts-holy-spirit/word-of-wisdom.md](gifts-holy-spirit/word-of-wisdom.md) for the Spirit-given ability to communicate divine truths persuasively, especially concerning salvation.
+- **Word of Knowledge** (λόγος γνώσεως): See [gifts-holy-spirit/word-of-knowledge.md](gifts-holy-spirit/word-of-knowledge.md) for the capacity to manifest knowledge of divine things through the created order.
+- **Gift of Faith** (πίστις): See [gifts-holy-spirit/gift-of-faith.md](gifts-holy-spirit/gift-of-faith.md) for the extraordinary Spirit-wrought confidence associated with miraculous divine action — not the ordinary theological virtue.
+- **Gifts of Healing** (χαρίσματα ἰαμάτων): See [gifts-holy-spirit/gifts-of-healing.md](gifts-holy-spirit/gifts-of-healing.md) for divine signs that persuade by benefit — the curing of infirmities through the Spirit's power.
+- **Working of Miracles** (ἐνεργήματα δυνάμεων): See [gifts-holy-spirit/working-of-miracles.md](gifts-holy-spirit/working-of-miracles.md) for operations of power beyond cures — signs that persuade by the greatness of the deed.
+- **Prophecy** (προφητεία): See [gifts-holy-spirit/prophecy.md](gifts-holy-spirit/prophecy.md) for divine illumination for strengthening faith and building up the Church through intelligible proclamation.
+- **Discernment of Spirits** (διακρίσεις πνευμάτων): See [gifts-holy-spirit/discernment-of-spirits.md](gifts-holy-spirit/discernment-of-spirits.md) for the grace to distinguish the spiritual from the unspiritual — the prophet from the deceiver.
+- **Speaking in Tongues** (γένη γλωσσῶν): See [gifts-holy-spirit/speaking-in-tongues.md](gifts-holy-spirit/speaking-in-tongues.md) for the Spirit-given ability to speak in languages unknown to the speaker, whether xenolalia or glossolalia.
+- **Interpretation of Tongues** (ἑρμηνεία γλωσσῶν): See [gifts-holy-spirit/interpretation-of-tongues.md](gifts-holy-spirit/interpretation-of-tongues.md) for the complementary charism that renders tongues intelligible for the edification of the Church.
+
+---
+
+## 12. Cultural Practices & Regional Catholic Traditions
 
 The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
 
@@ -143,7 +160,7 @@ The rich tapestry of Catholic cultural practices as lived out in various regions
 
 ---
 
-## 12. Private Confessions & Personal Examinations
+## 13. Private Confessions & Personal Examinations
 
 Personal and pastoral resources dealing with matters of conscience, sin, and reconciliation:
 
