@@ -49,6 +49,7 @@ These documents are written to scholarly standards, grounded in primary sources 
 | **St. Lorenzo Ruiz** | [st-lorenzo-ruiz.md](st-lorenzo-ruiz.md) | Protomartyr of the Philippines (1594–1637), Filipino-Chinese layman and scrivener, member of the Confraternity of the Rosary and the Third Order of St. Dominic, martyred in Nagasaki, Japan, by the *tsurushi* (gallows and pit). First Filipino saint, canonized in 1987 by Pope John Paul II. Patron of the Philippines, Overseas Filipino Workers, and the falsely accused. |
 | **St. Stephen** | [patron-st-stephen.md](patron-st-stephen.md) | Protomartyr and first deacon (c. 5 – c. 34 A.D.), stoned outside Jerusalem, prayed for his executioners, witnessed by Saul of Tarsus. Patron of deacons, casket makers, and Hungary. |
 | **St. Cecilia** | [patron-st-cecilia.md](patron-st-cecilia.md) | Roman virgin and martyr (c. 200–230 A.D.), sang to God in her heart at her wedding feast, incorrupt body discovered in 1599. Patroness of musicians, sacred music, and the blind. |
+| **St. Charbel Makhlouf** | [st-charbel-makhlouf.md](st-charbel-makhlouf.md) | Maronite monk, priest, and hermit (1828–1898), the "Padre Pio of Lebanon," the first Eastern confessor canonized under the modern procedure of the Catholic Church. Lived twenty-three years in the hermitage of Annaya in radical poverty, silence, and Eucharistic adoration. Thousands of miracles attributed to his intercession, especially through the mysterious oil exuding from his tomb. Canonized in 1977 by Pope St. Paul VI. Patron of Lebanon. |
 
 ---
 
