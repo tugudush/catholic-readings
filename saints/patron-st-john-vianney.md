@@ -123,7 +123,36 @@ Pope Benedict XVI declared a **Year for Priests** (19 June 2009 – 11 June 2010
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. John Vianney, the Curé d'Ars and patron of parish priests, spent up to sixteen hours a day in the confessional, reading souls and reconciling sinners to God. The faithful seek his intercession for holy priests, for the grace of a good confession, for perseverance in prayer, and for a deep love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
+
+    O glorious St. John Vianney,
+    patron of parish priests and model of pastors,
+    you who spent yourself utterly in the service of souls,
+    fasting, praying, and hearing confessions without rest,
+    obtain for all priests a share in your zeal
+    and your fatherly love for the flock entrusted to them.
+
+    Holy Curé of Ars,
+    intercede for seminarians and for vocations to the priesthood;
+    teach us to love the Blessed Sacrament as you did;
+    and help us to make worthy confessions,
+    approaching the tribunal of mercy with sincere contrition
+    and firm purpose of amendment.
+
+    St. John Vianney, faithful servant of the altar,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. John Vianney,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The sacrament of Holy Orders.
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — The sacrament of confession, central to Vianney's ministry.

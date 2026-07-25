@@ -171,6 +171,72 @@ St. Lorenzo Ruiz has left an enduring mark on Filipino culture and the global Fi
 
 ---
 
+## 10. Prayer for Intercession
+
+St. Lorenzo Ruiz, the protomartyr of the Philippines, gave his life rather than renounce the Catholic faith, declaring before his executioners: "I am a Catholic and wholeheartedly I accept death for God. If I had a thousand lives, I would offer them all to Him." The faithful invoke him for courage in persecution, for overseas Filipino workers separated from their families, for those falsely accused, and for the grace of perseverance in the face of trial. The following prayer may be used to seek his intercession:
+
+    O St. Lorenzo Ruiz, first canonized Filipino saint,
+    husband, father, catechist, and fearless martyr of Nagasaki,
+    you who gave your life rather than deny the Catholic faith,
+    obtain for us the same courage to confess Christ
+    in word and deed, whatever the cost.
+
+    Protect all overseas Filipino workers
+    and migrants separated from their loved ones;
+    comfort those who are falsely accused or persecuted;
+    and intercede for the Filipino people,
+    that they may remain faithful to the faith
+    you sealed with your blood.
+
+    St. Lorenzo Ruiz, protomartyr of the Philippines,
+    pray for us now and at the hour of our death.
+    Amen.
+
+### Panalangin sa Tagalog
+
+    O San Lorenzo Ruiz, unang kanonisadong santo ng Pilipinas,
+    asawa, ama, katekista, at walang-takot na martir ng Nagasaki,
+    ikaw na nag-alay ng iyong buhay sa halip na itatwa ang pananampalatayang Katoliko,
+    ipagkaloob mo sa amin ang gayunding tapang na ipahayag si Kristo
+    sa salita at sa gawa, anuman ang maging kapalit.
+
+    Ingatan mo ang lahat ng Overseas Filipino Workers
+    at mga migranteng malayo sa kanilang mga mahal sa buhay;
+    aliwin mo ang mga biktima ng maling paratang at pag-uusig;
+    at mamagitan ka para sa sambayanang Pilipino,
+    upang manatili silang tapat sa pananampalataya
+    na iyong pinagtibay sa pamamagitan ng iyong dugo.
+
+    San Lorenzo Ruiz, protomartir ng Pilipinas,
+    ipanalangin mo kami ngayon at sa oras ng aming kamatayan.
+    Amen.
+
+### Pag-ampo sa Bisaya (Cebuano)
+
+    O San Lorenzo Ruiz, unang kanonisadong santos sa Pilipinas,
+    bana, amahan, katekista, ug maisog nga martir sa Nagasaki,
+    ikaw nga mitugyan sa imong kinabuhi imbis nga isalikway ang Katolikong pagtuo,
+    pangayoi alang kanamo ang sama nga kaisog sa pagsangyaw kang Kristo
+    pinaagi sa pulong ug binuhatan, bisan unsa pa ang mahimong kapalit.
+
+    Panalipdi ang tanang Overseas Filipino Workers
+    ug mga migrante nga nahimulag sa ilang mga minahal sa kinabuhi;
+    lipaya ang mga bakak nga gipasanginlan o gilutos;
+    ug mangamuyo alang sa katawhang Pilipino,
+    aron magpabilin silang matinud-anon sa pagtuo
+    nga imong giselyohan pinaagi sa imong dugo.
+
+    San Lorenzo Ruiz, protomartir sa Pilipinas,
+    ampoa kami karon ug sa takna sa among kamatayon.
+    Amen.
+
+_A shorter invocation for daily use:_
+
+    St. Lorenzo Ruiz,
+    pray for us.
+
+---
+
 ## Sources
 
 - Pope John Paul II, Homily for the Beatification of Lorenzo Ruiz, 18 February 1981.

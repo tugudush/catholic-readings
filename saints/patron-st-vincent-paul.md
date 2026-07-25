@@ -156,6 +156,37 @@ The core of Vincent's spirituality is the conviction that **Christ is especially
 
 ---
 
-## 13. Further Reading
+## 13. Prayer for Intercession
+
+St. Vincent de Paul, the Apostle of Charity, organized systematic relief for the poor, the sick, the orphaned, and the imprisoned on a scale the world had never seen — founding both the Congregation of the Mission (the Vincentians) and the Daughters of Charity. The faithful seek his intercession for the poor and abandoned, for those who serve in charitable works, for the grace of practical love, and for the holiness of the diocesan clergy. The following prayer may be used to seek his intercession:
+
+    O glorious St. Vincent de Paul,
+    apostle of charity and father of the poor,
+    you who saw the face of Christ
+    in every suffering member of His Body
+    and organized the Church's charity with apostolic zeal,
+    obtain for us hearts that are moved
+    not by passing sentiment but by effective love.
+
+    Patron of all charitable societies,
+    intercede for those who serve the abandoned,
+    the orphaned, the imprisoned, and the dying;
+    teach us that love is not love
+    until it becomes action;
+    and inflame the hearts of priests
+    with the same pastoral charity that burned in yours.
+
+    St. Vincent de Paul, servant of the poor,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Vincent de Paul,
+    pray for us.
+
+---
+
+## 14. Further Reading
 
 - [saints/README.md](README.md) — Master index of the saints directory.

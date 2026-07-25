@@ -162,6 +162,35 @@ Numerous educational institutions bear his name, including:
 
 ---
 
+## 9. Prayer for Intercession
+
+St. Pedro Calungsod, the young Visayan lay catechist who willingly gave his life alongside his missionary companion, Bl. Diego Luis de San Vitores, is a powerful intercessor for youth, catechists, and altar servers. His courage — choosing to die rather than abandon his spiritual father — inspires the faithful to seek his aid for purity of heart, missionary zeal, and fidelity to one's vocation. The following prayer may be used to seek his intercession:
+
+    O St. Pedro Calungsod, young catechist and martyr,
+    you who left your homeland as a teenager
+    to carry the light of the Gospel to distant shores,
+    and who chose death rather than abandon your mission,
+    obtain for the youth of today
+    the same generosity and purity of heart.
+
+    Intercede for catechists and altar servers everywhere,
+    that they may serve the Lord with joy and reverence;
+    protect overseas Filipino workers
+    and all who labour far from home;
+    and help us to remain faithful to Christ
+    even in the hour of trial.
+
+    St. Pedro Calungsod, patron of Filipino youth,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Pedro Calungsod,
+    pray for us.
+
+---
+
 ## Sources
 
 - Pope John Paul II, Homily for the Beatification of Pedro Calungsod and 44 Companions, 5 March 2000.

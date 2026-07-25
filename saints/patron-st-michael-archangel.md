@@ -135,7 +135,47 @@ In Eastern iconography, he is often shown in the robes of a courtier rather than
 
 ---
 
-## 9. Further Reading
+## 9. Prayer for Intercession
+
+St. Michael the Archangel is the Prince of the Heavenly Host, the defender of the Church against the powers of darkness, and the guardian who escorts souls to the judgment seat of God. The faithful invoke him for protection against evil, for strength in spiritual combat, for the dying, and for the Church in her trials. Pope Leo XIII composed the following prayer after a terrifying vision of the battle being waged by the evil one against the Church, and it remains the most widely used invocation of St. Michael:
+
+    St. Michael the Archangel,
+    defend us in battle;
+    be our protection against the wickedness and snares of the devil.
+
+    May God rebuke him, we humbly pray;
+    and do thou, O Prince of the heavenly host,
+    by the power of God,
+    cast into hell Satan and all the evil spirits
+    who prowl about the world seeking the ruin of souls.
+    Amen.
+
+*A longer prayer for protection:*
+
+    O glorious Prince of the heavenly host,
+    St. Michael the Archangel,
+    defend us in the conflict
+    which we wage against principalities and powers,
+    against the rulers of this world of darkness,
+    against the spirits of wickedness in high places.
+
+    Come to the assistance of men
+    whom God created immortal,
+    made in His own image and likeness,
+    and redeemed at a great price from the tyranny of the devil.
+
+    St. Michael, standard-bearer of salvation,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Michael the Archangel,
+    defend us in battle.
+
+---
+
+## 10. Further Reading
 
 - [angelology/angelic-hierarchy-choirs.md](../angelology/angelic-hierarchy-choirs.md) — The nine choirs of angels and their hierarchy.
 - [angelology/fallen-angels-demonology.md](../angelology/fallen-angels-demonology.md) — The fallen angels and the battle against evil.

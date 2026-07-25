@@ -137,7 +137,37 @@ St. Dominic is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Dominic de Guzmán, founder of the Order of Preachers (the Dominicans), received the Holy Rosary from the hands of the Blessed Virgin Mary herself as a spiritual weapon against the Albigensian heresy. The faithful seek his intercession for a love of sacred truth, for preachers and teachers of the faith, for the conversion of heretics and unbelievers, for the grace to defend the faith with charity, and for devotion to the Most Holy Rosary. The following prayer may be used to seek his intercession:
+
+    O glorious St. Dominic, founder of the Order of Preachers
+    and beloved son of the Blessed Virgin Mary,
+    you who received the Holy Rosary from the Queen of Heaven
+    as a weapon against error and a chain of salvation for souls,
+    obtain for us a share in your burning zeal
+    for the truth of the Gospel.
+
+    Light of the Church and champion of the faith,
+    intercede for all who preach and teach in Christ's name,
+    that they may proclaim the Word with clarity and charity;
+    kindle in us a love for the Rosary
+    and all the mysteries of our salvation;
+    and lead souls wandering in darkness
+    to the light of the Truth who is Christ.
+
+    St. Dominic, hound of the Lord,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Dominic de Guzmán,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/patron-st-thomas-aquinas.md](patron-st-thomas-aquinas.md) — The greatest Dominican theologian.
 - [saints/patron-st-catherine-siena.md](patron-st-catherine-siena.md) — Dominican tertiary and Doctor of the Church.

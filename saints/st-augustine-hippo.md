@@ -155,7 +155,36 @@ Several religious orders follow the **Rule of St. Augustine**, including:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Augustine of Hippo, the Doctor of Grace, was a restless sinner who became one of the Church's greatest saints and theologians. His *Confessions* — the first spiritual autobiography ever written — opens with the immortal words: "You have made us for Yourself, O Lord, and our heart is restless until it rests in You." The faithful seek his intercession for the conversion of sinners, for those struggling with impurity, for those seeking the truth, for students and scholars, and for the grace of final perseverance. The following prayer may be used to seek his intercession:
+
+    O glorious St. Augustine, Doctor of Grace
+    and son of so many tears, shed by your mother Monica,
+    you who wandered far from God
+    and were captured at last by Beauty ever ancient, ever new,
+    obtain for all who have strayed from the Father's house
+    the grace of conversion and return.
+
+    Bishop of Hippo and light of the Church,
+    intercede for those who seek the truth in darkness;
+    help those bound by the chains of impurity
+    to find freedom in the grace of Christ;
+    and teach us to love God above all things
+    and then do what we will.
+
+    St. Augustine, restless heart that found its rest,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Augustine of Hippo,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/patron-st-monica.md](patron-st-monica.md) — St. Monica, mother of St. Augustine.
 - [saints/patron-st-thomas-aquinas.md](patron-st-thomas-aquinas.md) — St. Thomas Aquinas, whose theology built on Augustine.

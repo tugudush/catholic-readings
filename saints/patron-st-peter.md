@@ -221,7 +221,34 @@ St. Peter has been a central figure in Christian art from the earliest Roman cat
 
 ---
 
-## 13. Further Reading
+## 13. Prayer for Intercession
+
+St. Peter, the Prince of the Apostles, holds the keys of the Kingdom of Heaven (Matthew 16:19). The Church has always turned to his powerful intercession for the unity of the faithful, for the Holy Father, and for the grace of repentance and firm faith. The following prayer may be used to seek his heavenly aid:
+
+    O glorious St. Peter, Prince of the Apostles,
+    upon whom Christ built His Church
+    and to whom He entrusted the keys of the Kingdom of Heaven,
+    pray for us, that we may hold fast to the true faith
+    which you confessed with your lips and sealed with your blood.
+
+    Obtain for us the grace of sincere repentance
+    when we have denied our Lord by sin,
+    and a love for Christ's flock like your own.
+    Intercede for our Holy Father, the successor of your apostolic office,
+    that he may strengthen his brethren in the one true fold.
+
+    St. Peter, rock of the Church,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Peter, Prince of the Apostles,
+    pray for us.
+
+---
+
+## 14. Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The unbroken succession of Roman Pontiffs from St. Peter to the present.
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The first generations of Christian leaders after the Apostles.

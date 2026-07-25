@@ -115,7 +115,39 @@ St. Gregory the Great is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Gregory the Great, Pope and Doctor of the Church, is one of the four great Latin Fathers and the architect of medieval Christendom. He reformed the liturgy (giving his name to Gregorian chant), sent St. Augustine of Canterbury to evangelize England, wrote the *Pastoral Rule* that shaped bishoply ministry for a millennium, and served the poor of Rome with his own hands. The faithful seek his intercession for the Holy Father, for those who serve in liturgical music, for the conversion of nations, and for the grace of humble and faithful pastoral leadership. The following prayer may be used to seek his intercession:
+
+    O glorious St. Gregory the Great,
+    Pope and Doctor of the Church,
+    you who called yourself Servus Servorum Dei —
+    the servant of the servants of God —
+    and who governed the Church
+    with the heart of a pastor and the mind of a scholar,
+    obtain for all who hold authority in the Church
+    the same humility and wisdom.
+
+    Reformer of the liturgy and father of sacred music,
+    intercede for those who sing the praises of God,
+    that their music may be a true participation
+    in the heavenly liturgy;
+    inspire missionaries to carry the Gospel
+    to lands where Christ is not yet known;
+    and teach us to see the face of Christ in the poor.
+
+    St. Gregory, consul of God,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Gregory the Great,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
 - [saints/patron-st-benedict.md](patron-st-benedict.md) — St. Benedict, whose life Gregory recorded.

@@ -125,7 +125,36 @@ St. Francis de Sales is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Francis de Sales, the Doctor of Divine Love and patron of writers and journalists, taught that holiness is not reserved for monks and nuns but is the universal vocation of every Christian in every state of life. The faithful seek his intercession for the grace of gentleness in dealing with others, for wisdom in writing and communication, for patience with oneself in the spiritual life, and for a deeper trust in God's merciful love. The following prayer may be used to seek his intercession:
+
+    O gentle St. Francis de Sales,
+    Bishop of Geneva and Doctor of Divine Love,
+    you who taught that a heart at peace
+    gives life to the body and draws souls to God,
+    obtain for us the gift of that holy gentleness
+    which flows from the Sacred Heart of Jesus.
+
+    Patron of writers and journalists,
+    intercede for all who communicate through the written word,
+    that they may speak the truth in charity;
+    help us to practice the devout life
+    in the ordinary duties of our state,
+    and to trust that God's grace works all things in His time.
+
+    St. Francis de Sales, mirror of meekness,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Francis de Sales,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — Another Doctor of the Church known for her writings on prayer.
 - [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — The Little Way, similar to Salesian spirituality.

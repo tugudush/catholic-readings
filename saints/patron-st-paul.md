@@ -189,7 +189,36 @@ The Eastern Catholic Churches honour Paul as the **Apostle to the Nations** and 
 
 ---
 
-## 12. Further Reading
+## 12. Prayer for Intercession
+
+St. Paul, the Apostle to the Gentiles, was a man of unflagging zeal for the Gospel, whose conversion on the Damascus Road stands as a perpetual sign that no sinner is beyond the reach of God's grace. The faithful invoke him for courage in evangelization, for the conversion of souls, and for perseverance in the race of faith. The following prayer may be used to seek his intercession:
+
+    O glorious St. Paul, Apostle to the Gentiles,
+    vessel of election and herald of the Gospel,
+    you who were transformed from a persecutor
+    into the greatest missionary of Christ,
+    obtain for us the grace of true conversion of heart.
+
+    Teach us to proclaim Christ crucified
+    with the same boldness that carried you
+    across sea and land for the sake of the Name.
+    Intercede for missionaries, evangelists,
+    and all who labour to spread the light of the Gospel,
+    that they may say with you:
+    "It is no longer I who live, but Christ who lives in me."
+
+    St. Paul, Apostle and Martyr,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Paul the Apostle,
+    pray for us.
+
+---
+
+## 13. Further Reading
 
 - [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter the Apostle, Prince of the Apostles.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The foundations of the early Church.

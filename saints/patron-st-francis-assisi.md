@@ -149,7 +149,35 @@ St. Francis founded **three orders**:
 
 ---
 
-## 12. Further Reading
+## 12. Prayer for Intercession
+
+St. Francis of Assisi, Il Poverello, embodied the radical poverty and joyous love of Christ to such a degree that he received the sacred stigmata — the very wounds of the Crucified. The faithful seek his intercession for the grace of simplicity, for peace in a divided world, for love of all God's creation, and for the courage to live the Gospel without compromise. The following prayer, inspired by the Franciscan tradition, may be used to seek his intercession:
+
+    O seraphic St. Francis, mirror of Christ's poverty
+    and herald of the Great King,
+    you who were so conformed to Jesus crucified
+    that you bore His sacred wounds in your own flesh,
+    obtain for us a heart detached from worldly goods
+    and burning with love for God alone.
+
+    St. Francis, lover of all God's creatures,
+    teach us to see the Creator's beauty in every living thing;
+    St. Francis, instrument of Christ's peace,
+    make us channels of that peace
+    where there is hatred, injury, doubt, and despair.
+
+    St. Francis of Assisi, little poor man of God,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Francis of Assisi,
+    pray for us.
+
+---
+
+## 13. Further Reading
 
 - [saints/patron-st-clare-assisi.md](patron-st-clare-assisi.md) — St. Clare of Assisi, foundress of the Poor Clares.
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — The stigmata in the lives of the saints.

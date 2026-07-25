@@ -128,7 +128,39 @@ St. John of the Cross is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order alongside St. Teresa of Ávila, endured imprisonment, starvation, and flogging at the hands of his own brethren — and in that dark cell composed some of the most sublime poetry in the Spanish language, including the *Spiritual Canticle* and *The Dark Night of the Soul*. The faithful seek his intercession for those suffering spiritual dryness and desolation, for poets and contemplatives, for those unjustly imprisoned, and for the grace to embrace the Cross as the path to union with God. The following prayer may be used to seek his intercession:
+
+    O glorious St. John of the Cross,
+    Mystical Doctor and father of the poor in spirit,
+    you who discovered in the darkness of a prison cell
+    the light that no darkness can overcome,
+    obtain for us the courage to walk the narrow way
+    that leads through the night of faith
+    to the summit of Mount Carmel.
+
+    Doctor of the *Nada* who taught that nothing —
+    nothing — nothing — is the path to the All,
+    intercede for those who suffer spiritual darkness
+    and feel abandoned by God;
+    teach us to seek not consolations but the Consoler,
+    not gifts but the Giver,
+    not the fading sweetness of creatures
+    but the eternal embrace of the Beloved.
+
+    St. John of the Cross, poet of divine love,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. John of the Cross,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, his collaborator in the Carmelite reform.
 - [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor.

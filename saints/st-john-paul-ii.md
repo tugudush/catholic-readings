@@ -153,7 +153,37 @@ St. John Paul II is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. John Paul II, the Pilgrim Pope whose pontificate spanned twenty-six years and touched every continent, was instrumental in the fall of communism, the promulgation of the *Catechism of the Catholic Church*, the Theology of the Body, and the institution of Divine Mercy Sunday. The faithful seek his intercession for the young, for families, for those suffering from illness (particularly Parkinson's disease), for the defence of human dignity, and for the grace to echo his signature exhortation: "Be not afraid!" The following prayer may be used to seek his intercession:
+
+    O St. John Paul II, Vicar of Christ
+    and Pope of the family,
+    you who opened wide the doors to Christ
+    and travelled to the ends of the earth
+    to proclaim the Gospel of life,
+    obtain for us a share in your apostolic courage.
+
+    Totus Tuus — all yours, Mary — was your motto and your life;
+    teach us to entrust ourselves wholly
+    to the maternal intercession of the Blessed Virgin.
+    Intercede for families, for the young,
+    and for all who suffer in body or spirit;
+    and help us to hear Christ's words anew:
+    "Be not afraid! I am with you always."
+
+    St. John Paul the Great,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. John Paul II,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — Divine Mercy devotion, which John Paul II championed.

@@ -101,7 +101,36 @@ According to tradition, the relics of St. Stephen were discovered in **415 A.D.*
 
 ---
 
-## 9. Further Reading
+## 9. Prayer for Intercession
+
+St. Stephen, the Protomartyr and first deacon of the Church, was filled with the Holy Spirit and saw the heavens opened as he was stoned to death — praying for his executioners even as the stones crushed him. The faithful seek his intercession for the grace of forgiveness toward enemies, for deacons and all who serve at the altar, for courage in bearing witness to Christ, and for the conversion of those who persecute the Church. The following prayer may be used to seek his intercession:
+
+    O glorious St. Stephen, first martyr of the Church
+    and model of deacons,
+    you who saw the heavens opened
+    and Jesus standing at the right hand of the Father,
+    obtain for us a faith so firm
+    that we may see Christ's glory in every trial.
+
+    Faithful witness who prayed for those who stoned you,
+    intercede for us that we may forgive
+    as we have been forgiven;
+    teach us to love our enemies
+    and to commend our spirits into the hands of Jesus,
+    as you did at the hour of your death.
+
+    St. Stephen, Protomartyr,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Stephen, first martyr,
+    pray for us.
+
+---
+
+## 10. Further Reading
 
 - [saints/patron-st-lawrence.md](patron-st-lawrence.md) — St. Lawrence, deacon and martyr.
 - [saints/patron-st-paul.md](patron-st-paul.md) — St. Paul, who witnessed Stephen's martyrdom.

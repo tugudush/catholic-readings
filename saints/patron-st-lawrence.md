@@ -85,7 +85,35 @@ The **Escorial** palace-monastery in Spain is dedicated to St. Lawrence, built i
 
 ---
 
-## 8. Further Reading
+## 8. Prayer for Intercession
+
+St. Lawrence, deacon and martyr, presented the poor, the crippled, and the blind as the true treasures of the Church — and for this confession he was roasted alive on a gridiron, famously telling his executioners, "Turn me over; I am done on this side." The faithful seek his intercession for a cheerful spirit in suffering, for the grace of holy humour in the face of trial, for deacons and all who serve the poor, and for protection against fire. The following prayer may be used to seek his intercession:
+
+    O glorious St. Lawrence, deacon and martyr,
+    you who recognized Christ in the poor
+    and presented them as the imperishable treasure of the Church,
+    obtain for us a heart that sees the face of Jesus
+    in every suffering member of His Body.
+
+    Courageous witness who joked amid the flames
+    because your heart was already consumed by divine love,
+    intercede for all deacons who serve at the altar and in charity;
+    teach us to give cheerfully what we cannot keep,
+    and to bear every trial with the peace
+    that comes from union with Christ crucified.
+
+    St. Lawrence, keeper of the Church's true riches,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Lawrence, deacon and martyr,
+    pray for us.
+
+---
+
+## 9. Further Reading
 
 - [saints/patron-st-stephen.md](patron-st-stephen.md) — St. Stephen, the first Christian martyr.
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The diaconate.

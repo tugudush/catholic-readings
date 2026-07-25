@@ -279,7 +279,37 @@ St. Athanasius is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Athanasius of Alexandria, the twentieth Patriarch of Alexandria and Doctor of the Church, stood against the world — *Athanasius contra mundum* — when nearly the whole Church wavered before the Arian heresy. His five exiles and forty-five years as bishop, during which he defended the full divinity of Christ, earned him the title "Father of Orthodoxy." The faithful seek his intercession for steadfastness in defending the faith, for those persecuted for orthodoxy, for the unity of the Church, and for a deep understanding of the mystery of the Incarnation. The following prayer may be used to seek his intercession:
+
+    O glorious St. Athanasius, Pillar of the Church
+    and Father of Orthodoxy,
+    you who stood against the world
+    when the world stood against Christ,
+    and who suffered five exiles rather than betray
+    one iota of the truth concerning the Son of God,
+    obtain for us a share in your intrepid faith.
+
+    Defender of Nicaea and champion of the *homoousios*,
+    intercede for all who are persecuted
+    for confessing the full divinity of Christ;
+    strengthen those who waver before the spirit of the age;
+    and deepen our wonder before the mystery you proclaimed:
+    that God became man so that man might become divine.
+
+    St. Athanasius, Father of Orthodoxy,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Athanasius of Alexandria,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The ecumenical councils and the development of doctrine.
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — The Alexandrian and Antiochene theological traditions.

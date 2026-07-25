@@ -151,7 +151,38 @@ St. Teresa of Ávila is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Church, reformed the Carmelite Order, founded seventeen convents of Discalced Carmelites, and wrote masterpieces of mystical theology — *The Life*, *The Way of Perfection*, and *The Interior Castle* — that remain unsurpassed guides to the life of prayer. Known for her earthy humour, her iron will, and her profound union with God, the faithful seek her intercession for progress in mental prayer, for those suffering from illness or spiritual aridity, for the reform of religious life, and for the grace of holy perseverance. The following prayer, echoing her own words, may be used to seek her intercession:
+
+    O seraphic St. Teresa of Jesus,
+    virgin and Doctor of the Church,
+    you who taught that prayer is nothing else
+    than an intimate sharing between friends —
+    a loving conversation with Him who we know loves us —
+    obtain for us the grace of perseverance in prayer,
+    however dry or difficult it may seem.
+
+    Reformress of Carmel and mother of spiritual souls,
+    intercede for all who seek the living water
+    in the interior castle of the soul;
+    teach us to desire nothing but God alone —
+    *Solo Dios basta* — God alone suffices;
+    and grant that, like you, we may die
+    as faithful children of the Church.
+
+    St. Teresa of Ávila, Doctor of prayer,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Teresa of Ávila,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.
 - [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor of the Church.

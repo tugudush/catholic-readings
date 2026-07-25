@@ -112,7 +112,41 @@ The most common prayer to St. Jude begins:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Jude Thaddeus, Apostle and kinsman of our Lord, is the patron of hopeless and desperate causes — the saint to whom the faithful turn when every earthly avenue is closed and only a miracle remains. The Church honours him with this singular privilege because his intercession before the throne of God is marked by swiftness and power, and because he reminds us that no situation, however desperate, lies beyond the reach of Divine Mercy. The following prayer, the traditional Novena to St. Jude, may be used to seek his intercession:
+
+    O most holy Apostle, St. Jude Thaddeus,
+    faithful servant and friend of Jesus,
+    the Church honours and invokes you universally
+    as the patron of hopeless cases,
+    of things almost despaired of.
+
+    Pray for me, who am so miserable;
+    make use, I implore you,
+    of that particular privilege granted to you,
+    to bring visible and speedy help
+    where help is almost despaired of.
+
+    Come to my assistance in this great need,
+    that I may receive the consolation and help of heaven
+    in all my necessities, tribulations, and sufferings,
+    particularly (here make your request),
+    and that I may praise God with you
+    and with all the elect for all eternity.
+
+    St. Jude, Apostle and Martyr,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Jude, patron of hopeless cases,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The apostolic age.
 - [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter, Prince of the Apostles.

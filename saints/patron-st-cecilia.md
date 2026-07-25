@@ -90,7 +90,35 @@ St. Cecilia is traditionally depicted with:
 
 ---
 
-## 9. Further Reading
+## 9. Prayer for Intercession
+
+St. Cecilia, virgin and martyr, is the patroness of musicians and sacred music because, according to tradition, she sang to God in her heart during her wedding feast and at the hour of her martyrdom. Musicians, singers, composers, and all who serve the liturgy through sacred music seek her intercession, as do those who desire purity of heart and the courage to witness to Christ. The following prayer may be used to seek her intercession:
+
+    O glorious St. Cecilia, virgin and martyr,
+    you who sang to God in your heart
+    while the instruments of the world played around you,
+    obtain for all musicians and singers
+    the grace to use their gifts for the glory of God alone.
+
+    Patroness of sacred music,
+    intercede for those who serve the liturgy through song,
+    that their music may lift hearts to heaven
+    and give the faithful a foretaste of the eternal hymn of praise.
+    Help us to keep our own hearts pure
+    and ever attentive to the voice of the Beloved.
+
+    St. Cecilia, faithful bride of Christ,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Cecilia, patroness of music,
+    pray for us.
+
+---
+
+## 10. Further Reading
 
 - [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — Sacred music in the liturgy.
 - [saints/README.md](README.md) — Master index of the saints directory.

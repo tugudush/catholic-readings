@@ -141,7 +141,38 @@ Thérèse promised on her deathbed: **"I will spend my heaven doing good on eart
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Thérèse of Lisieux, the Little Flower and Doctor of the Church, promised before her death: "I will spend my heaven doing good on earth. I will let fall a shower of roses." Her "Little Way" of spiritual childhood — doing ordinary things with extraordinary love — has inspired millions. The faithful seek her intercession for simplicity of heart, for trust in God's merciful love, for missionaries, for the sick (especially those with tuberculosis), and for the grace to find holiness in the small duties of daily life. The following prayer may be used to seek her intercession:
+
+    O St. Thérèse, Little Flower of Jesus,
+    you who promised to spend your heaven
+    doing good upon earth
+    and to let fall a shower of roses,
+    obtain for us the grace of your Little Way —
+    to love God not by great deeds
+    but by every small act offered with great love.
+
+    Doctor of the Church who taught that confidence,
+    and confidence alone, leads to Love,
+    intercede for missionaries and for all who proclaim the Gospel;
+    comfort the sick and the dying;
+    and teach us to approach our heavenly Father
+    with the trust of a little child
+    who knows only that she is loved.
+
+    St. Thérèse, patroness of missions,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Thérèse of the Child Jesus,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another Carmelite Doctor of the Church.
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.

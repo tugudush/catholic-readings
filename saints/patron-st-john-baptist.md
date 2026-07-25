@@ -145,7 +145,35 @@ John is traditionally depicted as an ascetic figure wearing camel skin, holding 
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. John the Baptist, the Forerunner of the Lord and the greatest of the prophets, was the voice crying in the wilderness who prepared the way for the Messiah and baptized Him in the Jordan. The faithful seek his intercession for the grace of repentance, for the humility to decrease so that Christ may increase, for courage to speak the truth in the face of power, and for the gift of recognizing the presence of the Lamb of God. The following prayer may be used to seek his intercession:
+
+    O glorious St. John the Baptist,
+    Forerunner of the Lord and greatest of the prophets,
+    you who leaped in your mother's womb at the nearness of the Messiah
+    and pointed Him out as the Lamb of God who takes away sin,
+    obtain for us a share in your spirit of penance
+    and your burning love for the Bridegroom.
+
+    Voice crying in the wilderness,
+    help us to prepare the way of the Lord in our own hearts,
+    to straighten the crooked paths of our lives,
+    and to bear fearless witness to the truth,
+    whatever the cost.
+
+    St. John the Baptist, friend of the Bridegroom,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. John the Baptist,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The Gospels' witness to John the Baptist.
 - [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter, the first to confess Christ.

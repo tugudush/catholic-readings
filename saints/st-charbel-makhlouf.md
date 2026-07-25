@@ -235,7 +235,35 @@ At both his beatification and canonization, Pope Paul VI presented Charbel as a 
 
 ---
 
-## 15. Further Reading
+## 15. Prayer for Intercession
+
+St. Charbel is one of the most powerful intercessors of the modern era, with thousands of documented miracles attributed to his heavenly aid — especially physical healings, reconciliations, and conversions. The **22nd of each month** is a traditional day of pilgrimage and prayer to St. Charbel, and many faithful keep a novena to him in times of illness, distress, or spiritual dryness. The oil of St. Charbel, which exudes from his relics, is used as a sacramental for anointing the sick. The following prayer, rooted in the Maronite tradition, may be used to seek his intercession:
+
+    O St. Charbel, holy monk and hermit of Annaya,
+    you who lived hidden in God on the mountain of Lebanon,
+    teach us to pray in silence,
+    to love the Blessed Sacrament with your fervour,
+    and to offer every suffering in union with the Holy Sacrifice of the Mass.
+
+    You who are a river of mercy flowing from the Heart of Christ,
+    intercede for us before the throne of the Most High:
+    obtain for the sick the healing of body and soul,
+    for those who live without God the grace of conversion,
+    for those immersed in noise the gift of holy silence,
+    and for all the faithful perseverance in the love of Jesus and Mary.
+
+    O St. Charbel, patron of Lebanon and friend of the suffering,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Charbel, hermit of Annaya,
+    pray for us.
+
+---
+
+## 16. Further Reading
 
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Comprehensive guide to the Eastern Catholic Churches, including the Maronite Church and its monastic tradition.
 - [saints/st-padre-pio.md](st-padre-pio.md) — St. Pio of Pietrelcina, to whom St. Charbel is often compared ("the Padre Pio of Lebanon").

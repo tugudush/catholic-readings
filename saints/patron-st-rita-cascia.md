@@ -120,7 +120,37 @@ On St. Rita's feast day (22 May), roses are traditionally blessed and distribute
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Rita of Cascia, the patroness of impossible and desperate causes, knew suffering in every state of life — as a wife in a difficult marriage, as a mother who lost her children, as a widow, and as a religious who bore the thorn of Christ's crown in her forehead for fifteen years. The faithful turn to her when every human remedy has failed, trusting that the saint of the impossible will obtain from God what no one else can. The following prayer may be used to seek her intercession:
+
+    O glorious St. Rita, advocate of the impossible
+    and patroness of desperate cases,
+    you who found God's mercy in every trial —
+    in a difficult marriage, in the death of your children,
+    in the cloister and in the wound of Christ's thorn —
+    obtain for us the grace to trust
+    when every earthly hope has failed.
+
+    Holy advocate of those in need,
+    intercede for spouses who suffer in troubled marriages,
+    for parents who weep over wayward children,
+    for widows and those who grieve,
+    and for all who bear hidden wounds
+    known only to the Heart of Christ.
+
+    St. Rita, rose that bloomed in winter,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Rita of Cascia,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, whose Rule Rita followed.
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage.

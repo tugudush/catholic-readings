@@ -355,7 +355,53 @@ The **Sacred Heart of St. Joseph** (analogous to the Sacred Heart of Jesus) is a
 
 ---
 
-## 14. Further Reading
+## 14. Prayer for Intercession
+
+St. Joseph, the just and silent carpenter of Nazareth, is the most powerful intercessor after the Blessed Virgin Mary. As Pope Leo XIII taught, "he holds a place of singular dignity among the saints" because the eternal Father entrusted to him His greatest treasures — Jesus and Mary. The faithful seek his intercession for a happy death, for protection of the family, for purity of heart, for workers and those seeking employment, for the grace of obedient faith, and for the Universal Church. The following prayer, drawn from the Church's rich tradition, may be used to seek his intercession:
+
+    O glorious St. Joseph,
+    spouse of the Immaculate Virgin,
+    foster father of the Son of God,
+    and patron of the Universal Church,
+    obtain for me a pure heart,
+    a humble spirit,
+    and an unfailing trust in Divine Providence.
+
+    Faithful guardian of the Holy Family,
+    protect my family from every evil;
+    patron of the dying,
+    assist me at the hour of my death
+    and present me to Jesus and Mary,
+    in whose presence you yourself breathed your last.
+
+    St. Joseph, terror of demons and protector of the Church,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*The ancient prayer to St. Joseph (known for over 1,900 years):*
+
+    O St. Joseph, whose protection is so great, so strong, so prompt
+    before the throne of God,
+    I place in you all my interests and desires.
+
+    O St. Joseph, assist me by your powerful intercession
+    and obtain for me from your divine Son
+    all spiritual blessings through Jesus Christ our Lord;
+    so that, having engaged here below your heavenly power,
+    I may offer my thanksgiving and homage to the most loving of fathers.
+
+    O St. Joseph, I never grow weary of contemplating you
+    with Jesus asleep in your arms.
+    I dare not approach while He rests near your heart.
+    Press Him in my name and kiss His fine head for me,
+    and ask Him to return the kiss when I draw my dying breath.
+
+    St. Joseph, patron of the departing soul,
+    pray for us.
+
+---
+
+## 15. Further Reading
 
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage and St. Joseph's role as spouse.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — Prayers including the Litany of St. Joseph.

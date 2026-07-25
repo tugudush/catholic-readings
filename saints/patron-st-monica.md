@@ -128,7 +128,35 @@ The relics of St. Monica rest in the Basilica of **Sant'Agostino** in Rome, in a
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Monica, the patient mother who prayed and wept for seventeen years until her wayward son Augustine became a baptized Christian, a bishop, and a Doctor of the Church, is the patroness of mothers, of converts, of difficult marriages, and of all who wait and pray with tears for the conversion of loved ones. The faithful seek her intercession for the grace of persevering prayer, for hope when a situation seems hopeless, and for the return of those who have strayed from the faith. The following prayer may be used to seek her intercession:
+
+    O blessed St. Monica, model of Christian mothers
+    and patroness of those who pray with tears,
+    you who never ceased to plead before the throne of God
+    for the conversion of your husband and your son,
+    obtain for us the same persevering faith in prayer.
+
+    Mother who wept for seventeen years
+    and was told by a bishop that "a child of so many tears cannot perish,"
+    intercede for all who have wandered from the household of faith:
+    for spouses who have grown cold,
+    for children who have abandoned the practice of the sacraments,
+    and for all who have lost their way.
+
+    St. Monica, consoler of anxious mothers,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Monica, patroness of mothers,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, the son whose conversion Monica obtained.
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage.

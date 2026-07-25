@@ -125,7 +125,35 @@ St. George is traditionally depicted as a **Roman soldier on horseback**, slayin
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. George, the Great Martyr and dragon-slayer, is one of the most widely venerated saints in both East and West — a soldier of Christ who preferred death to the denial of his Lord. The faithful seek his intercession for courage in spiritual combat, for protection against evil, for soldiers and all who face danger in the line of duty, and for the grace of unwavering faith in the face of hostility. The following prayer may be used to seek his intercession:
+
+    O glorious St. George, Great Martyr and trophy-bearer,
+    you who confessed Christ before the tyrant
+    and laid down your life rather than worship false gods,
+    obtain for us the same courage in spiritual battle
+    against the dragon who prowls about seeking souls to devour.
+
+    Valiant soldier of the heavenly King,
+    intercede for all who serve in arms,
+    that they may wield their authority with justice;
+    protect those who face persecution for the faith;
+    and strengthen us to fight the good fight
+    until we share in the crown of victory.
+
+    St. George, champion of Christ,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. George, Great Martyr,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The age of persecution under Diocletian.
 - [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — St. Michael, the first soldier-saint.

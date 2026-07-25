@@ -122,7 +122,37 @@ St. Patrick is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Patrick, the Apostle of Ireland, was kidnapped into slavery as a youth, escaped, and then returned to the land of his captivity to bring the Gospel to the very people who had enslaved him — converting an entire nation to Christ. The faithful seek his intercession for the conversion of nations, for those held captive or oppressed, for missionaries, and for protection against spiritual enemies. The following prayer, drawing on the famous Breastplate of St. Patrick (*Lorica Sancti Patricii*), may be used to seek his intercession:
+
+    O glorious St. Patrick, Apostle of Ireland,
+    you who returned love for hatred
+    and brought the light of Christ to a pagan land,
+    obtain for us the missionary courage
+    to bear witness to the Gospel
+    even among those who oppose us.
+
+    Through your powerful intercession,
+    may Christ be before us and behind us,
+    Christ be within us and around us,
+    Christ be in the heart of every one who thinks of us,
+    Christ be in the mouth of every one who speaks of us,
+    Christ be in every eye that sees us,
+    Christ be in every ear that hears us.
+
+    St. Patrick, bishop and confessor,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Patrick, Apostle of Ireland,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The spread of Christianity in the early medieval period.
 - [saints/README.md](README.md) — Master index of the saints directory.

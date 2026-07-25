@@ -133,7 +133,39 @@ St. Pio of Pietrelcina is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Pio of Pietrelcina (Padre Pio), the stigmatist of San Giovanni Rotondo, bore the visible wounds of Christ for fifty years and spent up to sixteen hours a day in the confessional, reading souls and reconciling sinners to God. His famous counsel — "Pray, hope, and don't worry" — has comforted millions. The faithful seek his intercession for physical and spiritual healing, for the grace of a worthy confession, for those suffering from anxiety, for the sick (especially through the Casa Sollievo della Sofferenza), and for the gift of perseverance in trial. The following prayer may be used to seek his intercession:
+
+    O St. Pio of Pietrelcina,
+    faithful servant of the Crucified
+    and mirror of His sacred wounds,
+    you who bore the stigmata for fifty years
+    and poured out your life in the confessional
+    for the healing of souls,
+    obtain for us the grace of true contrition
+    and the courage to approach the tribunal of mercy.
+
+    Padre Pio, consoler of the afflicted,
+    you who taught us: "Pray, hope, and don't worry;
+    worry is useless — God is merciful and will hear your prayer,"
+    intercede for those who suffer in body and mind;
+    comfort the anxious and the despairing;
+    and help us to unite every pain
+    to the saving Passion of our Lord Jesus Christ.
+
+    St. Pio, stigmatist and confessor,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Padre Pio,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — Detailed account of the stigmata of Padre Pio.
 - [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, the first stigmatist.

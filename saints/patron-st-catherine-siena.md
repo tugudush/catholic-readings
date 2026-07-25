@@ -118,7 +118,37 @@ St. Catherine of Siena is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Catherine of Siena, the seraphic virgin and Doctor of the Church, was a fiery lover of Christ crucified whose intercession was so powerful that she was instrumental in ending the Avignon Papacy and returning the Pope to Rome. The faithful seek her intercession for courage to speak the truth to those in authority, for purity of heart, for the healing of divisions in the Church, and for a consuming love of the Precious Blood of Christ. The following prayer may be used to seek her intercession:
+
+    O seraphic St. Catherine, beloved spouse of Christ
+    and Doctor of the Universal Church,
+    you who were so united to the Passion of our Lord
+    that you bore His wounds invisibly in your soul,
+    obtain for us a share in your burning love
+    for the Precious Blood and for the Mystical Body of Christ.
+
+    Courageous virgin who spoke the truth to popes and princes,
+    intercede for the Church in our own time,
+    that she may be purified, renewed, and united;
+    teach us to enter the interior cell of self-knowledge
+    where God dwells and speaks to the soul;
+    and lead us to that perfect charity
+    which you called the sweet and gentle fire of the Holy Spirit.
+
+    St. Catherine of Siena, patroness of Europe,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Catherine of Siena,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The Avignon Papacy and Western Schism.
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another woman Doctor of the Church.

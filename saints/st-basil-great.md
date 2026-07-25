@@ -129,7 +129,37 @@ St. Basil the Great is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Basil the Great, Bishop of Caesarea, Father of the Church, and father of Eastern monasticism, gave the Christian East its definitive monastic Rule, its most sublime Eucharistic liturgy, and a model of pastoral care that combined intellectual brilliance with tireless service to the poor. The faithful seek his intercession for monks and nuns, for the unity of East and West, for those engaged in theological study, and for the grace to combine contemplation with active charity. The following prayer may be used to seek his intercession:
+
+    O glorious St. Basil the Great,
+    Bishop of Caesarea and Doctor of the Church,
+    you who laid the foundations of Eastern monasticism
+    and gave the Church a liturgy of surpassing beauty,
+    obtain for us hearts that seek God
+    both in the stillness of prayer
+    and in the service of the poor.
+
+    Father of monks and defender of the divinity of the Holy Spirit,
+    intercede for all who live the monastic life;
+    strengthen the bonds of communion
+    between the churches of East and West;
+    and teach us to hold fast to the faith you defended
+    with such eloquence and courage.
+
+    St. Basil, light of Cappadocia,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Basil the Great,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — The Eastern Catholic tradition.
 - [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Byzantine Divine Liturgy.

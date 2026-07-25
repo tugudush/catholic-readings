@@ -135,7 +135,38 @@ The **Medal of St. Benedict** is one of the most popular sacramentals in the Cat
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Benedict of Nursia, the Father of Western monasticism and co-patron of Europe, bequeathed to the Church a Rule that has formed countless souls in the school of the Lord's service. The faithful seek his intercession for a spirit of prayer and work (*ora et labora*), for protection against evil (through the Medal of St. Benedict), for a good and holy death, and for the grace of stability in one's vocation. The following prayer may be used to seek his intercession:
+
+    O glorious St. Benedict, Father of monks
+    and patron of a holy death,
+    you who preferred nothing to the love of Christ
+    and taught your sons to seek God
+    through prayer, work, and sacred reading,
+    obtain for us a spirit of silence and recollection
+    in the midst of a noisy world.
+
+    Through the power of the Holy Cross
+    and the intercession of your blessed medal,
+    protect us from the snares of the evil one;
+    help us to persevere in our state of life
+    with the stability and obedience you taught;
+    and grant us the grace of a peaceful death,
+    with our eyes fixed on the Face of Christ.
+
+    St. Benedict, Patriarch of Western monasticism,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Benedict of Nursia,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The early medieval Church.
 - [sacramentals/README.md](../sacramentals/README.md) — The Medal of St. Benedict as a sacramental.

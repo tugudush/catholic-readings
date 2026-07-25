@@ -144,7 +144,35 @@ St. Joan of Arc is the patron saint of:
 
 ---
 
-## 10. Further Reading
+## 10. Prayer for Intercession
+
+St. Joan of Arc, the Maid of Orléans, was a peasant girl who, at the age of seventeen, led the French army to victory under the guidance of St. Michael, St. Catherine, and St. Margaret — and who was burned at the stake at nineteen with the name of Jesus on her lips. The faithful seek her intercession for courage against overwhelming odds, for purity in youth, for those unjustly condemned, and for unwavering fidelity to the will of God. The following prayer may be used to seek her intercession:
+
+    O St. Joan of Arc, virgin and warrior,
+    you who heard the voice of heaven
+    and obeyed without counting the cost,
+    obtain for us the courage to follow God's call
+    even when the world deems it foolish.
+
+    Faithful daughter of the Church
+    who was abandoned by the very prelates you defended,
+    intercede for all who suffer injustice and betrayal;
+    teach the young to love purity above life itself;
+    and help us to hold fast to Christ
+    with our last breath, as you did amid the flames.
+
+    St. Joan, Maid of Orléans,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Joan of Arc,
+    pray for us.
+
+---
+
+## 11. Further Reading
 
 - [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — St. Michael the Archangel, who appeared to Joan.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The historical context of the Hundred Years' War.

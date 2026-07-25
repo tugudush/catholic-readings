@@ -138,7 +138,35 @@ The **Lily of St. Anthony** and the **Infant Jesus** (whom he once held in a vis
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Anthony of Padua is one of the most beloved and widely invoked saints in the Catholic world, renowned especially as the patron of lost things and lost people. The traditional prayer to find lost articles — "St. Anthony, St. Anthony, please come round; something's lost and can't be found" — is but the simplest expression of a deeper trust in his powerful intercession before the throne of God. The faithful also seek his aid for the poor, for travelers, and for a deeper love of Sacred Scripture. The following prayer, rooted in the Franciscan tradition, may be used to seek his intercession:
+
+    O glorious St. Anthony, Evangelical Doctor
+    and faithful servant of the Holy Gospel,
+    you who preached the Word with such power
+    that even the fish of the sea rose to listen,
+    obtain for us a living faith in the Real Presence of Christ
+    and a hunger for the Sacred Scriptures.
+
+    Gentle protector of the poor and comforter of the afflicted,
+    help us to find what we have lost —
+    not only our earthly possessions,
+    but above all the grace of God when we have strayed by sin,
+    and the peace of soul that comes from trust in Divine Providence.
+
+    St. Anthony, friend of the Child Jesus,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Anthony of Padua,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, founder of the Franciscan Order.
 - [saints/patron-st-clare-assisi.md](patron-st-clare-assisi.md) — St. Clare of Assisi, companion in the Franciscan movement.

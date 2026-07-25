@@ -122,7 +122,37 @@ St. Ambrose of Milan is the patron saint of:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Ambrose of Milan, Father and Doctor of the Church, was the bishop who baptized St. Augustine and whose preaching opened the Scriptures to the greatest mind of the Latin Church. He is the father of Latin hymnody and the patron of Milan, of beekeepers (a swarm of bees settled on his infant lips, foretelling his eloquence), and of those who study Sacred Scripture. The faithful seek his intercession for courage in defending the faith before civil authority, for the gift of sacred eloquence, and for the grace to read Scripture with the mind of the Church. The following prayer may be used to seek his intercession:
+
+    O glorious St. Ambrose, Bishop of Milan
+    and Doctor of the Church,
+    you who barred the emperor from the doors of the cathedral
+    until he repented of his sin,
+    obtain for bishops and pastors
+    the courage to speak the truth to those in power
+    and to guard the flock entrusted to them.
+
+    Father of Latin hymnody and teacher of St. Augustine,
+    intercede for all who study the Sacred Scriptures,
+    that they may find Christ in every page;
+    teach us to sing the praises of God with mind and voice,
+    and to confront the powers of this world
+    with the freedom of the sons of God.
+
+    St. Ambrose, faithful shepherd,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Ambrose of Milan,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, Ambrose's greatest convert.
 - [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Ambrosian Rite of Milan.

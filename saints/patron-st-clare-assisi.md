@@ -132,7 +132,35 @@ St. Clare is traditionally depicted as a **Franciscan nun** holding:
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Clare of Assisi, the first woman to write a monastic rule and the foundress of the Poor Clares, lived a life of evangelical poverty so radical that she was called *alter Franciscus* — another Francis. The faithful seek her intercession for the grace of trust in Divine Providence, for clarity of vision (both physical and spiritual), for protection of the home, and for a love of the Blessed Sacrament. The following prayer may be used to seek her intercession:
+
+    O seraphic St. Clare, lily of Assisi
+    and faithful disciple of holy poverty,
+    you who gazed upon the Blessed Sacrament
+    and found therein your strength against every assault,
+    obtain for us a share in your unfailing trust
+    in the Providence of our Heavenly Father.
+
+    Protectress of your spiritual daughters
+    and patroness of television and all media,
+    intercede that our eyes may see only what leads to God,
+    that our homes may be safeguarded by the presence of Christ,
+    and that we may prefer nothing to the love of the Most High.
+
+    St. Clare, clear mirror of gospel perfection,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Clare of Assisi,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, who inspired Clare.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Eucharist, central to Clare's spirituality.

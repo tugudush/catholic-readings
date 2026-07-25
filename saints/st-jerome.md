@@ -144,7 +144,36 @@ St. Jerome is the patron saint of:
 
 ---
 
-## 12. Further Reading
+## 12. Prayer for Intercession
+
+St. Jerome, Father and Doctor of the Church, was the greatest biblical scholar of the ancient world — the translator of the Latin Vulgate, which was the official Bible of the Western Church for over fifteen centuries. Despite his famously irascible temperament, he was a man of deep prayer and asceticism who spent his final decades as a hermit in Bethlehem. The faithful seek his intercession for a love of Sacred Scripture, for scholars and translators, for those struggling with anger or impatience, and for the grace of combining study with prayer. The following prayer may be used to seek his intercession:
+
+    O glorious St. Jerome, Doctor of the Church
+    and greatest of biblical translators,
+    you who declared that ignorance of Scripture
+    is ignorance of Christ,
+    obtain for us a hunger for the Word of God
+    and the diligence to study it with the mind of the Church.
+
+    Hermit of Bethlehem and fiery defender of orthodoxy,
+    intercede for scholars and translators
+    who labour to make the Scriptures known in every tongue;
+    temper our impatience with your own hard-won humility;
+    and teach us that the same lips that study the sacred page
+    must also praise God in prayer and penance.
+
+    St. Jerome, lover of the Word,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Jerome,
+    pray for us.
+
+---
+
+## 13. Further Reading
 
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The canon of Scripture and the history of the Vulgate.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, contemporary and correspondent of Jerome.

@@ -131,7 +131,35 @@ St. Nicholas is traditionally depicted as a **bearded bishop** in Eastern vestme
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Nicholas of Myra, the Wonderworker, is one of the most beloved saints in both the Eastern and Western Churches. His legendary generosity — secretly providing dowries for three impoverished maidens by throwing bags of gold through their window — is the origin of the Christmas gift-giving tradition and earned him the role of patron of children. The faithful seek his intercession for the protection of children, for sailors and travelers, for those in financial distress, and for the grace of anonymous charity. The following prayer may be used to seek his intercession:
+
+    O glorious St. Nicholas, Wonderworker of Myra
+    and defender of the true faith at Nicaea,
+    you who gave in secret so that the left hand knew not
+    what the right hand was doing,
+    obtain for us the grace of generous hearts
+    that seek no reward but the smile of the heavenly Father.
+
+    Patron of children and protector of sailors,
+    intercede for the little ones
+    that they may grow in wisdom and grace;
+    watch over those who travel by sea and by land;
+    and come to the aid of all who face hardship and want.
+
+    St. Nicholas, bishop and confessor,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Nicholas of Myra,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The Council of Nicaea and the Arian controversy.
 - [saints/README.md](README.md) — Master index of the saints directory.

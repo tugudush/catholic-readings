@@ -303,7 +303,38 @@ St. Ignatius of Loyola is the patron saint of:
 
 ---
 
-## 13. Further Reading
+## 13. Prayer for Intercession
+
+St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author of the *Spiritual Exercises*, was a Basque knight converted from worldly ambition to the service of the King of Kings. The faithful seek his intercession for the grace of discernment of spirits, for the Society of Jesus and all its works, for those making retreats, for the greater glory of God (*Ad Maiorem Dei Gloriam*), and for the gift of holy indifference — the freedom to desire nothing but God's will. The following prayer, drawn from his *Spiritual Exercises*, may be used to seek his intercession:
+
+    O glorious St. Ignatius of Loyola,
+    founder of the Society of Jesus
+    and master of the discernment of spirits,
+    you who traded the ambitions of a knight
+    for the standard of Christ the King,
+    obtain for us the grace to seek and find God in all things.
+
+    Take, Lord, and receive all my liberty,
+    my memory, my understanding, and my entire will —
+    all that I have and possess.
+    You have given all to me;
+    to You, O Lord, I return it.
+    All is Yours; dispose of it wholly according to Your will.
+    Give me only Your love and Your grace;
+    that is enough for me.
+
+    St. Ignatius, soldier of Christ,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Ignatius of Loyola,
+    pray for us.
+
+---
+
+## 14. Further Reading
 
 - [church-history/protestant-reformation.md](../church-history/protestant-reformation.md) — The historical context of the Catholic Reformation in which St. Ignatius lived and worked.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The early Church foundations that St. Ignatius sought to defend and renew.

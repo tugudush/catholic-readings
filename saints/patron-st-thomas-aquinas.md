@@ -160,7 +160,37 @@ In the *Summa Theologica* (I, q. 2, a. 3), Thomas presents **five proofs for the
 
 ---
 
-## 11. Further Reading
+## 11. Prayer for Intercession
+
+St. Thomas Aquinas, the Angelic Doctor and the greatest theologian of the Catholic Church, composed the incomparable Eucharistic hymns *Pange Lingua*, *Adoro Te Devote*, and *Tantum Ergo* — and his *Summa Theologica* remains a pillar of Catholic intellectual tradition. The faithful seek his intercession for clarity of thought, for purity of heart (the angelic virtue for which he was girded by angels), for students and scholars, for those struggling with doubt, and for a deeper love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
+
+    O glorious St. Thomas Aquinas,
+    Angelic Doctor and prince of theologians,
+    you who penetrated the mysteries of God
+    with the light of reason illumined by faith
+    and composed hymns that still draw souls to the altar,
+    obtain for us a mind that seeks the truth
+    and a heart that rests in the Truth found.
+
+    Patron of students and universities,
+    intercede for all who study the sacred sciences,
+    that they may never separate faith from reason;
+    help those troubled by doubt to find their way home;
+    and kindle in us the Eucharistic love
+    that made you say, "I behold nothing else but Thee, O God."
+
+    St. Thomas Aquinas, Doctor of the Church,
+    pray for us now and at the hour of our death.
+    Amen.
+
+*A shorter invocation for daily use:*
+
+    St. Thomas Aquinas,
+    pray for us.
+
+---
+
+## 12. Further Reading
 
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist, whose theology Thomas expounded.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine of Hippo, whose thought Thomas synthesized with Aristotle.
