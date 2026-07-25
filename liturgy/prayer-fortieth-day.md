@@ -23,22 +23,22 @@ This prayer may be prayed privately at home, at the graveside, or before the Ble
 
 ## Prayer for the Fortieth Day
 
-In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+    In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
 ---
 
-O God, who commanded us to honor our father and mother,
-look with mercy upon the soul of Your servant N.,
-whom You have called from this life to Yourself.
-On this fortieth day,
-as the Church recalls the Ascension of Your Son
-and the fulfillment of His promise of eternal life,
-I commend N. into Your loving hands.
-Cleanse N. of every stain of sin,
-and grant entrance into Your heavenly kingdom,
-where there is no sorrow, no suffering, but only peace and joy
-in the light of Your countenance.
-Through Christ our Lord. Amen.
+    O God, who commanded us to honor our father and mother,
+    look with mercy upon the soul of Your servant N.,
+    whom You have called from this life to Yourself.
+    On this fortieth day,
+    as the Church recalls the Ascension of Your Son
+    and the fulfillment of His promise of eternal life,
+    I commend N. into Your loving hands.
+    Cleanse N. of every stain of sin,
+    and grant entrance into Your heavenly kingdom,
+    where there is no sorrow, no suffering, but only peace and joy
+    in the light of Your countenance.
+    Through Christ our Lord. Amen.
 
 ---
 
@@ -61,8 +61,8 @@ Through Christ our Lord. Amen.
     I wait for the Lord, my soul waits,
     and I hope in His word.
     My soul waits for the Lord
-    more than sentinels wait for the dawn.
-    More than sentinels wait for the dawn,
+    more than sentinels wait for the dawn;
+    more than sentinels wait for the dawn,
     let Israel hope for the Lord,
     for with the Lord is kindness
     and with Him is plenteous redemption,
