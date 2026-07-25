@@ -215,6 +215,7 @@ The **Mass on the fortieth day** is one of the most significant commemorations i
 - Rosary (especially the Glorious Mysteries)
 - Litany of the Saints
 - Office of the Dead
+- A dedicated prayer text is available at [liturgy/prayer-fortieth-day.md](prayer-fortieth-day.md)
 
 **Theological significance:** The fortieth day marks a special transition — the soul is believed to have completed its initial purification and to be in a state of rest, awaiting the final judgment.
 
@@ -407,3 +408,4 @@ The Church grants **indulgences** applicable to the souls in Purgatory:
 - For the Order of the Mass (including the Requiem Mass), see [liturgy/order-of-the-mass.md](order-of-the-mass.md).
 - For regional funeral customs and cultural practices surrounding death, see [cultural-practices/filipino-funeral-traditions.md](../cultural-practices/filipino-funeral-traditions.md) for a comprehensive guide to Filipino traditions including the wake (_Burol_), _Pasiyam_, the 40-day mourning period, and the distinction between cultural practice and Catholic liturgy.
 - For the doctrine and practice of Mass intentions — including how to request a Mass for the dead, the Mass stipend, and the canonical and theological foundations — see [liturgy/mass-intentions.md](mass-intentions.md).
+- For a dedicated prayer for the fortieth day with traditional Latin prayers and the canonical N. placeholder, see [liturgy/prayer-fortieth-day.md](prayer-fortieth-day.md).
