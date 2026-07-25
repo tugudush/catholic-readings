@@ -1,5 +1,7 @@
 # The Sacred Heart of Jesus and Saint Margaret Mary Alacoque (1673-1675)
 
+*For the comprehensive treatment of the devotion to the Sacred Heart of Jesus — its theological foundations, magisterial documents, liturgical solemnity, devotional practices, and prayers — see [liturgy/sacred-heart-devotion.md](../../liturgy/sacred-heart-devotion.md).*
+
 ## Theological Introduction
 The devotions and revelations connected to the Sacred Heart of Jesus stand as one of the most powerful and magisterially endorsed private revelations in Church history:
 - While private revelations do not alter the deposit of faith (CCC 67), the devotion to the Sacred Heart reflects a deep biblical truth: God's love is not abstract but has been made physical and visible in the human Heart of the Incarnate Word.

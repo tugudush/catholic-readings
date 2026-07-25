@@ -39,7 +39,7 @@ Phenomena and supernatural signs surrounding the earthly lives and relics of the
 Mystical revelations, visions of Christ, and prophetic directions entrusted to saints to guide and renew the Church.
 
 * **[Divine Mercy and Saint Faustina](prophecies-visions/divine-mercy-st-faustina.md)**: The revelations, image, chaplet, and feast of Mercy revealed to Saint Maria Faustina Kowalska in 1930s Poland.
-* **[The Sacred Heart and Saint Margaret Mary Alacoque](prophecies-visions/sacred-heart-st-margaret-mary.md)**: The apparitions of Christ's burning Heart to a Visitation nun in Paray-le-Monial, establishing the Holy Hour, First Fridays devotion, and the Feast of the Sacred Heart.
+* **[The Sacred Heart and Saint Margaret Mary Alacoque](prophecies-visions/sacred-heart-st-margaret-mary.md)**: The apparitions of Christ's burning Heart to a Visitation nun in Paray-le-Monial, establishing the Holy Hour, First Fridays devotion, and the Feast of the Sacred Heart. *For the comprehensive treatment of the Sacred Heart devotion as a whole — including its theological foundations, magisterial documents, liturgical solemnity, and prayers — see [liturgy/sacred-heart-devotion.md](../../liturgy/sacred-heart-devotion.md).*
 
 ---
 
