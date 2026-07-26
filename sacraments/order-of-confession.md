@@ -44,30 +44,24 @@ Go through the **Ten Commandments** and the **Precepts of the Church**. Below is
 
 **Focus on mortal sins** — those involving **grave matter**, committed with **full knowledge** and **deliberate consent**. Venial sins may be confessed but are not required.
 
-### 3. Make an Act of Contrition
+### 3. Stir Up Contrition
 
-Before entering the confessional, stir your heart to sorrow for sin. You may use either of the approved formulas below (both are printed in many confessionals as well):
+Before entering the confessional, stir your heart to sorrow for sin — this interior disposition is what the Church calls **contrition**: sincere sorrow for having offended God and a firm resolve to sin no more (CCC 1451). You need not recite a specific prayer yet; the verbal Act of Contrition comes _during_ confession itself (see [Step 7](#step-7-pray-the-act-of-contrition)). For now, simply reflect on God's mercy and your desire to be reconciled to Him.
 
-**Traditional Formula:**
+### 4. Pray the Prayer before Reconciliation
 
-    O my God, I am heartily sorry for having offended Thee,
-    and I detest all my sins because of Thy just punishments,
-    but most of all because they offend Thee, my God,
-    who art all good and deserving of all my love.
-    I firmly resolve, with the help of Thy grace,
-    to sin no more and to avoid the near occasions of sin. Amen.
+Before entering the confessional, collect your thoughts and lift your heart to God with this traditional preparatory prayer, asking for the grace of a sincere confession:
 
-**Modern Formula (Rite of Penance):**
+    O most merciful God! Prostrate at your feet, I implore your forgiveness.
+    I sincerely desire to leave all my evil ways
+    and to confess my sins with all sincerity to you and to your priest.
+    I am a sinner, have mercy on me, O Lord.
+    Give me a lively faith and a firm hope in the Passion of my Redeemer.
+    Give me, for your mercy's sake, a sorrow for having offended so good a God.
+    Mary, my mother, refuge of sinners, pray for me
+    that I may make a good confession. Amen.
 
-    My God, I am sorry for my sins with all my heart.
-    In choosing to do wrong and failing to do good,
-    I have sinned against You whom I should love above all things.
-    I firmly intend, with Your help, to do penance,
-    to sin no more, and to avoid whatever leads me to sin.
-    Our Savior Jesus Christ suffered and died for us.
-    In His name, my God, have mercy. Amen.
-
-If you are unsure which to use, the **Modern Formula** is the one printed in the Church's official _Rite of Penance_ and is the most common in parishes today.
+This prayer is also featured in the [Magisterium AI Confession Guide](https://www.magisterium.com/widgets/confession-guide).
 
 ---
 
@@ -191,7 +185,16 @@ This is the moment of sacramental forgiveness — your sins are washed away.
 
 ### Step 9: The Dismissal
 
-The priest concludes with words such as:
+After absolution, the priest and penitent exchange a short dialogue of thanksgiving and dismissal. The full exchange from the Rite of Penance is:
+
+| Speaker | Words                                                   |
+| ------- | ------------------------------------------------------- |
+| Priest  | _"Give thanks to the Lord for He is good."_             |
+| You     | _"For His mercy endures forever."_                      |
+| Priest  | _"The Lord has freed you from your sins. Go in peace."_ |
+| You     | _"Thanks be to God."_                                   |
+
+If a shorter form is used, you may simply hear:
 
 > _"Go in peace, and pray for me."_
 
@@ -199,7 +202,7 @@ or
 
 > _"Your sins are forgiven. Go in peace."_
 
-You respond: **"Thanks be to God"** or simply **"Thank you, Father."**
+In either case, you respond **"Thanks be to God"** or **"Thank you, Father."**
 
 You then leave the confessional.
 
