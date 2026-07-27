@@ -24,7 +24,11 @@ A pastoral treatment of specific private revelations and popular eschatological 
 
 - **[The Three Days of Darkness](three-days-of-darkness.md)**: The popular Catholic devotion associated with Our Lady of La Salette (1846), Blessed Anna Maria Taigi, Marie-Julie Jahenny, Servant of God Luisa Piccarreta, and other mystics — explained with proper doctrinal distinctions, including the 1915 Holy Office decree and the 2024 Dicastery norms on the discernment of alleged supernatural phenomena.
 
-## 4. Prayers for the Dying and the Dead
+## 4. Contemporary Catechesis and Theological Synthesis
+
+- **[Fr. Chad Ripperger on the Last Things](ripperger-interview-last-things.md)**: A structured theological synthesis of an interview with Fr. Chad Ripperger, S.T.D., Ph.D. — covering the final battle and the Antichrist, the levels of heaven and hell, the Beatific Vision (the _lumen gloriae_), the interaction between the blessed and the living, whether Christ had a guardian angel, and the Thomistic definition of Divine Mercy as the "loosening of the bonds of justice." Grounded in St. Thomas Aquinas, Sacred Scripture, and Magisterial teaching.
+
+## 5. Prayers for the Dying and the Dead
 
 For the practical rites and prayers surrounding death — from the sacraments for the dying through the funeral liturgy and periodic commemorations — see:
 
