@@ -24,14 +24,40 @@ The following opening prayers from the Diary of St. Faustina may be prayed befor
 
 **St. Faustina's Prayer for Sinners** (Diary, § 72)
 
-    O Jesus, eternal Truth, our Life, I call upon You and I beg Your mercy for poor sinners. O sweetest Heart of my Lord, full of pity and unfathomable mercy, I plead with You for poor sinners. O Most Sacred Heart, Fount of Mercy from which gush forth rays of inconceivable graces upon the entire human race, I beg of You light for poor sinners. O Jesus, be mindful of Your own bitter Passion and do not permit the loss of souls redeemed at so dear a price of Your most precious Blood. O Jesus, when I consider the great price of Your Blood, I rejoice at its immensity, for one drop alone would have been enough for the salvation of all sinners. Although sin is an abyss of wickedness and ingratitude, the price paid for us can never be equalled. Therefore, let every soul trust in the Passion of the Lord, and place its hope in His mercy. God will not deny His mercy to anyone. Heaven and earth may change, but God's mercy will never be exhausted. Oh, what immense joy burns in my heart when I contemplate Your incomprehensible goodness, O Jesus! I desire to bring all sinners to Your feet that they may glorify Your mercy throughout endless ages. (Diary, § 72)
+    O Jesus, eternal Truth, our Life,
+    I call upon You and I beg Your mercy for poor sinners.
+    O sweetest Heart of my Lord, full of pity and unfathomable mercy,
+    I plead with You for poor sinners.
+    O Most Sacred Heart, Fount of Mercy
+    from which gush forth rays of inconceivable graces upon the entire human race,
+    I beg of You light for poor sinners.
+    O Jesus, be mindful of Your own bitter Passion
+    and do not permit the loss of souls
+    redeemed at so dear a price of Your most precious Blood.
+    O Jesus, when I consider the great price of Your Blood,
+    I rejoice at its immensity,
+    for one drop alone would have been enough for the salvation of all sinners.
+    Although sin is an abyss of wickedness and ingratitude,
+    the price paid for us can never be equalled.
+    Therefore, let every soul trust in the Passion of the Lord,
+    and place its hope in His mercy.
+    God will not deny His mercy to anyone.
+    Heaven and earth may change,
+    but God's mercy will never be exhausted.
+    Oh, what immense joy burns in my heart
+    when I contemplate Your incomprehensible goodness, O Jesus!
+    I desire to bring all sinners to Your feet
+    that they may glorify Your mercy throughout endless ages.
+    (Diary, § 72)
 
-Pray the following (repeat each three times):
+**Opening Prayer**
 
     You expired, Jesus, but the source of life gushed forth for souls,
     and the ocean of mercy opened up for the whole world.
     O Fount of Life, unfathomable Divine Mercy,
     envelop the whole world and empty Yourself out upon us.
+
+_(Repeat three times:)_
 
     O Blood and Water, which gushed forth from the Heart of Jesus
     as a fount of mercy for us, I trust in You!
@@ -112,7 +138,28 @@ The following closing prayers may be prayed after the Chaplet:
 
 **Alternative Closing Prayer** (Diary, § 1570)
 
-    O Greatly Merciful God, Infinite Goodness, today all mankind calls out from the abyss of its misery to Your mercy — to Your compassion, O God; and it is with its mighty voice of misery that it cries out. Gracious God, do not reject the prayer of this earth's exiles! O Lord, Goodness beyond our understanding, Who are acquainted with our misery through and through, and know that by our own power we cannot ascend to You, we implore You: anticipate us with Your grace and keep on increasing Your mercy in us, that we may faithfully do Your holy will all through our life and at death's hour. Let the omnipotence of Your mercy shield us from the darts of our salvation's enemies, that we may with confidence, as Your children, await Your final coming — that day known to You alone. And we expect to obtain everything promised us by Jesus in spite of all our wretchedness. For Jesus is our Hope: through His merciful Heart, as through an open gate, we pass through to Heaven. (Diary, § 1570)
+    O Greatly Merciful God, Infinite Goodness,
+    today all mankind calls out from the abyss of its misery to Your mercy —
+    to Your compassion, O God;
+    and it is with its mighty voice of misery that it cries out.
+    Gracious God, do not reject the prayer of this earth's exiles!
+    O Lord, Goodness beyond our understanding,
+    Who are acquainted with our misery through and through,
+    and know that by our own power we cannot ascend to You,
+    we implore You: anticipate us with Your grace
+    and keep on increasing Your mercy in us,
+    that we may faithfully do Your holy will
+    all through our life and at death's hour.
+    Let the omnipotence of Your mercy shield us
+    from the darts of our salvation's enemies,
+    that we may with confidence, as Your children,
+    await Your final coming — that day known to You alone.
+    And we expect to obtain everything promised us by Jesus
+    in spite of all our wretchedness.
+    For Jesus is our Hope:
+    through His merciful Heart, as through an open gate,
+    we pass through to Heaven.
+    (Diary, § 1570)
 
 ---
 
@@ -123,7 +170,7 @@ The Chaplet is prayed on a standard set of rosary beads (a five-decade Rosary). 
 | Step   | Bead                               | Prayer/Action                                                                                                                                                                                                        |
 | ------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**  | **Crucifix**                       | Make the **Sign of the Cross**.                                                                                                                                                                                      |
-| **2**  | _(before the beads)_               | (Optional) Recite the **Optional Opening Prayers** (St. Faustina's Prayer for Sinners, "You expired, Jesus" ×3, "O Blood and Water" ×3).                                                                             |
+| **2**  | _(before the beads)_               | (Optional) Recite the **Optional Opening Prayers** (St. Faustina's Prayer for Sinners, "You expired, Jesus", "O Blood and Water" ×3).                                                                                |
 | **3**  | **First large bead**               | Pray the **Our Father**.                                                                                                                                                                                             |
 | **4**  | **Next small bead**                | Pray the **Hail Mary**.                                                                                                                                                                                              |
 | **5**  | **Before the first decade**        | Pray the **Apostles' Creed**.                                                                                                                                                                                        |
