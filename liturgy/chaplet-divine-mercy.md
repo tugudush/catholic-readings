@@ -96,7 +96,7 @@ _(Repeat three times:)_
     on the third day He rose again from the dead;
     He ascended into heaven,
     and is seated at the right hand of God the Father almighty;
-    from there He will judge the living and the dead.
+    from there He will come to judge the living and the dead.
     I believe in the Holy Spirit,
     the holy catholic Church,
     the communion of saints,
