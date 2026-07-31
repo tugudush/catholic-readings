@@ -114,7 +114,7 @@ This canonical practice testifies to the Church's living faith that the "working
 The working of miracles may manifest as:
 
 - **Eucharistic miracles**: the visible transformation of the Eucharistic species into flesh and blood (e.g., [Lanciano](../miracles/eucharistic-miracles/), [Bolsena-Orvieto](../miracles/eucharistic-miracles/)).
-- **Marian apparitions**: supernatural appearances of the Blessed Virgin Mary, often accompanied by miraculous signs (e.g., the miracle of the sun at [Fatima](../miracles/marian-apparitions/fatima.md), the tilma of [Guadalupe](../miracles/marian-apparitions/guadalupe.md)).
+- **Marian apparitions**: supernatural appearances of the Blessed Virgin Mary, often accompanied by miraculous signs (e.g., the miracle of the sun at [Fatima](../miracles/marian-apparitions/approved/fatima.md), the tilma of [Guadalupe](../miracles/marian-apparitions/approved/guadalupe.md)).
 - **Miracles through the intercession of saints**: extraordinary healings and interventions attributed to the prayers of canonized saints and blesseds.
 - **Nature miracles**: events in which the ordinary course of nature is suspended — healings that exceed medical explanation, protection from natural disasters, and other signs of divine power.
 

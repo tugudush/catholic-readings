@@ -278,7 +278,7 @@ The Sacred Heart of Jesus and the Immaculate Heart of Mary are closely linked in
 - **Pope Pius XII** consecrated the Church to the Immaculate Heart in 1942; **Pope Leo XIII** had consecrated the world to the Sacred Heart in 1899.
 - The **Enthronement of the Sacred Heart** in homes is often accompanied by the consecration to the Immaculate Heart.
 
-_For the Fatima apparitions, see [miracles/marian-apparitions/fatima.md](../miracles/marian-apparitions/fatima.md)._
+_For the Fatima apparitions, see [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md)._
 
 ---
 
@@ -313,7 +313,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) — The Divine Mercy Chaplet, also flowing from the pierced Heart of Christ.
 - [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md) — The 3:00 p.m. devotion to the Divine Mercy.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Scapular of the Sacred Heart mentioned among approved sacramentals.
-- [miracles/marian-apparitions/fatima.md](../miracles/marian-apparitions/fatima.md) — The First Saturday devotion and the Immaculate Heart.
+- [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The First Saturday devotion and the Immaculate Heart.
 - [christology/README.md](../christology/README.md) — Christological foundations of the devotion.
 
 ---

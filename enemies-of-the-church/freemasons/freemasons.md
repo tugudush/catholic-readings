@@ -440,5 +440,5 @@ The Catholic Church's teaching on Freemasonry may be summarized in the following
 
 - [Catechism of the Catholic Church, §§ 675, 846–848, 2104–2109 — on indifferentism, the necessity of the Church for salvation, and the true meaning of religious freedom]
 - [nazis-vs-freemasons-robbing-lodges.md](nazis-vs-freemasons-robbing-lodges.md) — Documentary summary: the Nazi looting of Masonic lodges during WWII, the Soviet seizure of the archives, and their repatriation in 1999
-- [church-history/sects-and-non-christian-communities.md](../church-history/sects-and-non-christian-communities.md) — Magisterial classification of sects, non-Christian communities, and true particular Churches
-- [sacraments/apostasy-formal-defection.md](../sacraments/apostasy-formal-defection.md) — On the indelible baptismal character and the impossibility of truly ceasing to be Catholic
+- [church-history/sects-and-non-christian-communities.md](../../church-history/sects-and-non-christian-communities.md) — Magisterial classification of sects, non-Christian communities, and true particular Churches
+- [sacraments/apostasy-formal-defection.md](../../sacraments/apostasy-formal-defection.md) — On the indelible baptismal character and the impossibility of truly ceasing to be Catholic

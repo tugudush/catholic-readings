@@ -73,8 +73,8 @@ The **Council of Trent** (1545–1563) further clarified the doctrines of purgat
 
 ## Related Areas in the Repository
 
-- **[miracles/marian-apparitions/fatima.md](../miracles/marian-apparitions/fatima.md)**: The approved 1917 apparitions at Fátima, Portugal, including the Three Secrets and the consecration of Russia — a paradigmatic case of approved private revelation related to eschatology.
-- **[miracles/marian-apparitions/la-salette.md](../miracles/marian-apparitions/la-salette.md)**: The approved 1846 apparition in the French Alps, with the 1851 diocesan approval and the 1915 Holy Office decree restricting discussion of the "Secret of La Salette."
+- **[miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md)**: The approved 1917 apparitions at Fátima, Portugal, including the Three Secrets and the consecration of Russia — a paradigmatic case of approved private revelation related to eschatology.
+- **[miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md)**: The approved 1846 apparition in the French Alps, with the 1851 diocesan approval and the 1915 Holy Office decree restricting discussion of the "Secret of La Salette."
 - **[miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md)**: The revelations of Divine Mercy to St. Faustina Kowalska (1930s), with their eschatological dimension (the "Day of Anger" and the "Hour of Great Mercy").
 - **[scripture/bible-history-canon.md](../scripture/bible-history-canon.md)**: The canon of Scripture and the historical formation of the New Testament, including the Apocalypse of St. John.
 - **[church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md)**: The 23 Eastern Catholic _sui iuris_ Churches, whose liturgical and patristic traditions preserve important eschatological material.

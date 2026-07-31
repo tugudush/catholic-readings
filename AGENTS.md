@@ -61,14 +61,41 @@ Before adding or modifying any documents, check the existing directory structure
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
 - [miracles/](miracles/):
   - [miracles/README.md](miracles/README.md): Master index and theological principles of discerning private revelations.
-  - [miracles/marian-apparitions/](miracles/marian-apparitions/): Approved Marian appearances:
-    - [miracles/marian-apparitions/guadalupe.md](miracles/marian-apparitions/guadalupe.md): Our Lady of Guadalupe (1531, Mexico).
-    - [miracles/marian-apparitions/miraculous-medal.md](miracles/marian-apparitions/miraculous-medal.md): The Miraculous Medal and Our Lady of the Immaculate Conception (1830, Paris).
-    - [miracles/marian-apparitions/la-salette.md](miracles/marian-apparitions/la-salette.md): Our Lady of La Salette (1846, France).
-    - [miracles/marian-apparitions/lourdes.md](miracles/marian-apparitions/lourdes.md): Our Lady of Lourdes (1858, France).
-    - [miracles/marian-apparitions/knock.md](miracles/marian-apparitions/knock.md): Our Lady of Knock (1879, Ireland).
-    - [miracles/marian-apparitions/fatima.md](miracles/marian-apparitions/fatima.md): Our Lady of Fatima (1917, Portugal).
-    - [miracles/marian-apparitions/akita.md](miracles/marian-apparitions/akita.md): Our Lady of Akita (1973, Japan).
+  - [miracles/marian-apparitions/](miracles/marian-apparitions/): Marian apparitions organized by canonical status into three categories — **approved** (declared "worthy of belief"), **ongoing-investigations** (permitted or unjudged, without a declaration of supernatural origin), and **rejected** (judged not of supernatural origin or prohibited):
+    - [miracles/marian-apparitions/approved/](miracles/marian-apparitions/approved/): Approved Marian appearances:
+      - [miracles/marian-apparitions/approved/our-lady-of-the-pillar.md](miracles/marian-apparitions/approved/our-lady-of-the-pillar.md): Our Lady of the Pillar (c. 40 A.D., Zaragoza, Spain).
+      - [miracles/marian-apparitions/approved/our-lady-of-the-snows.md](miracles/marian-apparitions/approved/our-lady-of-the-snows.md): Our Lady of the Snows (c. 352–366, Rome, Italy).
+      - [miracles/marian-apparitions/approved/guadalupe.md](miracles/marian-apparitions/approved/guadalupe.md): Our Lady of Guadalupe (1531, Mexico).
+      - [miracles/marian-apparitions/approved/miraculous-medal.md](miracles/marian-apparitions/approved/miraculous-medal.md): The Miraculous Medal and Our Lady of the Immaculate Conception (1830, Paris).
+      - [miracles/marian-apparitions/approved/la-salette.md](miracles/marian-apparitions/approved/la-salette.md): Our Lady of La Salette (1846, France).
+      - [miracles/marian-apparitions/approved/lourdes.md](miracles/marian-apparitions/approved/lourdes.md): Our Lady of Lourdes (1858, France).
+      - [miracles/marian-apparitions/approved/our-lady-of-good-help-champion.md](miracles/marian-apparitions/approved/our-lady-of-good-help-champion.md): Our Lady of Good Help, Champion (1859, Wisconsin; approved 2010 — first US approval).
+      - [miracles/marian-apparitions/approved/our-lady-of-laus.md](miracles/marian-apparitions/approved/our-lady-of-laus.md): Our Lady of Laus (1664–1718, France; approved 2008).
+      - [miracles/marian-apparitions/approved/our-lady-of-pontmain.md](miracles/marian-apparitions/approved/our-lady-of-pontmain.md): Our Lady of Pontmain (1871, France; approved 1872).
+      - [miracles/marian-apparitions/approved/knock.md](miracles/marian-apparitions/approved/knock.md): Our Lady of Knock (1879, Ireland).
+      - [miracles/marian-apparitions/approved/our-lady-of-aparecida.md](miracles/marian-apparitions/approved/our-lady-of-aparecida.md): Our Lady of Aparecida (1717, Brazil; Patroness of Brazil).
+      - [miracles/marian-apparitions/approved/fatima.md](miracles/marian-apparitions/approved/fatima.md): Our Lady of Fatima (1917, Portugal).
+      - [miracles/marian-apparitions/approved/our-lady-of-beauraing.md](miracles/marian-apparitions/approved/our-lady-of-beauraing.md): Our Lady of Beauraing (1932–1933, Belgium; approved 1949).
+      - [miracles/marian-apparitions/approved/our-lady-of-banneux.md](miracles/marian-apparitions/approved/our-lady-of-banneux.md): Our Lady of Banneux (1933, Belgium; approved 1949).
+      - [miracles/marian-apparitions/approved/akita.md](miracles/marian-apparitions/approved/akita.md): Our Lady of Akita (1973, Japan).
+      - [miracles/marian-apparitions/approved/our-lady-of-kibeho.md](miracles/marian-apparitions/approved/our-lady-of-kibeho.md): Our Lady of Kibeho (1981–1989, Rwanda; approved 2001 — first African approval).
+      - [miracles/marian-apparitions/approved/our-lady-of-san-nicolas.md](miracles/marian-apparitions/approved/our-lady-of-san-nicolas.md): Our Lady of San Nicolás (1983–1990, Argentina; approved 2016).
+      - [miracles/marian-apparitions/approved/our-lady-of-zeitoun.md](miracles/marian-apparitions/approved/our-lady-of-zeitoun.md): Our Lady of Zeitoun (1968–1971, Egypt).
+    - [miracles/marian-apparitions/ongoing-investigations/](miracles/marian-apparitions/ongoing-investigations/): Apparitions under study or not yet judged:
+      - [miracles/marian-apparitions/ongoing-investigations/medjugorje.md](miracles/marian-apparitions/ongoing-investigations/medjugorje.md): Our Lady of Medjugorje (1981–, Bosnia-Herzegovina; 2024 *nihil obstat*, no declaration of supernatural origin).
+      - [miracles/marian-apparitions/ongoing-investigations/garabandal.md](miracles/marian-apparitions/ongoing-investigations/garabandal.md): Our Lady of Garabandal (1961–1965, Spain; negative 1967 declaration, never condemned).
+      - [miracles/marian-apparitions/ongoing-investigations/our-lady-of-america.md](miracles/marian-apparitions/ongoing-investigations/our-lady-of-america.md): Our Lady of America (1954–1960, Ohio; unapproved).
+      - [miracles/marian-apparitions/ongoing-investigations/tre-fontane.md](miracles/marian-apparitions/ongoing-investigations/tre-fontane.md): Our Lady of the Revelation, Tre Fontane (1947, Rome; *non constat* 1948, tolerated cult).
+    - [miracles/marian-apparitions/rejected/](miracles/marian-apparitions/rejected/): Apparitions judged not of supernatural origin or prohibited:
+      - [miracles/marian-apparitions/rejected/amsterdam-lady-of-all-nations.md](miracles/marian-apparitions/rejected/amsterdam-lady-of-all-nations.md): The Lady of All Nations, Amsterdam (1945–1959; *constat de non supernaturalitate*, 1974, disclosed 2024).
+      - [miracles/marian-apparitions/rejected/necedah.md](miracles/marian-apparitions/rejected/necedah.md): Our Lady of Necedah (1950, Wisconsin; condemned 1955).
+      - [miracles/marian-apparitions/rejected/heroldsbach.md](miracles/marian-apparitions/rejected/heroldsbach.md): Our Lady of Heroldsbach (1949, Germany; condemned 1952).
+      - [miracles/marian-apparitions/rejected/marpingen.md](miracles/marian-apparitions/rejected/marpingen.md): Our Lady of Marpingen (1876, Germany; forbidden 1876–1877).
+      - [miracles/marian-apparitions/rejected/palmar-de-troya.md](miracles/marian-apparitions/rejected/palmar-de-troya.md): Our Lady of Palmar de Troya (1968, Spain; schismatic cult, excommunications).
+      - [miracles/marian-apparitions/rejected/bayside-our-lady-of-the-roses.md](miracles/marian-apparitions/rejected/bayside-our-lady-of-the-roses.md): Bayside, "Our Lady of the Roses" (1970–1995, New York; condemned 1986–1987).
+      - [miracles/marian-apparitions/rejected/conyers-georgia.md](miracles/marian-apparitions/rejected/conyers-georgia.md): Our Lady of Conyers (1987–1998, Georgia; rejected 1997–1998).
+      - [miracles/marian-apparitions/rejected/emmitsburg-maryland.md](miracles/marian-apparitions/rejected/emmitsburg-maryland.md): Our Lady of Emmitsburg (1993–, Maryland; rejected 1999 and 2010).
+      - [miracles/marian-apparitions/rejected/mount-st-patrick-cle-elum.md](miracles/marian-apparitions/rejected/mount-st-patrick-cle-elum.md): Our Lady of Mount St. Patrick (1975–, Washington; rejected 1984).
   - [miracles/eucharistic-miracles/](miracles/eucharistic-miracles/): Approved host/wine conversions (e.g., Lanciano, Bolsena-Orvieto).
   - [miracles/saint-phenomena/](miracles/saint-phenomena/): Miraculous saintly signs (e.g., stigmata, liquefaction).
   - [miracles/prophecies-visions/](miracles/prophecies-visions/): Private revelations (e.g., Divine Mercy, Sacred Heart). The full text and method of the Chaplet of Divine Mercy is documented separately at [liturgy/chaplet-divine-mercy.md](liturgy/chaplet-divine-mercy.md), the Hour of Great Mercy devotion is documented at [liturgy/hour-of-great-mercy.md](liturgy/hour-of-great-mercy.md), and the comprehensive treatment of the Sacred Heart devotion (theological foundations, magisterial documents, liturgical solemnity, devotional practices, and prayers) is at [liturgy/sacred-heart-devotion.md](liturgy/sacred-heart-devotion.md).

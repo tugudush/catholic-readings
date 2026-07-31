@@ -26,7 +26,7 @@ A Catholic receiving this devotion in good faith from popular books, websites, o
 - **What the apparition actually contained**: Mary's weeping over the impiety of Christians; her warnings against blasphemy, the violation of the Sabbath, and the disregard for the Lenten fast; her threats of **dreadful chastisements** (famine, crop failures, suffering) if people did not amend; her promise of **divine mercy** if they did. The core message is **reconciliation**, not a specific calendar of events.
 - **Relation to the "Three Days of Darkness"**: The specific "three days" details associated with La Salette are derived from **Mélanie Calvat's later writings** and the circulation of speculative "Secret" interpretations that the 1915 Holy Office decree specifically **restrained**. The devotion to Our Lady of La Salette itself does **not** require belief in any particular "three days" prophecy.
 
-For more detail on the approved apparition, see [../miracles/marian-apparitions/la-salette.md](../miracles/marian-apparitions/la-salette.md).
+For more detail on the approved apparition, see [../miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md).
 
 ### 2.2 Blessed Anna Maria Taigi (1769–1837) — Beatified, Specific Prophecies Not Approved
 
@@ -190,7 +190,7 @@ For a Catholic who wishes to engage this devotion faithfully, the following read
 1. **The Catechism of the Catholic Church, §§ 988–1060** (see [doctrinal-foundations.md](doctrinal-foundations.md)).
 2. **Pope Benedict XVI, _Spe Salvi_** (2007) — for the modern papal magisterial perspective on Christian hope.
 3. **Pope Benedict XVI, _The Message of Fatima: Theological Commentary_** (2013) — for the proper Catholic interpretation of approved private revelations.
-4. **The La Salette apparition document** at [../miracles/marian-apparitions/la-salette.md](../miracles/marian-apparitions/la-salette.md) — for the approved apparition, the 1851 diocesan declaration, and the 1915 Holy Office decree.
+4. **The La Salette apparition document** at [../miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md) — for the approved apparition, the 1851 diocesan declaration, and the 1915 Holy Office decree.
 5. **The full reading list** at [reading-list.md](reading-list.md) — for the broader eschatological literature.
 
 For popular books on the "Three Days of Darkness" itself, the Catholic reader should approach them with **prudential discernment**, keeping in mind the distinction between **pious devotional literature** and **approved magisterial teaching**. Books that are well-received by faithful Catholic theologians include those that:
@@ -216,6 +216,6 @@ This is the proper Catholic posture: **discernment**, **humility**, **hope**, an
 >
 > - [Doctrinal Foundations](doctrinal-foundations.md) — the magisterial sources on eschatology
 > - [Reading List](reading-list.md) — recommended books on Catholic eschatology
-> - [../miracles/marian-apparitions/la-salette.md](../miracles/marian-apparitions/la-salette.md) — the approved apparition at La Salette
-> - [../miracles/marian-apparitions/fatima.md](../miracles/marian-apparitions/fatima.md) — the approved apparition at Fátima
+> - [../miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md) — the approved apparition at La Salette
+> - [../miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — the approved apparition at Fátima
 > - [../miracles/README.md](../miracles/README.md) — theological principles of discerning private revelations
