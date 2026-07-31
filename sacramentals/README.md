@@ -79,7 +79,7 @@ Beyond the Catechism's two principal headings, the Church has a long-standing tr
 - **Incense** (blessed and burned as an offering of prayer).
 - **Crucifixes** (images of the crucified Christ, blessed for veneration in the home and on the person).
 - **Statues and sacred images** (in churches, chapels, and homes, in fidelity to the Council of Nicaea II in 787 and the veneration defined therein).
-- **Medals** (e.g., the [Miraculous Medal](../miracles/marian-apparitions/miraculous-medal.md), the Medal of Saint Benedict).
+- **Medals** (e.g., the [Miraculous Medal](../miracles/marian-apparitions/approved/miraculous-medal.md), the Medal of Saint Benedict).
 - **Scapulars** (reduced forms of religious habits, received through a rite of the Church and worn as an external sign of consecration to Christ and Mary).
 - **Rosaries and chaplets** (see [liturgy/rosary/history.md](../liturgy/rosary/history.md) for the history of the Most Holy Rosary).
 - **Relics** of saints (1st class: a portion of the saint's body; 2nd class: an object that touched the saint's body; 3rd class: a piece of cloth touched to a 1st- or 2nd-class relic).
@@ -130,6 +130,6 @@ For related material elsewhere in this repository:
 
 - [sacraments/README.md](../sacraments/README.md) — the seven sacraments themselves, which sacramentals prepare the faithful to receive.
 - [liturgy/rosary/history.md](../liturgy/rosary/history.md) — the Most Holy Rosary, the Church's most widely practiced popular devotion.
-- [miracles/marian-apparitions/](../miracles/marian-apparitions/) — the approved Marian apparitions connected to several sacramentals (the Miraculous Medal to Saint Catherine Labouré in Paris; the Brown Scapular to the Carmelite tradition connected with Mount Carmel).
+- [miracles/marian-apparitions/approved/](../miracles/marian-apparitions/approved/) — the approved Marian apparitions connected to several sacramentals (the Miraculous Medal to Saint Catherine Labouré in Paris; the Brown Scapular to the Carmelite tradition connected with Mount Carmel).
 - [miracles/eucharistic-miracles/](../miracles/eucharistic-miracles/) — the Eucharistic miracles that confirm the Real Presence, the source and summit to which all sacramentals are ordered.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — the Council of Trent (Session VII on the sacraments, Session XIII on the Eucharist, Session XXV on sacred images) and the Second Council of Nicaea (787), which define the doctrinal framework within which sacramentals are received.
