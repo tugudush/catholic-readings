@@ -173,6 +173,15 @@ Personal and pastoral resources dealing with matters of conscience, sin, and rec
 
 ---
 
+## 14. Catholic Lay Organizations & Apostolates
+
+Comprehensive studies of Catholic lay organizations, fraternal orders, and apostolic associations — their founders, histories, structures, canonical standing, charitable works, and the Magisterium's teaching on the apostolate of the laity:
+
+- **Master Index & Scope**: Read [catholic-organizations/README.md](catholic-organizations/README.md) for the introductory overview of this directory and the theological foundations of the lay apostolate (CCC 897–913; _Apostolicam Actuositatem_).
+- **The Knights of Columbus**: See [catholic-organizations/knights-of-columbus.md](catholic-organizations/knights-of-columbus.md) for a comprehensive study of the world's largest Catholic fraternal service organization — founded in 1882 by Blessed Michael J. McGivney — covering its history, the four cardinal principles (Charity, Unity, Fraternity, Patriotism), its structure and degrees, the fraternal insurance system, its vast charitable works, papal recognition from Leo XIII to Francis, and the beatification of its founder.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
