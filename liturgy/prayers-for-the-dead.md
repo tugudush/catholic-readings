@@ -394,7 +394,7 @@ The _De Profundis_ is Psalm 130 in the Hebrew numbering and Psalm 129 in the num
 
 > **"Out of the depths I cry to you, O Lord; Lord, hear my voice. Let your ears be attentive to my voice in supplication. If you, O Lord, mark iniquities, Lord, who can stand? But with you is forgiveness, that you may be revered. I wait for the Lord, my soul waits, and I hope for his word. My soul waits for the Lord more than sentinels wait for the dawn. More than sentinels wait for the dawn, let Israel hope for the Lord, for with the Lord is kindness and with him is plenteous redemption. And he will redeem Israel from all their iniquities."**
 
-It is traditionally prayed for the dead, asking God to forgive sins and bring the departed into the fullness of redemption. It is also appropriate to pray it for oneself or for the whole faithful departed. You may pray it privately at home, at a graveside, in a church, or anywhere suitable. It is not an event that requires a priest, and it may be prayed once or repeated regularly.
+It is traditionally prayed for the dead, asking God to forgive sins and bring the departed into the fullness of redemption. It is also appropriate to pray it for oneself or for the whole faithful departed. Keep the psalm's original first-person wording; do not replace its pronouns with the deceased person's name. Personalize the intention before or after the psalm: **"For the repose of the soul of N., we pray the _De Profundis_."** You may pray it privately at home, at a graveside, in a church, or anywhere suitable. It is not an event that requires a priest, and it may be prayed once or repeated regularly.
 
 ### 7.5 The _Libera Me_ (Office of the Dead)
 
@@ -402,7 +402,7 @@ The _Libera Me_ means "Deliver me, O Lord." It is a traditional responsory of th
 
 > **"Deliver me, O Lord, from eternal death on that fearful day, when the heavens and the earth shall be shaken, when you shall come to judge the world by fire. I am trembling, and I am afraid, because of the judgment and the wrath to come. That day, that day of wrath, of calamity and misery, a great and bitter day..."**
 
-The Office of the Dead itself is a larger liturgical service of the Liturgy of the Hours, made up of psalms, readings, responsories, and prayers. The _Libera Me_ is one part of that service; praying this excerpt privately does not mean that you are celebrating the entire Office. You may pray it at home for a deceased loved one, either by itself or together with the _Requiem Aeternam_ and _De Profundis_. It may be repeated at any time, although its tone is especially suited to a funeral, memorial, or prayer for the faithful departed.
+The Office of the Dead itself is a larger liturgical service of the Liturgy of the Hours, made up of psalms, readings, responsories, and prayers. The _Libera Me_ is one part of that service; praying this excerpt privately does not mean that you are celebrating the entire Office. Preserve the original first-person wording, including “me” and “I”; do not replace these pronouns with the deceased person's name. State the intention separately, for example: **"For the repose of the soul of N., we pray the _Libera Me_."** You may pray it at home for a deceased loved one, either by itself or together with the _Requiem Aeternam_ and _De Profundis_. It may be repeated at any time, although its tone is especially suited to a funeral, memorial, or prayer for the faithful departed.
 
 ### A Simple Private Use
 
