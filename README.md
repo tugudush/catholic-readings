@@ -143,6 +143,7 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 A comprehensive theological study of the nine charismatic gifts enumerated by St. Paul in 1 Corinthians 12:8–10 — distinct from the seven gifts of the Holy Spirit (Isaiah 11:2) that are permanent dispositions for personal sanctification. These charisms are gratuitous manifestations of the Spirit given for the common good and the building up of the Church:
 
+- **Seven Gifts and Twelve Fruits**: See [gifts-holy-spirit/seven-gifts-twelve-fruits.md](gifts-holy-spirit/seven-gifts-twelve-fruits.md) for a parsed, source-grounded transcription of the supplied catechetical handouts and the distinction between gifts, fruits, and charisms.
 - **Master Index & Foundational Theology**: Read [gifts-holy-spirit/README.md](gifts-holy-spirit/README.md) for the foundational theology of the nine charisms, the critical distinction between charisms and the seven gifts of the Holy Spirit, and an overview of each gift with its Greek terminology.
 - **Word of Wisdom** (λόγος σοφίας): See [gifts-holy-spirit/word-of-wisdom.md](gifts-holy-spirit/word-of-wisdom.md) for the Spirit-given ability to communicate divine truths persuasively, especially concerning salvation.
 - **Word of Knowledge** (λόγος γνώσεως): See [gifts-holy-spirit/word-of-knowledge.md](gifts-holy-spirit/word-of-knowledge.md) for the capacity to manifest knowledge of divine things through the created order.

@@ -4,6 +4,8 @@ A comprehensive theological and historical study of the nine charismatic gifts e
 
 ---
 
+For the related catechetical handouts on the seven sanctifying gifts and the traditional twelve fruits of the Holy Spirit, see [The Seven Gifts and Twelve Fruits](seven-gifts-twelve-fruits.md). These are distinct from the nine Pauline charisms documented here.
+
 ## 1. Foundational Theology of the Charisms
 
 ### 1.1 What Is a Charism?
