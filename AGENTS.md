@@ -60,6 +60,10 @@ Before adding or modifying any documents, check the existing directory structure
   - [liturgy/rosary/](liturgy/rosary/):
     - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
+- [churches/](churches/):
+  - [churches/README.md](churches/README.md): Local Catholic church records, published Mass schedules, confession times, contact details, and source-verification notes.
+  - [churches/st-michaels-cathedral.md](churches/st-michaels-cathedral.md): Published Mass timetable and church information for St. Michael's Cathedral in Iligan City, Lanao del Norte.
+  - [churches/our-mother-of-perpetual-help-redemptorist.md](churches/our-mother-of-perpetual-help-redemptorist.md): Published Mass timetable, confession schedule, and church information for Our Mother of Perpetual Help Church (Redemptorist Church) in Iligan City, Lanao del Norte.
 - [miracles/](miracles/):
   - [miracles/README.md](miracles/README.md): Master index and theological principles of discerning private revelations.
   - [miracles/marian-apparitions/](miracles/marian-apparitions/): Marian apparitions organized by canonical status into three categories — **approved** (declared "worthy of belief"), **ongoing-investigations** (permitted or unjudged, without a declaration of supernatural origin), and **rejected** (judged not of supernatural origin or prohibited):

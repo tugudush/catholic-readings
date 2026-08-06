@@ -185,6 +185,16 @@ Comprehensive studies of Catholic lay organizations, fraternal orders, and apost
 
 ---
 
+## 15. Local Church Schedules
+
+Published parish and cathedral schedules, confession times, contact details, and source-verification notes are collected in the [churches/](churches/) directory:
+
+- **Church Schedule Index**: See [churches/README.md](churches/README.md) for the directory scope and source convention.
+- **St. Michael's Cathedral**: See [churches/st-michaels-cathedral.md](churches/st-michaels-cathedral.md) for the published weekly Mass timetable and church information in Iligan City, Lanao del Norte.
+- **Our Mother of Perpetual Help Church (Redemptorist Church)**: See [churches/our-mother-of-perpetual-help-redemptorist.md](churches/our-mother-of-perpetual-help-redemptorist.md) for the published weekly Mass timetable, confession schedule, and church information in Iligan City, Lanao del Norte.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
