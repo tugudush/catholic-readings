@@ -405,6 +405,7 @@ St. Joseph, the just and silent carpenter of Nazareth, is the most powerful inte
 
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage and St. Joseph's role as spouse.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — Prayers including the Litany of St. Joseph.
+- [liturgy/st-joseph-prayer-for-purity.md](../liturgy/st-joseph-prayer-for-purity.md) — Fr. Donald Calloway, MIC's Prayer to St. Joseph for Purity against sins of the flesh, and the devotion of Consecration to St. Joseph.
 - [liturgy/rosary/how-to-pray.md](../liturgy/rosary/how-to-pray.md) — The Rosary, including the Prayer to St. Joseph.
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Eastern Catholic traditions of venerating St. Joseph.
 - [saints/patron-st-peter.md](patron-st-peter.md) — The first pope, to whose line Joseph's Davidic descent belongs.
