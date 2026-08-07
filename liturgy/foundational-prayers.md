@@ -445,13 +445,13 @@ Traditional mealtime prayers acknowledging God as the source of all gifts.
 A simple personal prayer of thanksgiving and offering for the day. This is a recommended devotional formula, not a required prayer; Catholics may also pray in their own words or use Morning Prayer from the Liturgy of the Hours.
 
 - **English:**
-    In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+  In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-    My God, I thank You for preserving me through the night.
-    I offer You this day—my thoughts, words, actions, joys, and sufferings.
-    Help me to love You, do Your will, and avoid sin.
-    Jesus, be with me today.
-    Mary, pray for me. Amen.
+  My God, I thank You for preserving me through the night.
+  I offer You this day—my thoughts, words, actions, joys, and sufferings.
+  Help me to love You, do Your will, and avoid sin.
+  Jesus, be with me today.
+  Mary, pray for me. Amen.
 
 This prayer reflects the traditional morning themes of adoration, thanksgiving, offering, and a resolution to avoid sin. Scripture presents the morning as a fitting time to turn toward God: “In the morning You hear my voice; in the morning I plead my case before You and watch” (Psalm 5:4–5). The General Instruction of the Liturgy of the Hours likewise teaches that Morning Prayer sanctifies the beginning of the day.
 
@@ -460,25 +460,25 @@ This prayer reflects the traditional morning themes of adoration, thanksgiving, 
 A personal evening prayer of thanksgiving, examination of conscience, contrition, and trust in God. It may be prayed before sleep alongside the Church’s Night Prayer (_Compline_).
 
 - **English:**
-    In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+  In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-    Heavenly Father, I thank You for this day:
-    for the gift of life, for every grace received,
-    and for the people and blessings You have placed in my path.
+  Heavenly Father, I thank You for this day:
+  for the gift of life, for every grace received,
+  and for the people and blessings You have placed in my path.
 
-    In Your light, I examine my conscience.
-    For the good I have done, receive my thanks;
-    for the sins and failures I remember—and for those I do not—I am truly sorry.
-    Forgive me, Lord, and give me grace to amend my life,
-    to forgive those who have hurt me,
-    and to seek reconciliation when necessary.
+  In Your light, I examine my conscience.
+  For the good I have done, receive my thanks;
+  for the sins and failures I remember—and for those I do not—I am truly sorry.
+  Forgive me, Lord, and give me grace to amend my life,
+  to forgive those who have hurt me,
+  and to seek reconciliation when necessary.
 
-    I entrust my body, soul, loved ones, and the whole Church into Your loving care.
-    Protect me through this night and, if it is Your will,
-    grant me to awaken tomorrow ready to serve You.
+  I entrust my body, soul, loved ones, and the whole Church into Your loving care.
+  Protect me through this night and, if it is Your will,
+  grant me to awaken tomorrow ready to serve You.
 
-    Into Your hands I commend my spirit.
-    May I lie down and sleep in peace,
-    for You alone, O Lord, make me dwell in safety. Amen.
+  Into Your hands I commend my spirit.
+  May I lie down and sleep in peace,
+  for You alone, O Lord, make me dwell in safety. Amen.
 
 The final petition echoes Psalm 4: “I will both lie down and sleep in peace; for You alone, O Lord, make me lie down in safety.” Compline is the Church’s final prayer of the day, normally prayed before going to bed, and its introduction fittingly includes an examination of conscience (General Instruction of the Liturgy of the Hours, §§84–91). This personal prayer is not a required formula; it may be adapted according to one’s circumstances.
