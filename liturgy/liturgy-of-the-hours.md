@@ -40,6 +40,27 @@ Daytime Prayer pauses the day's work for prayer. It may be celebrated as:
 
 Those who cannot pray all three may choose the one most suited to the time of day. The liturgy also provides a single **Daytime Prayer** for ordinary circumstances.
 
+#### What Is Prayed at Terce, Sext, and None
+
+Terce, Sext, and None have the same basic form. The appointed texts change according to the day, the liturgical season, and the celebration being observed:
+
+1. the opening verse and response, beginning with:
+
+   God, come to my assistance.
+   Lord, make haste to help me.
+
+2. a hymn appointed for the hour or season;
+3. three psalms, or sections of psalms, with their antiphons;
+4. a short reading from Sacred Scripture;
+5. a short responsory;
+6. the concluding prayer or collect for the hour;
+7. the dismissal:
+
+   Let us praise the Lord.
+   Thanks be to God.
+
+The complete text of each day's psalmody, hymn, reading, responsory, antiphons, and collect is found in the approved breviary. Terce, Sext, and None do not normally include a Gospel canticle, intercessions, or the Lord's Prayer; those elements belong especially to Morning Prayer and Evening Prayer. The opening prayer and dismissal are included in the fixed prayers below.
+
 ### Evening Prayer: Vespers
 
 Evening Prayer is the Church's prayer of thanksgiving at the close of the working day. It remembers the evening sacrifice and the light of Christ. Its Gospel canticle is the **Magnificat**, the Canticle of the Blessed Virgin Mary.
@@ -52,18 +73,18 @@ Night Prayer is the final prayer of the day. It includes an examination of consc
 
 The precise order varies slightly between the hours, but the ordinary pattern is:
 
-1. Opening verse and response;
+1. opening verse and response;
 2. hymn;
 3. psalmody with antiphons;
 4. Scripture reading;
 5. responsory;
 6. Gospel canticle at Morning Prayer, Evening Prayer, and Night Prayer;
-7. intercessions or petitions;
-8. the Lord's Prayer;
+7. intercessions or petitions at Morning Prayer and Evening Prayer;
+8. the Lord's Prayer at Morning Prayer and Evening Prayer;
 9. concluding prayer;
 10. blessing or dismissal.
 
-The Office of Readings has its own longer readings and normally includes the **Te Deum** on Sundays, solemnities, and feasts. Daytime Prayer ordinarily has a shorter reading and a simpler form.
+The Office of Readings has its own longer readings and normally includes the **Te Deum** on Sundays, solemnities, and feasts. Daytime Prayer ordinarily has a shorter reading and a simpler form, as described above.
 
 ## 4. The Fixed Ordinary Prayers
 
