@@ -270,6 +270,48 @@ The **Te Deum** is an ancient hymn of praise, traditionally sung or recited at t
     In you, Lord, is our hope:
     and we shall never hope in vain.
 
+### Latin Text
+
+The traditional Latin of the hymn, for those who wish to pray or sing it in the Church's ancient language, is:
+
+    Te Deum laudamus: te Dominum confitemur.
+    Te aeternum Patrem, omnis terra veneratur.
+
+    Tibi omnes Angeli, tibi caeli et universae Potestates:
+    tibi Cherubim et Seraphim incessabili voce proclamant:
+    Sanctus, Sanctus, Sanctus, Dominus Deus Sabaoth.
+    Pleni sunt caeli et terra maiestatis gloriae tuae.
+
+    Te gloriosus Apostolorum chorus,
+    te Prophetarum laudabilis numerus,
+    te Martyrum candidatus laudat exercitus.
+    Te per orbem terrarum sancta confitetur Ecclesia,
+    Patrem immensae maiestatis,
+    venerandum tuum verum et unicum Filium,
+    Sanctum quoque Paraclitum Spiritum.
+
+    Tu rex gloriae, Christe.
+    Tu Patris sempiternus es Filius.
+    Tu, ad liberandum suscepturus hominem, non horruisti Virginis uterum.
+    Tu, devicto mortis aculeo, aperuisti credentibus regna caelorum.
+    Tu ad dexteram Dei sedes, in gloria Patris.
+    Iudex crederis esse venturus.
+
+    Te ergo quaesumus, tuis famulis subveni,
+    quos pretioso sanguine redemisti.
+    Aeterna fac cum Sanctis tuis in gloria numerari.
+    Salvum fac populum tuum, Domine, et benedic hereditati tuae.
+    Et rege eos, et extolle illos usque in aeternum.
+
+    Per singulos dies benedicimus te;
+    et laudamus nomen tuum in saeculum, et in saeculum saeculi.
+    Dignare, Domine, die isto sine peccato nos custodire.
+    Miserere nostri, Domine, miserere nostri.
+    Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te.
+    In te, Domine, speravi: non confundar in aeternum.
+
+In the Liturgy of the Hours, the concluding section beginning **Salvum fac populum tuum** may be omitted when the Te Deum is used in the Office of Readings.
+
 ## 6. Night Prayer's Examination of Conscience
 
 Before the psalmody of Night Prayer, the faithful make a brief examination of conscience. It may be done silently, or with a penitential formula such as:
@@ -337,5 +379,6 @@ The Rosary, novenas, litanies, and personal morning prayers are valuable devotio
 - [Catechism of the Catholic Church, §§1174–1178](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1174)
 - [Second Vatican Council, _Sacrosanctum Concilium_, §§83–101](https://www.magisterium.com/docs/6c499d17-83df-470e-8558-6c60ebcf2814/ref/83)
 - General Instruction of the Liturgy of the Hours, §§1–35, 84–91, and 199–203
+- The Te Deum, _Catholic Encyclopedia_
 - Code of Canon Law, canon 276 §2, 3°
 - Code of Canons of the Eastern Churches, canons 377–378
