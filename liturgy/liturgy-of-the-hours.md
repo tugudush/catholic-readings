@@ -221,7 +221,7 @@ Prayed at Night Prayer:
 
 ## 5. The Te Deum
 
-The **Te Deum** is an ancient hymn of praise, traditionally sung or recited at the end of the Office of Readings on Sundays, solemnities, and feasts outside Lent:
+The **Te Deum** is an ancient hymn of praise, traditionally sung or recited at the end of the Office of Readings on Sundays, solemnities, and feasts outside Lent. The English text below is the approved **ICEL translation** from the English edition of the *Liturgy of the Hours*:
 
     You are God: we praise you;
     You are the Lord: we acclaim you;
