@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Pio of Pietrelcina** (Italian: *Pio da Pietrelcina*; 25 May 1887 – 23 September 1968), commonly known as **Padre Pio**, was an Italian Capuchin Franciscan friar, priest, and mystic who bore the **stigmata**—the visible wounds of Christ—for fifty years. He is one of the most popular saints of the modern era, venerated for his extraordinary spiritual gifts, his devotion to the Eucharist and confession, and his charitable works. His feast day is **23 September**.
+**St. Pio of Pietrelcina** (Italian: _Pio da Pietrelcina_; 25 May 1887 – 23 September 1968), commonly known as **Padre Pio**, was an Italian Capuchin Franciscan friar, priest, and mystic who bore the **stigmata**—the visible wounds of Christ—for fifty years. He is one of the most popular saints of the modern era, venerated for his extraordinary spiritual gifts, his devotion to the Eucharist and confession, and his charitable works. His feast day is **23 September**.
 
 > "Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer."
 > — St. Pio of Pietrelcina
@@ -85,7 +85,59 @@ Padre Pio encouraged the formation of **Prayer Groups**, which spread throughout
 
 ---
 
-## 7. Death
+## 7. The Prayer Padre Pio Prayed for Intentions
+
+### The Efficacious Novena to the Sacred Heart
+
+A widely shared devotion claims that whenever the faithful asked Padre Pio to pray for a particular intention, he prayed the **Efficacious Novena to the Sacred Heart of Jesus**, a novena traditionally attributed to **St. Margaret Mary Alacoque** (1647–1690), the Visitation mystic of Paray-le-Monial to whom Christ revealed His Sacred Heart.
+
+**Verification note.** The prayer itself is an authentic and doctrinally sound Catholic devotion, firmly rooted in the promises of Christ recorded in the Gospels. The specific claim that Padre Pio prayed this novena for every intention, however, is a **devotional tradition that is not documented in the official sources** on his life — the biography of the Holy See Press Office, the acts of his cause, and the homilies of Popes John Paul II and Benedict XVI make no mention of it. It should therefore be repeated as an unconfirmed pious tradition rather than asserted as a historical fact. What is certain is that Padre Pio interceded constantly for the intentions entrusted to him, offering them in union with the Holy Sacrifice of the Mass and in his long hours of prayer.
+
+### The Novena
+
+The novena is prayed for **nine consecutive days**. Each day, after naming one's intention, the three invocations below are recited, each followed by the **Our Father**, the **Hail Mary**, and the **Glory Be**, and the ejaculation **"Sacred Heart of Jesus, I place all my trust in you."** It concludes with a prayer through the Sorrowful and Immaculate Heart of Mary, the **Hail, Holy Queen**, and the invocation of St. Joseph. _For the full context of the devotion, see [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md)._ The novena's power rests not in any formula but in the promises of Christ Himself, which the prayer quotes from the Gospels (Matthew 7:7; John 16:23; Matthew 24:35), and in the trust with which it is prayed.
+
+**I.**
+
+    O my Jesus, you have said: "Truly I say to you, ask and you will receive,
+    seek and you will find, knock and it will be opened to you."
+    Behold I knock, I seek and ask for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**II.**
+
+    O my Jesus, you have said: "Truly I say to you, if you ask anything of the Father
+    in my name, he will give it to you."
+    Behold, in your name, I ask the Father for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**III.**
+
+    O my Jesus, you have said: "Truly I say to you, heaven and earth will pass away
+    but my words will not pass away."
+    Encouraged by your infallible words I now ask for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**Concluding Prayer**
+
+    O Sacred Heart of Jesus, for whom it is impossible not to have compassion
+    on the afflicted, have pity on us miserable sinners
+    and grant us the grace which we ask of you,
+    through the Sorrowful and Immaculate Heart of Mary, your tender Mother and ours.
+
+Then pray the **Hail, Holy Queen**, and add:
+
+    St. Joseph, foster father of Jesus, pray for us.
+
+---
+
+## 8. Death
 
 Padre Pio died on **23 September 1968** at the age of eighty-one. His final words were: **"Gesù, Maria"** ("Jesus, Mary"). His stigmata had completely disappeared a few hours before his death, leaving only smooth, healed skin with no scars.
 
@@ -98,42 +150,42 @@ Padre Pio died on **23 September 1968** at the age of eighty-one. His final word
 
 ---
 
-## 8. Patronage
+## 9. Patronage
 
 St. Pio of Pietrelcina is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Stress Relief and Civil Defense Volunteers** | Proclaimed by the Church |
-| **Adolescents** | His love for young people |
-| **The Sick and Suffering** | His own lifelong suffering |
-| **Confession and Penitents** | His ministry of reconciliation |
-| **San Giovanni Rotondo** | His adopted hometown |
+| Patronage                                      | Description                    |
+| ---------------------------------------------- | ------------------------------ |
+| **Stress Relief and Civil Defense Volunteers** | Proclaimed by the Church       |
+| **Adolescents**                                | His love for young people      |
+| **The Sick and Suffering**                     | His own lifelong suffering     |
+| **Confession and Penitents**                   | His ministry of reconciliation |
+| **San Giovanni Rotondo**                       | His adopted hometown           |
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                  | Date         | Rank     | Notes           |
+| -------------------------------------- | ------------ | -------- | --------------- |
 | **Memorial of St. Pio of Pietrelcina** | 23 September | Memorial | Principal feast |
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "Padre Pio was a humble Capuchin friar who became an instrument of God's mercy. His life shows that the power of God is made perfect in weakness."
 > — Pope John Paul II, Canonization Homily, 16 June 2002
 
 > "He lived the passion of Christ in his own flesh, bearing the stigmata for fifty years. He teaches us to unite our sufferings with those of the Cross."
-> — Pope Benedict XVI, *Angelus*, 23 September 2008
+> — Pope Benedict XVI, _Angelus_, 23 September 2008
 
 > "Padre Pio is a living witness to the power of the Sacrament of Reconciliation. He spent hours in the confessional, bringing souls back to God."
-> — Pope Francis, *General Audience*, 4 February 2015
+> — Pope Francis, _General Audience_, 4 February 2015
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayer for Intercession
 
 St. Pio of Pietrelcina (Padre Pio), the stigmatist of San Giovanni Rotondo, bore the visible wounds of Christ for fifty years and spent up to sixteen hours a day in the confessional, reading souls and reconciling sinners to God. His famous counsel — "Pray, hope, and don't worry" — has comforted millions. The faithful seek his intercession for physical and spiritual healing, for the grace of a worthy confession, for those suffering from anxiety, for the sick (especially through the Casa Sollievo della Sofferenza), and for the gift of perseverance in trial. The following prayer may be used to seek his intercession:
 
@@ -158,15 +210,16 @@ St. Pio of Pietrelcina (Padre Pio), the stigmatist of San Giovanni Rotondo, bore
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Padre Pio,
     pray for us.
 
 ---
 
-## 12. Further Reading
+## 13. Further Reading
 
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — Detailed account of the stigmata of Padre Pio.
+- [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md) — The devotion to the Sacred Heart of Jesus, including the full text of the Efficacious Novena.
 - [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, the first stigmatist.
 - [saints/README.md](README.md) — Master index of the saints directory.

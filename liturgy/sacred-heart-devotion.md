@@ -469,6 +469,54 @@ The Litany of the Sacred Heart of Jesus, approved for public recitation, consist
 
 ---
 
+## The Efficacious Novena to the Sacred Heart
+
+The **Efficacious Novena to the Sacred Heart of Jesus** is a popular novena traditionally attributed to **St. Margaret Mary Alacoque**, the Visitation mystic of Paray-le-Monial. It consists of three invocations, each resting upon a promise of Our Lord recorded in the Gospels, followed by the Our Father, the Hail Mary, and the Glory Be, and the ejaculation _Sacred Heart of Jesus, I place all my trust in you_. It concludes with a prayer of confident petition through the Sorrowful and Immaculate Heart of Mary and the Hail, Holy Queen, with the invocation of St. Joseph.
+
+The novena is prayed for **nine consecutive days**; each day the three invocations below are recited, naming one's intention after each.
+
+**I.**
+
+    O my Jesus, you have said: "Truly I say to you, ask and you will receive,
+    seek and you will find, knock and it will be opened to you."
+    Behold I knock, I seek and ask for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**II.**
+
+    O my Jesus, you have said: "Truly I say to you, if you ask anything of the Father
+    in my name, he will give it to you."
+    Behold, in your name, I ask the Father for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**III.**
+
+    O my Jesus, you have said: "Truly I say to you, heaven and earth will pass away
+    but my words will not pass away."
+    Encouraged by your infallible words I now ask for the grace of ...... (here name your request)
+
+    Our Father ... Hail Mary ... Glory Be to the Father ...
+    Sacred Heart of Jesus, I place all my trust in you.
+
+**Concluding Prayer**
+
+    O Sacred Heart of Jesus, for whom it is impossible not to have compassion
+    on the afflicted, have pity on us miserable sinners
+    and grant us the grace which we ask of you,
+    through the Sorrowful and Immaculate Heart of Mary, your tender Mother and ours.
+
+Then pray the **Hail, Holy Queen**, and add:
+
+    St. Joseph, foster father of Jesus, pray for us.
+
+The novena's power rests not in any formula but in the promises of Christ Himself, which the prayer quotes from the Gospels (Matthew 7:7; John 16:23; Matthew 24:35), and in the trust with which it is prayed. A popular tradition — one not documented in the official sources on his life — holds that **St. Pio of Pietrelcina (Padre Pio)** prayed this novena for the intentions of all who asked his prayers; _see [saints/st-padre-pio.md](../saints/st-padre-pio.md)_. The prayer may be offered with confidence for any intention conformable to God's holy will.
+
+---
+
 ## The Sacred Heart and Eastern Catholic Tradition
 
 While the devotion to the Sacred Heart in its modern form emerged in the Latin Church, its theological core — the contemplation of Christ's pierced side and the love of the Incarnate Word — is shared across the Catholic Church's 24 _sui iuris_ Churches.
@@ -528,6 +576,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Scapular of the Sacred Heart mentioned among approved sacramentals.
 - [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The First Saturday devotion and the Immaculate Heart.
 - [christology/README.md](../christology/README.md) — Christological foundations of the devotion.
+- [saints/st-padre-pio.md](../saints/st-padre-pio.md) — The Efficacious Novena, traditionally the prayer by which St. Pio of Pietrelcina interceded for the intentions of the faithful.
 
 ---
 
