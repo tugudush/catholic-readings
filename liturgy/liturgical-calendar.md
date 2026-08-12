@@ -89,7 +89,7 @@ While the Easter cycle shifts, many major feasts fall on **fixed calendar dates*
 | **July 25**                           | **St. James, Apostle**                                                 | Feast                                                |
 | **August 6**                          | **The Transfiguration of the Lord**                                    | Feast                                                |
 | **August 10**                         | **St. Lawrence, Deacon and Martyr**                                    | Feast                                                |
-| **August 15**                         | **The Assumption of the Blessed Virgin Mary**                          | Solemnity (Holy Day of Obligation)                   |
+| **August 15**                         | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation) |
 | **August 24**                         | **St. Bartholomew, Apostle**                                           | Feast                                                |
 | **September 8**                       | **The Nativity of the Blessed Virgin Mary**                            | Feast                                                |
 | **September 14**                      | **The Exaltation of the Holy Cross**                                   | Feast                                                |
@@ -402,7 +402,7 @@ The second block of Ordinary Time, from the Monday after Pentecost until the Fir
 | June 24                                             | **The Nativity of St. John the Baptist**                            | Solemnity                          |
 | June 29                                             | **Sts. Peter and Paul, Apostles**                                   | Solemnity                          |
 | August 6                                            | **The Transfiguration of the Lord**                                 | Feast                              |
-| August 15                                           | **The Assumption of the Blessed Virgin Mary**                       | Solemnity (Holy Day of Obligation) |
+| August 15                                           | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation) |
 | September 14                                        | **The Exaltation of the Holy Cross**                                | Feast                              |
 | November 1                                          | **All Saints**                                                      | Solemnity (Holy Day of Obligation) |
 | November 2                                          | **The Commemoration of All the Faithful Departed** (All Souls' Day) | —                                  |
