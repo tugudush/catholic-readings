@@ -93,15 +93,15 @@ In the Latin Rite, the sponsor (godparent) for Confirmation should ordinarily be
 
 ## 7. Latin Rite vs. Eastern Catholic Tradition
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Name** | Confirmation | Chrismation (_Myron_) |
-| **Ordinary Minister** | Bishop (priests may be delegated) | Priest (the one who baptizes) |
-| **Matter** | Chrism on the forehead | Myron anointed on multiple parts of the body |
-| **When administered** | Ordinarily at the age of discretion (13–16 in many dioceses) | Immediately after Baptism, including in infancy |
-| **Initiation pattern** | Baptism, then later Confirmation and First Communion | Baptism, Chrismation, and First Communion as a single rite |
-| **Form** | "Be sealed with the Gift of the Holy Spirit." | "The seal of the gift of the Holy Spirit." |
-| **Consecration of chrism** | By the bishop at the Chrism Mass on Holy Thursday | By the patriarch or bishop in a more elaborate ritual |
+| Aspect                     | Latin Rite                                                   | Eastern Catholic Churches                                  |
+| -------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| **Name**                   | Confirmation                                                 | Chrismation (_Myron_)                                      |
+| **Ordinary Minister**      | Bishop (priests may be delegated)                            | Priest (the one who baptizes)                              |
+| **Matter**                 | Chrism on the forehead                                       | Myron anointed on multiple parts of the body               |
+| **When administered**      | Ordinarily at the age of discretion (13–16 in many dioceses) | Immediately after Baptism, including in infancy            |
+| **Initiation pattern**     | Baptism, then later Confirmation and First Communion         | Baptism, Chrismation, and First Communion as a single rite |
+| **Form**                   | "Be sealed with the Gift of the Holy Spirit."                | "The seal of the gift of the Holy Spirit."                 |
+| **Consecration of chrism** | By the bishop at the Chrism Mass on Holy Thursday            | By the patriarch or bishop in a more elaborate ritual      |
 
 The **theological content is identical**: the same sacrament, the same outpouring of the Holy Spirit, the same indelible character, the same mission of witness. The differences are in **discipline, liturgical form, and ministerial practice**, not in dogma.
 
@@ -121,17 +121,17 @@ In the Byzantine tradition, the sacrament is called **Holy Chrismation** or simp
 
 ## 10. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Trent, Session VII** (1547) | Defined Confirmation as a true sacrament instituted by Christ. |
-| **Council of Trent, _De Confirmatione_** (1547) | Anathematized anyone denying that Confirmation imprints an indelible character or that it cannot be repeated. |
-| **Catechism of the Catholic Church** | [CCC 1285–1321](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1285) |
-| **Code of Canon Law** | c. 879–896 |
-| **Code of Canons of the Eastern Churches** | c. 690–697 |
-| **Lumen Gentium** (Vatican II) | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **Pope Paul VI**, _Divinae Consortium Naturae_ (1971) | Reorganized the rite of Confirmation. |
-| **Pope John Paul II**, _General Audience of 30 September 1998_ | Explained the Eastern tradition of Chrismation. |
-| **Pope Francis**, _General Audience of 30 May 2018_ | Explained the biblical foundation and the indelible character. |
+| Source                                                         | Reference                                                                                                     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Council of Trent, Session VII** (1547)                       | Defined Confirmation as a true sacrament instituted by Christ.                                                |
+| **Council of Trent, _De Confirmatione_** (1547)                | Anathematized anyone denying that Confirmation imprints an indelible character or that it cannot be repeated. |
+| **Catechism of the Catholic Church**                           | [CCC 1285–1321](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1285)               |
+| **Code of Canon Law**                                          | c. 879–896                                                                                                    |
+| **Code of Canons of the Eastern Churches**                     | c. 690–697                                                                                                    |
+| **Lumen Gentium** (Vatican II)                                 | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                             |
+| **Pope Paul VI**, _Divinae Consortium Naturae_ (1971)          | Reorganized the rite of Confirmation.                                                                         |
+| **Pope John Paul II**, _General Audience of 30 September 1998_ | Explained the Eastern tradition of Chrismation.                                                               |
+| **Pope Francis**, _General Audience of 30 May 2018_            | Explained the biblical foundation and the indelible character.                                                |
 
 ---
 
