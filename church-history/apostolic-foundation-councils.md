@@ -205,6 +205,7 @@ The history of the early Catholic Church shows that her core elements—the **pr
 
 ## Further Reading
 
+- [church-hierarchy.md](church-hierarchy.md) — Comprehensive study of the hierarchy of the Catholic Church from the Pope through bishops, priests, and deacons, including the difference between a deacon and a priest.
 - [apostolic-fathers.md](apostolic-fathers.md) — A comprehensive monograph on the direct disciples of the Apostles, including St. Clement of Rome, St. Ignatius of Antioch, St. Polycarp of Smyrna, St. Papias of Hierapolis, and the earliest extra-biblical Christian writings.
 - [st-linus-pope.md](st-linus-pope.md) — Dedicated biography of St. Linus, second successor of St. Peter and second Bishop of Rome.
 - [st-cletus-anacletus.md](st-cletus-anacletus.md) — Dedicated biography of St. Cletus (Anacletus), second successor of St. Peter and third Bishop of Rome.
