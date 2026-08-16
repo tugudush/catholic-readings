@@ -163,5 +163,5 @@ St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order a
 ## 11. Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, his collaborator in the Carmelite reform.
-- [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor.
+- [saints/st-therese-lisieux.md](st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor.
 - [saints/README.md](README.md) — Master index of the saints directory.

@@ -156,5 +156,5 @@ St. George, the Great Martyr and dragon-slayer, is one of the most widely venera
 ## 11. Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The age of persecution under Diocletian.
-- [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — St. Michael, the first soldier-saint.
+- [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael, the first soldier-saint.
 - [saints/README.md](README.md) — Master index of the saints directory.

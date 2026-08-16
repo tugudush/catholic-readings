@@ -190,7 +190,17 @@ Comprehensive studies of Catholic lay organizations, fraternal orders, and apost
 
 ---
 
-## 15. Local Church Schedules
+## 15. Enemies of the Church
+
+Studies of the movements, ideologies, and secret societies that the Catholic Church has identified as opposed to her doctrine, discipline, and mission — together with the magisterial response to them across the centuries. These documents maintain the Church's rigorous distinction between her **doctrinal condemnation of error** and her rejection of the **violent persecution of persons**:
+
+- **Master Index & Scope**: Read [enemies-of-the-church/README.md](enemies-of-the-church/README.md) for the introductory overview of this directory and its guiding principles.
+- **Freemasonry**: See [enemies-of-the-church/freemasons.md](enemies-of-the-church/freemasons.md) for a comprehensive treatment of the history, beliefs, structure, and the Catholic Church's consistent condemnation of Freemasonry — grounded in papal documents, conciliar decrees, and magisterial declarations from Clement XII's _In Eminenti_ (1738) through the 1983 CDF declaration and the 2023 DDF reaffirmation — including the canonical status of Catholic Masons, Freemasonry and Protestantism, Freemasonry in the Philippines, and the Nazi persecution of Freemasons.
+- **Nazis vs. Freemasons — The Robbing of the Lodges**: See [enemies-of-the-church/nazis-vs-freemasons-robbing-lodges.md](enemies-of-the-church/nazis-vs-freemasons-robbing-lodges.md) for a documentary summary of the Nazi looting of Masonic lodges during World War II, the Soviet seizure of those archives, and their eventual repatriation to France in 1999.
+
+---
+
+## 16. Local Church Schedules
 
 Published parish and cathedral schedules, confession times, contact details, and source-verification notes are collected in the [churches/](churches/) directory:
 

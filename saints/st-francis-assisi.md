@@ -179,7 +179,7 @@ St. Francis of Assisi, Il Poverello, embodied the radical poverty and joyous lov
 
 ## 13. Further Reading
 
-- [saints/patron-st-clare-assisi.md](patron-st-clare-assisi.md) — St. Clare of Assisi, foundress of the Poor Clares.
+- [saints/st-clare-assisi.md](st-clare-assisi.md) — St. Clare of Assisi, foundress of the Poor Clares.
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — The stigmata in the lives of the saints.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — Medieval Church history context.
 - [saints/README.md](README.md) — Master index of the saints directory.

@@ -18,6 +18,7 @@ Current topic directories:
 - [angelology/](../../angelology/) — Angels, choirs, fallen angels
 - [christology/](../../christology/) — The Person and work of Jesus Christ, the Incarnation, the hypostatic union
 - [church-history/](../../church-history/) — Councils, popes, schisms, relations with other communions
+- [enemies-of-the-church/](../../enemies-of-the-church/) — Movements, ideologies, and secret societies the Church has condemned (e.g., Freemasonry) and the magisterial response
 - [gifts-holy-spirit/](../../gifts-holy-spirit/) — The nine charismatic gifts (charisms) of the Holy Spirit from 1 Corinthians 12:8–10
 - [liturgy/](../../liturgy/) — Prayers, sacraments, devotionals
 - [miracles/](../../miracles/) — Approved apparitions, Eucharistic miracles, saint phenomena, private revelations

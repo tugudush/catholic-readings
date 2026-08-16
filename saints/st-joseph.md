@@ -408,8 +408,8 @@ St. Joseph, the just and silent carpenter of Nazareth, is the most powerful inte
 - [liturgy/st-joseph-prayer-for-purity.md](../liturgy/st-joseph-prayer-for-purity.md) — Fr. Donald Calloway, MIC's Prayer to St. Joseph for Purity against sins of the flesh, and the devotion of Consecration to St. Joseph.
 - [liturgy/rosary/how-to-pray.md](../liturgy/rosary/how-to-pray.md) — The Rosary, including the Prayer to St. Joseph.
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Eastern Catholic traditions of venerating St. Joseph.
-- [saints/patron-st-peter.md](patron-st-peter.md) — The first pope, to whose line Joseph's Davidic descent belongs.
-- [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — The prince of the heavenly host, with whom Joseph was proclaimed joint patron of the Universal Church in some traditions.
+- [saints/st-peter.md](st-peter.md) — The first pope, to whose line Joseph's Davidic descent belongs.
+- [saints/st-michael-archangel.md](st-michael-archangel.md) — The prince of the heavenly host, with whom Joseph was proclaimed joint patron of the Universal Church in some traditions.
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The papal succession from St. Peter, to whom Joseph's protective role over the Church is compared.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Brown Scapular, associated with the Carmelite devotion to St. Joseph.
 - [saints/README.md](README.md) — Master index of the saints directory.

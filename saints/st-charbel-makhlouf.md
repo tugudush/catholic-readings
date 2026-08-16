@@ -267,9 +267,9 @@ St. Charbel is one of the most powerful intercessors of the modern era, with tho
 
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Comprehensive guide to the Eastern Catholic Churches, including the Maronite Church and its monastic tradition.
 - [saints/st-padre-pio.md](st-padre-pio.md) — St. Pio of Pietrelcina, to whom St. Charbel is often compared ("the Padre Pio of Lebanon").
-- [saints/patron-st-benedict.md](patron-st-benedict.md) — St. Benedict of Nursia, Father of Western monasticism — the Latin counterpart to the Eastern eremitical tradition.
-- [saints/patron-st-anthony-padua.md](patron-st-anthony-padua.md) — St. Anthony of Padua, the Evangelical Doctor — an Eastern-born saint (Lisbon, then part of the Visigothic kingdom) whose life bridges Latin and Eastern traditions.
-- [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — St. Michael the Archangel, whose celestial liturgy is the archetype of the monastic life of prayer.
+- [saints/st-benedict.md](st-benedict.md) — St. Benedict of Nursia, Father of Western monasticism — the Latin counterpart to the Eastern eremitical tradition.
+- [saints/st-anthony-padua.md](st-anthony-padua.md) — St. Anthony of Padua, the Evangelical Doctor — an Eastern-born saint (Lisbon, then part of the Visigothic kingdom) whose life bridges Latin and Eastern traditions.
+- [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael the Archangel, whose celestial liturgy is the archetype of the monastic life of prayer.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist, the center of St. Charbel's life and the sacrifice in which his own death was mystically consummated.
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The sacrament of Holy Orders, including the Eastern Catholic tradition of married clergy alongside celibate monastics.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — Foundational prayers of the Eastern and Western traditions, including the Jesus Prayer central to Charbel's practice.

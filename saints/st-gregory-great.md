@@ -150,6 +150,6 @@ St. Gregory the Great, Pope and Doctor of the Church, is one of the four great L
 ## 11. Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
-- [saints/patron-st-benedict.md](patron-st-benedict.md) — St. Benedict, whose life Gregory recorded.
+- [saints/st-benedict.md](st-benedict.md) — St. Benedict, whose life Gregory recorded.
 - [saints/st-ambrose.md](st-ambrose.md) — St. Ambrose, another Latin Doctor.
 - [saints/README.md](README.md) — Master index of the saints directory.

@@ -220,7 +220,7 @@ St. Paul, the Apostle to the Gentiles, was a man of unflagging zeal for the Gosp
 
 ## 13. Further Reading
 
-- [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter the Apostle, Prince of the Apostles.
+- [saints/st-peter.md](st-peter.md) — St. Peter the Apostle, Prince of the Apostles.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The foundations of the early Church.
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The canon of Scripture, including the Pauline epistles.
 - [saints/README.md](README.md) — Master index of the saints directory.

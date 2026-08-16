@@ -186,7 +186,7 @@ St. Augustine of Hippo, the Doctor of Grace, was a restless sinner who became on
 
 ## 12. Further Reading
 
-- [saints/patron-st-monica.md](patron-st-monica.md) — St. Monica, mother of St. Augustine.
-- [saints/patron-st-thomas-aquinas.md](patron-st-thomas-aquinas.md) — St. Thomas Aquinas, whose theology built on Augustine.
+- [saints/st-monica.md](st-monica.md) — St. Monica, mother of St. Augustine.
+- [saints/st-thomas-aquinas.md](st-thomas-aquinas.md) — St. Thomas Aquinas, whose theology built on Augustine.
 - [saints/st-jerome.md](st-jerome.md) — St. Jerome, another Doctor of the Church and contemporary of Augustine.
 - [saints/README.md](README.md) — Master index of the saints directory.

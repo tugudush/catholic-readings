@@ -115,6 +115,6 @@ St. Lawrence, deacon and martyr, presented the poor, the crippled, and the blind
 
 ## 9. Further Reading
 
-- [saints/patron-st-stephen.md](patron-st-stephen.md) — St. Stephen, the first Christian martyr.
+- [saints/st-stephen.md](st-stephen.md) — St. Stephen, the first Christian martyr.
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The diaconate.
 - [saints/README.md](README.md) — Master index of the saints directory.

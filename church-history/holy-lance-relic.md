@@ -8,7 +8,7 @@
 
 The **Holy Lance** (Latin: _Lancea Sacra_; German: _Heilige Lanze_; also known as the **Spear of Destiny**, the **Lance of Longinus**, or the **Spear of Christ**) is the weapon that, according to the Gospel of John (19:34), a Roman soldier used to pierce the side of Jesus Christ after His death on the Cross. From that scriptural seed grew one of the richest and most contested relic traditions in Christian history — a story that spans Jerusalem, Constantinople, Rome, Paris, Vienna, Nuremberg, and the ruins of the Third Reich.
 
-For the biography of the soldier himself, see [saints/patron-st-longinus.md](../saints/patron-st-longinus.md).
+For the biography of the soldier himself, see [saints/st-longinus.md](../saints/st-longinus.md).
 
 ---
 
@@ -191,7 +191,7 @@ The lance remains, for Catholics, far more than an archaeological curiosity. The
 
 ## 14. Further Reading
 
-- [saints/patron-st-longinus.md](../saints/patron-st-longinus.md) — The comprehensive biography of St. Longinus, the soldier who pierced Christ's side.
+- [saints/st-longinus.md](../saints/st-longinus.md) — The comprehensive biography of St. Longinus, the soldier who pierced Christ's side.
 - [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md) — The devotion to the Sacred Heart of Jesus, with theological foundations, magisterial documents, the Twelve Promises, and devotional prayers.
 - [liturgy/chaplet-divine-mercy.md](../liturgy/chaplet-divine-mercy.md) — The Chaplet of Divine Mercy, invoking the blood and water from Christ's pierced Heart.
 - [church-history/papal-chronology.md](papal-chronology.md) — Chronological list of popes, including those involved in the lance's history.

@@ -252,6 +252,6 @@ St. Peter, the Prince of the Apostles, holds the keys of the Kingdom of Heaven (
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The unbroken succession of Roman Pontiffs from St. Peter to the present.
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The first generations of Christian leaders after the Apostles.
-- [saints/patron-st-paul.md](patron-st-paul.md) — St. Paul the Apostle, the Apostle to the Gentiles.
+- [saints/st-paul.md](st-paul.md) — St. Paul the Apostle, the Apostle to the Gentiles.
 - [saints/st-john-paul-ii.md](st-john-paul-ii.md) — A modern successor of Peter.
 - [saints/README.md](README.md) — Master index of the saints directory.
