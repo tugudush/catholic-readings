@@ -16,6 +16,6 @@ These documents are written to scholarly standards, grounded in primary sources 
 
 ## Related Directories
 
-- [enemies-of-the-church/freemasons/](../enemies-of-the-church/freemasons/) — The secret societies against which Catholic fraternal orders were historically offered as an alternative; the Church's condemnation of Freemasonry provides the theological contrast that clarifies the legitimate character of Catholic fraternal bodies.
+- [enemies-of-the-church/](../enemies-of-the-church/) — The secret societies against which Catholic fraternal orders were historically offered as an alternative; the Church's condemnation of Freemasonry provides the theological contrast that clarifies the legitimate character of Catholic fraternal bodies.
 - [saints/](../saints/) — Biographies of the saints and blesseds, including founders of apostolic associations.
 - [sacraments/](../sacraments/) — The sacramental life of the Church which these organizations serve and promote.

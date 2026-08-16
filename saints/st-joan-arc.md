@@ -174,6 +174,6 @@ St. Joan of Arc, the Maid of Orléans, was a peasant girl who, at the age of sev
 
 ## 11. Further Reading
 
-- [saints/patron-st-michael-archangel.md](patron-st-michael-archangel.md) — St. Michael the Archangel, who appeared to Joan.
+- [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael the Archangel, who appeared to Joan.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The historical context of the Hundred Years' War.
 - [saints/README.md](README.md) — Master index of the saints directory.

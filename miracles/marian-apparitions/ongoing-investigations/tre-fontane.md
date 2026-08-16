@@ -25,5 +25,5 @@ The faithful may visit the shrine of Tre Fontane and benefit from its sacramenta
 
 ## Further Reading
 - For the general principles of discernment, see [miracles/README.md](../../README.md).
-- For the site's martyr tradition of Saint Paul, see [saints/patron-st-paul.md](../../../saints/patron-st-paul.md).
+- For the site's martyr tradition of Saint Paul, see [saints/st-paul.md](../../../saints/st-paul.md).
 - For the Church's norms on alleged phenomena, see the Dicastery for the Doctrine of the Faith, *Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena* (17 May 2024).

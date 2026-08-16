@@ -162,6 +162,6 @@ St. Clare of Assisi, the first woman to write a monastic rule and the foundress 
 
 ## 12. Further Reading
 
-- [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, who inspired Clare.
+- [saints/st-francis-assisi.md](st-francis-assisi.md) — St. Francis of Assisi, who inspired Clare.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Eucharist, central to Clare's spirituality.
 - [saints/README.md](README.md) — Master index of the saints directory.

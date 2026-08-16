@@ -185,6 +185,6 @@ St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Ch
 ## 12. Further Reading
 
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.
-- [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor of the Church.
-- [saints/patron-st-catherine-siena.md](patron-st-catherine-siena.md) — St. Catherine of Siena, woman Doctor of the Church.
+- [saints/st-therese-lisieux.md](st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor of the Church.
+- [saints/st-catherine-siena.md](st-catherine-siena.md) — St. Catherine of Siena, woman Doctor of the Church.
 - [saints/README.md](README.md) — Master index of the saints directory.

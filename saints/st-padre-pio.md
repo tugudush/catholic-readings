@@ -221,5 +221,5 @@ _A shorter invocation for daily use:_
 
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — Detailed account of the stigmata of Padre Pio.
 - [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md) — The devotion to the Sacred Heart of Jesus, including the full text of the Efficacious Novena.
-- [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, the first stigmatist.
+- [saints/st-francis-assisi.md](st-francis-assisi.md) — St. Francis of Assisi, the first stigmatist.
 - [saints/README.md](README.md) — Master index of the saints directory.

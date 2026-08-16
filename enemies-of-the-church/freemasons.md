@@ -390,7 +390,7 @@ It is important to distinguish the Catholic Church's doctrinal condemnation of F
 
 During the Nazi occupation of Europe, Masonic lodges were systematically looted, their archives seized, and members were sent to concentration camps. The Nazis — driven by the conspiracy theories of Alfred Rosenberg and Heinrich Himmler — believed Masonic lodges were part of a "Judeo-Masonic" conspiracy and that their archives contained occult secrets, including alchemical formulas.
 
-For a detailed account of the Nazi looting of Masonic lodges, the Soviet seizure of those archives, and their eventual repatriation to France in 1999, see [enemies-of-the-church/freemasons/nazis-vs-freemasons-robbing-lodges.md](nazis-vs-freemasons-robbing-lodges.md).
+For a detailed account of the Nazi looting of Masonic lodges, the Soviet seizure of those archives, and their eventual repatriation to France in 1999, see [nazis-vs-freemasons-robbing-lodges.md](nazis-vs-freemasons-robbing-lodges.md).
 
 ---
 
@@ -440,6 +440,6 @@ The Catholic Church's teaching on Freemasonry may be summarized in the following
 
 - [Catechism of the Catholic Church, §§ 675, 846–848, 2104–2109 — on indifferentism, the necessity of the Church for salvation, and the true meaning of religious freedom]
 - [nazis-vs-freemasons-robbing-lodges.md](nazis-vs-freemasons-robbing-lodges.md) — Documentary summary: the Nazi looting of Masonic lodges during WWII, the Soviet seizure of the archives, and their repatriation in 1999
-- [church-history/sects-and-non-christian-communities.md](../../church-history/sects-and-non-christian-communities.md) — Magisterial classification of sects, non-Christian communities, and true particular Churches
-- [sacraments/apostasy-formal-defection.md](../../sacraments/apostasy-formal-defection.md) — On the indelible baptismal character and the impossibility of truly ceasing to be Catholic
-- [catholic-organizations/knights-of-columbus.md](../../catholic-organizations/knights-of-columbus.md) — The Knights of Columbus: the Catholic fraternal order founded in 1882 as a Catholic alternative to the oath-bound secret societies condemned by the Church, and the contrast between Catholic fraternal bodies and Freemasonry
+- [church-history/sects-and-non-christian-communities.md](../church-history/sects-and-non-christian-communities.md) — Magisterial classification of sects, non-Christian communities, and true particular Churches
+- [sacraments/apostasy-formal-defection.md](../sacraments/apostasy-formal-defection.md) — On the indelible baptismal character and the impossibility of truly ceasing to be Catholic
+- [catholic-organizations/knights-of-columbus.md](../catholic-organizations/knights-of-columbus.md) — The Knights of Columbus: the Catholic fraternal order founded in 1882 as a Catholic alternative to the oath-bound secret societies condemned by the Church, and the contrast between Catholic fraternal bodies and Freemasonry

@@ -132,7 +132,7 @@ St. Stephen, the Protomartyr and first deacon of the Church, was filled with the
 
 ## 10. Further Reading
 
-- [saints/patron-st-lawrence.md](patron-st-lawrence.md) — St. Lawrence, deacon and martyr.
-- [saints/patron-st-paul.md](patron-st-paul.md) — St. Paul, who witnessed Stephen's martyrdom.
+- [saints/st-lawrence.md](st-lawrence.md) — St. Lawrence, deacon and martyr.
+- [saints/st-paul.md](st-paul.md) — St. Paul, who witnessed Stephen's martyrdom.
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The diaconate.
 - [saints/README.md](README.md) — Master index of the saints directory.

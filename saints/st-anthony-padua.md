@@ -168,7 +168,7 @@ St. Anthony of Padua is one of the most beloved and widely invoked saints in the
 
 ## 12. Further Reading
 
-- [saints/patron-st-francis-assisi.md](patron-st-francis-assisi.md) — St. Francis of Assisi, founder of the Franciscan Order.
-- [saints/patron-st-clare-assisi.md](patron-st-clare-assisi.md) — St. Clare of Assisi, companion in the Franciscan movement.
+- [saints/st-francis-assisi.md](st-francis-assisi.md) — St. Francis of Assisi, founder of the Franciscan Order.
+- [saints/st-clare-assisi.md](st-clare-assisi.md) — St. Clare of Assisi, companion in the Franciscan movement.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — Prayers including devotions to St. Anthony.
 - [saints/README.md](README.md) — Master index of the saints directory.

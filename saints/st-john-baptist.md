@@ -176,5 +176,5 @@ St. John the Baptist, the Forerunner of the Lord and the greatest of the prophet
 ## 12. Further Reading
 
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The Gospels' witness to John the Baptist.
-- [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter, the first to confess Christ.
+- [saints/st-peter.md](st-peter.md) — St. Peter, the first to confess Christ.
 - [saints/README.md](README.md) — Master index of the saints directory.

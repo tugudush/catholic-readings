@@ -41,7 +41,7 @@ The Knights of Columbus arose in a specific historical setting: the Catholic imm
 
 - **Economic vulnerability**: working-class families, often headed by a single breadwinner, could be plunged into destitution by the illness, disability, or death of the father, leaving widows and orphans without support.
 - **Social exclusion**: Catholics were barred from many of the fraternal and benefit societies of the era, which often required secret oaths, excluded Catholics, or were indifferent to religion.
-- **The lure of secret societies**: many Catholic men, seeking insurance protection and fraternal companionship, were drawn to organizations whose secrecy, indifferentism, and oath-bound character the Church had long condemned (see [enemies-of-the-church/freemasons/freemasons.md](../enemies-of-the-church/freemasons/freemasons.md)).
+- **The lure of secret societies**: many Catholic men, seeking insurance protection and fraternal companionship, were drawn to organizations whose secrecy, indifferentism, and oath-bound character the Church had long condemned (see [enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md)).
 - **Anti-Catholic prejudice**: Catholics faced systematic discrimination in employment, politics, and public life, and were often caricatured as disloyal to the Republic.
 
 The response of the Church to these circumstances was the encouragement of distinctly **Catholic** associations — bodies in which Catholic men could find fraternal support, insurance protection, and a school of virtue without compromising their faith.
@@ -252,7 +252,7 @@ The order's roll of members reflects its character as a broad association of the
 
 ## The Knights and Catholic Identity: Distinction from Secret Societies
 
-The Knights of Columbus must be clearly distinguished from the **secret societies** that the Catholic Church has consistently condemned. The contrast is instructive (see [enemies-of-the-church/freemasons/freemasons.md](../enemies-of-the-church/freemasons/freemasons.md)):
+The Knights of Columbus must be clearly distinguished from the **secret societies** that the Catholic Church has consistently condemned. The contrast is instructive (see [enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md)):
 
 | Catholic Fraternal Order (Knights of Columbus)                                                                                                        | Secret Society (e.g., Freemasonry)                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -292,13 +292,13 @@ The Knights of Columbus stands as a model of what Catholic lay associations can 
 - **Dicastery for the Causes of Saints**, _Michael McGivney: Decree on the Miracle; Biography_.
 - **Catechism of the Catholic Church**, §§ 897–913 (the lay faithful and their participation in Christ's priestly, prophetic, and kingly office).
 - **Second Vatican Council**, _Lumen Gentium_, 30–36; _Apostolicam Actuositatem_ (Decree on the Apostolate of the Laity).
-- **Catholic Church**, condemnation of Freemasonry from Clement XII, _In Eminenti_ (1738) to the present — see [enemies-of-the-church/freemasons/freemasons.md](../enemies-of-the-church/freemasons/freemasons.md).
+- **Catholic Church**, condemnation of Freemasonry from Clement XII, _In Eminenti_ (1738) to the present — see [enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md).
 
 ---
 
 ## Related Documents
 
 - [catholic-organizations/README.md](README.md) — Master index of Catholic lay organizations.
-- [enemies-of-the-church/freemasons/freemasons.md](../enemies-of-the-church/freemasons/freemasons.md) — The secret societies against which the Knights of Columbus was offered as a Catholic alternative.
+- [enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md) — The secret societies against which the Knights of Columbus was offered as a Catholic alternative.
 - [saints/st-john-paul-ii.md](../saints/st-john-paul-ii.md) — Biography of the Pope who most frequently addressed and praised the order.
 - [saints/README.md](../saints/README.md) — Biographies of the saints and blesseds of the Church.

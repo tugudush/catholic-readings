@@ -152,5 +152,5 @@ St. Catherine of Siena, the seraphic virgin and Doctor of the Church, was a fier
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The Avignon Papacy and Western Schism.
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another woman Doctor of the Church.
-- [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — St. Thérèse of Lisieux, Doctor of the Church.
+- [saints/st-therese-lisieux.md](st-therese-lisieux.md) — St. Thérèse of Lisieux, Doctor of the Church.
 - [saints/README.md](README.md) — Master index of the saints directory.

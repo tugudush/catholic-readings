@@ -10,7 +10,7 @@ The **Prayer to St. Joseph for Purity** is a short but powerful prayer of **spir
 
 The prayer is intended for those **tempted by lust** — whether through the imagination, the passions, media, or circumstance — and invokes the intercession of St. Joseph, the pure and most chaste spouse of the Blessed Virgin Mary, whose own life was consecrated entirely to God and to the Holy Family. It is frequently shared and prayed in the context of the modern devotion of **Consecration to St. Joseph**, popularized by Fr. Calloway through his book _Consecration to St. Joseph: The Wonders of Our Spiritual Father_ (2020).
 
-For the comprehensive biography of St. Joseph — his biblical portrait, the theology of his fatherhood, his titles, and his patronage — see [saints/patron-st-joseph.md](../saints/patron-st-joseph.md).
+For the comprehensive biography of St. Joseph — his biblical portrait, the theology of his fatherhood, his titles, and his patronage — see [saints/st-joseph.md](../saints/st-joseph.md).
 
 ---
 
@@ -54,7 +54,7 @@ His prayer for purity, reproduced above, is part of this wider program of Joseph
 
 ### 4.1 St. Joseph, Model of Chastity and Purity
 
-The prayer's appeal rests on the Church's constant teaching that **St. Joseph was a virgin**, living in perfect chastity as the spouse of the Blessed Virgin Mary. St. Jerome (c. 347–420), in his treatise _Against Helvidius_ (383 A.D.), defended the perpetual virginity of Mary and taught that Joseph, like Mary, remained a virgin throughout his life — establishing Joseph as the model of **chastity** and the **Guardian of the Virgin**. St. Augustine (354–430) added that the marriage of Joseph and Mary was a true marriage possessing the three goods of matrimony: _proles_ (offspring — Jesus), _fides_ (fidelity — mutual chastity), and _sacramentum_ (indissolubility). See [saints/patron-st-joseph.md](../saints/patron-st-joseph.md) for the fuller treatment.
+The prayer's appeal rests on the Church's constant teaching that **St. Joseph was a virgin**, living in perfect chastity as the spouse of the Blessed Virgin Mary. St. Jerome (c. 347–420), in his treatise _Against Helvidius_ (383 A.D.), defended the perpetual virginity of Mary and taught that Joseph, like Mary, remained a virgin throughout his life — establishing Joseph as the model of **chastity** and the **Guardian of the Virgin**. St. Augustine (354–430) added that the marriage of Joseph and Mary was a true marriage possessing the three goods of matrimony: _proles_ (offspring — Jesus), _fides_ (fidelity — mutual chastity), and _sacramentum_ (indissolubility). See [saints/st-joseph.md](../saints/st-joseph.md) for the fuller treatment.
 
 The Catechism of the Catholic Church teaches that chastity "means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being" (CCC 2337), and that "all the baptized are called to chastity" (CCC 2348) — the married in conjugal chastity, the unmarried and celibate in continence. The Church's liturgy invokes St. Joseph precisely as **"most chaste spouse"** (_sponse castissime_) in the Litany of St. Joseph, and the iconographic lily in his hand has for centuries symbolized his purity.
 
@@ -92,7 +92,7 @@ The prayer may be used whenever the soul is **tempted by lust or impurity**, and
 - **The preparation for Consecration to St. Joseph** — as part of the 33-day preparation popularized by Fr. Calloway
 - **The Sacrament of Penance** — as an act of thanksgiving and resolve after sacramental absolution
 
-In the spiritual combat against sins of the flesh, the Church also recommends frequent recourse to the **Sacraments** (especially Penance and the Most Holy Eucharist), prayer to the **Blessed Virgin Mary**, the **St. Michael the Archangel Prayer** (see [saints/patron-st-michael-archangel.md](../saints/patron-st-michael-archangel.md)), and the prayer to one's **Guardian Angel**. Purity of heart is first of all a gift of God received through grace, and is strengthened by the practice of the virtues, custody of the eyes and imagination, and the avoidance of near occasions of sin (cf. CCC 2520–2523).
+In the spiritual combat against sins of the flesh, the Church also recommends frequent recourse to the **Sacraments** (especially Penance and the Most Holy Eucharist), prayer to the **Blessed Virgin Mary**, the **St. Michael the Archangel Prayer** (see [saints/st-michael-archangel.md](../saints/st-michael-archangel.md)), and the prayer to one's **Guardian Angel**. Purity of heart is first of all a gift of God received through grace, and is strengthened by the practice of the virtues, custody of the eyes and imagination, and the avoidance of near occasions of sin (cf. CCC 2520–2523).
 
 ---
 
@@ -106,10 +106,10 @@ While the specific formula of Fr. Calloway's prayer is a Latin-Rite devotional c
 
 ## 7. Related Prayers and Devotions
 
-- **The Litany of St. Joseph** — approved by Pope St. Pius X (1909), invoking St. Joseph under his titles, including "Terror of Demons" and "Most Chaste Spouse" (see [saints/patron-st-joseph.md](../saints/patron-st-joseph.md))
+- **The Litany of St. Joseph** — approved by Pope St. Pius X (1909), invoking St. Joseph under his titles, including "Terror of Demons" and "Most Chaste Spouse" (see [saints/st-joseph.md](../saints/st-joseph.md))
 - **The Consecration to St. Joseph** — the 33-day preparation and act of consecration promoted by Fr. Donald Calloway, MIC
 - **The Prayer to St. Joseph, Terror of Demons** — the traditional aspiration of the Church, drawn from the Litany
-- **The St. Michael the Archangel Prayer** — the Church's great prayer of spiritual warfare against the devil (see [saints/patron-st-michael-archangel.md](../saints/patron-st-michael-archangel.md))
+- **The St. Michael the Archangel Prayer** — the Church's great prayer of spiritual warfare against the devil (see [saints/st-michael-archangel.md](../saints/st-michael-archangel.md))
 - **The Guardian Angel Prayer** — "Angel of God, my guardian dear..."
 - **The Sacrament of Penance** — the ordinary remedy for sins against chastity (see [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) and [sacraments/order-of-confession.md](../sacraments/order-of-confession.md))
 - **The foundational prayers of the Church**, in both Latin and Eastern traditions (see [liturgy/foundational-prayers.md](foundational-prayers.md))

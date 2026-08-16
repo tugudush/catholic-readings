@@ -149,5 +149,5 @@ St. Jude Thaddeus, Apostle and kinsman of our Lord, is the patron of hopeless an
 ## 11. Further Reading
 
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The apostolic age.
-- [saints/patron-st-peter.md](patron-st-peter.md) — St. Peter, Prince of the Apostles.
+- [saints/st-peter.md](st-peter.md) — St. Peter, Prince of the Apostles.
 - [saints/README.md](README.md) — Master index of the saints directory.

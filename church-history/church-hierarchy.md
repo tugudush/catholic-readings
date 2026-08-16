@@ -245,6 +245,6 @@ graph TD
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — the apostolic foundation, the Petrine office, and the ecumenical councils.
 - [eastern-catholic-churches.md](eastern-catholic-churches.md) — the theology and structure of the 23 Eastern Catholic _sui iuris_ Churches, including patriarchs and major archbishops.
 - [../sacraments/holy-orders.md](../sacraments/holy-orders.md) — the Sacrament of Holy Orders in its three degrees: episcopate, presbyterate, diaconate.
-- [../saints/patron-st-peter.md](../saints/patron-st-peter.md) — biography of St. Peter, the Prince of the Apostles and first Bishop of Rome.
-- [../saints/patron-st-paul.md](../saints/patron-st-paul.md) — biography of St. Paul, Apostle to the Gentiles.
+- [../saints/st-peter.md](../saints/st-peter.md) — biography of St. Peter, the Prince of the Apostles and first Bishop of Rome.
+- [../saints/st-paul.md](../saints/st-paul.md) — biography of St. Paul, Apostle to the Gentiles.
 - [../sacraments/README.md](../sacraments/README.md) — the master index of the seven sacraments.

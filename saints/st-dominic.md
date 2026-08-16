@@ -169,7 +169,7 @@ St. Dominic de Guzmán, founder of the Order of Preachers (the Dominicans), rece
 
 ## 12. Further Reading
 
-- [saints/patron-st-thomas-aquinas.md](patron-st-thomas-aquinas.md) — The greatest Dominican theologian.
-- [saints/patron-st-catherine-siena.md](patron-st-catherine-siena.md) — Dominican tertiary and Doctor of the Church.
+- [saints/st-thomas-aquinas.md](st-thomas-aquinas.md) — The greatest Dominican theologian.
+- [saints/st-catherine-siena.md](st-catherine-siena.md) — Dominican tertiary and Doctor of the Church.
 - [liturgy/rosary/history.md](../liturgy/rosary/history.md) — The Rosary and the Dominican tradition.
 - [saints/README.md](README.md) — Master index of the saints directory.

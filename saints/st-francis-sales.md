@@ -157,5 +157,5 @@ St. Francis de Sales, the Doctor of Divine Love and patron of writers and journa
 ## 11. Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — Another Doctor of the Church known for her writings on prayer.
-- [saints/patron-st-therese-lisieux.md](patron-st-therese-lisieux.md) — The Little Way, similar to Salesian spirituality.
+- [saints/st-therese-lisieux.md](st-therese-lisieux.md) — The Little Way, similar to Salesian spirituality.
 - [saints/README.md](README.md) — Master index of the saints directory.
