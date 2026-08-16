@@ -29,3 +29,7 @@ In 1263, a German priest named Father Peter of Prague was traveling on a pilgrim
 ## Devotion and Preservation
 
 The stained linen corporal is still preserved and venerated today in the magnificent Gothic Cathedral of Orvieto (the Duomo), where it is housed in a golden reliquary. Multiple popes, including Saint John Paul II (in his homily at Orvieto on June 17, 1990) and Pope Benedict XVI, have made reference to the enduring spiritual power of the relic, which continues to invite the faithful to contemplate the self-giving love of Christ in the Sacrament of the Altar.
+
+## See Also
+
+- [List of Eucharistic Miracles](list-of-eucharistic-miracles.md) — the comprehensive catalogue of more than 150 Church-credited Eucharistic miracles worldwide.

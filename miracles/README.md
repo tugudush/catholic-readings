@@ -54,8 +54,9 @@ Marian apparitions are occurrences where the Blessed Virgin Mary is understood t
 
 ## 2. Eucharistic Miracles
 
-Eucharistic miracles are physical signs that confirm the dogma of the Real Presence of Christ and the conversion of Transubstantiation, where the consecrated species visibly take on the attributes of human flesh and blood.
+Eucharistic miracles are extraordinary physical signs that serve as motives of credibility (CCC 156) confirming the dogma of the Real Presence of Christ and the conversion of Transubstantiation, where the consecrated species visibly take on the attributes of human flesh and blood. They are private revelations — belief in any particular miracle is not required for salvation (CCC 67).
 
+- **[List of Eucharistic Miracles](eucharistic-miracles/list-of-eucharistic-miracles.md)**: The comprehensive catalogue of more than 150 Church-credited Eucharistic miracles worldwide, organized by country following the Vatican-exhibited exhibition of Saint Carlo Acutis, with the modern scientifically studied cases (Buenos Aires, Tixtla, Sokółka, Legnica), the Church's discernment of rejected claims, and the theological principles governing these wonders.
 - **[The Eucharistic Miracle of Bolsena-Orvieto (1263)](eucharistic-miracles/bolsena-orvieto.md)**: The bleeding Host that stained the corporal of Father Peter of Prague, prompting Pope Urban IV to institute the universal Feast of Corpus Christi.
 - **[The Eucharistic Miracle of Lanciano (c. 750 AD)](eucharistic-miracles/lanciano.md)**: The earliest scientifically analyzed miracle, where the Host and wine became human cardiac muscle tissue (AB blood type) and remain perfectly preserved today.
 

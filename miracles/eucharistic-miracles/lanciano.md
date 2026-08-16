@@ -34,3 +34,7 @@ Unlike many ancient relics, the Lanciano relics have been subjected to rigorous,
 ## Ecclesiastical Status
 
 The miracle has been recognized by the local diocese and various Popes down through the centuries (including Boniface VIII, Clement VIII, and Leo XIII). The church is currently cared for by the Conventual Franciscan Friars. The relics of the miraculous flesh and blood remain visible to pilgrims today inside a silver and crystal monstrance in the Sanctuary of the Eucharistic Miracle in Lanciano, Abruzzo, Italy.
+
+## See Also
+
+- [List of Eucharistic Miracles](list-of-eucharistic-miracles.md) — the comprehensive catalogue of more than 150 Church-credited Eucharistic miracles worldwide.
