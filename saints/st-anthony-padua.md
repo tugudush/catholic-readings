@@ -159,7 +159,7 @@ St. Anthony of Padua is one of the most beloved and widely invoked saints in the
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Anthony of Padua,
     pray for us.

@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Joan of Arc** (French: *Jeanne d'Arc*; Latin: *Ioanna Arcensis*; c. 1412 – 30 May 1431), known as **"The Maid of Orléans"** (*La Pucelle d'Orléans*), was a French peasant girl who, claiming divine guidance, led the French army to several important victories during the **Hundred Years' War**, paving the way for the coronation of **Charles VII**. She was executed by burning at the stake at age nineteen, was rehabilitated by the Church twenty-five years later, and was **canonized in 1920**. She is the **patron saint of France** and one of the most remarkable figures in Christian history. Her feast day is **30 May**.
+**St. Joan of Arc** (French: _Jeanne d'Arc_; Latin: _Ioanna Arcensis_; c. 1412 – 30 May 1431), known as **"The Maid of Orléans"** (_La Pucelle d'Orléans_), was a French peasant girl who, claiming divine guidance, led the French army to several important victories during the **Hundred Years' War**, paving the way for the coronation of **Charles VII**. She was executed by burning at the stake at age nineteen, was rehabilitated by the Church twenty-five years later, and was **canonized in 1920**. She is the **patron saint of France** and one of the most remarkable figures in Christian history. Her feast day is **30 May**.
 
 > "I am not afraid; I was born to do this."
 > — St. Joan of Arc
@@ -78,6 +78,7 @@ Joan was brought to **Rouen** for an **Inquisitorial trial** on charges of heres
 ### The Articles of Accusation
 
 Joan was accused of:
+
 - **Heresy** and abandonment of proper feminine dress (cross-dressing, for wearing armour and men's clothing).
 - **False claims of divine revelation**.
 - **Blasphemy** (claiming to be directly sent by God).
@@ -110,37 +111,37 @@ Twenty-five years after her death, following the end of the Hundred Years' War, 
 
 St. Joan of Arc is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **France** | Principal patroness of France |
-| **Soldiers and Military Personnel** | Her military leadership |
-| **Martyrs** | Her death for her faith |
-| **Prisoners** | Her unjust imprisonment |
-| **Women's Rights** | Her defiance of gender norms |
-| **Radio Operators** | Her "voices" |
-| **Freemasonry Victims** | Proclaimed by Pope Benedict XV |
+| Patronage                           | Description                    |
+| ----------------------------------- | ------------------------------ |
+| **France**                          | Principal patroness of France  |
+| **Soldiers and Military Personnel** | Her military leadership        |
+| **Martyrs**                         | Her death for her faith        |
+| **Prisoners**                       | Her unjust imprisonment        |
+| **Women's Rights**                  | Her defiance of gender norms   |
+| **Radio Operators**                 | Her "voices"                   |
+| **Freemasonry Victims**             | Proclaimed by Pope Benedict XV |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Joan of Arc** | 30 May | Memorial (in France: Feast) | Principal feast |
-| **Byzantine Rite** | 30 May | — | Eastern Catholic celebration |
+| Feast                           | Date   | Rank                        | Notes                        |
+| ------------------------------- | ------ | --------------------------- | ---------------------------- |
+| **Memorial of St. Joan of Arc** | 30 May | Memorial (in France: Feast) | Principal feast              |
+| **Byzantine Rite**              | 30 May | —                           | Eastern Catholic celebration |
 
 ---
 
 ## 9. Patristic and Magisterial Citations
 
 > "In the midst of the Hundred Years' War, a young peasant girl, Joan of Arc, fulfilled a perilous mission, leading the French army to victory."
-> — Pope Benedict XV, *Divina Disponente* (Canonization Bull, 1920)
+> — Pope Benedict XV, _Divina Disponente_ (Canonization Bull, 1920)
 
 > "Joan of Arc is a model of holiness for young people, showing that God calls the humble and pure of heart to do great things."
-> — Pope John Paul II, *Homily*, 30 May 1999
+> — Pope John Paul II, _Homily_, 30 May 1999
 
 > "Joan heard other voices: the voices of the saints. She listened to them. She was faithful to them. That is why she is a saint."
-> — Pope Francis, *General Audience*, 30 January 2013
+> — Pope Francis, _General Audience_, 30 January 2013
 
 ---
 
@@ -165,7 +166,7 @@ St. Joan of Arc, the Maid of Orléans, was a peasant girl who, at the age of sev
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Joan of Arc,
     pray for us.

@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Dominic de Guzmán** (Spanish: *Domingo de Guzmán*; Latin: *Dominicus de Guzmán*; 8 August 1170 – 6 August 1221) was a Spanish Catholic priest and the **founder of the Order of Preachers** (the Dominicans), a mendicant religious order dedicated to preaching, teaching, and the intellectual defence of the faith. His feast day is **8 August**.
+**St. Dominic de Guzmán** (Spanish: _Domingo de Guzmán_; Latin: _Dominicus de Guzmán_; 8 August 1170 – 6 August 1221) was a Spanish Catholic priest and the **founder of the Order of Preachers** (the Dominicans), a mendicant religious order dedicated to preaching, teaching, and the intellectual defence of the faith. His feast day is **8 August**.
 
 > "Arm yourself with prayer rather than a sword; wear humility rather than fine clothes."
 > — St. Dominic de Guzmán
@@ -44,6 +44,7 @@ While lodging with an Albigensian innkeeper, Dominic spent the entire night in d
 ### The Preaching Mission
 
 Dominic recognized that the fight against heresy required **holy preachers of learning and humility**, not armed force. He and Bishop Diego began a campaign of **poverty, preaching, and public disputation** in Languedoc. Dominic's method was:
+
 - **Preaching in poverty**: Unlike the Cathar "Perfects," who travelled in poverty, Catholic preachers had been travelling with horses and retinues—a contrast that hurt their credibility.
 - **Intellectual rigour**: Dominic was a master of theological argument.
 - **Personal holiness**: His humility and charity were universally acknowledged.
@@ -62,7 +63,7 @@ Dominic established a convent of nuns at **Prouille** in 1206, which became the 
 
 ### Papal Approval
 
-Dominic traveled to **Rome** in **1215** to seek approval for his order from Pope **Innocent III**. The Pope, initially hesitant, was persuaded by a dream in which he saw Dominic supporting the **Lateran Basilica** (similar to the dream about St. Francis). Innocent III approved the order orally, and his successor, **Pope Honorius III**, gave formal written approval in the bull ***Religiosam Vitam*** on **22 December 1216**.
+Dominic traveled to **Rome** in **1215** to seek approval for his order from Pope **Innocent III**. The Pope, initially hesitant, was persuaded by a dream in which he saw Dominic supporting the **Lateran Basilica** (similar to the dream about St. Francis). Innocent III approved the order orally, and his successor, **Pope Honorius III**, gave formal written approval in the bull _**Religiosam Vitam**_ on **22 December 1216**.
 
 ---
 
@@ -73,7 +74,7 @@ Dominic traveled to **Rome** in **1215** to seek approval for his order from Pop
 The Dominican motto is **"Veritas"** ("Truth"). Dominicans are dedicated to:
 
 - **Contemplative prayer**: The foundation of all preaching.
-- **Study**: Dominican houses are called *studia*; every friar must be committed to intellectual life.
+- **Study**: Dominican houses are called _studia_; every friar must be committed to intellectual life.
 - **Preaching**: The purpose of all study and prayer.
 - **Community life**: Under the Rule of St. Augustine.
 
@@ -104,23 +105,23 @@ Dominic died on **6 August 1221** at the age of fifty in **Bologna**, Italy, exh
 
 St. Dominic is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Astronomers** | His association with light and truth |
-| **Scientists** | His intellectual legacy |
-| **The Dominican Order** | As founder |
-| **Preachers** | The Order of Preachers |
-| **The Dominican Republic** | Named after him |
-| **Caleruega, Spain** | His birthplace |
+| Patronage                  | Description                          |
+| -------------------------- | ------------------------------------ |
+| **Astronomers**            | His association with light and truth |
+| **Scientists**             | His intellectual legacy              |
+| **The Dominican Order**    | As founder                           |
+| **Preachers**              | The Order of Preachers               |
+| **The Dominican Republic** | Named after him                      |
+| **Caleruega, Spain**       | His birthplace                       |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                       | Date     | Rank     | Notes                                      |
+| --------------------------- | -------- | -------- | ------------------------------------------ |
 | **Memorial of St. Dominic** | 8 August | Memorial | Principal feast; founder of the Dominicans |
-| **Byzantine Rite** | 8 August | — | Eastern Catholic celebration |
+| **Byzantine Rite**          | 8 August | —        | Eastern Catholic celebration               |
 
 ---
 
@@ -130,10 +131,10 @@ St. Dominic is the patron saint of:
 > — Pope Benedict XVI, General Audience, 3 February 2010
 
 > "The Order of Preachers, founded by St. Dominic, has given the Church countless saints, scholars, and missionaries."
-> — Pope John Paul II, *Message for the 800th Anniversary of the Order*, 2016
+> — Pope John Paul II, _Message for the 800th Anniversary of the Order_, 2016
 
 > "Dominic was aflame with zeal for souls. His love for truth and his compassion for the lost drove him to preach the Gospel with power."
-> — Pope Francis, *Homily*, 8 August 2014
+> — Pope Francis, _Homily_, 8 August 2014
 
 ---
 
@@ -160,7 +161,7 @@ St. Dominic de Guzmán, founder of the Order of Preachers (the Dominicans), rece
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Dominic de Guzmán,
     pray for us.

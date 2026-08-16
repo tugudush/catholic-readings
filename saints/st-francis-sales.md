@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Francis de Sales** (French: *François de Sales*; Latin: *Franciscus Salesius*; 21 August 1567 – 28 December 1622) was a Bishop of Geneva, a Doctor of the Church, and one of the most influential spiritual writers in Catholic history. He is known for his gentle approach to spirituality, his work among the Calvinists of the Chablais region, and his classic works ***Introduction to the Devout Life*** and ***Treatise on the Love of God***. He is the **patron saint of writers, journalists, and the deaf**. His feast day is **24 January**.
+**St. Francis de Sales** (French: _François de Sales_; Latin: _Franciscus Salesius_; 21 August 1567 – 28 December 1622) was a Bishop of Geneva, a Doctor of the Church, and one of the most influential spiritual writers in Catholic history. He is known for his gentle approach to spirituality, his work among the Calvinists of the Chablais region, and his classic works _**Introduction to the Devout Life**_ and _**Treatise on the Love of God**_. He is the **patron saint of writers, journalists, and the deaf**. His feast day is **24 January**.
 
 > "Do not lose courage in considering your own imperfections, but instantly set about remedying them—every day begin the task anew."
-> — St. Francis de Sales, *Introduction to the Devout Life*
+> — St. Francis de Sales, _Introduction to the Devout Life_
 
 ---
 
@@ -93,21 +93,21 @@ Francis died on **28 December 1622** in **Lyon** at the age of fifty-five. His h
 
 St. Francis de Sales is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Writers and Journalists** | Proclaimed by Pope Pius XI in 1923 |
-| **The Deaf** | His careful, gentle communication |
-| **Catholic Press** | Patron of Catholic journalists |
-| **Nagasaki, Japan** | The Salesian missions in Japan |
-| **Confessors and Spiritual Directors** | His gentle spiritual guidance |
-| **The Diocese of Annecy** | His episcopal see |
+| Patronage                              | Description                        |
+| -------------------------------------- | ---------------------------------- |
+| **Writers and Journalists**            | Proclaimed by Pope Pius XI in 1923 |
+| **The Deaf**                           | His careful, gentle communication  |
+| **Catholic Press**                     | Patron of Catholic journalists     |
+| **Nagasaki, Japan**                    | The Salesian missions in Japan     |
+| **Confessors and Spiritual Directors** | His gentle spiritual guidance      |
+| **The Diocese of Annecy**              | His episcopal see                  |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                | Date       | Rank     | Notes                                 |
+| ------------------------------------ | ---------- | -------- | ------------------------------------- |
 | **Memorial of St. Francis de Sales** | 24 January | Memorial | Principal feast; Doctor of the Church |
 
 ---
@@ -118,7 +118,7 @@ St. Francis de Sales is the patron saint of:
 > — Pope Benedict XVI, General Audience, 21 March 2012
 
 > "He taught that true devotion is compatible with every state of life, and that holiness is a universal call."
-> — Pope John Paul II, *Letter on the 400th Anniversary of the Introduction to the Devout Life*, 2008
+> — Pope John Paul II, _Letter on the 400th Anniversary of the Introduction to the Devout Life_, 2008
 
 > "Be who you are and be that well."
 > — St. Francis de Sales
@@ -147,7 +147,7 @@ St. Francis de Sales, the Doctor of Divine Love and patron of writers and journa
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Francis de Sales,
     pray for us.

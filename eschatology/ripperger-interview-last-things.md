@@ -168,16 +168,16 @@ As the Psalmist says, "His mercy endureth forever" ([Psalm 135](https://www.drbo
 
 ## 7. Summary of Key Theological Points
 
-| Topic | Key Teaching | Primary Source |
-|---|---|---|
-| The Antichrist | Rises as false solution to moral/social collapse; defeats Enoch & Elijah; battled by St. Michael; destroyed by Christ alone | 2 Thessalonians 2; Revelation 13; 20:7–10 |
-| Levels of Hell | Inverted hierarchy — deeper = more depraved and powerful | St. Thomas Aquinas, _ST_ I-II, q. 87; CCC 1035 |
-| Levels of Heaven | Graded by sanctifying grace; corresponds to nine angelic choirs; no envy among blessed | Council of Florence (_Denz._ 1305); CCC 1024 |
-| Beatific Vision | Intellect elevated by _lumen gloriae_; sees God directly; all creation seen in God | Benedict XII, _Benedictus Deus_ (1336); CCC 1023 |
-| Christ's Beatific Vision | Possessed from conception; never a _viator_; explains His knowledge of hearts | St. Thomas Aquinas, _ST_ III, q. 9–12; CCC 473 |
-| Interaction with Deceased | Real (one-way); rare authentic apparitions; not necromancy | CCC 956–957 |
-| Christ's Guardian Angel | He did not have one (not a wayfarer); all angels served Him | St. Thomas Aquinas, _ST_ III, q. 33, a. 3 |
-| Divine Mercy | "Loosening the bonds of justice for the good of the individual"; for the stupid and the contrite | St. Augustine, _Enarr. in Ps._ 144; Psalm 135 |
+| Topic                     | Key Teaching                                                                                                                | Primary Source                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| The Antichrist            | Rises as false solution to moral/social collapse; defeats Enoch & Elijah; battled by St. Michael; destroyed by Christ alone | 2 Thessalonians 2; Revelation 13; 20:7–10        |
+| Levels of Hell            | Inverted hierarchy — deeper = more depraved and powerful                                                                    | St. Thomas Aquinas, _ST_ I-II, q. 87; CCC 1035   |
+| Levels of Heaven          | Graded by sanctifying grace; corresponds to nine angelic choirs; no envy among blessed                                      | Council of Florence (_Denz._ 1305); CCC 1024     |
+| Beatific Vision           | Intellect elevated by _lumen gloriae_; sees God directly; all creation seen in God                                          | Benedict XII, _Benedictus Deus_ (1336); CCC 1023 |
+| Christ's Beatific Vision  | Possessed from conception; never a _viator_; explains His knowledge of hearts                                               | St. Thomas Aquinas, _ST_ III, q. 9–12; CCC 473   |
+| Interaction with Deceased | Real (one-way); rare authentic apparitions; not necromancy                                                                  | CCC 956–957                                      |
+| Christ's Guardian Angel   | He did not have one (not a wayfarer); all angels served Him                                                                 | St. Thomas Aquinas, _ST_ III, q. 33, a. 3        |
+| Divine Mercy              | "Loosening the bonds of justice for the good of the individual"; for the stupid and the contrite                            | St. Augustine, _Enarr. in Ps._ 144; Psalm 135    |
 
 ---
 

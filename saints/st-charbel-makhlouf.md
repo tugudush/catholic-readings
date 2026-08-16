@@ -256,7 +256,7 @@ St. Charbel is one of the most powerful intercessors of the modern era, with tho
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Charbel, hermit of Annaya,
     pray for us.

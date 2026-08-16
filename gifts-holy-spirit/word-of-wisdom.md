@@ -27,11 +27,11 @@ The charism of the word of wisdom stands in continuity with the Old Testament wi
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Word / Utterance** | λόγος (_logos_) | Speech, discourse, reasoned utterance; a communication that is intelligible and ordered |
-| **Wisdom** | σοφία (_sophia_) | In the Pauline sense: knowledge of divine realities — the highest contemplative knowledge of God, His plan of salvation, and the mystery of Christ |
-| **Utterance of Wisdom** | λόγος σοφίας (_logos sophias_) | The Spirit-given ability to articulate divine wisdom persuasively for the edification of the hearers |
+| Term                    | Greek                          | Meaning                                                                                                                                            |
+| ----------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Word / Utterance**    | λόγος (_logos_)                | Speech, discourse, reasoned utterance; a communication that is intelligible and ordered                                                            |
+| **Wisdom**              | σοφία (_sophia_)               | In the Pauline sense: knowledge of divine realities — the highest contemplative knowledge of God, His plan of salvation, and the mystery of Christ |
+| **Utterance of Wisdom** | λόγος σοφίας (_logos sophias_) | The Spirit-given ability to articulate divine wisdom persuasively for the edification of the hearers                                               |
 
 The term λόγος σοφίας occurs **only here** in the New Testament — it is a distinct Pauline formulation to describe a specific charismatic manifestation. It should not be confused with the gift of wisdom among the seven gifts of the Holy Spirit (Isaiah 11:2), which is a **permanent disposition** making the soul docile to divine inspirations.
 
@@ -66,12 +66,12 @@ Aquinas distinguishes the "word of wisdom" from the "word of knowledge" by their
 
 In the _Summa Theologiae_ (I-II, q. 111, a. 4), Aquinas distinguishes:
 
-| | **Charism of the Word of Wisdom** | **Gift of Wisdom (Isaiah 11:2)** |
-| --- | --- | --- |
-| **Category** | _Gratia gratis data_ (grace freely given for others) | One of the seven gifts — a permanent disposition for sanctification |
-| **Purpose** | To communicate divine truth persuasively to others | To make the soul docile to the Holy Spirit's inspirations |
-| **Mode** | Extraordinary, occasional, for ecclesial service | Abiding, habitual, given to every soul in the state of grace |
-| **Effect** | Edification of the Church through teaching and proclamation | Personal union with God through contemplation and right judgment |
+|              | **Charism of the Word of Wisdom**                           | **Gift of Wisdom (Isaiah 11:2)**                                    |
+| ------------ | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Category** | _Gratia gratis data_ (grace freely given for others)        | One of the seven gifts — a permanent disposition for sanctification |
+| **Purpose**  | To communicate divine truth persuasively to others          | To make the soul docile to the Holy Spirit's inspirations           |
+| **Mode**     | Extraordinary, occasional, for ecclesial service            | Abiding, habitual, given to every soul in the state of grace        |
+| **Effect**   | Edification of the Church through teaching and proclamation | Personal union with God through contemplation and right judgment    |
 
 ### 4.3 Wisdom and Charity
 
@@ -108,12 +108,12 @@ St. John Chrysostom's warning remains pertinent: "Therefore, prove the spirits, 
 
 ## 6. Distinction from Related Concepts
 
-| Concept | Distinction |
-| --- | --- |
-| **Gift of Wisdom (Isaiah 11:2)** | A **permanent disposition** for personal sanctification; given to every baptized person in grace. The charism of the word of wisdom is an extraordinary, occasional gift for ecclesial service. |
-| **Word of Knowledge (1 Cor 12:8)** | Knowledge concerns divine truths manifested through **creatures**; wisdom concerns divine truths **in themselves**. |
-| **Prophecy (1 Cor 12:10)** | Prophecy is direct divine illumination, often spontaneous; the word of wisdom may involve more discursive, reasoned articulation of divine truth. Both are communicative charisms. |
-| **Natural Eloquence** | The word of wisdom is a **supernatural** charism — not reducible to rhetorical skill or intellectual ability, though it may operate through natural faculties elevated by grace. |
+| Concept                            | Distinction                                                                                                                                                                                     |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gift of Wisdom (Isaiah 11:2)**   | A **permanent disposition** for personal sanctification; given to every baptized person in grace. The charism of the word of wisdom is an extraordinary, occasional gift for ecclesial service. |
+| **Word of Knowledge (1 Cor 12:8)** | Knowledge concerns divine truths manifested through **creatures**; wisdom concerns divine truths **in themselves**.                                                                             |
+| **Prophecy (1 Cor 12:10)**         | Prophecy is direct divine illumination, often spontaneous; the word of wisdom may involve more discursive, reasoned articulation of divine truth. Both are communicative charisms.              |
+| **Natural Eloquence**              | The word of wisdom is a **supernatural** charism — not reducible to rhetorical skill or intellectual ability, though it may operate through natural faculties elevated by grace.                |
 
 ---
 

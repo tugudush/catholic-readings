@@ -14,19 +14,19 @@ When converting a prayer written for a specific requester into a general-purpose
 
 ### Kinship Terms
 
-| Specific (Personal) | General (Public)              |
-| ------------------- | ----------------------------- |
-| my mother           | your mother / your beloved |
-| my father           | your father / your beloved |
-| my spouse           | your spouse / your beloved |
-| my husband          | your husband / your beloved |
-| my wife             | your wife / your beloved   |
-| my child            | your child / your beloved   |
-| my son              | your son / your beloved     |
-| my daughter         | your daughter / your beloved |
-| my brother          | your brother / your beloved |
-| my sister           | your sister / your beloved |
-| my friend           | your friend / your beloved  |
+| Specific (Personal) | General (Public)               |
+| ------------------- | ------------------------------ |
+| my mother           | your mother / your beloved     |
+| my father           | your father / your beloved     |
+| my spouse           | your spouse / your beloved     |
+| my husband          | your husband / your beloved    |
+| my wife             | your wife / your beloved       |
+| my child            | your child / your beloved      |
+| my son              | your son / your beloved        |
+| my daughter         | your daughter / your beloved   |
+| my brother          | your brother / your beloved    |
+| my sister           | your sister / your beloved     |
+| my friend           | your friend / your beloved     |
 | my [relation]       | your [relation] / your beloved |
 
 ### Proper Names
@@ -58,12 +58,15 @@ When a user asks for a prayer for a specific person, take the general public doc
 ### Example Transformation
 
 **General (public document):**
+
 > Remember, O Lord, Your handmaid N., who has gone before us with the sign of faith and rests in the sleep of peace. Grant N., O Lord, we beseech You, a place of refreshment, light, and peace.
 
 **Personalized (for a user requesting prayer for "my mother"):**
+
 > Remember, O Lord, Your handmaid, my dear mother, who has gone before us with the sign of faith and rests in the sleep of peace. Grant her, O Lord, we beseech You, a place of refreshment, light, and peace.
 
 **Personalized (for a user requesting prayer for "my mother" named "Maria"):**
+
 > Remember, O Lord, Your handmaid Maria, who has gone before us with the sign of faith and rests in the sleep of peace. Grant her, O Lord, we beseech You, a place of refreshment, light, and peace.
 
 ## 3. Document Structure Notes

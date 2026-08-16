@@ -76,11 +76,11 @@ The baptized Christian, cleansed from sin and consecrated to God, is therefore a
 
 Christ explicitly taught that no one can enter the kingdom of God without being born of water and Spirit ([John 3:5](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/); [CCC 1257](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1257)). The Church has always understood Baptism to be the ordinary means of salvation, but she also recognizes three forms by which a person can be incorporated into Christ and his Church:
 
-| Form | Definition |
-| --- | --- |
-| **Baptism of Water** | The sacramental washing with water and the Trinitarian formula. |
+| Form                                       | Definition                                                                             |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Baptism of Water**                       | The sacramental washing with water and the Trinitarian formula.                        |
 | **Baptism of Desire** (Baptismus flaminis) | Explicit or implicit desire to receive Baptism, accompanied by contrition and charity. |
-| **Baptism of Blood** (Baptismus sanguinis) | Martyrdom for the faith of Christ before receiving water Baptism. |
+| **Baptism of Blood** (Baptismus sanguinis) | Martyrdom for the faith of Christ before receiving water Baptism.                      |
 
 > "The Church has always held the firm conviction that those who suffer death for the sake of the faith without having received Baptism are baptized by their death for and with Christ. This 'baptism of blood' brings about the fruits of Baptism without the sacrament." ([CCC 1258](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1258))
 
@@ -137,15 +137,15 @@ The Latin Rite requires at least one sponsor — a man for a male candidate, a w
 
 ## 10. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Florence, _Exsultate Deo_** (1439) | Defines matter, form, minister, and effects of Baptism. |
-| **Council of Trent, Session V** (1546) | Decreed on original sin, declaring that Baptism remits it. |
-| **Council of Trent, Session VII** (1547) | Defined that the seven sacraments were all instituted by Christ and that Baptism is one of them. |
-| **Catechism of the Catholic Church** | [CCC 1213–1284](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1213) |
-| **Code of Canon Law** | c. 849–878 (Baptism) |
-| **Code of Canons of the Eastern Churches** | c. 675–699 (Baptism in the Eastern Catholic Churches) |
-| **Lumen Gentium** (Vatican II) | [§16](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) — catechumens who die before Baptism. |
+| Source                                          | Reference                                                                                                               |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Council of Florence, _Exsultate Deo_** (1439) | Defines matter, form, minister, and effects of Baptism.                                                                 |
+| **Council of Trent, Session V** (1546)          | Decreed on original sin, declaring that Baptism remits it.                                                              |
+| **Council of Trent, Session VII** (1547)        | Defined that the seven sacraments were all instituted by Christ and that Baptism is one of them.                        |
+| **Catechism of the Catholic Church**            | [CCC 1213–1284](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1213)                         |
+| **Code of Canon Law**                           | c. 849–878 (Baptism)                                                                                                    |
+| **Code of Canons of the Eastern Churches**      | c. 675–699 (Baptism in the Eastern Catholic Churches)                                                                   |
+| **Lumen Gentium** (Vatican II)                  | [§16](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) — catechumens who die before Baptism. |
 
 ---
 

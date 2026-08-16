@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Pedro Calungsod** (Spanish: *Pedro Calúnsugd* or *Pedro Calonsor*; 21 July 1654 – 2 April 1672) was a young Filipino Visayan lay catechist and missionary who was martyred on the island of Guam while evangelizing the native Chamorro people alongside the Spanish Jesuit missionary **Diego Luis de San Vitores**. He is the **second canonized Filipino saint**, after St. Lorenzo Ruiz.
+**St. Pedro Calungsod** (Spanish: _Pedro Calúnsugd_ or _Pedro Calonsor_; 21 July 1654 – 2 April 1672) was a young Filipino Visayan lay catechist and missionary who was martyred on the island of Guam while evangelizing the native Chamorro people alongside the Spanish Jesuit missionary **Diego Luis de San Vitores**. He is the **second canonized Filipino saint**, after St. Lorenzo Ruiz.
 
 He was beatified on **5 March 2000** by Pope John Paul II and canonized on **21 October 2012** by Pope Benedict XVI. His feast day is **21 October** (transferred from 2 April in 2024 to avoid conflict with Holy Week and Eastertide).
 
@@ -63,7 +63,7 @@ Chief Matå'pang, who had become hostile to the missionaries, was angered by thi
 
 ### The Killing
 
-Matå'pang, wielding a *catana* (a type of cutlass), attacked the missionaries. **Pedro Calungsod** was struck first. Despite being a young man of about 17, he could have fled but chose to remain with Fr. San Vitores. Calungsod was struck down and killed. Fr. San Vitores, after giving Calungsod sacramental absolution, was also killed moments later.
+Matå'pang, wielding a _catana_ (a type of cutlass), attacked the missionaries. **Pedro Calungsod** was struck first. Despite being a young man of about 17, he could have fled but chose to remain with Fr. San Vitores. Calungsod was struck down and killed. Fr. San Vitores, after giving Calungsod sacramental absolution, was also killed moments later.
 
 Before his death, Calungsod is reported to have received the **Sacrament of Penance (Absolution)** from Fr. San Vitores, a detail noted by Pope Benedict XVI in his canonization homily.
 
@@ -97,7 +97,7 @@ The miracle recognized for Calungsod's canonization occurred on **26 March 2003*
 
 On **21 October 2012**, at **Saint Peter's Basilica**, Pope **Benedict XVI** canonized Pedro Calungsod, along with six other blesseds, including **St. Kateri Tekakwitha** (the first Native American saint) and **St. Marianne of Molokaʻi**. Calungsod thus became the **second Filipino saint**.
 
-At his canonization Mass, Calungsod was the **only saint without a first-class relic** exposed for veneration, as his body had been thrown into the sea. The *catana* (cutlass) used to kill him, retrieved from Guam by Cardinal Vidal, is venerated as a **second-class relic**.
+At his canonization Mass, Calungsod was the **only saint without a first-class relic** exposed for veneration, as his body had been thrown into the sea. The _catana_ (cutlass) used to kill him, retrieved from Guam by Cardinal Vidal, is venerated as a **second-class relic**.
 
 ---
 
@@ -127,11 +127,12 @@ St. Pedro Calungsod is invoked as patron of:
 ### Iconography
 
 Because no contemporary depictions of Calungsod survive, artists have drawn on period descriptions of Visayan youth. He is typically depicted as a **teenaged young man** with:
-- A **white *camisa de chino*** (sometimes bloodied) and dark loose trousers
+
+- A **white _camisa de chino_** (sometimes bloodied) and dark loose trousers
 - A **martyr's palm** pressed to his chest
-- A **catechism book** (often shown as the *Doctrina Christiana*)
+- A **catechism book** (often shown as the _Doctrina Christiana_)
 - A **rosary** or **crucifix** indicating his missionary status
-- In some depictions, a **spear** and ***catana*** (cutlass), the instruments of his death
+- In some depictions, a **spear** and _**catana**_ (cutlass), the instruments of his death
 
 ---
 
@@ -150,12 +151,13 @@ St. Pedro Calungsod's life and martyrdom illuminate several key themes:
 
 ### Film and Theater
 
-- ***Pedro Calungsod: Batang Martir*** (2013) — a Filipino film starring Rocco Nacino, an official entry to the 2013 Metro Manila Film Festival.
-- ***San Pedro Calungsod The Musical Stage Play*** (2014).
+- _**Pedro Calungsod: Batang Martir**_ (2013) — a Filipino film starring Rocco Nacino, an official entry to the 2013 Metro Manila Film Festival.
+- _**San Pedro Calungsod The Musical Stage Play**_ (2014).
 
 ### Education
 
 Numerous educational institutions bear his name, including:
+
 - **Academia de San Pedro Calungsod**, Naga, Cebu
 - **St. Pedro Calungsod Academy**, Pasig
 - **San Pedro Calungsod Learning Center**, Carmen, Cebu
@@ -184,7 +186,7 @@ St. Pedro Calungsod, the young Visayan lay catechist who willingly gave his life
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Pedro Calungsod,
     pray for us.
@@ -195,7 +197,7 @@ St. Pedro Calungsod, the young Visayan lay catechist who willingly gave his life
 
 - Pope John Paul II, Homily for the Beatification of Pedro Calungsod and 44 Companions, 5 March 2000.
 - Pope Benedict XVI, Homily for the Canonization of Pedro Calungsod, 21 October 2012.
-- Arevalo, Catalino, S.J., *Pedro Calungsod, Young Visayan Proto-Martyr*, Archdiocese of Manila Youth Ministry, 1998.
-- Leyson, Ildebrando Jesus, *Pedro Calonsor Bisaya: Prospects of a Teenage Filipino*, Claretian Publications, 1999.
-- *Roman Martyrology*, 2 April / 21 October.
+- Arevalo, Catalino, S.J., _Pedro Calungsod, Young Visayan Proto-Martyr_, Archdiocese of Manila Youth Ministry, 1998.
+- Leyson, Ildebrando Jesus, _Pedro Calonsor Bisaya: Prospects of a Teenage Filipino_, Claretian Publications, 1999.
+- _Roman Martyrology_, 2 April / 21 October.
 - Catechism of the Catholic Church, §§ 900–903 (the role of the laity in evangelization), §§ 2471–2474 (martyrdom).

@@ -71,46 +71,46 @@ Every movable feast in the liturgical year is calculated as a fixed number of da
 
 While the Easter cycle shifts, many major feasts fall on **fixed calendar dates** every year. The following table lists the principal **solemnities, feasts, and obligatory memorials** of the universal Roman calendar in chronological order, with their rank:
 
-| Date                                  | Observance                                                             | Rank                                                 |
-| ------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- |
-| **January 1**                         | **Mary, the Holy Mother of God**                                       | Solemnity (Holy Day of Obligation in many countries) |
-| **January 6**                         | **The Epiphany of the Lord** (transferred to Sunday in many countries) | Solemnity                                            |
-| Sunday after Jan 6                    | **The Baptism of the Lord**                                            | Feast                                                |
-| **February 2**                        | **The Presentation of the Lord** (Candlemas)                           | Feast                                                |
-| **March 19**                          | **St. Joseph, Spouse of the Blessed Virgin Mary**                      | Solemnity                                            |
-| **March 25**                          | **The Annunciation of the Lord**                                       | Solemnity                                            |
-| **April 25**                          | **St. Mark, Evangelist**                                               | Feast                                                |
-| **May 1**                             | **St. Joseph the Worker**                                              | Optional Memorial                                    |
-| **May 3**                             | **Sts. Philip and James, Apostles**                                    | Feast                                                |
-| **May 31**                            | **The Visitation of the Blessed Virgin Mary**                          | Feast                                                |
-| **June 24**                           | **The Nativity of St. John the Baptist**                               | Solemnity                                            |
-| **June 29**                           | **Sts. Peter and Paul, Apostles**                                      | Solemnity                                            |
-| **July 3**                            | **St. Thomas, Apostle**                                                | Feast                                                |
-| **July 25**                           | **St. James, Apostle**                                                 | Feast                                                |
-| **August 6**                          | **The Transfiguration of the Lord**                                    | Feast                                                |
-| **August 10**                         | **St. Lawrence, Deacon and Martyr**                                    | Feast                                                |
-| **August 15**                         | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation) |
-| **August 24**                         | **St. Bartholomew, Apostle**                                           | Feast                                                |
-| **September 8**                       | **The Nativity of the Blessed Virgin Mary**                            | Feast                                                |
-| **September 14**                      | **The Exaltation of the Holy Cross**                                   | Feast                                                |
-| **September 21**                      | **St. Matthew, Apostle and Evangelist**                                | Feast                                                |
-| **September 29**                      | **Sts. Michael, Gabriel, and Raphael, Archangels**                     | Feast                                                |
-| **October 2**                         | **The Holy Guardian Angels**                                           | Memorial                                             |
-| **October 18**                        | **St. Luke, Evangelist**                                               | Feast                                                |
-| **October 28**                        | **Sts. Simon and Jude, Apostles**                                      | Feast                                                |
-| **November 1**                        | **All Saints**                                                         | Solemnity (Holy Day of Obligation)                   |
-| **November 2**                        | **The Commemoration of All the Faithful Departed** (All Souls' Day)    | —                                                    |
-| **November 9**                        | **The Dedication of the Lateran Basilica**                             | Feast                                                |
-| **November 21**                       | **The Presentation of the Blessed Virgin Mary**                        | Memorial                                             |
-| **Last Sunday of Ordinary Time**      | **Our Lord Jesus Christ, King of the Universe** (Christ the King)      | Solemnity                                            |
-| **November 30**                       | **St. Andrew, Apostle**                                                | Feast                                                |
-| **December 8**                        | **The Immaculate Conception of the Blessed Virgin Mary**               | Solemnity (Holy Day of Obligation)                   |
-| **December 12**                       | **Our Lady of Guadalupe**                                              | Feast (Solemnity in the Americas)                    |
-| **December 25**                       | **The Nativity of the Lord** (Christmas)                               | Solemnity with Octave (Holy Day of Obligation)       |
-| **December 26**                       | **St. Stephen, the First Martyr**                                      | Feast                                                |
-| **December 27**                       | **St. John, Apostle and Evangelist**                                   | Feast                                                |
-| **December 28**                       | **The Holy Innocents, Martyrs**                                        | Feast                                                |
-| Sunday within the Octave of Christmas | **The Holy Family of Jesus, Mary, and Joseph**                         | Feast                                                |
+| Date                                  | Observance                                                                                | Rank                                                 |
+| ------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **January 1**                         | **Mary, the Holy Mother of God**                                                          | Solemnity (Holy Day of Obligation in many countries) |
+| **January 6**                         | **The Epiphany of the Lord** (transferred to Sunday in many countries)                    | Solemnity                                            |
+| Sunday after Jan 6                    | **The Baptism of the Lord**                                                               | Feast                                                |
+| **February 2**                        | **The Presentation of the Lord** (Candlemas)                                              | Feast                                                |
+| **March 19**                          | **St. Joseph, Spouse of the Blessed Virgin Mary**                                         | Solemnity                                            |
+| **March 25**                          | **The Annunciation of the Lord**                                                          | Solemnity                                            |
+| **April 25**                          | **St. Mark, Evangelist**                                                                  | Feast                                                |
+| **May 1**                             | **St. Joseph the Worker**                                                                 | Optional Memorial                                    |
+| **May 3**                             | **Sts. Philip and James, Apostles**                                                       | Feast                                                |
+| **May 31**                            | **The Visitation of the Blessed Virgin Mary**                                             | Feast                                                |
+| **June 24**                           | **The Nativity of St. John the Baptist**                                                  | Solemnity                                            |
+| **June 29**                           | **Sts. Peter and Paul, Apostles**                                                         | Solemnity                                            |
+| **July 3**                            | **St. Thomas, Apostle**                                                                   | Feast                                                |
+| **July 25**                           | **St. James, Apostle**                                                                    | Feast                                                |
+| **August 6**                          | **The Transfiguration of the Lord**                                                       | Feast                                                |
+| **August 10**                         | **St. Lawrence, Deacon and Martyr**                                                       | Feast                                                |
+| **August 15**                         | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation)                   |
+| **August 24**                         | **St. Bartholomew, Apostle**                                                              | Feast                                                |
+| **September 8**                       | **The Nativity of the Blessed Virgin Mary**                                               | Feast                                                |
+| **September 14**                      | **The Exaltation of the Holy Cross**                                                      | Feast                                                |
+| **September 21**                      | **St. Matthew, Apostle and Evangelist**                                                   | Feast                                                |
+| **September 29**                      | **Sts. Michael, Gabriel, and Raphael, Archangels**                                        | Feast                                                |
+| **October 2**                         | **The Holy Guardian Angels**                                                              | Memorial                                             |
+| **October 18**                        | **St. Luke, Evangelist**                                                                  | Feast                                                |
+| **October 28**                        | **Sts. Simon and Jude, Apostles**                                                         | Feast                                                |
+| **November 1**                        | **All Saints**                                                                            | Solemnity (Holy Day of Obligation)                   |
+| **November 2**                        | **The Commemoration of All the Faithful Departed** (All Souls' Day)                       | —                                                    |
+| **November 9**                        | **The Dedication of the Lateran Basilica**                                                | Feast                                                |
+| **November 21**                       | **The Presentation of the Blessed Virgin Mary**                                           | Memorial                                             |
+| **Last Sunday of Ordinary Time**      | **Our Lord Jesus Christ, King of the Universe** (Christ the King)                         | Solemnity                                            |
+| **November 30**                       | **St. Andrew, Apostle**                                                                   | Feast                                                |
+| **December 8**                        | **The Immaculate Conception of the Blessed Virgin Mary**                                  | Solemnity (Holy Day of Obligation)                   |
+| **December 12**                       | **Our Lady of Guadalupe**                                                                 | Feast (Solemnity in the Americas)                    |
+| **December 25**                       | **The Nativity of the Lord** (Christmas)                                                  | Solemnity with Octave (Holy Day of Obligation)       |
+| **December 26**                       | **St. Stephen, the First Martyr**                                                         | Feast                                                |
+| **December 27**                       | **St. John, Apostle and Evangelist**                                                      | Feast                                                |
+| **December 28**                       | **The Holy Innocents, Martyrs**                                                           | Feast                                                |
+| Sunday within the Octave of Christmas | **The Holy Family of Jesus, Mary, and Joseph**                                            | Feast                                                |
 
 > **Note on movable solemnities**: Christ the King (last Sunday of Ordinary Time, between November 20 and 26), the Baptism of the Lord, and the Holy Family shift each year because their dates are tied to the Christmas-Epiphany cycle or the Sunday they fall on.
 
@@ -394,19 +394,19 @@ The second block of Ordinary Time, from the Monday after Pentecost until the Fir
 
 ### 8.1 Major Solemnities and Feasts During Ordinary Time II
 
-| Date                                                | Celebration                                                         | Rank                               |
-| --------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------- |
-| Sunday after Pentecost                              | **The Most Holy Trinity**                                           | Solemnity                          |
-| Thursday after Trinity Sunday (or following Sunday) | **The Most Holy Body and Blood of Christ** (_Corpus Christi_)       | Solemnity                          |
-| Friday after the Second Sunday after Pentecost      | **The Most Sacred Heart of Jesus**                                  | Solemnity                          |
-| June 24                                             | **The Nativity of St. John the Baptist**                            | Solemnity                          |
-| June 29                                             | **Sts. Peter and Paul, Apostles**                                   | Solemnity                          |
-| August 6                                            | **The Transfiguration of the Lord**                                 | Feast                              |
+| Date                                                | Celebration                                                                               | Rank                               |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- |
+| Sunday after Pentecost                              | **The Most Holy Trinity**                                                                 | Solemnity                          |
+| Thursday after Trinity Sunday (or following Sunday) | **The Most Holy Body and Blood of Christ** (_Corpus Christi_)                             | Solemnity                          |
+| Friday after the Second Sunday after Pentecost      | **The Most Sacred Heart of Jesus**                                                        | Solemnity                          |
+| June 24                                             | **The Nativity of St. John the Baptist**                                                  | Solemnity                          |
+| June 29                                             | **Sts. Peter and Paul, Apostles**                                                         | Solemnity                          |
+| August 6                                            | **The Transfiguration of the Lord**                                                       | Feast                              |
 | August 15                                           | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation) |
-| September 14                                        | **The Exaltation of the Holy Cross**                                | Feast                              |
-| November 1                                          | **All Saints**                                                      | Solemnity (Holy Day of Obligation) |
-| November 2                                          | **The Commemoration of All the Faithful Departed** (All Souls' Day) | —                                  |
-| Last Sunday of Ordinary Time                        | **Our Lord Jesus Christ, King of the Universe** (Christ the King)   | Solemnity                          |
+| September 14                                        | **The Exaltation of the Holy Cross**                                                      | Feast                              |
+| November 1                                          | **All Saints**                                                                            | Solemnity (Holy Day of Obligation) |
+| November 2                                          | **The Commemoration of All the Faithful Departed** (All Souls' Day)                       | —                                  |
+| Last Sunday of Ordinary Time                        | **Our Lord Jesus Christ, King of the Universe** (Christ the King)                         | Solemnity                          |
 
 ### 8.2 Practices During Ordinary Time
 

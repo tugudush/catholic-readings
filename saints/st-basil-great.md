@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Basil the Great** (Greek: ***Μέγας Βασίλειος***, *Megas Basileios*; c. 330 – 1 January 379 A.D.) was a fourth-century Bishop of Caesarea in Cappadocia (modern-day Turkey), a **Father and Doctor of the Church**, and one of the **three Cappadocian Fathers** (with St. Gregory of Nazianzus and St. Gregory of Nyssa). He is known for his defence of Nicene orthodoxy, his development of Eastern monasticism, his liturgical contributions (the **Divine Liturgy of St. Basil**), and his extensive charitable works. His feast day is **2 January** (with St. Gregory of Nazianzus).
+**St. Basil the Great** (Greek: _**Μέγας Βασίλειος**_, _Megas Basileios_; c. 330 – 1 January 379 A.D.) was a fourth-century Bishop of Caesarea in Cappadocia (modern-day Turkey), a **Father and Doctor of the Church**, and one of the **three Cappadocian Fathers** (with St. Gregory of Nazianzus and St. Gregory of Nyssa). He is known for his defence of Nicene orthodoxy, his development of Eastern monasticism, his liturgical contributions (the **Divine Liturgy of St. Basil**), and his extensive charitable works. His feast day is **2 January** (with St. Gregory of Nazianzus).
 
 > "A tree is known by its fruit; a Christian by his deeds."
 > — St. Basil the Great
@@ -33,9 +33,9 @@ After his studies, Basil was baptized and traveled through Syria, Palestine, and
 
 ### The Basilian Rule
 
-Basil's monastic writings, including the ***Asceticon*** and the ***Longer and Shorter Rules***, became the foundation of Eastern monasticism. The **Rule of St. Basil** emphasizes:
+Basil's monastic writings, including the _**Asceticon**_ and the _**Longer and Shorter Rules**_, became the foundation of Eastern monasticism. The **Rule of St. Basil** emphasizes:
 
-- **Communal life** (*koinonia*) as essential to Christian perfection.
+- **Communal life** (_koinonia_) as essential to Christian perfection.
 - **Work and prayer** in balance.
 - **Obedience to a superior**.
 - **Service to the poor**.
@@ -77,13 +77,13 @@ The Eucharistic prayer (anaphora) attributed to Basil is one of the most ancient
 
 ## 6. Writings
 
-| Work | Content |
-|------|---------|
-| ***Against Eunomius*** | A defence of the divinity of the Son against the Anomoean heresy |
-| ***On the Holy Spirit*** | A classic treatise on the divinity and personhood of the Holy Spirit |
-| ***Hexaemeron*** | Nine homilies on the six days of creation |
-| ***Asceticon*** and ***Rules*** | Foundational documents of Eastern monasticism |
-| ***Letters*** | Over 300 letters, a primary source for 4th-century Church history |
+| Work                            | Content                                                              |
+| ------------------------------- | -------------------------------------------------------------------- |
+| _**Against Eunomius**_          | A defence of the divinity of the Son against the Anomoean heresy     |
+| _**On the Holy Spirit**_        | A classic treatise on the divinity and personhood of the Holy Spirit |
+| _**Hexaemeron**_                | Nine homilies on the six days of creation                            |
+| _**Asceticon**_ and _**Rules**_ | Foundational documents of Eastern monasticism                        |
+| _**Letters**_                   | Over 300 letters, a primary source for 4th-century Church history    |
 
 ---
 
@@ -97,22 +97,22 @@ Basil died on **1 January 379 A.D.** at the age of about forty-nine, exhausted b
 
 St. Basil the Great is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Hospital Administrators and Healthcare Workers** | His Basiliad |
-| **Monastics** | His monastic Rule |
-| **Cappadocia** | His bishopric |
-| **Theologians** | His doctrinal works |
-| **Russia** | Widely venerated in the East |
+| Patronage                                          | Description                  |
+| -------------------------------------------------- | ---------------------------- |
+| **Hospital Administrators and Healthcare Workers** | His Basiliad                 |
+| **Monastics**                                      | His monastic Rule            |
+| **Cappadocia**                                     | His bishopric                |
+| **Theologians**                                    | His doctrinal works          |
+| **Russia**                                         | Widely venerated in the East |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Basil the Great and St. Gregory of Nazianzus** | 2 January | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 1 January (feast); 30 January (Three Hierarchs) | — | Major feast in Eastern Churches |
+| Feast                                                            | Date                                            | Rank     | Notes                                 |
+| ---------------------------------------------------------------- | ----------------------------------------------- | -------- | ------------------------------------- |
+| **Memorial of St. Basil the Great and St. Gregory of Nazianzus** | 2 January                                       | Memorial | Principal feast; Doctor of the Church |
+| **Byzantine Rite**                                               | 1 January (feast); 30 January (Three Hierarchs) | —        | Major feast in Eastern Churches       |
 
 ---
 
@@ -122,10 +122,10 @@ St. Basil the Great is the patron saint of:
 > — Pope Benedict XVI, General Audience, 4 July 2007
 
 > "Basil teaches us that the Christian life must be a life of charity, for faith without works is dead."
-> — Pope John Paul II, *Orientale Lumen*, 1995
+> — Pope John Paul II, _Orientale Lumen_, 1995
 
 > "The Liturgy of St. Basil is a treasure of the Church, expressing the faith of the East in the Eucharist."
-> — Pope Francis, *Address*, 2 January 2017
+> — Pope Francis, _Address_, 2 January 2017
 
 ---
 
@@ -152,7 +152,7 @@ St. Basil the Great, Bishop of Caesarea, Father of the Church, and father of Eas
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Basil the Great,
     pray for us.

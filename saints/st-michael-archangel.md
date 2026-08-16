@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Michael the Archangel** (Hebrew: ***מִיכָאֵל***, *Mikha'el*, "Who is like God?"; Latin: *Michael*; Arabic: ***ميكائيل***, *Mika'il*) is one of the three archangels named in Sacred Scripture (along with Gabriel and Raphael) and the **leader of the heavenly host** in the war against Satan. He is revered as the **Prince of the Angels**, the **guardian of the Church**, and the **patron of soldiers, police, and the sick**. His feast is celebrated on **29 September** (Michaelmas), with a separate commemoration of the Apparition of St. Michael on **8 May**.
+**St. Michael the Archangel** (Hebrew: _**מִיכָאֵל**_, _Mikha'el_, "Who is like God?"; Latin: _Michael_; Arabic: _**ميكائيل**_, _Mika'il_) is one of the three archangels named in Sacred Scripture (along with Gabriel and Raphael) and the **leader of the heavenly host** in the war against Satan. He is revered as the **Prince of the Angels**, the **guardian of the Church**, and the **patron of soldiers, police, and the sick**. His feast is celebrated on **29 September** (Michaelmas), with a separate commemoration of the Apparition of St. Michael on **8 May**.
 
 > "There was war in heaven. Michael and his angels fought against the dragon."
 > — Revelation 12:7
@@ -36,7 +36,7 @@ The most dramatic depiction of Michael is in the Apocalypse:
 
 ### Name and Meaning
 
-The name **Michael** is a battle cry: "Who is like God?" (*Mikha'el*). His name itself is a declaration of God's incomparable majesty and a challenge to the pride of Lucifer.
+The name **Michael** is a battle cry: "Who is like God?" (_Mikha'el_). His name itself is a declaration of God's incomparable majesty and a challenge to the pride of Lucifer.
 
 ### Prince of the Heavenly Host
 
@@ -79,28 +79,28 @@ Composed by Pope Leo XIII in **1886** after a vision of the battle against the f
 
 St. Michael the Archangel is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Police Officers** | As the protector against evil |
-| **Soldiers and the Military** | As the leader of the heavenly armies |
-| **The Sick** | His healing power (name means "Who is like God?") |
-| **Grocers and Mariners** | Traditional patronage |
-| **The Dying** | He is invoked at the hour of death |
-| **Germany** | Patron of the German people |
-| **Radiologists** | Associated with healing |
-| **The Universal Church** | As its heavenly protector |
-| **Knights and Chivalric Orders** | The Order of St. Michael |
-| **Holy Communion** | Guardian of the Eucharist |
+| Patronage                        | Description                                       |
+| -------------------------------- | ------------------------------------------------- |
+| **Police Officers**              | As the protector against evil                     |
+| **Soldiers and the Military**    | As the leader of the heavenly armies              |
+| **The Sick**                     | His healing power (name means "Who is like God?") |
+| **Grocers and Mariners**         | Traditional patronage                             |
+| **The Dying**                    | He is invoked at the hour of death                |
+| **Germany**                      | Patron of the German people                       |
+| **Radiologists**                 | Associated with healing                           |
+| **The Universal Church**         | As its heavenly protector                         |
+| **Knights and Chivalric Orders** | The Order of St. Michael                          |
+| **Holy Communion**               | Guardian of the Eucharist                         |
 
 ---
 
 ## 6. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Feast of the Archangels Michael, Gabriel, and Raphael** | 29 September | Feast | Principal feast (Michaelmas) |
-| **Apparition of St. Michael** | 8 May | Commemoration (Traditional) | Monte Sant'Angelo shrine |
-| **Byzantine Rite** | 8 November (Synaxis of the Archangels); 6 September (Miracle at Colossae); 29 September | — | Multiple Eastern feasts |
+| Feast                                                     | Date                                                                                    | Rank                        | Notes                        |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------- | ---------------------------- |
+| **Feast of the Archangels Michael, Gabriel, and Raphael** | 29 September                                                                            | Feast                       | Principal feast (Michaelmas) |
+| **Apparition of St. Michael**                             | 8 May                                                                                   | Commemoration (Traditional) | Monte Sant'Angelo shrine     |
+| **Byzantine Rite**                                        | 8 November (Synaxis of the Archangels); 6 September (Miracle at Colossae); 29 September | —                           | Multiple Eastern feasts      |
 
 ---
 
@@ -122,16 +122,16 @@ In Eastern iconography, he is often shown in the robes of a courtier rather than
 ## 8. Patristic and Magisterial Citations
 
 > "Michael signifies 'Who is like God?' and by this name we understand that no one can do what God does."
-> — St. Gregory the Great, *Homily 34 on the Gospels*
+> — St. Gregory the Great, _Homily 34 on the Gospels_
 
 > "St. Michael is the angel of the Church militant, who stands ever before God and watches over the people of God."
-> — St. John Paul II, *Angelus*, 29 September 1995
+> — St. John Paul II, _Angelus_, 29 September 1995
 
 > "We pray to St. Michael to defend us in the battle against the evil one, who prowls about the world seeking the ruin of souls."
-> — Pope Leo XIII, *Prayer to St. Michael* (1886)
+> — Pope Leo XIII, _Prayer to St. Michael_ (1886)
 
 > "The angels exist, they are real, they are personal, and they are here with us. Michael is their prince."
-> — Pope Benedict XVI, *Homily*, 29 September 2007
+> — Pope Benedict XVI, _Homily_, 29 September 2007
 
 ---
 
@@ -150,7 +150,7 @@ St. Michael the Archangel is the Prince of the Heavenly Host, the defender of th
     who prowl about the world seeking the ruin of souls.
     Amen.
 
-*A longer prayer for protection:*
+_A longer prayer for protection:_
 
     O glorious Prince of the heavenly host,
     St. Michael the Archangel,
@@ -168,7 +168,7 @@ St. Michael the Archangel is the Prince of the Heavenly Host, the defender of th
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Michael the Archangel,
     defend us in battle.

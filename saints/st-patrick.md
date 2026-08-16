@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Patrick** (Latin: *Patricius*; Irish: *Pádraig*; c. 385 – 17 March 461 A.D.) is the **patron saint and national apostle of Ireland**. He is credited with bringing Christianity to Ireland, establishing the Church there, and converting the Irish people from their pagan traditions. His feast day, **17 March**, is celebrated worldwide as a cultural and religious holiday. His writings, particularly his ***Confessio*** and ***Letter to the Soldiers of Coroticus***, are among the earliest surviving documents of British Christianity.
+**St. Patrick** (Latin: _Patricius_; Irish: _Pádraig_; c. 385 – 17 March 461 A.D.) is the **patron saint and national apostle of Ireland**. He is credited with bringing Christianity to Ireland, establishing the Church there, and converting the Irish people from their pagan traditions. His feast day, **17 March**, is celebrated worldwide as a cultural and religious holiday. His writings, particularly his _**Confessio**_ and _**Letter to the Soldiers of Coroticus**_, are among the earliest surviving documents of British Christianity.
 
 > "I arise today through a mighty strength, the invocation of the Trinity, through the belief in the Threeness, through the confession of the Oneness of the Creator of creation."
-> — St. Patrick, *The Lorica* (The Breastplate)
+> — St. Patrick, _The Lorica_ (The Breastplate)
 
 ---
 
@@ -23,7 +23,7 @@ At age sixteen, Patrick was captured by **Irish raiders** and taken to Ireland a
 
 ### The Time of Conversion
 
-During his captivity, Patrick, who had not been particularly religious before, underwent a profound spiritual conversion. He wrote in his *Confessio*:
+During his captivity, Patrick, who had not been particularly religious before, underwent a profound spiritual conversion. He wrote in his _Confessio_:
 
 > "After I came to Ireland, I daily used to feed sheep, and I prayed frequently during the day. The love of God and the fear of Him increased more and more, and my faith grew and my spirit was strengthened."
 
@@ -69,7 +69,7 @@ One of the most famous legends associated with Patrick is the **Paschal Fire**. 
 
 ### The Confessio (c. 450)
 
-The ***Confessio*** is Patrick's spiritual autobiography, written in his old age to defend his mission against critics who questioned his education and authority. It is a humble, powerful account of his call, his labours, and his love for the Irish people:
+The _**Confessio**_ is Patrick's spiritual autobiography, written in his old age to defend his mission against critics who questioned his education and authority. It is a humble, powerful account of his call, his labours, and his love for the Irish people:
 
 > "I am Patrick, a sinner, the most unlearned of men, the least of all the faithful, and utterly despised by many. But I give thanks to God who has kept me faithful in the day of trial."
 
@@ -89,22 +89,22 @@ St. Patrick died on **17 March 461 A.D.**, probably at **Saul** (Sabhall), Count
 
 St. Patrick is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Ireland** | National apostle and principal patron |
-| **Nigerians** | Large Irish missionary influence |
-| **Engineers** | The shamrock as a symbol of ingenuity |
-| **Paralegals** | The legal structure of his writings |
-| **Against Snake Bites** | Legend says he drove snakes from Ireland |
-| **Exorcisms** | His power over pagan spirits |
-| **Archdiocese of New York** | As patron |
+| Patronage                   | Description                              |
+| --------------------------- | ---------------------------------------- |
+| **Ireland**                 | National apostle and principal patron    |
+| **Nigerians**               | Large Irish missionary influence         |
+| **Engineers**               | The shamrock as a symbol of ingenuity    |
+| **Paralegals**              | The legal structure of his writings      |
+| **Against Snake Bites**     | Legend says he drove snakes from Ireland |
+| **Exorcisms**               | His power over pagan spirits             |
+| **Archdiocese of New York** | As patron                                |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                        | Date     | Rank                                                  | Notes                       |
+| ---------------------------- | -------- | ----------------------------------------------------- | --------------------------- |
 | **Solemnity of St. Patrick** | 17 March | Solemnity (in Ireland); Optional Memorial (elsewhere) | Widely celebrated worldwide |
 
 ---
@@ -112,19 +112,19 @@ St. Patrick is the patron saint of:
 ## 10. Patristic and Magisterial Citations
 
 > "St. Patrick, the apostle of Ireland, is a shining example of missionary zeal and faithfulness to the Gospel."
-> — Pope John Paul II, *Homily at Drogheda*, 29 September 1979
+> — Pope John Paul II, _Homily at Drogheda_, 29 September 1979
 
 > "Patrick's life shows us that God can do great things through those who humbly trust in His power."
-> — Pope Benedict XVI, *General Audience*, 15 March 2006
+> — Pope Benedict XVI, _General Audience_, 15 March 2006
 
 > "May the strength of God guide us, the power of God preserve us, the wisdom of God teach us, the hand of God protect us."
-> — St. Patrick, *The Breastplate*
+> — St. Patrick, _The Breastplate_
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. Patrick, the Apostle of Ireland, was kidnapped into slavery as a youth, escaped, and then returned to the land of his captivity to bring the Gospel to the very people who had enslaved him — converting an entire nation to Christ. The faithful seek his intercession for the conversion of nations, for those held captive or oppressed, for missionaries, and for protection against spiritual enemies. The following prayer, drawing on the famous Breastplate of St. Patrick (*Lorica Sancti Patricii*), may be used to seek his intercession:
+St. Patrick, the Apostle of Ireland, was kidnapped into slavery as a youth, escaped, and then returned to the land of his captivity to bring the Gospel to the very people who had enslaved him — converting an entire nation to Christ. The faithful seek his intercession for the conversion of nations, for those held captive or oppressed, for missionaries, and for protection against spiritual enemies. The following prayer, drawing on the famous Breastplate of St. Patrick (_Lorica Sancti Patricii_), may be used to seek his intercession:
 
     O glorious St. Patrick, Apostle of Ireland,
     you who returned love for hatred
@@ -145,7 +145,7 @@ St. Patrick, the Apostle of Ireland, was kidnapped into slavery as a youth, esca
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Patrick, Apostle of Ireland,
     pray for us.

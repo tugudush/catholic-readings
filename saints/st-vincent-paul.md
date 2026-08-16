@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Vincent de Paul** (French: *Vincent de Paul*; Latin: *Vincentius a Paulo*; 24 April 1581 – 27 September 1660) was a French Catholic priest and the **founder of the Congregation of the Mission** (the Vincentians or Lazarists) and the **Daughters of Charity**. He is renowned for his extraordinary work among the poor, his reform of the clergy, and his foundational role in the development of organized Catholic charity. His feast day is **27 September**.
+**St. Vincent de Paul** (French: _Vincent de Paul_; Latin: _Vincentius a Paulo_; 24 April 1581 – 27 September 1660) was a French Catholic priest and the **founder of the Congregation of the Mission** (the Vincentians or Lazarists) and the **Daughters of Charity**. He is renowned for his extraordinary work among the poor, his reform of the clergy, and his foundational role in the development of organized Catholic charity. His feast day is **27 September**.
 
 > "Go to the poor: you will find God."
 > — St. Vincent de Paul
@@ -61,7 +61,7 @@ In **1633**, with **St. Louise de Marillac**, Vincent founded the **Daughters of
 
 ### The Motto
 
-The Daughters of Charity took as their motto: **"The charity of Christ urges us"** (*Caritas Christi urget nos*). Their habit was the blue-grey dress of a French peasant woman rather than a traditional religious habit—a sign of their identification with the poor.
+The Daughters of Charity took as their motto: **"The charity of Christ urges us"** (_Caritas Christi urget nos_). Their habit was the blue-grey dress of a French peasant woman rather than a traditional religious habit—a sign of their identification with the poor.
 
 ---
 
@@ -70,19 +70,24 @@ The Daughters of Charity took as their motto: **"The charity of Christ urges us"
 St. Vincent organized a vast network of charitable services:
 
 ### For the Poor
+
 - **Confréries de la Charité** (Confraternities of Charity): Lay organizations of women who served the sick poor in their parishes.
 - **Soup kitchens and distribution of food, clothing, and fuel**.
 
 ### For Foundlings
+
 - Vincent established a home for **abandoned children**, which grew to care for thousands of foundlings.
 
 ### For Prisoners and Galley Slaves
+
 - He served as **Chaplain General of the Galleys** and worked to improve the conditions of convicts and galley slaves.
 
 ### For the Sick
+
 - The Daughters of Charity staffed the **Hôtel-Dieu** hospital in Paris and other hospitals.
 
 ### For the Clergy
+
 - Vincent organized **Seminaries** for the training of priests and conducted **retreats for ordinands**.
 
 ---
@@ -111,24 +116,24 @@ In **1833**, the **Society of St. Vincent de Paul** was founded in Paris by **Bl
 
 St. Vincent de Paul is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **All Charitable Works** | Proclaimed by Pope Leo XIII |
-| **Hospitals and Healthcare Workers** | His work for the sick |
-| **Prisoners** | His ministry to galley slaves |
-| **Volunteers and Social Workers** | His organization of lay charity |
-| **Madagascar** | Vincentian mission history |
-| **Sisters of Charity** | The Daughters of Charity |
-| **The Poor** | His lifelong dedication |
+| Patronage                            | Description                     |
+| ------------------------------------ | ------------------------------- |
+| **All Charitable Works**             | Proclaimed by Pope Leo XIII     |
+| **Hospitals and Healthcare Workers** | His work for the sick           |
+| **Prisoners**                        | His ministry to galley slaves   |
+| **Volunteers and Social Workers**    | His organization of lay charity |
+| **Madagascar**                       | Vincentian mission history      |
+| **Sisters of Charity**               | The Daughters of Charity        |
+| **The Poor**                         | His lifelong dedication         |
 
 ---
 
 ## 10. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Vincent de Paul** | 27 September | Memorial | Principal feast |
-| **Byzantine Rite** | 27 September | — | Eastern Catholic celebration |
+| Feast                               | Date         | Rank     | Notes                        |
+| ----------------------------------- | ------------ | -------- | ---------------------------- |
+| **Memorial of St. Vincent de Paul** | 27 September | Memorial | Principal feast              |
+| **Byzantine Rite**                  | 27 September | —        | Eastern Catholic celebration |
 
 ---
 
@@ -146,10 +151,10 @@ The core of Vincent's spirituality is the conviction that **Christ is especially
 ## 12. Patristic and Magisterial Citations
 
 > "St. Vincent de Paul was a man consumed by the love of God and neighbour. He understood that true charity is organized, practical, and respectful of the dignity of the poor."
-> — Pope Benedict XVI, *Deus Caritas Est*, 26
+> — Pope Benedict XVI, _Deus Caritas Est_, 26
 
 > "Vincent de Paul teaches us that charity is not merely giving alms but serving Christ in the poor with love and humility."
-> — Pope John Paul II, *Homily*, 27 September 2000
+> — Pope John Paul II, _Homily_, 27 September 2000
 
 > "The poor are our masters. They are the ones we serve in the person of Christ."
 > — St. Vincent de Paul
@@ -180,7 +185,7 @@ St. Vincent de Paul, the Apostle of Charity, organized systematic relief for the
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Vincent de Paul,
     pray for us.

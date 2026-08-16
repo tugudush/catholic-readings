@@ -27,10 +27,10 @@ The Old Testament concept of _da'at_ (דַּעַת, "knowledge") often denotes r
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Word / Utterance** | λόγος (_logos_) | Speech, discourse, reasoned utterance; a communication that is intelligible and ordered |
-| **Knowledge** | γνῶσις (_gnōsis_) | In the Pauline sense: knowledge of divine things as manifested through creatures and through the mysteries of salvation history |
+| Term                       | Greek                           | Meaning                                                                                                                                                      |
+| -------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Word / Utterance**       | λόγος (_logos_)                 | Speech, discourse, reasoned utterance; a communication that is intelligible and ordered                                                                      |
+| **Knowledge**              | γνῶσις (_gnōsis_)               | In the Pauline sense: knowledge of divine things as manifested through creatures and through the mysteries of salvation history                              |
 | **Utterance of Knowledge** | λόγος γνώσεως (_logos gnōseōs_) | The Spirit-given ability to articulate knowledge of God's truth persuasively, especially as discerned through creation, Scripture, and the Church's teaching |
 
 Like λόγος σοφίας, the phrase λόγος γνώσεως is unique to 1 Corinthians 12:8 in the New Testament — a distinct Pauline formulation for a specific charismatic gift. It should not be confused with the gift of knowledge among the seven gifts of the Holy Spirit (Isaiah 11:2).
@@ -69,12 +69,12 @@ Aquinas frames the "word of knowledge" as strengthening faith rather than produc
 
 ### 4.2 Charismatic Knowledge vs. the Gift of Knowledge
 
-| | **Charism of the Word of Knowledge** | **Gift of Knowledge (Isaiah 11:2)** |
-| --- | --- | --- |
-| **Category** | _Gratia gratis data_ (for the benefit of others) | One of the seven gifts — a permanent disposition for sanctification |
-| **Purpose** | To communicate knowledge of divine things to others persuasively | To enable the soul to judge created things rightly in relation to God |
-| **Mode** | Extraordinary, occasional, communicative | Abiding, habitual, interior |
-| **Recipients** | Given variously as the Spirit wills | Given to every baptized person in the state of grace |
+|                | **Charism of the Word of Knowledge**                             | **Gift of Knowledge (Isaiah 11:2)**                                   |
+| -------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Category**   | _Gratia gratis data_ (for the benefit of others)                 | One of the seven gifts — a permanent disposition for sanctification   |
+| **Purpose**    | To communicate knowledge of divine things to others persuasively | To enable the soul to judge created things rightly in relation to God |
+| **Mode**       | Extraordinary, occasional, communicative                         | Abiding, habitual, interior                                           |
+| **Recipients** | Given variously as the Spirit wills                              | Given to every baptized person in the state of grace                  |
 
 ### 4.3 Knowledge Ordered to Charity
 
@@ -112,13 +112,13 @@ The gift of [discernment of spirits](discernment-of-spirits.md) exists precisely
 
 ## 6. Distinction from Related Concepts
 
-| Concept | Distinction |
-| --- | --- |
-| **Gift of Knowledge (Isaiah 11:2)** | A permanent disposition for personal sanctification; the charism is an occasional gift for communicating knowledge to others. |
-| **Word of Wisdom (1 Cor 12:8)** | Wisdom contemplates divine things in themselves; knowledge apprehends divine things through creatures and applies truth to concrete realities. |
-| **Prophecy (1 Cor 12:10)** | Prophecy is direct divine illumination, often spontaneous and future-oriented; the word of knowledge typically involves the articulation of truths already revealed, applied to present circumstances. |
-| **Theological Learning** | The word of knowledge is a supernatural charism, not reducible to academic study — though grace builds on nature and may elevate natural intellectual gifts. |
-| **Gnosticism** | Unlike the heretical _gnōsis_ of ancient Gnosticism (which claimed secret, saving knowledge for an elite), the charismatic "word of knowledge" serves the **common good** of the whole Church and conforms to public apostolic revelation. |
+| Concept                             | Distinction                                                                                                                                                                                                                                |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Gift of Knowledge (Isaiah 11:2)** | A permanent disposition for personal sanctification; the charism is an occasional gift for communicating knowledge to others.                                                                                                              |
+| **Word of Wisdom (1 Cor 12:8)**     | Wisdom contemplates divine things in themselves; knowledge apprehends divine things through creatures and applies truth to concrete realities.                                                                                             |
+| **Prophecy (1 Cor 12:10)**          | Prophecy is direct divine illumination, often spontaneous and future-oriented; the word of knowledge typically involves the articulation of truths already revealed, applied to present circumstances.                                     |
+| **Theological Learning**            | The word of knowledge is a supernatural charism, not reducible to academic study — though grace builds on nature and may elevate natural intellectual gifts.                                                                               |
+| **Gnosticism**                      | Unlike the heretical _gnōsis_ of ancient Gnosticism (which claimed secret, saving knowledge for an elite), the charismatic "word of knowledge" serves the **common good** of the whole Church and conforms to public apostolic revelation. |
 
 ---
 

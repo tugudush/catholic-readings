@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. John Paul II** (Latin: *Ioannes Paulus II*; Polish: *Jan Paweł II*; 18 May 1920 – 2 April 2005), born **Karol Józef Wojtyła**, served as the **264th Pope** of the Catholic Church from **16 October 1978** until his death in 2005. He was the first non-Italian pope in 455 years (since Pope Adrian VI, 1522–1523) and the first Polish pope in history. His pontificate of **26 years, 5 months, and 17 days** is one of the longest in history. He was canonized on **27 April 2014**. His feast day is **22 October**.
+**St. John Paul II** (Latin: _Ioannes Paulus II_; Polish: _Jan Paweł II_; 18 May 1920 – 2 April 2005), born **Karol Józef Wojtyła**, served as the **264th Pope** of the Catholic Church from **16 October 1978** until his death in 2005. He was the first non-Italian pope in 455 years (since Pope Adrian VI, 1522–1523) and the first Polish pope in history. His pontificate of **26 years, 5 months, and 17 days** is one of the longest in history. He was canonized on **27 April 2014**. His feast day is **22 October**.
 
 > "Do not be afraid. Open wide the doors for Christ!"
 > — Pope John Paul II, Inaugural Homily, 22 October 1978
@@ -45,7 +45,7 @@ After returning to Poland, Fr. Wojtyła served as a parish priest and university
 - **1964**: Appointed **Archbishop of Kraków** by Pope Paul VI.
 - **1967**: Created **Cardinal** by Pope Paul VI.
 
-He participated in all four sessions of the **Second Vatican Council** (1962–1965), contributing significantly to the **Pastoral Constitution *Gaudium et Spes*** and the **Declaration on Religious Freedom *Dignitatis Humanae***.
+He participated in all four sessions of the **Second Vatican Council** (1962–1965), contributing significantly to the **Pastoral Constitution _Gaudium et Spes_** and the **Declaration on Religious Freedom _Dignitatis Humanae_**.
 
 ---
 
@@ -61,15 +61,15 @@ John Paul II was the **most-travelled pope in history**, visiting **129 countrie
 
 ### Key Accomplishments
 
-| Area | Accomplishments |
-|------|----------------|
-| **Encyclicals** | 14 encyclicals, including *Redemptor Hominis* (1979), *Dives in Misericordia* (1980), *Evangelium Vitae* (1995), *Fides et Ratio* (1998), *Ecclesia de Eucharistia* (2003) |
-| **Theology of the Body** | A series of 129 catecheses (1979–1984) on human love, marriage, and sexuality, now known as the **Theology of the Body** |
-| **Canonizations** | 482 saints and 1,338 beatifications—more than all predecessors combined |
-| **World Youth Day** | Founded in 1985; drew millions of young Catholics to faith |
-| **Catechism of the Catholic Church** | Promulgated in 1992, the first universal catechism since the Council of Trent |
-| **Interfaith Dialogue** | The **Assisi Peace Meetings** (1986, 1993, 2002); historic visit to the Rome Synagogue (1986); first papal visit to a mosque (Damascus, 2001) |
-| **Fall of Communism** | His 1979 pilgrimage to Poland is credited with sparking the Solidarity movement that led to the peaceful fall of communism in Eastern Europe |
+| Area                                 | Accomplishments                                                                                                                                                            |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Encyclicals**                      | 14 encyclicals, including _Redemptor Hominis_ (1979), _Dives in Misericordia_ (1980), _Evangelium Vitae_ (1995), _Fides et Ratio_ (1998), _Ecclesia de Eucharistia_ (2003) |
+| **Theology of the Body**             | A series of 129 catecheses (1979–1984) on human love, marriage, and sexuality, now known as the **Theology of the Body**                                                   |
+| **Canonizations**                    | 482 saints and 1,338 beatifications—more than all predecessors combined                                                                                                    |
+| **World Youth Day**                  | Founded in 1985; drew millions of young Catholics to faith                                                                                                                 |
+| **Catechism of the Catholic Church** | Promulgated in 1992, the first universal catechism since the Council of Trent                                                                                              |
+| **Interfaith Dialogue**              | The **Assisi Peace Meetings** (1986, 1993, 2002); historic visit to the Rome Synagogue (1986); first papal visit to a mosque (Damascus, 2001)                              |
+| **Fall of Communism**                | His 1979 pilgrimage to Poland is credited with sparking the Solidarity movement that led to the peaceful fall of communism in Eastern Europe                               |
 
 ### The Assassination Attempt
 
@@ -103,40 +103,40 @@ His funeral on **8 April 2005** was one of the largest gatherings in human histo
 
 St. John Paul II is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **World Youth Day** | He founded and championed WYD |
-| **Young Catholics** | His special love for the young |
-| **Families** | His Theology of the Body and *Familiaris Consortio* |
-| **Poland** | As the nation's most famous son |
-| **Religious Freedom** | His role in the fall of communism |
-| **The Divine Mercy** | His encyclical *Dives in Misericordia* and his death on Divine Mercy Sunday eve |
+| Patronage             | Description                                                                     |
+| --------------------- | ------------------------------------------------------------------------------- |
+| **World Youth Day**   | He founded and championed WYD                                                   |
+| **Young Catholics**   | His special love for the young                                                  |
+| **Families**          | His Theology of the Body and _Familiaris Consortio_                             |
+| **Poland**            | As the nation's most famous son                                                 |
+| **Religious Freedom** | His role in the fall of communism                                               |
+| **The Divine Mercy**  | His encyclical _Dives in Misericordia_ and his death on Divine Mercy Sunday eve |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                     | Date       | Rank              | Notes                             |
+| ----------------------------------------- | ---------- | ----------------- | --------------------------------- |
 | **Optional Memorial of St. John Paul II** | 22 October | Optional Memorial | Anniversary of his inaugural Mass |
 
 ---
 
 ## 9. Major Writings
 
-| Work | Year | Type |
-|------|------|------|
-| *Redemptor Hominis* | 1979 | Encyclical (first) |
-| *Dives in Misericordia* | 1980 | Encyclical on Divine Mercy |
-| *Laborem Exercens* | 1981 | Encyclical on human work |
-| *Slavorum Apostoli* | 1985 | Encyclical on SS. Cyril and Methodius |
-| *Redemptoris Mater* | 1987 | Encyclical on the Blessed Virgin Mary |
-| *Centesimus Annus* | 1991 | Encyclical on social teaching |
-| *Veritatis Splendor* | 1993 | Encyclical on moral theology |
-| *Evangelium Vitae* | 1995 | Encyclical on the Gospel of Life |
-| *Ut Unum Sint* | 1995 | Encyclical on ecumenism |
-| *Fides et Ratio* | 1998 | Encyclical on faith and reason |
-| *Ecclesia de Eucharistia* | 2003 | Encyclical on the Eucharist |
+| Work                      | Year | Type                                  |
+| ------------------------- | ---- | ------------------------------------- |
+| _Redemptor Hominis_       | 1979 | Encyclical (first)                    |
+| _Dives in Misericordia_   | 1980 | Encyclical on Divine Mercy            |
+| _Laborem Exercens_        | 1981 | Encyclical on human work              |
+| _Slavorum Apostoli_       | 1985 | Encyclical on SS. Cyril and Methodius |
+| _Redemptoris Mater_       | 1987 | Encyclical on the Blessed Virgin Mary |
+| _Centesimus Annus_        | 1991 | Encyclical on social teaching         |
+| _Veritatis Splendor_      | 1993 | Encyclical on moral theology          |
+| _Evangelium Vitae_        | 1995 | Encyclical on the Gospel of Life      |
+| _Ut Unum Sint_            | 1995 | Encyclical on ecumenism               |
+| _Fides et Ratio_          | 1998 | Encyclical on faith and reason        |
+| _Ecclesia de Eucharistia_ | 2003 | Encyclical on the Eucharist           |
 
 ---
 
@@ -149,13 +149,13 @@ St. John Paul II is the patron saint of:
 > — Pope Francis, Canonization Homily, 27 April 2014
 
 > "The legacy of John Paul II is a treasure for the Church and for the world. His teaching continues to illuminate our path."
-> — Catechism of the Catholic Church (cf. CCC 2266 *Evangelium Vitae*)
+> — Catechism of the Catholic Church (cf. CCC 2266 _Evangelium Vitae_)
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. John Paul II, the Pilgrim Pope whose pontificate spanned twenty-six years and touched every continent, was instrumental in the fall of communism, the promulgation of the *Catechism of the Catholic Church*, the Theology of the Body, and the institution of Divine Mercy Sunday. The faithful seek his intercession for the young, for families, for those suffering from illness (particularly Parkinson's disease), for the defence of human dignity, and for the grace to echo his signature exhortation: "Be not afraid!" The following prayer may be used to seek his intercession:
+St. John Paul II, the Pilgrim Pope whose pontificate spanned twenty-six years and touched every continent, was instrumental in the fall of communism, the promulgation of the _Catechism of the Catholic Church_, the Theology of the Body, and the institution of Divine Mercy Sunday. The faithful seek his intercession for the young, for families, for those suffering from illness (particularly Parkinson's disease), for the defence of human dignity, and for the grace to echo his signature exhortation: "Be not afraid!" The following prayer may be used to seek his intercession:
 
     O St. John Paul II, Vicar of Christ
     and Pope of the family,
@@ -176,7 +176,7 @@ St. John Paul II, the Pilgrim Pope whose pontificate spanned twenty-six years an
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. John Paul II,
     pray for us.

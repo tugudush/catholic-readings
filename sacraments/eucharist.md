@@ -113,15 +113,15 @@ In both rites, the same Catholic doctrine of the Real Presence, transubstantiati
 
 ### 8.2 Differences in Liturgical Practice
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Principal liturgy** | The Roman Missal (Novus Ordo of 1969/2002; the Tridentine Mass of 1962 as _Forma Extraordinaria_) | The Byzantine Divine Liturgy of St. John Chrysostom or of St. Basil the Great; other liturgies (Antiochian, Alexandrian, Armenian, Chaldean, Maronite) |
-| **Leavened bread** | Unleavened bread (Latin: _azyma_) | Leavened bread (Greek: _artos_; the Eastern tradition holds that leaven signifies the divine nature assumed by Christ) |
-| **Communion of the faithful** | Communion under one kind (Host) for the laity; under both kinds (Host and Chalice) ordinarily only for the celebrant, or for the faithful on certain occasions | Communion ordinarily under both kinds (Body and Blood together) even for the laity, administered by intinction (Host dipped in the Blood) or by a spoon |
-| **Infant Communion** | First Communion ordinarily at the age of reason (~7 years) | First Communion in infancy, immediately after Chrismation |
-| **The epiclesis** | Before the words of institution (in the Roman Canon) and after them (in the 1969 Missal); the precise theological debate is still open | Invoked after the words of institution, in the explicit invocation of the Holy Spirit to transform the gifts |
-| **Communion fast** | One hour (food and drink); water does not break the fast | The Eastern discipline varies; in many traditions, no fasting before the Divine Liturgy is required for the faithful on ordinary days, although preparation includes prayer and fasting from the previous midnight in the strict observance |
-| **Adoration / reservation** | Tabernacle, exposition, processions | Reservation in the artophorion (tabernacle); exposition occurs in some traditions, but the public adoration of the Blessed Sacrament is less prominent than in the Latin Rite |
+| Aspect                        | Latin Rite                                                                                                                                                     | Eastern Catholic Churches                                                                                                                                                                                                                   |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Principal liturgy**         | The Roman Missal (Novus Ordo of 1969/2002; the Tridentine Mass of 1962 as _Forma Extraordinaria_)                                                              | The Byzantine Divine Liturgy of St. John Chrysostom or of St. Basil the Great; other liturgies (Antiochian, Alexandrian, Armenian, Chaldean, Maronite)                                                                                      |
+| **Leavened bread**            | Unleavened bread (Latin: _azyma_)                                                                                                                              | Leavened bread (Greek: _artos_; the Eastern tradition holds that leaven signifies the divine nature assumed by Christ)                                                                                                                      |
+| **Communion of the faithful** | Communion under one kind (Host) for the laity; under both kinds (Host and Chalice) ordinarily only for the celebrant, or for the faithful on certain occasions | Communion ordinarily under both kinds (Body and Blood together) even for the laity, administered by intinction (Host dipped in the Blood) or by a spoon                                                                                     |
+| **Infant Communion**          | First Communion ordinarily at the age of reason (~7 years)                                                                                                     | First Communion in infancy, immediately after Chrismation                                                                                                                                                                                   |
+| **The epiclesis**             | Before the words of institution (in the Roman Canon) and after them (in the 1969 Missal); the precise theological debate is still open                         | Invoked after the words of institution, in the explicit invocation of the Holy Spirit to transform the gifts                                                                                                                                |
+| **Communion fast**            | One hour (food and drink); water does not break the fast                                                                                                       | The Eastern discipline varies; in many traditions, no fasting before the Divine Liturgy is required for the faithful on ordinary days, although preparation includes prayer and fasting from the previous midnight in the strict observance |
+| **Adoration / reservation**   | Tabernacle, exposition, processions                                                                                                                            | Reservation in the artophorion (tabernacle); exposition occurs in some traditions, but the public adoration of the Blessed Sacrament is less prominent than in the Latin Rite                                                               |
 
 The use of unleavened or leavened bread is a matter of **discipline, not dogma**; the substance of the sacrament is identical in both rites.
 
@@ -155,21 +155,21 @@ The Church has investigated and approved several historical miracles in which th
 
 ## 11. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Fourth Lateran Council** (1215) | Defined the Real Presence using the term _transsubstantiatio_. |
-| **Council of Trent, Session XIII** (1551) | Definitive teaching on the Real Presence and transubstantiation. |
-| **Council of Trent, Session XXI** (1562) | Communion under both kinds and the sufficiency of Communion under one kind. |
-| **Council of Trent, Session XXII** (1562) | The Mass as a true and proper sacrifice. |
-| **Catechism of the Catholic Church** | [CCC 1322–1419](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1322) |
-| **Lumen Gentium** (Vatican II) | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **_Sacrosanctum Concilium_** (Vatican II) | §§47–58 — General principles on the reform of the liturgy and the Mass. |
-| **Pope Paul VI**, _Mysterium Fidei_ (1965) | Affirmed the perpetual validity of the doctrine of the Real Presence and the cult of adoration outside of Mass. |
-| **Pope Paul VI**, _Credo of the People of God_ (1968) | Professed the Catholic faith in the Real Presence and transubstantiation. |
-| **Pope John Paul II**, _Ecclesia de Eucharistia_ (2003) | The Church draws her life from the Eucharist. |
-| **Pope Benedict XVI**, _Sacramentum Caritatis_ (2007) | The sacrament of charity. |
-| **Code of Canon Law** | c. 897–958 (The Most Holy Eucharist) |
-| **Code of Canons of the Eastern Churches** | c. 696–718 (Divine Liturgy) |
+| Source                                                  | Reference                                                                                                       |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Fourth Lateran Council** (1215)                       | Defined the Real Presence using the term _transsubstantiatio_.                                                  |
+| **Council of Trent, Session XIII** (1551)               | Definitive teaching on the Real Presence and transubstantiation.                                                |
+| **Council of Trent, Session XXI** (1562)                | Communion under both kinds and the sufficiency of Communion under one kind.                                     |
+| **Council of Trent, Session XXII** (1562)               | The Mass as a true and proper sacrifice.                                                                        |
+| **Catechism of the Catholic Church**                    | [CCC 1322–1419](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1322)                 |
+| **Lumen Gentium** (Vatican II)                          | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                               |
+| **_Sacrosanctum Concilium_** (Vatican II)               | §§47–58 — General principles on the reform of the liturgy and the Mass.                                         |
+| **Pope Paul VI**, _Mysterium Fidei_ (1965)              | Affirmed the perpetual validity of the doctrine of the Real Presence and the cult of adoration outside of Mass. |
+| **Pope Paul VI**, _Credo of the People of God_ (1968)   | Professed the Catholic faith in the Real Presence and transubstantiation.                                       |
+| **Pope John Paul II**, _Ecclesia de Eucharistia_ (2003) | The Church draws her life from the Eucharist.                                                                   |
+| **Pope Benedict XVI**, _Sacramentum Caritatis_ (2007)   | The sacrament of charity.                                                                                       |
+| **Code of Canon Law**                                   | c. 897–958 (The Most Holy Eucharist)                                                                            |
+| **Code of Canons of the Eastern Churches**              | c. 696–718 (Divine Liturgy)                                                                                     |
 
 ---
 

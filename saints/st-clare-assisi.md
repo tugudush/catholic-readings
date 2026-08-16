@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Clare of Assisi** (Italian: *Chiara d'Offreducci*; Latin: *Clara Assisiensis*; 16 July 1194 – 11 August 1253) was an Italian Catholic nun and the **foundress of the Order of Poor Ladies** (the **Poor Clares**), the second order of the Franciscan movement. She was the first woman to write a monastic rule for women and is honoured as the **patron saint of television** due to a vision in which she "saw" the celebration of Christmas Mass from her convent. Her feast day is **11 August**.
+**St. Clare of Assisi** (Italian: _Chiara d'Offreducci_; Latin: _Clara Assisiensis_; 16 July 1194 – 11 August 1253) was an Italian Catholic nun and the **foundress of the Order of Poor Ladies** (the **Poor Clares**), the second order of the Franciscan movement. She was the first woman to write a monastic rule for women and is honoured as the **patron saint of television** due to a vision in which she "saw" the celebration of Christmas Mass from her convent. Her feast day is **11 August**.
 
 > "Go forth without fear, for He who created you has made you holy, has always protected you, and loves you as a mother."
-> — St. Clare of Assisi, *Letter to Blessed Agnes of Prague*
+> — St. Clare of Assisi, _Letter to Blessed Agnes of Prague_
 
 ---
 
@@ -86,24 +86,24 @@ Clare died on **11 August 1253** at the age of fifty-nine, surrounded by her sis
 
 St. Clare of Assisi is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Television** | Proclaimed by Pope Pius XII in 1958 |
-| **Poor Clares** | Foundress of the Order |
-| **Embroidery and Needlework** | Her manual work in the convent |
-| **Gilders and Goldsmiths** | Traditional patronage |
-| **Laundry Workers** | Traditional patronage |
-| **Eye Disease** | Her own reported healing of blindness |
-| **Missionaries of the Eucharist** | Her Eucharistic devotion |
+| Patronage                         | Description                           |
+| --------------------------------- | ------------------------------------- |
+| **Television**                    | Proclaimed by Pope Pius XII in 1958   |
+| **Poor Clares**                   | Foundress of the Order                |
+| **Embroidery and Needlework**     | Her manual work in the convent        |
+| **Gilders and Goldsmiths**        | Traditional patronage                 |
+| **Laundry Workers**               | Traditional patronage                 |
+| **Eye Disease**                   | Her own reported healing of blindness |
+| **Missionaries of the Eucharist** | Her Eucharistic devotion              |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Clare of Assisi** | 11 August | Memorial | Principal feast |
-| **Byzantine Rite** | 11 August | — | Eastern Catholic celebration |
+| Feast                               | Date      | Rank     | Notes                        |
+| ----------------------------------- | --------- | -------- | ---------------------------- |
+| **Memorial of St. Clare of Assisi** | 11 August | Memorial | Principal feast              |
+| **Byzantine Rite**                  | 11 August | —        | Eastern Catholic celebration |
 
 ---
 
@@ -122,19 +122,19 @@ St. Clare is traditionally depicted as a **Franciscan nun** holding:
 ## 10. Patristic and Magisterial Citations
 
 > "St. Clare of Assisi is a brilliant flower of sanctity, a woman of light, whose life radiates the Gospel."
-> — Pope John Paul II, *Homily*, 11 August 2003
+> — Pope John Paul II, _Homily_, 11 August 2003
 
 > "Clare teaches us that true happiness comes from living in communion with God and with others, in poverty and love."
 > — Pope Benedict XVI, General Audience, 15 September 2010
 
 > "St. Clare is the model of contemplative life, a woman who lived in total surrender to God."
-> — Pope Francis, *Mass at Santa Chiara*, 4 October 2013
+> — Pope Francis, _Mass at Santa Chiara_, 4 October 2013
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. Clare of Assisi, the first woman to write a monastic rule and the foundress of the Poor Clares, lived a life of evangelical poverty so radical that she was called *alter Franciscus* — another Francis. The faithful seek her intercession for the grace of trust in Divine Providence, for clarity of vision (both physical and spiritual), for protection of the home, and for a love of the Blessed Sacrament. The following prayer may be used to seek her intercession:
+St. Clare of Assisi, the first woman to write a monastic rule and the foundress of the Poor Clares, lived a life of evangelical poverty so radical that she was called _alter Franciscus_ — another Francis. The faithful seek her intercession for the grace of trust in Divine Providence, for clarity of vision (both physical and spiritual), for protection of the home, and for a love of the Blessed Sacrament. The following prayer may be used to seek her intercession:
 
     O seraphic St. Clare, lily of Assisi
     and faithful disciple of holy poverty,
@@ -153,7 +153,7 @@ St. Clare of Assisi, the first woman to write a monastic rule and the foundress 
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Clare of Assisi,
     pray for us.

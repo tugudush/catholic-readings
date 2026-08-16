@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. John of the Cross** (Spanish: *Juan de la Cruz*; Latin: *Ioannes a Cruce*; 24 June 1542 – 14 December 1591), born **Juan de Yepes y Álvarez**, was a Spanish Discalced Carmelite friar, priest, mystic, and **Doctor of the Church** (proclaimed by Pope Pius XI in 1926). He is one of the greatest mystical theologians in the Catholic tradition, known for his profound poetry and writings on the **"dark night of the soul"** —the purification of the soul on its journey to union with God. His feast day is **14 December**.
+**St. John of the Cross** (Spanish: _Juan de la Cruz_; Latin: _Ioannes a Cruce_; 24 June 1542 – 14 December 1591), born **Juan de Yepes y Álvarez**, was a Spanish Discalced Carmelite friar, priest, mystic, and **Doctor of the Church** (proclaimed by Pope Pius XI in 1926). He is one of the greatest mystical theologians in the Catholic tradition, known for his profound poetry and writings on the **"dark night of the soul"** —the purification of the soul on its journey to union with God. His feast day is **14 December**.
 
 > "In the evening of life, we will be judged on love alone."
 > — St. John of the Cross
@@ -61,12 +61,12 @@ In the darkness of his Toledo prison, John composed some of his greatest poetry,
 
 John's four major works are masterpieces of Spanish literature and mystical theology:
 
-| Work | Content |
-|------|---------|
-| ***The Ascent of Mount Carmel*** | A systematic treatise on the active purification of the senses and spirit |
-| ***The Dark Night*** | The passive purification of the soul, leading to divine union |
-| ***The Spiritual Canticle*** | An allegorical poem of the soul's quest for union with God as the Bridegroom |
-| ***The Living Flame of Love*** | The transformation of the soul in the perfect love of God |
+| Work                             | Content                                                                      |
+| -------------------------------- | ---------------------------------------------------------------------------- |
+| _**The Ascent of Mount Carmel**_ | A systematic treatise on the active purification of the senses and spirit    |
+| _**The Dark Night**_             | The passive purification of the soul, leading to divine union                |
+| _**The Spiritual Canticle**_     | An allegorical poem of the soul's quest for union with God as the Bridegroom |
+| _**The Living Flame of Love**_   | The transformation of the soul in the perfect love of God                    |
 
 ### The Dark Night of the Soul
 
@@ -96,41 +96,41 @@ John died on **14 December 1591** in **Úbeda**, Spain, at the age of forty-nine
 
 St. John of the Cross is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Contemplatives and Mystics** | His writings on the contemplative life |
-| **Poets and Writers** | His literary masterpieces |
-| **The Sick, especially those with chronic pain** | His own painful illness |
-| **The Discalced Carmelites** | Co-founder of the reform |
-| **Spain** | His Spanish heritage |
+| Patronage                                        | Description                            |
+| ------------------------------------------------ | -------------------------------------- |
+| **Contemplatives and Mystics**                   | His writings on the contemplative life |
+| **Poets and Writers**                            | His literary masterpieces              |
+| **The Sick, especially those with chronic pain** | His own painful illness                |
+| **The Discalced Carmelites**                     | Co-founder of the reform               |
+| **Spain**                                        | His Spanish heritage                   |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                 | Date        | Rank     | Notes                                 |
+| ------------------------------------- | ----------- | -------- | ------------------------------------- |
 | **Memorial of St. John of the Cross** | 14 December | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 14 December | — | Eastern Catholic celebration |
+| **Byzantine Rite**                    | 14 December | —        | Eastern Catholic celebration          |
 
 ---
 
 ## 9. Patristic and Magisterial Citations
 
 > "St. John of the Cross is the mystical Doctor of the Church. His writings are a sure guide to union with God."
-> — Pope John Paul II, *Letter for the Fourth Centenary of St. John of the Cross*, 1991
+> — Pope John Paul II, _Letter for the Fourth Centenary of St. John of the Cross_, 1991
 
 > "The Dark Night of St. John of the Cross is not a description of despair but of the purifying process that leads to the radiant light of God's love."
 > — Pope Benedict XVI, General Audience, 16 February 2011
 
 > "In the evening of life, we will be judged on love alone. This teaching of St. John of the Cross is a light for the Church."
-> — Pope Francis, *Homily*, 14 December 2014
+> — Pope Francis, _Homily_, 14 December 2014
 
 ---
 
 ## 10. Prayer for Intercession
 
-St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order alongside St. Teresa of Ávila, endured imprisonment, starvation, and flogging at the hands of his own brethren — and in that dark cell composed some of the most sublime poetry in the Spanish language, including the *Spiritual Canticle* and *The Dark Night of the Soul*. The faithful seek his intercession for those suffering spiritual dryness and desolation, for poets and contemplatives, for those unjustly imprisoned, and for the grace to embrace the Cross as the path to union with God. The following prayer may be used to seek his intercession:
+St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order alongside St. Teresa of Ávila, endured imprisonment, starvation, and flogging at the hands of his own brethren — and in that dark cell composed some of the most sublime poetry in the Spanish language, including the _Spiritual Canticle_ and _The Dark Night of the Soul_. The faithful seek his intercession for those suffering spiritual dryness and desolation, for poets and contemplatives, for those unjustly imprisoned, and for the grace to embrace the Cross as the path to union with God. The following prayer may be used to seek his intercession:
 
     O glorious St. John of the Cross,
     Mystical Doctor and father of the poor in spirit,
@@ -153,7 +153,7 @@ St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order a
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. John of the Cross,
     pray for us.

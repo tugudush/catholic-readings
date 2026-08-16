@@ -221,12 +221,12 @@ Each diocese establishes the **diocesan stipend amount** for a Mass intention. I
 
 There is **no single national amount** set by the Catholic Bishops' Conference of the Philippines (CBCP) for Mass intentions. Each diocese, and often each parish, sets its own customary amount. The following are **typical ranges** — always voluntary, never a fixed fee:
 
-| Type of Mass Intention | Typical Offering (PHP) | Notes |
-|---|---|---|
-| **Regular weekday Mass** | ₱50 – ₱200 | Most common: ₱100 |
-| **Sunday Mass** | ₱300 – ₱500 | Some parishes may suggest ₱500 |
-| **Special occasion / anniversary** | ₱500 – ₱1,000 | Discretionary |
-| **Gregorian Masses (30 consecutive days)** | Varies widely | Often ₱3,000 – ₱6,000 total |
+| Type of Mass Intention                     | Typical Offering (PHP) | Notes                          |
+| ------------------------------------------ | ---------------------- | ------------------------------ |
+| **Regular weekday Mass**                   | ₱50 – ₱200             | Most common: ₱100              |
+| **Sunday Mass**                            | ₱300 – ₱500            | Some parishes may suggest ₱500 |
+| **Special occasion / anniversary**         | ₱500 – ₱1,000          | Discretionary                  |
+| **Gregorian Masses (30 consecutive days)** | Varies widely          | Often ₱3,000 – ₱6,000 total    |
 
 **Key points for the Philippine faithful:**
 

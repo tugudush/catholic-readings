@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. John Vianney** (French: *Jean-Marie Vianney*; Latin: *Ioannes Maria Vianney*; 8 May 1786 – 4 August 1859), known as the **Curé d'Ars** (the parish priest of Ars), was a French Catholic priest who is venerated as the **patron saint of parish priests** worldwide. Despite his humble origins and limited formal education, he is renowned for his extraordinary pastoral ministry, his gift of reading souls, and his heroic work in converting the deeply indifferent community of Ars. His feast day is **4 August**.
+**St. John Vianney** (French: _Jean-Marie Vianney_; Latin: _Ioannes Maria Vianney_; 8 May 1786 – 4 August 1859), known as the **Curé d'Ars** (the parish priest of Ars), was a French Catholic priest who is venerated as the **patron saint of parish priests** worldwide. Despite his humble origins and limited formal education, he is renowned for his extraordinary pastoral ministry, his gift of reading souls, and his heroic work in converting the deeply indifferent community of Ars. His feast day is **4 August**.
 
 > "The priesthood is the love of the heart of Jesus."
 > — St. John Vianney
@@ -63,7 +63,7 @@ Vianney was reported to have the gifts of **prophecy, healing, and bilocation**.
 
 ## 5. The Battle with the Devil
 
-Vianney was tormented by the devil for many years. He experienced physical attacks, noises, and temptations—what he called **"the rattle"** (*le grappin*). He said that if the devil could not get him to leave the priesthood, he would at least try to make his life miserable. Vianney responded by increasing his penances and prayer.
+Vianney was tormented by the devil for many years. He experienced physical attacks, noises, and temptations—what he called **"the rattle"** (_le grappin_). He said that if the devil could not get him to leave the priesthood, he would at least try to make his life miserable. Vianney responded by increasing his penances and prayer.
 
 ---
 
@@ -83,20 +83,20 @@ Vianney died on **4 August 1859** at the age of seventy-three, surrounded by his
 
 St. John Vianney is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Parish Priests** | Proclaimed by Pope Pius XI in 1929 |
-| **Confessors and Spiritual Directors** | His ministry of the confessional |
-| **Vocations to the Priesthood** | His own difficult path |
-| **Against Spiritual Despair** | His temptations and victories |
-| **Ars, France** | His parish |
+| Patronage                              | Description                        |
+| -------------------------------------- | ---------------------------------- |
+| **Parish Priests**                     | Proclaimed by Pope Pius XI in 1929 |
+| **Confessors and Spiritual Directors** | His ministry of the confessional   |
+| **Vocations to the Priesthood**        | His own difficult path             |
+| **Against Spiritual Despair**          | His temptations and victories      |
+| **Ars, France**                        | His parish                         |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                            | Date     | Rank     | Notes                                           |
+| -------------------------------- | -------- | -------- | ----------------------------------------------- |
 | **Memorial of St. John Vianney** | 4 August | Memorial | Principal feast; Year for Priests was 2009–2010 |
 
 ---
@@ -110,13 +110,13 @@ Pope Benedict XVI declared a **Year for Priests** (19 June 2009 – 11 June 2010
 ## 10. Patristic and Magisterial Citations
 
 > "St. John Vianney is a model of pastoral ministry, a man consumed by love for God and souls."
-> — Pope Benedict XVI, *Letter Proclaiming the Year for Priests*, 2009
+> — Pope Benedict XVI, _Letter Proclaiming the Year for Priests_, 2009
 
 > "The Curé d'Ars shows us what a priest can do when he allows himself to be consumed by the love of God."
-> — Pope John Paul II, *General Audience*, 4 August 2004
+> — Pope John Paul II, _General Audience_, 4 August 2004
 
 > "The priesthood is the love of the heart of Jesus. This saying of the holy Curé d'Ars is a testament to his profound devotion."
-> — Pope Francis, *Homily*, 4 August 2013
+> — Pope Francis, _Homily_, 4 August 2013
 
 > "A good shepherd, a pastor after God's heart, is the greatest treasure which the good Lord can grant to a parish."
 > — St. John Vianney
@@ -145,7 +145,7 @@ St. John Vianney, the Curé d'Ars and patron of parish priests, spent up to sixt
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. John Vianney,
     pray for us.

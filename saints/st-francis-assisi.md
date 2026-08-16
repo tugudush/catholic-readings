@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Francis of Assisi** (Italian: *Francesco d'Assisi*; Latin: *Franciscus Assisiensis*; 1181/1182 – 3 October 1226), born **Giovanni di Pietro di Bernardone**, was an Italian Catholic deacon, mystic, and the **founder of the Order of Friars Minor** (the Franciscans). Affectionately known as **Il Poverello** ("the Little Poor One"), he is one of the most beloved and widely venerated saints in all of Christendom. His feast day is celebrated on **4 October**.
+**St. Francis of Assisi** (Italian: _Francesco d'Assisi_; Latin: _Franciscus Assisiensis_; 1181/1182 – 3 October 1226), born **Giovanni di Pietro di Bernardone**, was an Italian Catholic deacon, mystic, and the **founder of the Order of Friars Minor** (the Franciscans). Affectionately known as **Il Poverello** ("the Little Poor One"), he is one of the most beloved and widely venerated saints in all of Christendom. His feast day is celebrated on **4 October**.
 
 > "Preach the Gospel at all times. When necessary, use words."
 > — Attributed to St. Francis of Assisi
@@ -33,7 +33,7 @@ In **1202**, Francis fought in the war between Assisi and Perugia. He was taken 
 
 ### The Encounter with the Leper
 
-The turning point of Francis's conversion was his meeting with a **leper** on the road. Initially repulsed, Francis overcame his disgust, embraced the leper, and gave him alms. He later wrote: "When I was in sin, it seemed very bitter to me to see lepers, and the Lord Himself led me among them and I showed mercy to them" (*Testament*). This act of compassionate self-conquest marked his break with his former life.
+The turning point of Francis's conversion was his meeting with a **leper** on the road. Initially repulsed, Francis overcame his disgust, embraced the leper, and gave him alms. He later wrote: "When I was in sin, it seemed very bitter to me to see lepers, and the Lord Himself led me among them and I showed mercy to them" (_Testament_). This act of compassionate self-conquest marked his break with his former life.
 
 ### The Call at San Damiano
 
@@ -57,7 +57,7 @@ Francis and his brothers traveled to **Rome** to seek approval from **Pope Innoc
 
 ### The Rule of 1223
 
-The definitive **Rule of the Order of Friars Minor** was approved by **Pope Honorius III** in the bull *Solet Annuere* on **29 November 1223**. It is based on the observance of the holy Gospel, with poverty, chastity, and obedience as its foundation.
+The definitive **Rule of the Order of Friars Minor** was approved by **Pope Honorius III** in the bull _Solet Annuere_ on **29 November 1223**. It is based on the observance of the holy Gospel, with poverty, chastity, and obedience as its foundation.
 
 ---
 
@@ -74,7 +74,7 @@ Francis became the **first recorded stigmatist** in Christian history. He bore t
 
 ## 6. The Canticle of the Sun
 
-In the **spring of 1225**, while suffering from severe illness and near-blindness, Francis composed the **Canticle of the Sun** (*Cantico delle Creature*), one of the earliest and most beautiful works of Italian vernacular literature. In it, he praises God through all creation:
+In the **spring of 1225**, while suffering from severe illness and near-blindness, Francis composed the **Canticle of the Sun** (_Cantico delle Creature_), one of the earliest and most beautiful works of Italian vernacular literature. In it, he praises God through all creation:
 
 > "Praised be You, my Lord, with all Your creatures,
 > especially Sir Brother Sun,
@@ -90,7 +90,7 @@ This canticle is the foundation of Francis's reputation as the **patron of ecolo
 
 ### Death at the Portiuncula
 
-As death approached in the autumn of **1226**, Francis asked to be taken to the **Portiuncula**, the little chapel near Assisi that he loved so dearly. He was laid on the bare ground, clothed in a borrowed habit, and asked his brothers to read from the Gospel of John. On the evening of **3 October 1226**, he died, having just completed his final composition, the *Canticle of the Sun*'s final verse welcoming "Sister Death."
+As death approached in the autumn of **1226**, Francis asked to be taken to the **Portiuncula**, the little chapel near Assisi that he loved so dearly. He was laid on the bare ground, clothed in a borrowed habit, and asked his brothers to read from the Gospel of John. On the evening of **3 October 1226**, he died, having just completed his final composition, the _Canticle of the Sun_'s final verse welcoming "Sister Death."
 
 ### Canonization
 
@@ -102,24 +102,24 @@ Less than two years after his death, on **16 July 1228**, Pope **Gregory IX** ca
 
 St. Francis of Assisi is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Animals and Birds** | His love for all creatures as brothers and sisters |
+| Patronage                            | Description                                             |
+| ------------------------------------ | ------------------------------------------------------- |
+| **Animals and Birds**                | His love for all creatures as brothers and sisters      |
 | **Ecologists and Environmentalists** | Declared patron of ecology by Pope John Paul II in 1979 |
-| **Italy** | One of the patron saints of Italy |
-| **Merchants** | His family's trade |
-| **Peacemakers** | His visit to the Sultan during the Crusades |
-| **Lace Makers and Needle Workers** | Traditional patronage |
-| **The Poor and Social Justice** | His embrace of Lady Poverty |
+| **Italy**                            | One of the patron saints of Italy                       |
+| **Merchants**                        | His family's trade                                      |
+| **Peacemakers**                      | His visit to the Sultan during the Crusades             |
+| **Lace Makers and Needle Workers**   | Traditional patronage                                   |
+| **The Poor and Social Justice**      | His embrace of Lady Poverty                             |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Francis of Assisi** | 4 October | Memorial | Principal feast |
-| **Byzantine Rite** | 4 October | — | Eastern Catholic celebration |
+| Feast                                 | Date      | Rank     | Notes                        |
+| ------------------------------------- | --------- | -------- | ---------------------------- |
+| **Memorial of St. Francis of Assisi** | 4 October | Memorial | Principal feast              |
+| **Byzantine Rite**                    | 4 October | —        | Eastern Catholic celebration |
 
 ---
 
@@ -139,13 +139,13 @@ St. Francis founded **three orders**:
 > — Pope Benedict XVI, General Audience, 27 January 2010
 
 > "In the poverty and humility of St. Francis, God's love for all creation is made manifest."
-> — Pope Francis, *Mass in Assisi*, 4 October 2013
+> — Pope Francis, _Mass in Assisi_, 4 October 2013
 
 > "Francis of Assisi is the example par excellence of the care for the vulnerable and of an integral ecology."
-> — Pope Francis, *Laudato Si'*, 10–12
+> — Pope Francis, _Laudato Si'_, 10–12
 
 > "The Church recognizes in St. Francis a model of that peace and goodness which Christ came to bring."
-> — Pope John Paul II, *Inter Sanctos* (1979)
+> — Pope John Paul II, _Inter Sanctos_ (1979)
 
 ---
 
@@ -170,7 +170,7 @@ St. Francis of Assisi, Il Poverello, embodied the radical poverty and joyous lov
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Francis of Assisi,
     pray for us.

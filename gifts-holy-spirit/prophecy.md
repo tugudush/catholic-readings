@@ -40,11 +40,11 @@ St. Peter, in his Pentecost sermon, cites the prophet Joel: "In the last days it
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Prophecy** | προφητεία (_prophēteia_) | The gift of speaking forth divine truth under the direct inspiration of the Holy Spirit, for the upbuilding, encouragement, and consolation of the Church |
-| **Prophet** | προφήτης (_prophētēs_) | One who speaks on behalf of God — the mouthpiece of the Spirit |
-| **To Prophesy** | προφητεύω (_prophēteuō_) | To exercise the gift of prophecy — to speak under divine impulse for the edification of others |
+| Term            | Greek                    | Meaning                                                                                                                                                   |
+| --------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Prophecy**    | προφητεία (_prophēteia_) | The gift of speaking forth divine truth under the direct inspiration of the Holy Spirit, for the upbuilding, encouragement, and consolation of the Church |
+| **Prophet**     | προφήτης (_prophētēs_)   | One who speaks on behalf of God — the mouthpiece of the Spirit                                                                                            |
+| **To Prophesy** | προφητεύω (_prophēteuō_) | To exercise the gift of prophecy — to speak under divine impulse for the edification of others                                                            |
 
 The classical Greek προφήτης meant "one who speaks for a god" (e.g., the oracle at Delphi). The biblical usage transforms this: the Christian prophet speaks not ecstatic oracles but intelligible divine truth under the inspiration of the Holy Spirit, always in conformity with the apostolic faith.
 
@@ -124,13 +124,13 @@ The Church has always recognized the danger of **false prophecy**. Christ himsel
 
 Criteria for discerning authentic prophecy:
 
-| Criterion | Authentic Prophecy | False Prophecy |
-| --- | --- | --- |
-| **Conformity to the Faith** | Consistent with Scripture and Tradition | Contradicts apostolic doctrine ([Galatians 1:8](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **Fruits** | Produces peace, conversion, charity | Produces division, pride, sensationalism |
-| **Humility** | The prophet submits to ecclesial discernment | The prophet claims authority above the Church |
-| **Accuracy** | Predictive prophecies come to pass ([Deuteronomy 18:22](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) | Predictions fail; prophecies are vague or self-serving |
-| **Christocentrism** | Glorifies Christ and leads to Him | Glorifies the prophet or leads away from Christ |
+| Criterion                   | Authentic Prophecy                                                                                                                   | False Prophecy                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Conformity to the Faith** | Consistent with Scripture and Tradition                                                                                              | Contradicts apostolic doctrine ([Galatians 1:8](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
+| **Fruits**                  | Produces peace, conversion, charity                                                                                                  | Produces division, pride, sensationalism                                                                                     |
+| **Humility**                | The prophet submits to ecclesial discernment                                                                                         | The prophet claims authority above the Church                                                                                |
+| **Accuracy**                | Predictive prophecies come to pass ([Deuteronomy 18:22](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) | Predictions fail; prophecies are vague or self-serving                                                                       |
+| **Christocentrism**         | Glorifies Christ and leads to Him                                                                                                    | Glorifies the prophet or leads away from Christ                                                                              |
 
 ---
 

@@ -18,11 +18,11 @@ By the action of Christ and the power of the Holy Spirit, the sacraments _make p
 
 The Catholic Church professes exactly **seven sacraments**, as defined by the [Council of Trent](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) and the ecumenical Council of Florence in its _Decretum pro Armenis_ (1438–1445). The Catechism groups them as follows:
 
-| Group | Sacraments |
-| --- | --- |
-| **Sacraments of Christian Initiation** | Baptism, Confirmation (Chrismation in the East), Eucharist |
-| **Sacraments of Healing** | Penance and Reconciliation, Anointing of the Sick |
-| **Sacraments at the Service of Communion and Mission** | Holy Orders, Matrimony |
+| Group                                                  | Sacraments                                                 |
+| ------------------------------------------------------ | ---------------------------------------------------------- |
+| **Sacraments of Christian Initiation**                 | Baptism, Confirmation (Chrismation in the East), Eucharist |
+| **Sacraments of Healing**                              | Penance and Reconciliation, Anointing of the Sick          |
+| **Sacraments at the Service of Communion and Mission** | Holy Orders, Matrimony                                     |
 
 - [Baptism](baptism.md) — the gateway to the spiritual life and incorporation into Christ and the Church.
 - [Confirmation / Chrismation](confirmation.md) — the sealing of the Holy Spirit that completes baptismal grace.

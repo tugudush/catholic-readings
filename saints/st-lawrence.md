@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Lawrence** (Latin: *Laurentius*; Spanish: *San Lorenzo*; c. 225 – 10 August 258 A.D.) was one of the **seven deacons** of the Church of Rome under **Pope St. Sixtus II** and is one of the most venerated martyrs of the early Church. He is the **patron saint of cooks, librarians, and the poor**. His martyrdom by gridiron—famously joking with his executioners—has made him an enduring symbol of faith and humour in the face of death. His feast day is **10 August**.
+**St. Lawrence** (Latin: _Laurentius_; Spanish: _San Lorenzo_; c. 225 – 10 August 258 A.D.) was one of the **seven deacons** of the Church of Rome under **Pope St. Sixtus II** and is one of the most venerated martyrs of the early Church. He is the **patron saint of cooks, librarians, and the poor**. His martyrdom by gridiron—famously joking with his executioners—has made him an enduring symbol of faith and humour in the face of death. His feast day is **10 August**.
 
 > "I am roasted on one side; if you would have me well cooked, turn me over!"
 > — St. Lawrence to his executioners
@@ -43,24 +43,24 @@ The Prefect, enraged, ordered Lawrence to be **martyred on a gridiron** (a metal
 
 St. Lawrence is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Cooks and Chefs** | His martyrdom on a gridiron |
+| Patronage                     | Description                       |
+| ----------------------------- | --------------------------------- |
+| **Cooks and Chefs**           | His martyrdom on a gridiron       |
 | **Librarians and Archivists** | His care for the Church's records |
-| **The Poor** | His identification with them |
-| **Rome** | As a principal martyr of Rome |
-| **Sri Lanka** | Patron of the country |
-| **Brewers and Tanners** | Traditional patronage |
-| **Firefighters** | His death by fire |
+| **The Poor**                  | His identification with them      |
+| **Rome**                      | As a principal martyr of Rome     |
+| **Sri Lanka**                 | Patron of the country             |
+| **Brewers and Tanners**       | Traditional patronage             |
+| **Firefighters**              | His death by fire                 |
 
 ---
 
 ## 5. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                     | Date      | Rank  | Notes                            |
+| ------------------------- | --------- | ----- | -------------------------------- |
 | **Feast of St. Lawrence** | 10 August | Feast | Principal feast; widely observed |
-| **Byzantine Rite** | 10 August | — | Eastern Catholic celebration |
+| **Byzantine Rite**        | 10 August | —     | Eastern Catholic celebration     |
 
 ---
 
@@ -75,13 +75,13 @@ The **Escorial** palace-monastery in Spain is dedicated to St. Lawrence, built i
 ## 7. Patristic and Magisterial Citations
 
 > "St. Lawrence, the archdeacon of the Roman Church, showed the true riches of the Church when he brought the poor to the Prefect."
-> — St. Ambrose of Milan, *On the Duties of the Clergy*
+> — St. Ambrose of Milan, _On the Duties of the Clergy_
 
 > "Lawrence, the deacon, was rich even when poor, because his treasure was Christ."
-> — St. Augustine of Hippo, *Sermon 304*
+> — St. Augustine of Hippo, _Sermon 304_
 
 > "The example of St. Lawrence teaches us that true wealth is found in serving Christ in the poor."
-> — Pope Francis, *Homily*, 10 August 2014
+> — Pope Francis, _Homily_, 10 August 2014
 
 ---
 
@@ -106,7 +106,7 @@ St. Lawrence, deacon and martyr, presented the poor, the crippled, and the blind
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Lawrence, deacon and martyr,
     pray for us.

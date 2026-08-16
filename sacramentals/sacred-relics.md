@@ -44,11 +44,11 @@ The same decree anathematized those who deny that the relics of the saints are w
 
 The Church distinguishes relics by their origin and degree of closeness to the saint:
 
-| Class          | Definition                                                                                                        | Examples                                                                                |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **First class**  | A portion of the **body** of the saint — a bone or fragment of bone, blood, hair, or, in the case of cremation, the totality of the ashes | A relic of a bone of Saint Peter; the blood of Saint Januarius; the body of a martyr     |
-| **Second class** | An **object that belonged to or was used by** the saint during life                                               | Clothing, a book or manuscript, a walking stick, liturgical vestments, instruments of penance |
-| **Third class**  | A piece of cloth (or similar material) **touched to a first- or second-class relic**                              | A cloth that has been applied to the tomb or relic of a saint                            |
+| Class            | Definition                                                                                                                                | Examples                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **First class**  | A portion of the **body** of the saint — a bone or fragment of bone, blood, hair, or, in the case of cremation, the totality of the ashes | A relic of a bone of Saint Peter; the blood of Saint Januarius; the body of a martyr          |
+| **Second class** | An **object that belonged to or was used by** the saint during life                                                                       | Clothing, a book or manuscript, a walking stick, liturgical vestments, instruments of penance |
+| **Third class**  | A piece of cloth (or similar material) **touched to a first- or second-class relic**                                                      | A cloth that has been applied to the tomb or relic of a saint                                 |
 
 The 2017 Instruction of the Dicastery for the Causes of Saints, _Relics in the Church: Authenticity and Preservation_, refines this classification in its technical discipline by distinguishing **"significant" relics** — the entire body, notable parts of the body, and the sum total of cremated ashes — which require particular care, preservation, and vigilance by the diocesan bishop or the competent authority, and are to be kept in properly sealed urns or containers — from other relics of lesser significance (Dicastery for the Causes of Saints, Instruction _Relics in the Church: Authenticity and Preservation_, 2017, "Significant Relics").
 

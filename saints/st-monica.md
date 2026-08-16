@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Monica** (Latin: *Monica*; c. 331 – 27 August 387 A.D.) was a Christian saint and the **mother of St. Augustine of Hippo**. She is venerated as the **patron saint of mothers, wives, and those who have difficult marriages or wayward children**, and is remembered for her persistent prayers and tears for the conversion of her son, which ultimately led to one of the greatest conversions in Church history. Her feast day is **27 August**.
+**St. Monica** (Latin: _Monica_; c. 331 – 27 August 387 A.D.) was a Christian saint and the **mother of St. Augustine of Hippo**. She is venerated as the **patron saint of mothers, wives, and those who have difficult marriages or wayward children**, and is remembered for her persistent prayers and tears for the conversion of her son, which ultimately led to one of the greatest conversions in Church history. Her feast day is **27 August**.
 
 > "Nothing is far from God."
 > — St. Monica, in response to her son's anxieties
@@ -69,7 +69,7 @@ After Augustine's baptism by Ambrose at the Easter Vigil of **387**, Monica, Aug
 
 ### The Vision of the Eternal
 
-In *Confessions* IX.10, Augustine recounts how he and his mother, standing at a window overlooking the Tiber River, engaged in a conversation that ascended in thought through all creation until they touched, for a brief moment, the **eternal Wisdom of God**. Monica then said:
+In _Confessions_ IX.10, Augustine recounts how he and his mother, standing at a window overlooking the Tiber River, engaged in a conversation that ascended in thought through all creation until they touched, for a brief moment, the **eternal Wisdom of God**. Monica then said:
 
 > "Son, as for me, there is nothing now in this life that delights me. I had one reason for wanting to remain in this life: to see you a Catholic Christian before I died. My God has granted me this—nay, a greater. What am I still doing here?"
 
@@ -89,23 +89,23 @@ The image of St. Monica's **tears** is central to her legacy. Augustine wrote: "
 
 St. Monica is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Mothers and Parents** | Her maternal love and prayer |
-| **Wives in Difficult Marriages** | Her patience with Patricius |
-| **Converts** | Her prayers for Augustine's conversion |
-| **The Perseverance of Prayer** | Her seventeen years of daily prayer |
-| **Alcoholics** | Traditional patronage |
-| **Victims of Adultery** | Her husband's infidelity |
+| Patronage                        | Description                            |
+| -------------------------------- | -------------------------------------- |
+| **Mothers and Parents**          | Her maternal love and prayer           |
+| **Wives in Difficult Marriages** | Her patience with Patricius            |
+| **Converts**                     | Her prayers for Augustine's conversion |
+| **The Perseverance of Prayer**   | Her seventeen years of daily prayer    |
+| **Alcoholics**                   | Traditional patronage                  |
+| **Victims of Adultery**          | Her husband's infidelity               |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                      | Date      | Rank     | Notes                                                   |
+| -------------------------- | --------- | -------- | ------------------------------------------------------- |
 | **Memorial of St. Monica** | 27 August | Memorial | Principal feast; followed by St. Augustine on 28 August |
-| **Byzantine Rite** | 27 August | — | Eastern Catholic celebration |
+| **Byzantine Rite**         | 27 August | —        | Eastern Catholic celebration                            |
 
 ---
 
@@ -118,13 +118,13 @@ The relics of St. Monica rest in the Basilica of **Sant'Agostino** in Rome, in a
 ## 10. Patristic and Magisterial Citations
 
 > "St. Monica is the model of the Christian mother, whose prayers and tears won the conversion of her son Augustine."
-> — Pope John Paul II, *Homily*, 27 August 1997
+> — Pope John Paul II, _Homily_, 27 August 1997
 
 > "Monica teaches us that the prayer of a mother is never in vain. Her example gives hope to every parent."
 > — Pope Benedict XVI, General Audience, 30 January 2008
 
 > "She wept for her son's sins, and those tears were like a baptism for Augustine."
-> — St. Augustine of Hippo, *Confessions*, V.8
+> — St. Augustine of Hippo, _Confessions_, V.8
 
 ---
 
@@ -149,7 +149,7 @@ St. Monica, the patient mother who prayed and wept for seventeen years until her
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Monica, patroness of mothers,
     pray for us.

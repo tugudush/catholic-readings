@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. John the Baptist** (Hebrew: ***יוֹחָנָן הַמַּטְבִּיל***, *Yoḥanan ha-Matbil*; Greek: ***Ἰωάννης ὁ Βαπτιστής***; Latin: *Ioannes Baptista*; c. 5 B.C. – c. 30 A.D.) is the **last and greatest of the Old Testament prophets** and the **Forerunner of the Messiah**. He prepared the way for the public ministry of Jesus Christ by preaching a baptism of repentance for the forgiveness of sins. He is honoured as a saint in all Christian traditions and is also revered in Islam as a prophet. His principal feast days are **24 June** (Nativity) and **29 August** (Beheading).
+**St. John the Baptist** (Hebrew: _**יוֹחָנָן הַמַּטְבִּיל**_, _Yoḥanan ha-Matbil_; Greek: _**Ἰωάννης ὁ Βαπτιστής**_; Latin: _Ioannes Baptista_; c. 5 B.C. – c. 30 A.D.) is the **last and greatest of the Old Testament prophets** and the **Forerunner of the Messiah**. He prepared the way for the public ministry of Jesus Christ by preaching a baptism of repentance for the forgiveness of sins. He is honoured as a saint in all Christian traditions and is also revered in Islam as a prophet. His principal feast days are **24 June** (Nativity) and **29 August** (Beheading).
 
 > "I baptize you with water; but one who is more powerful than I is coming; I am not worthy to untie the thong of his sandals."
 > — St. John the Baptist (Luke 3:16)
@@ -99,33 +99,33 @@ John is the **last of the Old Testament prophets** and the **first witness of th
 
 St. John the Baptist is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Converts** | He prepared the way for conversion to Christ |
-| **Missionaries** | He was the first preacher of the Gospel |
-| **Baptism and Baptisteries** | The baptizer of Christ |
-| **Monastics** | His ascetic life in the desert |
-| **Tailors** | His camel-hair garment |
-| **Lamborghini** | His symbol is the Lamb of God |
-| **Florence, Genoa, and Turin** | Principal patron of these cities |
-| **Knights of Malta** | Patron of the order |
-| **Quebec and Canada** | Patron of French Canada |
+| Patronage                      | Description                                  |
+| ------------------------------ | -------------------------------------------- |
+| **Converts**                   | He prepared the way for conversion to Christ |
+| **Missionaries**               | He was the first preacher of the Gospel      |
+| **Baptism and Baptisteries**   | The baptizer of Christ                       |
+| **Monastics**                  | His ascetic life in the desert               |
+| **Tailors**                    | His camel-hair garment                       |
+| **Lamborghini**                | His symbol is the Lamb of God                |
+| **Florence, Genoa, and Turin** | Principal patron of these cities             |
+| **Knights of Malta**           | Patron of the order                          |
+| **Quebec and Canada**          | Patron of French Canada                      |
 
 ---
 
 ## 8. Feast Days
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Nativity of St. John the Baptist** | 24 June | Solemnity | Principal feast; his birth, not his death, is celebrated |
-| **Passion/Beheading of St. John the Baptist** | 29 August | Memorial | Commemorates his martyrdom |
-| **Byzantine Rite** | 24 June (Nativity); 29 August (Beheading); 7 January (Synaxis) | — | Eastern Catholic celebration |
+| Feast                                         | Date                                                           | Rank      | Notes                                                    |
+| --------------------------------------------- | -------------------------------------------------------------- | --------- | -------------------------------------------------------- |
+| **Nativity of St. John the Baptist**          | 24 June                                                        | Solemnity | Principal feast; his birth, not his death, is celebrated |
+| **Passion/Beheading of St. John the Baptist** | 29 August                                                      | Memorial  | Commemorates his martyrdom                               |
+| **Byzantine Rite**                            | 24 June (Nativity); 29 August (Beheading); 7 January (Synaxis) | —         | Eastern Catholic celebration                             |
 
 ---
 
 ## 9. The Baptism of Christ in Iconography
 
-John is traditionally depicted as an ascetic figure wearing camel skin, holding a staff shaped like a cross (a *crux hastata* or processional cross), and pointing toward Christ. In Eastern iconography, he is shown with wings, as the "angel of the desert" foretold by Malachi (Malachi 3:1).
+John is traditionally depicted as an ascetic figure wearing camel skin, holding a staff shaped like a cross (a _crux hastata_ or processional cross), and pointing toward Christ. In Eastern iconography, he is shown with wings, as the "angel of the desert" foretold by Malachi (Malachi 3:1).
 
 ---
 
@@ -135,13 +135,13 @@ John is traditionally depicted as an ascetic figure wearing camel skin, holding 
 > — Jesus Christ (Matthew 11:11)
 
 > "John the Baptist is the end of the old and the beginning of the new. He is the link between the two Testaments."
-> — St. Augustine of Hippo, *Sermon 293*
+> — St. Augustine of Hippo, _Sermon 293_
 
 > "The precursor is not the light, but he bears witness to the light. He who is not the light receives the light, and in receiving it, he becomes light."
-> — Pope Benedict XVI, *Angelus*, 24 June 2007
+> — Pope Benedict XVI, _Angelus_, 24 June 2007
 
 > "John the Baptist teaches us the fundamental attitude of Christian humility: He must increase, I must decrease."
-> — Pope Francis, *Angelus*, 24 June 2018
+> — Pope Francis, _Angelus_, 24 June 2018
 
 ---
 
@@ -166,7 +166,7 @@ St. John the Baptist, the Forerunner of the Lord and the greatest of the prophet
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. John the Baptist,
     pray for us.

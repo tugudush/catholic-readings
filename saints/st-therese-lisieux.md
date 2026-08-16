@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Thérèse of Lisieux** (French: *Thérèse de Lisieux*; Latin: *Teresia Lexoviensis*; 2 January 1873 – 30 September 1897), known as **St. Thérèse of the Child Jesus and of the Holy Face**, was a French Discalced Carmelite nun who is one of the most popular saints in the history of the Catholic Church. She is venerated as a **Doctor of the Church** (proclaimed by Pope John Paul II in 1997), the **patroness of missions**, and is affectionately known as **"The Little Flower"** (*La Petite Fleur*). Her feast day is **1 October**.
+**St. Thérèse of Lisieux** (French: _Thérèse de Lisieux_; Latin: _Teresia Lexoviensis_; 2 January 1873 – 30 September 1897), known as **St. Thérèse of the Child Jesus and of the Holy Face**, was a French Discalced Carmelite nun who is one of the most popular saints in the history of the Catholic Church. She is venerated as a **Doctor of the Church** (proclaimed by Pope John Paul II in 1997), the **patroness of missions**, and is affectionately known as **"The Little Flower"** (_La Petite Fleur_). Her feast day is **1 October**.
 
 > "I will spend my heaven doing good on earth. I will let fall a shower of roses."
-> — St. Thérèse of Lisieux, *Last Words*
+> — St. Thérèse of Lisieux, _Last Words_
 
 ---
 
@@ -25,7 +25,7 @@ Thérèse's childhood was marked by deep love for her family and an early sensit
 
 ### The Christmas Night Conversion
 
-On **25 December 1886** (Christmas Eve), the twelve-year-old Thérèse experienced a profound grace she called her **"complete conversion."** After returning from Midnight Mass, her father, tired and irritated, remarked that he wished it were the last time the children opened their presents. Thérèse, usually extremely sensitive, felt no hurt and instead felt infused with strength and courage. She later wrote: "In an instant, Jesus, content with my good will, accomplished the work I had not been able to do for ten years" (*Story of a Soul*, Chapter V).
+On **25 December 1886** (Christmas Eve), the twelve-year-old Thérèse experienced a profound grace she called her **"complete conversion."** After returning from Midnight Mass, her father, tired and irritated, remarked that he wished it were the last time the children opened their presents. Thérèse, usually extremely sensitive, felt no hurt and instead felt infused with strength and courage. She later wrote: "In an instant, Jesus, content with my good will, accomplished the work I had not been able to do for ten years" (_Story of a Soul_, Chapter V).
 
 ---
 
@@ -55,7 +55,7 @@ Thérèse's spiritual doctrine, known as **"The Little Way"** (or "The Way of Sp
 4. **Offering everything to God**: Transforming even failures and weaknesses into offerings of love.
 
 > "It is confidence and nothing but confidence that must lead us to Love."
-> — St. Thérèse, *Letter to Sister Marie of the Sacred Heart*
+> — St. Thérèse, _Letter to Sister Marie of the Sacred Heart_
 
 ### The Act of Oblation to Merciful Love
 
@@ -83,7 +83,7 @@ Thérèse died on **30 September 1897** at the age of twenty-four, after a prolo
 
 ### Posthumous Fame
 
-Thérèse was buried in the Carmelite cemetery in Lisieux. Her autobiography, ***Story of a Soul*** (*Histoire d'une Âme*), written under obedience, was published after her death and became an immediate worldwide sensation, translated into dozens of languages.
+Thérèse was buried in the Carmelite cemetery in Lisieux. Her autobiography, _**Story of a Soul**_ (_Histoire d'une Âme_), written under obedience, was published after her death and became an immediate worldwide sensation, translated into dozens of languages.
 
 ### Canonization
 
@@ -98,24 +98,24 @@ Thérèse was buried in the Carmelite cemetery in Lisieux. Her autobiography, **
 
 St. Thérèse of Lisieux is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Missions** | Co-patroness of the missions with St. Francis Xavier |
-| **Aviators and Pilots** | She is often invoked by pilots |
-| **The Sick, especially Tuberculosis** | From her own illness |
-| **Orphans and the Homeless** | She lost her mother at age four |
-| **Florists and Flower Growers** | "The Little Flower" |
-| **France and Russia** | She has been declared a secondary patron |
-| **AIDS Patients** | Modern devotion |
+| Patronage                             | Description                                          |
+| ------------------------------------- | ---------------------------------------------------- |
+| **Missions**                          | Co-patroness of the missions with St. Francis Xavier |
+| **Aviators and Pilots**               | She is often invoked by pilots                       |
+| **The Sick, especially Tuberculosis** | From her own illness                                 |
+| **Orphans and the Homeless**          | She lost her mother at age four                      |
+| **Florists and Flower Growers**       | "The Little Flower"                                  |
+| **France and Russia**                 | She has been declared a secondary patron             |
+| **AIDS Patients**                     | Modern devotion                                      |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                       | Date      | Rank  | Notes                                 |
+| ------------------------------------------- | --------- | ----- | ------------------------------------- |
 | **Feast of St. Thérèse of the Child Jesus** | 1 October | Feast | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 1 October | — | Eastern Catholic celebration |
+| **Byzantine Rite**                          | 1 October | —     | Eastern Catholic celebration          |
 
 ---
 
@@ -128,13 +128,13 @@ Thérèse promised on her deathbed: **"I will spend my heaven doing good on eart
 ## 10. Patristic and Magisterial Citations
 
 > "The Little Way of Thérèse is the way of the Gospel itself. It is the way of spiritual childhood, the way of trust and total abandonment to the love of God."
-> — Pope John Paul II, *Divini Amoris Scientia* (1997)
+> — Pope John Paul II, _Divini Amoris Scientia_ (1997)
 
 > "Thérèse of Lisieux is a living testimony that holiness is possible for everyone, because it is the work of God's grace."
 > — Pope Benedict XVI, General Audience, 6 April 2011
 
 > "She understood that love constitutes the vocation of every soul: 'My vocation is love!'"
-> — Pope Francis, *Catechesis on St. Thérèse*, 2017
+> — Pope Francis, _Catechesis on St. Thérèse_, 2017
 
 > "The Church declares Thérèse of the Child Jesus a Doctor of the Church because of the authenticity of her teaching, the wisdom of her spiritual doctrine, and her universal appeal."
 > — Catechism of the Catholic Church (cf. CCC 826, 956)
@@ -165,7 +165,7 @@ St. Thérèse of Lisieux, the Little Flower and Doctor of the Church, promised b
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Thérèse of the Child Jesus,
     pray for us.

@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Stephen** (Greek: ***Στέφανος***, *Stephanos*, "crown"; Hebrew: ***סטיבן***; c. 5 – c. 34 A.D.) is honoured as the **first Christian martyr** (protomartyr). He was one of the **first seven deacons** appointed by the Apostles to serve the early Christian community in Jerusalem. His preaching, his vision of Christ at the right hand of God, and his prayer for his executioners at the moment of his stoning have inspired the Church for two millennia. His feast day is **26 December** (the day after Christmas).
+**St. Stephen** (Greek: _**Στέφανος**_, _Stephanos_, "crown"; Hebrew: _**סטיבן**_; c. 5 – c. 34 A.D.) is honoured as the **first Christian martyr** (protomartyr). He was one of the **first seven deacons** appointed by the Apostles to serve the early Christian community in Jerusalem. His preaching, his vision of Christ at the right hand of God, and his prayer for his executioners at the moment of his stoning have inspired the Church for two millennia. His feast day is **26 December** (the day after Christmas).
 
 > "Look, I see the heavens opened and the Son of Man standing at the right hand of God!"
 > — St. Stephen (Acts 7:56)
@@ -63,22 +63,22 @@ This prayer, echoing Christ's own prayer from the Cross ("Father, forgive them")
 
 St. Stephen is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Deacons** | As the first deacon |
-| **Casket Makers and Stonemasons** | His death by stoning |
-| **Those suffering from headaches** | Traditional patronage |
-| **Hungary** | Patron saint of Hungary |
+| Patronage                          | Description             |
+| ---------------------------------- | ----------------------- |
+| **Deacons**                        | As the first deacon     |
+| **Casket Makers and Stonemasons**  | His death by stoning    |
+| **Those suffering from headaches** | Traditional patronage   |
+| **Hungary**                        | Patron saint of Hungary |
 
 ---
 
 ## 6. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Feast of St. Stephen** | 26 December | Feast | Principal feast; second day of the Christmas Octave |
-| **Invention of the Relics** | 3 August | Optional Memorial | Discovery of his relics |
-| **Byzantine Rite** | 27 December (feast); 2 August (Translation) | — | Eastern Catholic celebration |
+| Feast                       | Date                                        | Rank              | Notes                                               |
+| --------------------------- | ------------------------------------------- | ----------------- | --------------------------------------------------- |
+| **Feast of St. Stephen**    | 26 December                                 | Feast             | Principal feast; second day of the Christmas Octave |
+| **Invention of the Relics** | 3 August                                    | Optional Memorial | Discovery of his relics                             |
+| **Byzantine Rite**          | 27 December (feast); 2 August (Translation) | —                 | Eastern Catholic celebration                        |
 
 ---
 
@@ -91,13 +91,13 @@ According to tradition, the relics of St. Stephen were discovered in **415 A.D.*
 ## 8. Patristic and Magisterial Citations
 
 > "Now that Stephen the martyr is crowned as a deacon, the diaconate is glorified."
-> — St. John Chrysostom, *Homily on St. Stephen*
+> — St. John Chrysostom, _Homily on St. Stephen_
 
 > "Stephen, filled with the Holy Spirit, saw the glory of God and Jesus standing at the right hand of the Father."
 > — Acts of the Apostles 7:55
 
 > "St. Stephen teaches us that true wisdom is the ability to forgive our enemies and to trust in God even in the face of death."
-> — Pope Benedict XVI, *Angelus*, 26 December 2007
+> — Pope Benedict XVI, _Angelus_, 26 December 2007
 
 ---
 
@@ -123,7 +123,7 @@ St. Stephen, the Protomartyr and first deacon of the Church, was filled with the
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Stephen, first martyr,
     pray for us.

@@ -378,7 +378,7 @@ St. Joseph, the just and silent carpenter of Nazareth, is the most powerful inte
     pray for us now and at the hour of our death.
     Amen.
 
-*The ancient prayer to St. Joseph (known for over 1,900 years):*
+_The ancient prayer to St. Joseph (known for over 1,900 years):_
 
     O St. Joseph, whose protection is so great, so strong, so prompt
     before the throne of God,

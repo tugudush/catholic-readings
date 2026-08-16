@@ -40,10 +40,10 @@ St. James provides the apostolic mandate for sacramental healing: "Are any among
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Charisms** | χαρίσματα (_charismata_) | Gratuitous gifts of grace; plural here emphasizes the diversity of healing graces |
-| **Healings** | ἰαμάτων (_iamatōn_) | Cures, restorations to health; from ἰάομαι (_iaomai_), "I heal" |
+| Term                  | Greek                                    | Meaning                                                                                                                            |
+| --------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Charisms**          | χαρίσματα (_charismata_)                 | Gratuitous gifts of grace; plural here emphasizes the diversity of healing graces                                                  |
+| **Healings**          | ἰαμάτων (_iamatōn_)                      | Cures, restorations to health; from ἰάομαι (_iaomai_), "I heal"                                                                    |
 | **Gifts of Healings** | χαρίσματα ἰαμάτων (_charismata iamatōn_) | A category of charismatic graces directed toward the restoration of bodily, mental, or spiritual health through the Spirit's power |
 
 The double plural — "gifts" and "healings" both plural — is unique in the list of 1 Corinthians 12:8–10 and suggests a rich diversity: healing of different diseases, through different modes, for different persons, as the Spirit wills.
@@ -100,13 +100,13 @@ The CDF Letter [_Iuvenescit Ecclesia_](https://www.magisterium.com/docs/4a72892b
 
 The charismatic gifts of healing are **not a substitute** for the Sacrament of the Anointing of the Sick — nor is the sacrament a substitute for the charism. They operate in different orders:
 
-| | **Gifts of Healing (Charism)** | **Anointing of the Sick (Sacrament)** |
-| --- | --- | --- |
-| **Institution** | Given by the Spirit as He wills | Instituted by Christ, entrusted to the Church ([James 5:14–15](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **Minister** | Any believer to whom the Spirit gives the charism | A priest (or bishop) |
-| **Mode** | Extraordinary, occasional | Ordinary, sacramental — available to any seriously ill Catholic |
-| **Effect** | Physical healing (primary), spiritual consolation | Spiritual strengthening, peace, forgiveness of sins; physical healing if God wills ([CCC 1520](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1520)) |
-| **Necessity** | Not necessary for salvation | Not absolutely necessary, but the ordinary means of grace for the seriously ill |
+|                 | **Gifts of Healing (Charism)**                    | **Anointing of the Sick (Sacrament)**                                                                                                                                           |
+| --------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Institution** | Given by the Spirit as He wills                   | Instituted by Christ, entrusted to the Church ([James 5:14–15](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))                                     |
+| **Minister**    | Any believer to whom the Spirit gives the charism | A priest (or bishop)                                                                                                                                                            |
+| **Mode**        | Extraordinary, occasional                         | Ordinary, sacramental — available to any seriously ill Catholic                                                                                                                 |
+| **Effect**      | Physical healing (primary), spiritual consolation | Spiritual strengthening, peace, forgiveness of sins; physical healing if God wills ([CCC 1520](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1520)) |
+| **Necessity**   | Not necessary for salvation                       | Not absolutely necessary, but the ordinary means of grace for the seriously ill                                                                                                 |
 
 ### 5.3 Manifestations Today
 
@@ -129,12 +129,12 @@ The Church insists on several principles regarding healing charisms:
 
 ## 6. Distinction from Related Concepts
 
-| Concept | Distinction |
-| --- | --- |
+| Concept                               | Distinction                                                                                                                                                         |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Working of Miracles (1 Cor 12:10)** | Miracles encompass acts beyond cures (e.g., nature miracles, raising the dead); healing is a specific subset of miraculous action focused on restoration of health. |
-| **Charismatic Faith (1 Cor 12:9)** | Charismatic faith is often the **interior disposition** through which healing is effected; the gifts of healing are the **external manifestation**. |
-| **Sacrament of Anointing** | The sacramental, ordinary means of grace for the sick; healing charisms are extraordinary and not sacramentally mediated. |
-| **Medical Science** | Medicine operates through natural means; healing charisms operate through supernatural divine power. They are complementary, not contradictory. |
+| **Charismatic Faith (1 Cor 12:9)**    | Charismatic faith is often the **interior disposition** through which healing is effected; the gifts of healing are the **external manifestation**.                 |
+| **Sacrament of Anointing**            | The sacramental, ordinary means of grace for the sick; healing charisms are extraordinary and not sacramentally mediated.                                           |
+| **Medical Science**                   | Medicine operates through natural means; healing charisms operate through supernatural divine power. They are complementary, not contradictory.                     |
 
 ---
 

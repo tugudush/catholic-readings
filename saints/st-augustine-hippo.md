@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Augustine of Hippo** (Latin: *Aurelius Augustinus Hipponensis*; 13 November 354 – 28 August 430 A.D.) was a Latin Roman African philosopher, theologian, and Bishop of Hippo Regius (modern-day Annaba, Algeria). He is one of the most important figures in the development of Western Christianity and philosophy, honoured as a **Doctor of the Church** (the "Doctor of Grace") and a **Father of the Church**. His feast day is **28 August**.
+**St. Augustine of Hippo** (Latin: _Aurelius Augustinus Hipponensis_; 13 November 354 – 28 August 430 A.D.) was a Latin Roman African philosopher, theologian, and Bishop of Hippo Regius (modern-day Annaba, Algeria). He is one of the most important figures in the development of Western Christianity and philosophy, honoured as a **Doctor of the Church** (the "Doctor of Grace") and a **Father of the Church**. His feast day is **28 August**.
 
 > "You have made us for yourself, O Lord, and our heart is restless until it rests in you."
-> — St. Augustine, *Confessions*, I.1
+> — St. Augustine, _Confessions_, I.1
 
 ---
 
@@ -45,7 +45,7 @@ The decisive moment came in August **386**. In a garden in Milan, Augustine hear
 
 > "Let us live honourably as in the day, not in revelry and drunkenness, not in debauchery and licentiousness, not in quarreling and jealousy. Instead, put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires."
 
-The reading pierced his heart. His long struggle ended. He later wrote: "No further would I read, nor needed I; for instantly at the end of this sentence, a light as it were of serenity infused into my heart, all the darkness of doubt vanished away" (*Confessions*, VIII.12).
+The reading pierced his heart. His long struggle ended. He later wrote: "No further would I read, nor needed I; for instantly at the end of this sentence, a light as it were of serenity infused into my heart, all the darkness of doubt vanished away" (_Confessions_, VIII.12).
 
 ### Baptism
 
@@ -64,7 +64,7 @@ After his mother's death at Ostia (387), Augustine returned to Africa, where he 
 Augustine served as Bishop of Hippo for **thirty-four years** (396–430). He preached daily, wrote extensively, and engaged in fierce controversies against:
 
 - **Manichaeism**: From which he had converted, writing numerous works against Manichaean dualism.
-- **Donatism**: A schismatic movement in North Africa that held that sacraments administered by priests who had lapsed during persecution were invalid. Augustine developed the doctrine that the efficacy of the sacraments depends on Christ, not the worthiness of the minister (*ex opere operato*).
+- **Donatism**: A schismatic movement in North Africa that held that sacraments administered by priests who had lapsed during persecution were invalid. Augustine developed the doctrine that the efficacy of the sacraments depends on Christ, not the worthiness of the minister (_ex opere operato_).
 - **Pelagianism**: The heresy that denied original sin and claimed humans could achieve salvation by their own efforts. Augustine developed the doctrines of original sin, grace, and predestination in response.
 
 ---
@@ -73,11 +73,11 @@ Augustine served as Bishop of Hippo for **thirty-four years** (396–430). He pr
 
 ### The Confessions (c. 397–401)
 
-The ***Confessions*** (*Confessiones*) is Augustine's spiritual autobiography, addressed directly to God. It is the first Western autobiography and a masterpiece of world literature. In thirteen books, it recounts his life from infancy to his conversion, culminating in a profound meditation on the book of Genesis and the nature of time.
+The _**Confessions**_ (_Confessiones_) is Augustine's spiritual autobiography, addressed directly to God. It is the first Western autobiography and a masterpiece of world literature. In thirteen books, it recounts his life from infancy to his conversion, culminating in a profound meditation on the book of Genesis and the nature of time.
 
 ### The City of God (c. 413–426)
 
-The ***City of God*** (*De Civitate Dei*) is Augustine's monumental apologetic work, written in response to the **Sack of Rome** by the Visigoths in 410. When pagans blamed Christianity for the fall of Rome, Augustine responded by contrasting the **Earthly City** (founded on self-love) with the **Heavenly City** (founded on love of God). This work shaped Western political thought for a millennium.
+The _**City of God**_ (_De Civitate Dei_) is Augustine's monumental apologetic work, written in response to the **Sack of Rome** by the Visigoths in 410. When pagans blamed Christianity for the fall of Rome, Augustine responded by contrasting the **Earthly City** (founded on self-love) with the **Heavenly City** (founded on love of God). This work shaped Western political thought for a millennium.
 
 ### On the Trinity (c. 400–416)
 
@@ -109,22 +109,22 @@ His relics were translated by the Church to **Pavia, Italy**, where they rest in
 
 St. Augustine of Hippo is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Theologians and Philosophers** | His profound intellectual legacy |
-| **Printers and Publishers** | His prolific literary output |
-| **Brewers** | His love of good fellowship |
-| **Converts** | His own dramatic conversion |
-| **Against Eye Soreness and Vermin** | Traditional patronage |
+| Patronage                           | Description                      |
+| ----------------------------------- | -------------------------------- |
+| **Theologians and Philosophers**    | His profound intellectual legacy |
+| **Printers and Publishers**         | His prolific literary output     |
+| **Brewers**                         | His love of good fellowship      |
+| **Converts**                        | His own dramatic conversion      |
+| **Against Eye Soreness and Vermin** | Traditional patronage            |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Augustine of Hippo** | 28 August | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 15 June; 28 August | — | Eastern Catholic celebration |
+| Feast                                  | Date               | Rank     | Notes                                 |
+| -------------------------------------- | ------------------ | -------- | ------------------------------------- |
+| **Memorial of St. Augustine of Hippo** | 28 August          | Memorial | Principal feast; Doctor of the Church |
+| **Byzantine Rite**                     | 15 June; 28 August | —        | Eastern Catholic celebration          |
 
 ---
 
@@ -144,20 +144,20 @@ Several religious orders follow the **Rule of St. Augustine**, including:
 > "St. Augustine was the greatest of the Fathers. His influence on Christian thought is immeasurable."
 > — Pope Benedict XVI, General Audience, 30 January 2008
 
-> "Augustine's *Confessions* is a masterpiece of spiritual literature that continues to inspire countless souls."
-> — Pope John Paul II, *Augustinum Hipponensem* (1986)
+> "Augustine's _Confessions_ is a masterpiece of spiritual literature that continues to inspire countless souls."
+> — Pope John Paul II, _Augustinum Hipponensem_ (1986)
 
 > "The Church has always recognized in Augustine a teacher of faith and a master of Christian life."
-> — Pope Paul VI, *Augustinianum* (1970)
+> — Pope Paul VI, _Augustinianum_ (1970)
 
 > "Late have I loved you, O Beauty ever ancient, ever new, late have I loved you!"
-> — St. Augustine, *Confessions*, X.27 (cited by CCC 138)
+> — St. Augustine, _Confessions_, X.27 (cited by CCC 138)
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. Augustine of Hippo, the Doctor of Grace, was a restless sinner who became one of the Church's greatest saints and theologians. His *Confessions* — the first spiritual autobiography ever written — opens with the immortal words: "You have made us for Yourself, O Lord, and our heart is restless until it rests in You." The faithful seek his intercession for the conversion of sinners, for those struggling with impurity, for those seeking the truth, for students and scholars, and for the grace of final perseverance. The following prayer may be used to seek his intercession:
+St. Augustine of Hippo, the Doctor of Grace, was a restless sinner who became one of the Church's greatest saints and theologians. His _Confessions_ — the first spiritual autobiography ever written — opens with the immortal words: "You have made us for Yourself, O Lord, and our heart is restless until it rests in You." The faithful seek his intercession for the conversion of sinners, for those struggling with impurity, for those seeking the truth, for students and scholars, and for the grace of final perseverance. The following prayer may be used to seek his intercession:
 
     O glorious St. Augustine, Doctor of Grace
     and son of so many tears, shed by your mother Monica,
@@ -177,7 +177,7 @@ St. Augustine of Hippo, the Doctor of Grace, was a restless sinner who became on
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Augustine of Hippo,
     pray for us.

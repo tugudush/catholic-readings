@@ -8,8 +8,8 @@ These documents are written to scholarly standards, grounded in primary sources 
 
 ## Documents in This Directory
 
-| Organization | File | Summary |
-|--------------|------|---------|
+| Organization                | File                                             | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **The Knights of Columbus** | [knights-of-columbus.md](knights-of-columbus.md) | The world's largest Catholic fraternal service organization — founded in 1882 by Blessed Michael J. McGivney to provide for Catholic families, especially widows and orphans. Covers the order's history, the four cardinal principles (Charity, Unity, Fraternity, Patriotism), its structure and degrees, the fraternal insurance system, charitable works, papal recognition from Leo XIII to Francis, and the beatification of its founder. |
 
 ---

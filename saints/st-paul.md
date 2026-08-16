@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Paul the Apostle** (Hebrew: ***שָׁאוּל***, *Sha'ul*; Greek: ***Παῦλος***, *Paulos*; Latin: *Paulus*; c. 5 – c. 64–67 A.D.), originally named **Saul of Tarsus**, was a Pharisaic Jew who, after a dramatic conversion on the road to Damascus, became the **greatest missionary of the early Church** and the **author of fourteen New Testament epistles**. He is venerated as the **Apostle to the Gentiles**, a Doctor of the Church by virtue of his inspired writings, and one of the two great patron saints of Rome alongside St. Peter. His feast day is celebrated jointly with St. Peter on **29 June**, and his conversion is commemorated on **25 January**.
+**St. Paul the Apostle** (Hebrew: _**שָׁאוּל**_, _Sha'ul_; Greek: _**Παῦλος**_, _Paulos_; Latin: _Paulus_; c. 5 – c. 64–67 A.D.), originally named **Saul of Tarsus**, was a Pharisaic Jew who, after a dramatic conversion on the road to Damascus, became the **greatest missionary of the early Church** and the **author of fourteen New Testament epistles**. He is venerated as the **Apostle to the Gentiles**, a Doctor of the Church by virtue of his inspired writings, and one of the two great patron saints of Rome alongside St. Peter. His feast day is celebrated jointly with St. Peter on **29 June**, and his conversion is commemorated on **25 January**.
 
 > "I have been crucified with Christ; it is no longer I who live, but Christ who lives in me."
-> — St. Paul, *Galatians 2:20*
+> — St. Paul, _Galatians 2:20_
 
 ---
 
@@ -85,12 +85,12 @@ Arrested in Jerusalem after a riot, Paul appealed to **Caesar** as a Roman citiz
 
 St. Paul's letters constitute the earliest Christian writings in the New Testament and the foundation of Christian theology. They are traditionally divided into four groups:
 
-| Group | Epistles | Date |
-|-------|----------|------|
-| **Eschatological** | 1 & 2 Thessalonians | c. 50–52 A.D. |
-| **Major Epistles** | Romans, 1 & 2 Corinthians, Galatians | c. 53–57 A.D. |
+| Group                  | Epistles                                     | Date          |
+| ---------------------- | -------------------------------------------- | ------------- |
+| **Eschatological**     | 1 & 2 Thessalonians                          | c. 50–52 A.D. |
+| **Major Epistles**     | Romans, 1 & 2 Corinthians, Galatians         | c. 53–57 A.D. |
 | **Captivity Epistles** | Ephesians, Philippians, Colossians, Philemon | c. 60–63 A.D. |
-| **Pastoral Epistles** | 1 & 2 Timothy, Titus | c. 63–65 A.D. |
+| **Pastoral Epistles**  | 1 & 2 Timothy, Titus                         | c. 63–65 A.D. |
 
 ### Key Doctrinal Contributions
 
@@ -120,15 +120,15 @@ He was buried on the Via Ostiense, where the **Basilica of St. Paul Outside the 
 
 St. Paul is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Missionaries and Evangelists** | As the Apostle to the Gentiles |
-| **Theologians and Scripture Scholars** | As the author of fourteen inspired epistles |
-| **Roman Catholic Church** | Co-patron of the Diocese of Rome with St. Peter |
-| **Journalists, Writers, and Publishers** | As a prolific writer of Scripture |
-| **Rope Makers and Basket Weavers** | Traditional patronage (his trade was tentmaking) |
-| **Against Snake Bite** | From his survival of the viper on Malta |
-| **Tent Makers** | His trade mentioned in Acts 18:3 |
+| Patronage                                | Description                                      |
+| ---------------------------------------- | ------------------------------------------------ |
+| **Missionaries and Evangelists**         | As the Apostle to the Gentiles                   |
+| **Theologians and Scripture Scholars**   | As the author of fourteen inspired epistles      |
+| **Roman Catholic Church**                | Co-patron of the Diocese of Rome with St. Peter  |
+| **Journalists, Writers, and Publishers** | As a prolific writer of Scripture                |
+| **Rope Makers and Basket Weavers**       | Traditional patronage (his trade was tentmaking) |
+| **Against Snake Bite**                   | From his survival of the viper on Malta          |
+| **Tent Makers**                          | His trade mentioned in Acts 18:3                 |
 
 He is also the patron of numerous cities, dioceses, and nations, including **Malta**, **Greece**, and **Rome**.
 
@@ -136,12 +136,12 @@ He is also the patron of numerous cities, dioceses, and nations, including **Mal
 
 ## 8. Feast Days
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Solemnity of Saints Peter and Paul** | 29 June | Solemnity | Principal feast, shared with St. Peter |
-| **Conversion of St. Paul** | 25 January | Feast | Commemorates the Damascus Road event |
-| **Dedication of the Basilica of St. Paul** | 18 November | Optional Memorial | — |
-| **Byzantine Rite** | 29 June (principal); 25 January (Conversion) | — | Eastern Catholic celebration |
+| Feast                                      | Date                                         | Rank              | Notes                                  |
+| ------------------------------------------ | -------------------------------------------- | ----------------- | -------------------------------------- |
+| **Solemnity of Saints Peter and Paul**     | 29 June                                      | Solemnity         | Principal feast, shared with St. Peter |
+| **Conversion of St. Paul**                 | 25 January                                   | Feast             | Commemorates the Damascus Road event   |
+| **Dedication of the Basilica of St. Paul** | 18 November                                  | Optional Memorial | —                                      |
+| **Byzantine Rite**                         | 29 June (principal); 25 January (Conversion) | —                 | Eastern Catholic celebration           |
 
 ---
 
@@ -176,13 +176,13 @@ The Eastern Catholic Churches honour Paul as the **Apostle to the Nations** and 
 ## 11. Patristic and Magisterial Citations
 
 > "Paul, more than any other, has shown us what man is, and in what true freedom consists."
-> — St. John Chrysostom, *Homilies on Romans*
+> — St. John Chrysostom, _Homilies on Romans_
 
 > "The conversion of Paul shows that the grace of God can transform even the most hardened heart and make it an instrument of salvation."
 > — Pope Benedict XVI, General Audience, 3 September 2008
 
 > "St. Paul's letters are not only a fundamental source for the Church's faith, but also a light for the conscience of every Christian."
-> — Pope John Paul II, *General Audience, 25 October 2006*
+> — Pope John Paul II, _General Audience, 25 October 2006_
 
 > "The Apostle Paul, the outstanding herald of the Gospel, teaches us that faith in Christ is the beginning of a new life."
 > — Catechism of the Catholic Church (cf. CCC 122, 139, 601)
@@ -211,7 +211,7 @@ St. Paul, the Apostle to the Gentiles, was a man of unflagging zeal for the Gosp
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Paul the Apostle,
     pray for us.

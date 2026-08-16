@@ -58,23 +58,23 @@ The reverse of the medal bears a **cross**. Around it are placed the initial let
 
 - On the **vertical bar** of the cross, downward:
 
-> **C S S M L** — *Crux Sacra Sit Mihi Lux*
+> **C S S M L** — _Crux Sacra Sit Mihi Lux_
 > ("May the Holy Cross be my light")
 
 - On the **horizontal bar** of the cross:
 
-> **N D S M D** — *Non Draco Sit Mihi Dux*
+> **N D S M D** — _Non Draco Sit Mihi Dux_
 > ("Let not the dragon be my guide")
 
 - In the **four angles** of the cross:
 
-> **C S P B** — *Crux Sancti Patris Benedicti*
+> **C S P B** — _Crux Sancti Patris Benedicti_
 > ("The Cross of the Holy Father Benedict")
 
 - Around the **margin**, the initials of the distich:
 
 > **V R S N S M V — S M Q L I V B**
-> *Vade Retro Satana, Nunquam Suade Mihi Vana — Sunt Mala Quae Libas, Ipse Venena Bibas*
+> _Vade Retro Satana, Nunquam Suade Mihi Vana — Sunt Mala Quae Libas, Ipse Venena Bibas_
 > ("Begone, Satan, never suggest to me thy vanities — evil are the things thou profferest, drink thou thy own poison")
 
 - At the **top of the cross** usually stands the word **PAX** ("Peace") or the monogram **IHS** (the Holy Name of Jesus) ([Catholic Encyclopedia, "Medal of Saint Benedict"](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Medal%20of%20Saint%20Benedict)).

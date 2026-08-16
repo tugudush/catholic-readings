@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Jude Thaddeus** (Greek: ***Ἰούδας Θαδδαῖος***; Latin: *Iudas Thaddaeus*; Aramaic: ***יהודה***, *Yehuda*), also known as **St. Jude the Apostle** or **Lebbeus**, was one of the **Twelve Apostles** of Jesus Christ. He is venerated as the **patron saint of hopeless and desperate causes**, and devotion to him has become one of the most widespread in the modern Catholic Church. His feast day is celebrated with St. Simon on **28 October**.
+**St. Jude Thaddeus** (Greek: _**Ἰούδας Θαδδαῖος**_; Latin: _Iudas Thaddaeus_; Aramaic: _**יהודה**_, _Yehuda_), also known as **St. Jude the Apostle** or **Lebbeus**, was one of the **Twelve Apostles** of Jesus Christ. He is venerated as the **patron saint of hopeless and desperate causes**, and devotion to him has become one of the most widespread in the modern Catholic Church. His feast day is celebrated with St. Simon on **28 October**.
 
 > "But you, beloved, build yourselves up on your most holy faith; pray in the Holy Spirit; keep yourselves in the love of God; look forward to the mercy of our Lord Jesus Christ that leads to eternal life."
-> — St. Jude, *Epistle of Jude*, 20–21
+> — St. Jude, _Epistle of Jude_, 20–21
 
 ---
 
@@ -59,23 +59,23 @@ In **1962**, entertainer **Danny Thomas** founded **St. Jude Children's Research
 
 St. Jude Thaddeus is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Hopeless and Desperate Causes** | His most famous patronage |
-| **Lost Causes** | Modern devotion |
-| **The Forgotten and Neglected** | His historical neglect |
+| Patronage                            | Description                           |
+| ------------------------------------ | ------------------------------------- |
+| **Hopeless and Desperate Causes**    | His most famous patronage             |
+| **Lost Causes**                      | Modern devotion                       |
+| **The Forgotten and Neglected**      | His historical neglect                |
 | **Hospitals and Healthcare Workers** | St. Jude Children's Research Hospital |
-| **Armenia** | Traditional mission field |
-| **Claretian Missionaries** | Who promote his devotion |
+| **Armenia**                          | Traditional mission field             |
+| **Claretian Missionaries**           | Who promote his devotion              |
 
 ---
 
 ## 6. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Feast of Sts. Simon and Jude** | 28 October | Feast | Celebrated jointly with St. Simon the Zealot |
-| **Byzantine Rite** | 19 June; 28 October | — | Eastern Catholic celebration |
+| Feast                            | Date                | Rank  | Notes                                        |
+| -------------------------------- | ------------------- | ----- | -------------------------------------------- |
+| **Feast of Sts. Simon and Jude** | 28 October          | Feast | Celebrated jointly with St. Simon the Zealot |
+| **Byzantine Rite**               | 19 June; 28 October | —     | Eastern Catholic celebration                 |
 
 ---
 
@@ -85,7 +85,7 @@ St. Jude Thaddeus is traditionally depicted holding:
 
 - **A club or halberd** (the instrument of his martyrdom)
 - **An axe** (alternative instrument)
-- **A medallion or image of Christ** (the *Image of Edessa*, or *Mandylion*, which he is said to have brought to King Abgar of Edessa)
+- **A medallion or image of Christ** (the _Image of Edessa_, or _Mandylion_, which he is said to have brought to King Abgar of Edessa)
 - **A flame above his head** (present at Pentecost)
 - **A scroll or book** (his Epistle)
 
@@ -105,10 +105,10 @@ The most common prayer to St. Jude begins:
 > — Pope Benedict XVI, General Audience, 11 October 2006
 
 > "The devotion to St. Jude reminds us that no situation is beyond God's mercy."
-> — Pope John Paul II, *Address*, 28 October 2000
+> — Pope John Paul II, _Address_, 28 October 2000
 
 > "To St. Jude, the Lord granted the privilege of helping those who have no one else to turn to."
-> — St. Bridget of Sweden, *Revelations*
+> — St. Bridget of Sweden, _Revelations_
 
 ---
 
@@ -139,7 +139,7 @@ St. Jude Thaddeus, Apostle and kinsman of our Lord, is the patron of hopeless an
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Jude, patron of hopeless cases,
     pray for us.

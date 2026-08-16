@@ -59,16 +59,16 @@ The letter is written in the name of **"the Church of God which sojourns in Rome
 
 _1 Clement_ is a lengthy letter of 65 chapters. Its structure follows a deliberate rhetorical pattern:
 
-| Section | Chapters | Content |
-|---------|----------|---------|
-| **Introduction** | 1–2 | Praise for the Corinthian Church's former virtue |
-| **The Corinthian Schism** | 3–6 | Jealousy as the root of the conflict; examples from the Old Testament |
-| **Call to Penitence** | 7–8 | Exhortation to repentance |
-| **Unity and Order** | 9–39 | A grand theological exposition on God's created order, the harmony of the universe, the resurrection, and the need for hierarchical order in the Church |
-| **Apostolic Succession** | 40–44 | The heart of the letter: the divine institution of Church offices |
-| **Exhortations to Virtue** | 45–57 | Examples of faith, humility, and obedience from Scripture |
-| **Liturgical Prayers** | 58–61 | A beautiful closing prayer for rulers and the world |
-| **Conclusion** | 62–65 | Final appeal and the dispatch of bearers |
+| Section                    | Chapters | Content                                                                                                                                                 |
+| -------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Introduction**           | 1–2      | Praise for the Corinthian Church's former virtue                                                                                                        |
+| **The Corinthian Schism**  | 3–6      | Jealousy as the root of the conflict; examples from the Old Testament                                                                                   |
+| **Call to Penitence**      | 7–8      | Exhortation to repentance                                                                                                                               |
+| **Unity and Order**        | 9–39     | A grand theological exposition on God's created order, the harmony of the universe, the resurrection, and the need for hierarchical order in the Church |
+| **Apostolic Succession**   | 40–44    | The heart of the letter: the divine institution of Church offices                                                                                       |
+| **Exhortations to Virtue** | 45–57    | Examples of faith, humility, and obedience from Scripture                                                                                               |
+| **Liturgical Prayers**     | 58–61    | A beautiful closing prayer for rulers and the world                                                                                                     |
+| **Conclusion**             | 62–65    | Final appeal and the dispatch of bearers                                                                                                                |
 
 ### Key Doctrinal Contributions
 
