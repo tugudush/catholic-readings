@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Teresa of Ávila** (Spanish: *Teresa de Ávila*; Latin: *Teresia Abulensis*; 28 March 1515 – 4 October 1582), born **Teresa Sánchez de Cepeda y Ahumada**, was a Spanish Discalced Carmelite nun, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She is one of the giants of Catholic spirituality, known for her reform of the Carmelite Order, her profound mystical writings, and her extraordinary spiritual experiences. Her feast day is **15 October**.
+**St. Teresa of Ávila** (Spanish: _Teresa de Ávila_; Latin: _Teresia Abulensis_; 28 March 1515 – 4 October 1582), born **Teresa Sánchez de Cepeda y Ahumada**, was a Spanish Discalced Carmelite nun, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She is one of the giants of Catholic spirituality, known for her reform of the Carmelite Order, her profound mystical writings, and her extraordinary spiritual experiences. Her feast day is **15 October**.
 
 > "Let nothing disturb you, let nothing frighten you. All things pass. God does not change. Patience achieves everything."
 > — St. Teresa of Ávila
@@ -50,6 +50,7 @@ Teresa desired to return to the **primitive Carmelite Rule** of silence, poverty
 ### The Discalced Carmelites
 
 Teresa's reform emphasized:
+
 - **Poverty**: Dependence on alms, no fixed income.
 - **Enclosure**: Strict separation from the world.
 - **Silence**: Contemplative prayer as the central work.
@@ -69,17 +70,17 @@ Despite poor health, Teresa traveled tirelessly across Spain, founding **sevente
 
 Teresa's writings are masterpieces of Spanish literature and Christian mysticism:
 
-| Work | Year | Content |
-|------|------|---------|
-| ***The Life of Teresa of Jesus*** (Autobiography) | 1562–1565 | Spiritual autobiography, from childhood to her reform |
-| ***The Way of Perfection*** | 1566 | A practical guide to prayer for her nuns |
-| ***The Interior Castle*** (*Las Moradas*) | 1577 | Her masterpiece; describes the soul as a castle with seven chambers of prayer |
-| ***The Book of Foundations*** | 1573–1582 | History of her foundations |
-| ***Spiritual Testimonies*** | Various | Short accounts of her mystical experiences |
+| Work                                              | Year      | Content                                                                       |
+| ------------------------------------------------- | --------- | ----------------------------------------------------------------------------- |
+| _**The Life of Teresa of Jesus**_ (Autobiography) | 1562–1565 | Spiritual autobiography, from childhood to her reform                         |
+| _**The Way of Perfection**_                       | 1566      | A practical guide to prayer for her nuns                                      |
+| _**The Interior Castle**_ (_Las Moradas_)         | 1577      | Her masterpiece; describes the soul as a castle with seven chambers of prayer |
+| _**The Book of Foundations**_                     | 1573–1582 | History of her foundations                                                    |
+| _**Spiritual Testimonies**_                       | Various   | Short accounts of her mystical experiences                                    |
 
 ### The Interior Castle
 
-Teresa's most famous work describes the soul as a **castle with seven dwelling places** (*moradas*), through which the soul progresses from the first chamber (humility) to the seventh (spiritual marriage with God). This work is a classic of mystical theology.
+Teresa's most famous work describes the soul as a **castle with seven dwelling places** (_moradas_), through which the soul progresses from the first chamber (humility) to the seventh (spiritual marriage with God). This work is a classic of mystical theology.
 
 ---
 
@@ -87,7 +88,7 @@ Teresa's most famous work describes the soul as a **castle with seven dwelling p
 
 ### The Transverberation
 
-In **1559**, Teresa experienced the **Transverberation of the Heart**—an angel pierced her heart with a fiery arrow, leaving her in a state of both intense pain and ecstatic love. This event is immortalized in the sculpture *The Ecstasy of St. Teresa* by Gian Lorenzo Bernini.
+In **1559**, Teresa experienced the **Transverberation of the Heart**—an angel pierced her heart with a fiery arrow, leaving her in a state of both intense pain and ecstatic love. This event is immortalized in the sculpture _The Ecstasy of St. Teresa_ by Gian Lorenzo Bernini.
 
 ### Raptures and Visions
 
@@ -95,7 +96,7 @@ Teresa experienced frequent ecstasies, raptures, and locutions. She was always c
 
 ### The "Suspicion of the Inquisition"
 
-Teresa's writings and teachings were investigated by the **Spanish Inquisition** on suspicion of heresy (particularly the heresy of the *Alumbrados* or "Illuminated Ones"). She was repeatedly cleared.
+Teresa's writings and teachings were investigated by the **Spanish Inquisition** on suspicion of heresy (particularly the heresy of the _Alumbrados_ or "Illuminated Ones"). She was repeatedly cleared.
 
 ---
 
@@ -117,43 +118,43 @@ Teresa died on **4 October 1582** at the convent of **Alba de Tormes**, attended
 
 St. Teresa of Ávila is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Spain** | Co-patroness of Spain |
-| **Writers** | Her literary masterpieces |
-| **Lace Workers** | Traditional patronage |
-| **Headache Sufferers** | Her own severe headaches |
-| **The Sick** | Her lifelong sufferings |
-| **Carmelite Order** | As co-foundress of the Discalced Carmelites |
-| **Chess Players** | She compared the spiritual life to chess |
+| Patronage              | Description                                 |
+| ---------------------- | ------------------------------------------- |
+| **Spain**              | Co-patroness of Spain                       |
+| **Writers**            | Her literary masterpieces                   |
+| **Lace Workers**       | Traditional patronage                       |
+| **Headache Sufferers** | Her own severe headaches                    |
+| **The Sick**           | Her lifelong sufferings                     |
+| **Carmelite Order**    | As co-foundress of the Discalced Carmelites |
+| **Chess Players**      | She compared the spiritual life to chess    |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                            | Date       | Rank  | Notes                                 |
+| -------------------------------- | ---------- | ----- | ------------------------------------- |
 | **Feast of St. Teresa of Ávila** | 15 October | Feast | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 15 October | — | Eastern Catholic celebration |
+| **Byzantine Rite**               | 15 October | —     | Eastern Catholic celebration          |
 
 ---
 
 ## 10. Patristic and Magisterial Citations
 
 > "St. Teresa of Ávila is a teacher of prayer, a reformer of religious life, and a Doctor of the Church."
-> — Pope Paul VI, *Proclamation of Doctor of the Church*, 1970
+> — Pope Paul VI, _Proclamation of Doctor of the Church_, 1970
 
 > "Teresa teaches us that prayer is the way to intimacy with God. Her Interior Castle is a map of the spiritual journey."
 > — Pope Benedict XVI, General Audience, 2 February 2011
 
 > "Let nothing disturb you, let nothing frighten you. All things pass. God does not change. Patience achieves everything."
-> — St. Teresa of Ávila, *Bookmark*
+> — St. Teresa of Ávila, _Bookmark_
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Church, reformed the Carmelite Order, founded seventeen convents of Discalced Carmelites, and wrote masterpieces of mystical theology — *The Life*, *The Way of Perfection*, and *The Interior Castle* — that remain unsurpassed guides to the life of prayer. Known for her earthy humour, her iron will, and her profound union with God, the faithful seek her intercession for progress in mental prayer, for those suffering from illness or spiritual aridity, for the reform of religious life, and for the grace of holy perseverance. The following prayer, echoing her own words, may be used to seek her intercession:
+St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Church, reformed the Carmelite Order, founded seventeen convents of Discalced Carmelites, and wrote masterpieces of mystical theology — _The Life_, _The Way of Perfection_, and _The Interior Castle_ — that remain unsurpassed guides to the life of prayer. Known for her earthy humour, her iron will, and her profound union with God, the faithful seek her intercession for progress in mental prayer, for those suffering from illness or spiritual aridity, for the reform of religious life, and for the grace of holy perseverance. The following prayer, echoing her own words, may be used to seek her intercession:
 
     O seraphic St. Teresa of Jesus,
     virgin and Doctor of the Church,
@@ -175,7 +176,7 @@ St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Ch
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Teresa of Ávila,
     pray for us.

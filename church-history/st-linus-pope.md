@@ -55,21 +55,21 @@ The surrounding verses provide the poignant context: Paul is alone except for Lu
 
 St. Linus is one of several apostolic successors and direct disciples of the Apostles whose names are preserved in the New Testament. These figures represent the first generation of Church leaders after the Apostles themselves and form the earliest links in the chain of apostolic succession. The following table lists those named in Scripture, with the relevant verses:
 
-| Name | Role / See | NT References |
-|------|-----------|--------------|
-| **St. James the Just** | First Bishop of Jerusalem | Acts 12:17; 15:13–21; 21:18; Gal 1:19; 2:9, 12; 1 Cor 15:7 |
-| **St. Timothy** | Bishop of Ephesus | Acts 16:1–3; 17:14–15; 18:5; 19:22; 20:4; Rom 16:21; 1 Cor 4:17; 16:10; 2 Cor 1:1, 19; Phil 1:1; 2:19–23; Col 1:1; 1 Thess 1:1; 3:2, 6; 2 Thess 1:1; **1 Tim 1:2**, 18; 6:11, 20; **2 Tim 1:2**; Philem 1; Heb 13:23 |
-| **St. Titus** | Bishop of Crete | 2 Cor 2:13; 7:6, 13–14; 8:6, 16, 23; 12:18; Gal 2:1, 3; **Titus 1:4**; 2 Tim 4:10 |
-| **St. Linus** | Second Bishop of Rome | **2 Tim 4:21** |
-| **St. Clement** (possibly of Rome) | Third/fourth Bishop of Rome (disputed) | Phil 4:3 ("Clement and the rest of my fellow workers") |
-| **St. Mark** | Bishop of Alexandria (tradition); disciple of Peter | Acts 12:12, 25; 15:37, 39; Col 4:10; 2 Tim 4:11; Philem 24; **1 Pet 5:13** |
-| **St. Luke** | Evangelist; companion of Paul | Col 4:14; 2 Tim 4:11; Philem 24 |
-| **St. Silas (Silvanus)** | Companion of Paul and Peter | Acts 15:22–34, 40; 16:19–29; 17:4–15; 2 Cor 1:19; 1 Thess 1:1; 2 Thess 1:1; **1 Pet 5:12** |
-| **St. Barnabas** | Companion of Paul (later Apostolos) | Acts 4:36; 9:27; 11:22–30; 13:1–14:28; 15:2–39; Gal 2:1, 9, 13; Col 4:10 |
-| **St. Apollos** | Bishop of Corinth (tradition) | Acts 18:24; 19:1; 1 Cor 1:12; 3:4–6, 22; 4:6; 16:12; Titus 3:13 |
-| **St. Epaphroditus** | Bishop of Philippi (tradition) | Phil 2:25; 4:18 |
-| **St. Tychicus** | Bishop of Colossae / Ephesus (tradition) | Acts 20:4; Eph 6:21; Col 4:7; 2 Tim 4:12; Titus 3:12 |
-| **St. Onesimus** | Bishop of Ephesus (tradition) | Col 4:9; Philem 10 |
+| Name                               | Role / See                                          | NT References                                                                                                                                                                                                        |
+| ---------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **St. James the Just**             | First Bishop of Jerusalem                           | Acts 12:17; 15:13–21; 21:18; Gal 1:19; 2:9, 12; 1 Cor 15:7                                                                                                                                                           |
+| **St. Timothy**                    | Bishop of Ephesus                                   | Acts 16:1–3; 17:14–15; 18:5; 19:22; 20:4; Rom 16:21; 1 Cor 4:17; 16:10; 2 Cor 1:1, 19; Phil 1:1; 2:19–23; Col 1:1; 1 Thess 1:1; 3:2, 6; 2 Thess 1:1; **1 Tim 1:2**, 18; 6:11, 20; **2 Tim 1:2**; Philem 1; Heb 13:23 |
+| **St. Titus**                      | Bishop of Crete                                     | 2 Cor 2:13; 7:6, 13–14; 8:6, 16, 23; 12:18; Gal 2:1, 3; **Titus 1:4**; 2 Tim 4:10                                                                                                                                    |
+| **St. Linus**                      | Second Bishop of Rome                               | **2 Tim 4:21**                                                                                                                                                                                                       |
+| **St. Clement** (possibly of Rome) | Third/fourth Bishop of Rome (disputed)              | Phil 4:3 ("Clement and the rest of my fellow workers")                                                                                                                                                               |
+| **St. Mark**                       | Bishop of Alexandria (tradition); disciple of Peter | Acts 12:12, 25; 15:37, 39; Col 4:10; 2 Tim 4:11; Philem 24; **1 Pet 5:13**                                                                                                                                           |
+| **St. Luke**                       | Evangelist; companion of Paul                       | Col 4:14; 2 Tim 4:11; Philem 24                                                                                                                                                                                      |
+| **St. Silas (Silvanus)**           | Companion of Paul and Peter                         | Acts 15:22–34, 40; 16:19–29; 17:4–15; 2 Cor 1:19; 1 Thess 1:1; 2 Thess 1:1; **1 Pet 5:12**                                                                                                                           |
+| **St. Barnabas**                   | Companion of Paul (later Apostolos)                 | Acts 4:36; 9:27; 11:22–30; 13:1–14:28; 15:2–39; Gal 2:1, 9, 13; Col 4:10                                                                                                                                             |
+| **St. Apollos**                    | Bishop of Corinth (tradition)                       | Acts 18:24; 19:1; 1 Cor 1:12; 3:4–6, 22; 4:6; 16:12; Titus 3:13                                                                                                                                                      |
+| **St. Epaphroditus**               | Bishop of Philippi (tradition)                      | Phil 2:25; 4:18                                                                                                                                                                                                      |
+| **St. Tychicus**                   | Bishop of Colossae / Ephesus (tradition)            | Acts 20:4; Eph 6:21; Col 4:7; 2 Tim 4:12; Titus 3:12                                                                                                                                                                 |
+| **St. Onesimus**                   | Bishop of Ephesus (tradition)                       | Col 4:9; Philem 10                                                                                                                                                                                                   |
 
 Of these, only **St. Linus** and **St. Clement** (possibly) are early Bishops of Rome mentioned in the New Testament, making Linus a uniquely important scriptural witness to the first-generation Roman succession. The identification of the "Clement" of Philippians 4:3 with Pope St. Clement I is an ancient tradition (attested by Origen, Eusebius, and St. Jerome) but remains uncertain, as the name Clement was common in the Roman world. Linus is the only certain successor of St. Peter whose name is recorded in Sacred Scripture.
 

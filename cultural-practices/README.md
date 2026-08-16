@@ -13,17 +13,17 @@ These documents focus on:
 
 ## Important Principles
 
-1. **Unity in Diversity**: The Catholic Church encompasses 24 *sui iuris* churches and countless cultural expressions, yet all share the sameDeposit of Faith.
+1. **Unity in Diversity**: The Catholic Church encompasses 24 _sui iuris_ churches and countless cultural expressions, yet all share the sameDeposit of Faith.
 2. **Doctrinal Clarity**: While cultural practices enrich the Christian life, they must be understood in relation to — not as replacements for — the universal teachings of the Church.
 3. **Pastoral Sensitivity**: Regional customs often carry deep meaning for the faithful and should be presented with respect, even when distinguished from formal doctrine.
 
 ## Documents
 
-| Document | Description |
-| :--- | :--- |
-| [filipino-funeral-traditions.md](filipino-funeral-traditions.md) | Filipino traditions for the deceased: the wake (*Burol*), *Pasiyam*, the 40-day mourning period (*Waksi*), *Undas*, and the distinction between Filipino cultural practices and Catholic liturgical practice |
-| [international-catholic-funeral-traditions.md](international-catholic-funeral-traditions.md) | A global survey of Catholic funeral and mourning traditions across Italy, Mexico, Ireland, Poland, Spain, Lebanon, the Eastern Catholic Churches, France, Germany, and India — with comparative tables and theological assessment |
-| [pabellon-saints-pavilion.md](pabellon-saints-pavilion.md) | The *Pabellón* (Saints' Pavilion) — a roofed, open-sided devotional structure outside the main church but within the church compound in Filipino Catholic parishes, where the faithful visit multiple saint statues, light candles, and offer coins for their intentions |
+| Document                                                                                     | Description                                                                                                                                                                                                                                                              |
+| :------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [filipino-funeral-traditions.md](filipino-funeral-traditions.md)                             | Filipino traditions for the deceased: the wake (_Burol_), _Pasiyam_, the 40-day mourning period (_Waksi_), _Undas_, and the distinction between Filipino cultural practices and Catholic liturgical practice                                                             |
+| [international-catholic-funeral-traditions.md](international-catholic-funeral-traditions.md) | A global survey of Catholic funeral and mourning traditions across Italy, Mexico, Ireland, Poland, Spain, Lebanon, the Eastern Catholic Churches, France, Germany, and India — with comparative tables and theological assessment                                        |
+| [pabellon-saints-pavilion.md](pabellon-saints-pavilion.md)                                   | The _Pabellón_ (Saints' Pavilion) — a roofed, open-sided devotional structure outside the main church but within the church compound in Filipino Catholic parishes, where the faithful visit multiple saint statues, light candles, and offer coins for their intentions |
 
 ## Related Documents
 
@@ -31,4 +31,4 @@ These documents focus on:
 
 ---
 
-*"The Church encourages us to pray for the dead... to help them attain to the beatific vision."* — CCC 1689
+_"The Church encourages us to pray for the dead... to help them attain to the beatific vision."_ — CCC 1689

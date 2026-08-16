@@ -106,13 +106,13 @@ The theology of the sacrament is identical in East and West:
 
 ### 8.2 Differences in Liturgical Practice
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Name** | Anointing of the Sick (formerly Extreme Unction) | Holy Unction of the Sick |
-| **Celebration** | Ordinarily in a quiet, intimate setting, with the priest and possibly family | Often in a more liturgical setting, with a fuller ritual |
-| **Number of anointings** | Forehead and hands (with optional anointing of other places) | In Byzantine tradition: forehead, eyes, nostrils, lips, ears, breast, hands, feet |
-| **Link with Viaticum** | The final Eucharist is given immediately as Viaticum | The final Eucharist is also received as Viaticum |
-| **Sacramental confession** | If possible, before the anointing | If possible, before the anointing |
+| Aspect                     | Latin Rite                                                                   | Eastern Catholic Churches                                                         |
+| -------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Name**                   | Anointing of the Sick (formerly Extreme Unction)                             | Holy Unction of the Sick                                                          |
+| **Celebration**            | Ordinarily in a quiet, intimate setting, with the priest and possibly family | Often in a more liturgical setting, with a fuller ritual                          |
+| **Number of anointings**   | Forehead and hands (with optional anointing of other places)                 | In Byzantine tradition: forehead, eyes, nostrils, lips, ears, breast, hands, feet |
+| **Link with Viaticum**     | The final Eucharist is given immediately as Viaticum                         | The final Eucharist is also received as Viaticum                                  |
+| **Sacramental confession** | If possible, before the anointing                                            | If possible, before the anointing                                                 |
 
 Theological content is the same in both traditions; the differences are primarily liturgical and cultural.
 
@@ -126,17 +126,17 @@ The medieval and early-modern Latin tradition concentrated the sacrament's celeb
 
 ## 10. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Trent, Session XIV** (1551) | Definitive teaching on the sacrament, the matter, the minister, the recipients, and the effects. |
-| **_Sacrosanctum Concilium_** (Vatican II, 1963) | §§73–75 — Restored the term "Anointing of the Sick" and broadened the celebration. |
-| **Pope Paul VI**, _Sacram Unctionem Infirmorum_ (1972) | Apostolic Constitution reforming the rite. |
-| **Lumen Gentium** (Vatican II) | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **Catechism of the Catholic Church** | [CCC 1499–1532](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1499) |
-| **Code of Canon Law** | c. 998–1007 (The Anointing of the Sick) |
-| **Code of Canons of the Eastern Churches** | c. 738–741 |
-| **_Catechism of the Ukrainian Greek Catholic Church: Christ — Our Pascha_** | §§464 — Eastern teaching on the sacrament. |
-| **Pope John Paul II**, _Salvifici Doloris_ (1984) | Apostolic Letter on the Christian meaning of human suffering. |
+| Source                                                                      | Reference                                                                                        |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Council of Trent, Session XIV** (1551)                                    | Definitive teaching on the sacrament, the matter, the minister, the recipients, and the effects. |
+| **_Sacrosanctum Concilium_** (Vatican II, 1963)                             | §§73–75 — Restored the term "Anointing of the Sick" and broadened the celebration.               |
+| **Pope Paul VI**, _Sacram Unctionem Infirmorum_ (1972)                      | Apostolic Constitution reforming the rite.                                                       |
+| **Lumen Gentium** (Vatican II)                                              | [§11](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                |
+| **Catechism of the Catholic Church**                                        | [CCC 1499–1532](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1499)  |
+| **Code of Canon Law**                                                       | c. 998–1007 (The Anointing of the Sick)                                                          |
+| **Code of Canons of the Eastern Churches**                                  | c. 738–741                                                                                       |
+| **_Catechism of the Ukrainian Greek Catholic Church: Christ — Our Pascha_** | §§464 — Eastern teaching on the sacrament.                                                       |
+| **Pope John Paul II**, _Salvifici Doloris_ (1984)                           | Apostolic Letter on the Christian meaning of human suffering.                                    |
 
 ---
 

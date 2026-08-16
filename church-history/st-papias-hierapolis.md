@@ -53,12 +53,14 @@ Eusebius notes that Papias was a contemporary of **St. Polycarp of Smyrna**, and
 ### The Lost Work
 
 The _Exposition of the Oracles of the Lord_ was a five-volume work, now lost, that combined:
+
 - A collection of the sayings of Jesus (the "oracles" or _logia_)
 - Papias's own interpretations and commentary
 - Traditions about the origins of the Gospels
 - Apocalyptic material about the future kingdom
 
 The work was still extant in the Middle Ages and was consulted by later writers such as **Maximus the Confessor** and perhaps **Andrew of Caesarea**, but it subsequently disappeared. It is known today only through:
+
 - Quotations in **Eusebius of Caesarea**, _Church History_ (c. 324 A.D.)
 - A reference in **St. Irenaeus of Lyons**, _Against Heresies_ (c. 180 A.D.)
 - A citation in **St. Apollinaris of Laodicea** (fourth century)
@@ -110,6 +112,7 @@ Papias appears to have held a form of **chiliasm** (millenarianism)—the belief
 Papias claimed to have received this teaching from the Apostles themselves, specifically citing a tradition about the supernatural fertility of the millennial kingdom that is also found in the Epistle of Barnabas and the apocryphal Apocalypse of Peter.
 
 It is important to note:
+
 - **Millenarianism was not a defined dogma** and has never been the official teaching of the Catholic Church.
 - The Church's mainstream tradition has followed **St. Augustine** in interpreting the "thousand years" of Revelation 20 as a symbolic reference to the present age of the Church (amillennialism).
 - Papias's chiliasm does not affect the reliability of his other traditions, and he held it in good faith, believing it to be apostolic in origin.
@@ -139,12 +142,12 @@ While not canonical, this tradition was widely repeated in the early Church.
 
 Papias's testimony is critical for establishing the early Church's recognition of the canonical Gospels:
 
-| Gospel | Papias's Testimony | Implication |
-|--------|-------------------|-------------|
-| **Mark** | Written by Mark, interpreter of Peter, based on Peter's preaching | Petrine authority; Mark as the earliest Gospel? |
-| **Matthew** | Compiled the sayings of the Lord in Hebrew | Apostolic authorship; priority of Semitic tradition |
-| **John** | (Indirectly) Papias moves in Johannine circles | The Johannine corpus emerges from the circle of the Beloved Disciple |
-| **Luke** | (Not directly mentioned by Papias) | - |
+| Gospel      | Papias's Testimony                                                | Implication                                                          |
+| ----------- | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Mark**    | Written by Mark, interpreter of Peter, based on Peter's preaching | Petrine authority; Mark as the earliest Gospel?                      |
+| **Matthew** | Compiled the sayings of the Lord in Hebrew                        | Apostolic authorship; priority of Semitic tradition                  |
+| **John**    | (Indirectly) Papias moves in Johannine circles                    | The Johannine corpus emerges from the circle of the Beloved Disciple |
+| **Luke**    | (Not directly mentioned by Papias)                                | -                                                                    |
 
 Papias does not mention the Gospel of Luke or the Acts of the Apostles by name. However, his detailed interest in the sayings of Jesus and the ordering of the Gospel tradition places him at the center of the development of the canonical Gospel tradition.
 

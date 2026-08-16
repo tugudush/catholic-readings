@@ -1,0 +1,13 @@
+{
+  "name": "holy-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Catholic content and source database — documentation repository",
+  "scripts": {
+    "format": "node format.js",
+    "format:check": "node format.js --check"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}

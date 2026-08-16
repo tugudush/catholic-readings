@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Ambrose of Milan** (Latin: *Ambrosius Mediolanensis*; Italian: *Ambrogio di Milano*; c. 339 – 4 April 397 A.D.) was a Roman politician who, while serving as the imperial governor of Aemilia-Liguria, was unexpectedly acclaimed **Bishop of Milan** by popular acclamation—even though he was not yet baptized. He became one of the four **Great Doctors of the Latin Church** (along with Augustine, Jerome, and Gregory the Great), a fierce defender of Nicene orthodoxy against Arianism, and the mentor and baptizer of **St. Augustine of Hippo**. His feast day is **7 December**.
+**St. Ambrose of Milan** (Latin: _Ambrosius Mediolanensis_; Italian: _Ambrogio di Milano_; c. 339 – 4 April 397 A.D.) was a Roman politician who, while serving as the imperial governor of Aemilia-Liguria, was unexpectedly acclaimed **Bishop of Milan** by popular acclamation—even though he was not yet baptized. He became one of the four **Great Doctors of the Latin Church** (along with Augustine, Jerome, and Gregory the Great), a fierce defender of Nicene orthodoxy against Arianism, and the mentor and baptizer of **St. Augustine of Hippo**. His feast day is **7 December**.
 
 > "If you are in Rome, live in the Roman way; if you are elsewhere, live as they do. Avoid giving scandal to anyone."
 > — St. Ambrose of Milan
@@ -65,17 +65,17 @@ Ambrose's preaching in Milan was instrumental in the conversion of **St. Augusti
 
 Ambrose is considered the **father of Latin hymnody**. He composed many hymns that are still sung, including:
 
-- *Veni Redemptor Gentium* ("Come, Redeemer of the Nations")
-- *Deus Creator Omnium* ("God, Creator of All")
-- *Aeterne Rerum Conditor* ("Eternal Founder of the World")
+- _Veni Redemptor Gentium_ ("Come, Redeemer of the Nations")
+- _Deus Creator Omnium_ ("God, Creator of All")
+- _Aeterne Rerum Conditor_ ("Eternal Founder of the World")
 
 ### Theological Works
 
-- ***De Officiis Ministrorum*** (On the Duties of the Clergy): A manual of moral theology for clergy.
-- ***De Fide*** (On the Faith): A defence of Nicene orthodoxy.
-- ***De Spiritu Sancto*** (On the Holy Spirit): A defence of the divinity of the Holy Spirit.
-- ***De Sacramentis*** (On the Sacraments): A catechetical work on baptism, confirmation, and the Eucharist.
-- ***De Paenitentia*** (On Penance): On the sacrament of reconciliation.
+- _**De Officiis Ministrorum**_ (On the Duties of the Clergy): A manual of moral theology for clergy.
+- _**De Fide**_ (On the Faith): A defence of Nicene orthodoxy.
+- _**De Spiritu Sancto**_ (On the Holy Spirit): A defence of the divinity of the Holy Spirit.
+- _**De Sacramentis**_ (On the Sacraments): A catechetical work on baptism, confirmation, and the Eucharist.
+- _**De Paenitentia**_ (On Penance): On the sacrament of reconciliation.
 
 ---
 
@@ -89,23 +89,23 @@ Ambrose died on **4 April 397** (Holy Saturday) at the age of about fifty-seven.
 
 St. Ambrose of Milan is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Milan** | As its bishop and patron |
-| **Bees and Beekeepers** | A legend says a swarm of bees settled on his face in infancy, foretelling his eloquence |
-| **Candle Makers and Wax Melters** | His connection to light and hymns |
-| **Students and Teachers** | His teaching of Augustine |
-| **Confessors and Consciences** | His confrontation with Theodosius |
-| **Catechumens and Converts** | The baptism of Augustine |
+| Patronage                         | Description                                                                             |
+| --------------------------------- | --------------------------------------------------------------------------------------- |
+| **Milan**                         | As its bishop and patron                                                                |
+| **Bees and Beekeepers**           | A legend says a swarm of bees settled on his face in infancy, foretelling his eloquence |
+| **Candle Makers and Wax Melters** | His connection to light and hymns                                                       |
+| **Students and Teachers**         | His teaching of Augustine                                                               |
+| **Confessors and Consciences**    | His confrontation with Theodosius                                                       |
+| **Catechumens and Converts**      | The baptism of Augustine                                                                |
 
 ---
 
 ## 9. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                       | Date       | Rank     | Notes                                 |
+| --------------------------- | ---------- | -------- | ------------------------------------- |
 | **Memorial of St. Ambrose** | 7 December | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 7 December | — | Eastern Catholic celebration |
+| **Byzantine Rite**          | 7 December | —        | Eastern Catholic celebration          |
 
 ---
 
@@ -115,10 +115,10 @@ St. Ambrose of Milan is the patron saint of:
 > — Pope Benedict XVI, General Audience, 24 October 2007
 
 > "Ambrose teaches us that the Church's authority is moral, not political, and that she must speak truth to power."
-> — Pope John Paul II, *Homily for the Feast of St. Ambrose*, 7 December 1998
+> — Pope John Paul II, _Homily for the Feast of St. Ambrose_, 7 December 1998
 
 > "Let us sing the psalms as Ambrose taught us, with the heart and with the voice."
-> — St. Augustine of Hippo, *Confessions*, IX.7
+> — St. Augustine of Hippo, _Confessions_, IX.7
 
 ---
 
@@ -145,7 +145,7 @@ St. Ambrose of Milan, Father and Doctor of the Church, was the bishop who baptiz
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Ambrose of Milan,
     pray for us.

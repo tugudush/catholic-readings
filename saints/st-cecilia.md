@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Cecilia** (Latin: *Cæcilia*; c. 200 – c. 230 A.D.) was a Roman virgin martyr who is venerated as the **patron saint of musicians, sacred music, and the blind**. Her association with music arose from the tradition that she sang to God in her heart during her wedding feast. She is one of the most revered early Roman martyrs, mentioned in the Roman Canon of the Mass. Her feast day is **22 November**.
+**St. Cecilia** (Latin: _Cæcilia_; c. 200 – c. 230 A.D.) was a Roman virgin martyr who is venerated as the **patron saint of musicians, sacred music, and the blind**. Her association with music arose from the tradition that she sang to God in her heart during her wedding feast. She is one of the most revered early Roman martyrs, mentioned in the Roman Canon of the Mass. Her feast day is **22 November**.
 
 > "Make music in your hearts to the Lord."
 > — St. Cecilia, echoing Ephesians 5:19
@@ -17,7 +17,7 @@
 
 ### Marriage and Vow of Virginity
 
-According to the traditional account (recorded in the *Acts of St. Cecilia*, 5th c.), Cecilia was a young Roman noblewoman who had secretly **consecrated her virginity to God** through a vow. She was betrothed against her will to a young pagan nobleman named **Valerian**. On her wedding night, she told Valerian that an angel guarded her body and that he would see the angel if he were baptized.
+According to the traditional account (recorded in the _Acts of St. Cecilia_, 5th c.), Cecilia was a young Roman noblewoman who had secretly **consecrated her virginity to God** through a vow. She was betrothed against her will to a young pagan nobleman named **Valerian**. On her wedding night, she told Valerian that an angel guarded her body and that he would see the angel if he were baptized.
 
 ### Conversion of Valerian and Tiburtius
 
@@ -47,22 +47,22 @@ Numerous musical societies, conservatories, and choirs are named after her. The 
 
 St. Cecilia is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
+| Patronage                   | Description               |
+| --------------------------- | ------------------------- |
 | **Musicians and Composers** | Her most famous patronage |
-| **Sacred Music and Choirs** | Church musicians |
-| **The Blind** | Traditional patronage |
-| **Acoustic Engineers** | Modern devotion |
-| **Poets** | Her connection to song |
+| **Sacred Music and Choirs** | Church musicians          |
+| **The Blind**               | Traditional patronage     |
+| **Acoustic Engineers**      | Modern devotion           |
+| **Poets**                   | Her connection to song    |
 
 ---
 
 ## 6. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Cecilia** | 22 November | Memorial | Principal feast |
-| **Byzantine Rite** | 22 November | — | Eastern Catholic celebration |
+| Feast                       | Date        | Rank     | Notes                        |
+| --------------------------- | ----------- | -------- | ---------------------------- |
+| **Memorial of St. Cecilia** | 22 November | Memorial | Principal feast              |
+| **Byzantine Rite**          | 22 November | —        | Eastern Catholic celebration |
 
 ---
 
@@ -80,13 +80,13 @@ St. Cecilia is traditionally depicted with:
 ## 8. Patristic and Magisterial Citations
 
 > "St. Cecilia, the patroness of music, teaches us that the highest song is the one sung in the heart to God."
-> — Pope Benedict XVI, *Homily*, 22 November 2005
+> — Pope Benedict XVI, _Homily_, 22 November 2005
 
 > "While the musicians played, Cecilia sang in her heart to the Lord."
-> — *Acts of St. Cecilia*, 5th century
+> — _Acts of St. Cecilia_, 5th century
 
 > "Sacred music, so closely associated with St. Cecilia, should lead the faithful to God through the beauty of the liturgy."
-> — Pope Pius XII, *Musicae Sacrae* (1955)
+> — Pope Pius XII, _Musicae Sacrae_ (1955)
 
 ---
 
@@ -111,7 +111,7 @@ St. Cecilia, virgin and martyr, is the patroness of musicians and sacred music b
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Cecilia, patroness of music,
     pray for us.

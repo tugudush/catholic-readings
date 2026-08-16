@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Thomas Aquinas** (Italian: *Tommaso d'Aquino*; Latin: *Thomas de Aquino*; 1225 – 7 March 1274) was an Italian Dominican friar, priest, and the most influential theologian of the Catholic Church. He is honoured as the **Angelic Doctor** (*Doctor Angelicus*), the **Universal Doctor** (*Doctor Communis*), and a **Doctor of the Church**. His masterwork, the ***Summa Theologica***, remains the definitive synthesis of Catholic theology. His feast day is **28 January**.
+**St. Thomas Aquinas** (Italian: _Tommaso d'Aquino_; Latin: _Thomas de Aquino_; 1225 – 7 March 1274) was an Italian Dominican friar, priest, and the most influential theologian of the Catholic Church. He is honoured as the **Angelic Doctor** (_Doctor Angelicus_), the **Universal Doctor** (_Doctor Communis_), and a **Doctor of the Church**. His masterwork, the _**Summa Theologica**_, remains the definitive synthesis of Catholic theology. His feast day is **28 January**.
 
 > "To one who has faith, no explanation is necessary. To one without faith, no explanation is possible."
 > — Attributed to St. Thomas Aquinas
@@ -49,7 +49,7 @@ Eventually, Thomas's family relented, and he returned to the Dominicans in **124
 
 ### Study Under Albert the Great
 
-In **Cologne**, Thomas studied under **St. Albert the Great** (*Albertus Magnus*), the greatest scholar of the age. Albert recognized Thomas's extraordinary intellect despite his silent, reserved manner. When a fellow student nicknamed Thomas the **"Dumb Ox"** (*Bos mutus*), Albert famously declared: "You call him a dumb ox, but I tell you that the whole world will hear his bellowing."
+In **Cologne**, Thomas studied under **St. Albert the Great** (_Albertus Magnus_), the greatest scholar of the age. Albert recognized Thomas's extraordinary intellect despite his silent, reserved manner. When a fellow student nicknamed Thomas the **"Dumb Ox"** (_Bos mutus_), Albert famously declared: "You call him a dumb ox, but I tell you that the whole world will hear his bellowing."
 
 ### Teaching at the University of Paris
 
@@ -65,25 +65,25 @@ Written as a manual for missionaries, this work presents Catholic doctrine in di
 
 ### The Summa Theologica (c. 1265–1273)
 
-The ***Summa Theologica*** is Thomas's magnum opus and the most comprehensive synthesis of Catholic theology ever written. It is structured in three parts:
+The _**Summa Theologica**_ is Thomas's magnum opus and the most comprehensive synthesis of Catholic theology ever written. It is structured in three parts:
 
-| Part | Subject | Content |
-|------|---------|---------|
-| **Prima Pars (I)** | God and Creation | The one God, the Trinity, creation, angels, the six days |
-| **Prima Secundae (I–II)** | The Moral Life | The ultimate end, human acts, grace, law, virtues |
-| **Secunda Secundae (II–II)** | The Virtues | Faith, hope, charity, prudence, justice, fortitude, temperance |
-| **Tertia Pars (III)** | Christ and the Sacraments | The Incarnation, the life of Christ, the seven sacraments |
+| Part                         | Subject                   | Content                                                        |
+| ---------------------------- | ------------------------- | -------------------------------------------------------------- |
+| **Prima Pars (I)**           | God and Creation          | The one God, the Trinity, creation, angels, the six days       |
+| **Prima Secundae (I–II)**    | The Moral Life            | The ultimate end, human acts, grace, law, virtues              |
+| **Secunda Secundae (II–II)** | The Virtues               | Faith, hope, charity, prudence, justice, fortitude, temperance |
+| **Tertia Pars (III)**        | Christ and the Sacraments | The Incarnation, the life of Christ, the seven sacraments      |
 
-The *Summa* employs Thomas's distinctive **scholastic method**: the presentation of objections (*videtur quod*), the citation of authority (*sed contra*), the reasoned argument (*respondeo*), and the replies to objections.
+The _Summa_ employs Thomas's distinctive **scholastic method**: the presentation of objections (_videtur quod_), the citation of authority (_sed contra_), the reasoned argument (_respondeo_), and the replies to objections.
 
 ### Eucharistic Hymns
 
 Commissioned by Pope Urban IV for the new feast of **Corpus Christi** (1264), Thomas composed some of the most beautiful Latin hymns of the liturgy, including:
 
-- ***Pange Lingua Gloriosi*** (the final verses of which form the *Tantum Ergo*)
-- ***Lauda Sion Salvatorem*** (the sequence for Corpus Christi)
-- ***Adoro Te Devote***
-- ***Verbum Supernum Prodiens*** (the final verses of which form the *O Salutaris Hostia*)
+- _**Pange Lingua Gloriosi**_ (the final verses of which form the _Tantum Ergo_)
+- _**Lauda Sion Salvatorem**_ (the sequence for Corpus Christi)
+- _**Adoro Te Devote**_
+- _**Verbum Supernum Prodiens**_ (the final verses of which form the _O Salutaris Hostia_)
 
 ---
 
@@ -91,7 +91,7 @@ Commissioned by Pope Urban IV for the new feast of **Corpus Christi** (1264), Th
 
 ### The Vision at Naples
 
-On **6 December 1273**, while celebrating Mass at the Chapel of St. Nicholas in Naples, Thomas experienced a profound vision. After this, he **stopped writing altogether**. When his secretary, Reginald of Piperno, urged him to continue the *Summa*, Thomas replied:
+On **6 December 1273**, while celebrating Mass at the Chapel of St. Nicholas in Naples, Thomas experienced a profound vision. After this, he **stopped writing altogether**. When his secretary, Reginald of Piperno, urged him to continue the _Summa_, Thomas replied:
 
 > "I cannot. Everything I have written seems like straw compared to what I have seen."
 
@@ -111,36 +111,36 @@ Pope Gregory X summoned Thomas to the **Second Council of Lyons** in 1274. While
 
 St. Thomas Aquinas is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Students and Scholars** | As the model of intellectual life |
-| **Catholic Universities and Schools** | Proclaimed patron in 1880 |
-| **Theologians and Apologists** | As the greatest theologian of the Church |
-| **Philosophers** | His synthesis of faith and reason |
-| **Booksellers and Publishers** | His prolific writings |
-| **Chastity** | His victory over temptation |
-| **Against Storms** | Traditional patronage |
+| Patronage                             | Description                              |
+| ------------------------------------- | ---------------------------------------- |
+| **Students and Scholars**             | As the model of intellectual life        |
+| **Catholic Universities and Schools** | Proclaimed patron in 1880                |
+| **Theologians and Apologists**        | As the greatest theologian of the Church |
+| **Philosophers**                      | His synthesis of faith and reason        |
+| **Booksellers and Publishers**        | His prolific writings                    |
+| **Chastity**                          | His victory over temptation              |
+| **Against Storms**                    | Traditional patronage                    |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                              | Date       | Rank     | Notes                                 |
+| ---------------------------------- | ---------- | -------- | ------------------------------------- |
 | **Memorial of St. Thomas Aquinas** | 28 January | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 28 January | — | Eastern Catholic celebration |
+| **Byzantine Rite**                 | 28 January | —        | Eastern Catholic celebration          |
 
 ---
 
 ## 9. The Five Ways
 
-In the *Summa Theologica* (I, q. 2, a. 3), Thomas presents **five proofs for the existence of God**, known as the **Five Ways** (*Quinque Viae*):
+In the _Summa Theologica_ (I, q. 2, a. 3), Thomas presents **five proofs for the existence of God**, known as the **Five Ways** (_Quinque Viae_):
 
-1. **Argument from Motion** (*Ex Motu*): There must be a First Mover.
-2. **Argument from Efficient Causation** (*Ex Causa*): There must be a First Cause.
-3. **Argument from Contingency** (*Ex Possibili et Necessario*): There must be a Necessary Being.
-4. **Argument from Degrees of Perfection** (*Ex Gradibus*): There must be a Perfect Being.
-5. **Argument from Design** (*Ex Fine*): There must be an Intelligent Designer.
+1. **Argument from Motion** (_Ex Motu_): There must be a First Mover.
+2. **Argument from Efficient Causation** (_Ex Causa_): There must be a First Cause.
+3. **Argument from Contingency** (_Ex Possibili et Necessario_): There must be a Necessary Being.
+4. **Argument from Degrees of Perfection** (_Ex Gradibus_): There must be a Perfect Being.
+5. **Argument from Design** (_Ex Fine_): There must be an Intelligent Designer.
 
 ---
 
@@ -150,10 +150,10 @@ In the *Summa Theologica* (I, q. 2, a. 3), Thomas presents **five proofs for the
 > — Pope Benedict XVI, General Audience, 16 June 2010
 
 > "The Church's teaching on the Eucharist is summed up in the hymns of St. Thomas Aquinas, which express the faith of the Church in the Real Presence."
-> — Pope John Paul II, *Ecclesia de Eucharistia* (2003)
+> — Pope John Paul II, _Ecclesia de Eucharistia_ (2003)
 
 > "The study of the philosophy and theology of St. Thomas Aquinas is a secure path to the truth."
-> — Pope Leo XIII, *Aeterni Patris* (1879)
+> — Pope Leo XIII, _Aeterni Patris_ (1879)
 
 > "The Church recommends the teaching of St. Thomas Aquinas as the norm for Catholic doctrine, especially in philosophy and theology."
 > — Catechism of the Catholic Church (cf. CCC 1776, 1858)
@@ -162,7 +162,7 @@ In the *Summa Theologica* (I, q. 2, a. 3), Thomas presents **five proofs for the
 
 ## 11. Prayer for Intercession
 
-St. Thomas Aquinas, the Angelic Doctor and the greatest theologian of the Catholic Church, composed the incomparable Eucharistic hymns *Pange Lingua*, *Adoro Te Devote*, and *Tantum Ergo* — and his *Summa Theologica* remains a pillar of Catholic intellectual tradition. The faithful seek his intercession for clarity of thought, for purity of heart (the angelic virtue for which he was girded by angels), for students and scholars, for those struggling with doubt, and for a deeper love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
+St. Thomas Aquinas, the Angelic Doctor and the greatest theologian of the Catholic Church, composed the incomparable Eucharistic hymns _Pange Lingua_, _Adoro Te Devote_, and _Tantum Ergo_ — and his _Summa Theologica_ remains a pillar of Catholic intellectual tradition. The faithful seek his intercession for clarity of thought, for purity of heart (the angelic virtue for which he was girded by angels), for students and scholars, for those struggling with doubt, and for a deeper love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
 
     O glorious St. Thomas Aquinas,
     Angelic Doctor and prince of theologians,
@@ -183,7 +183,7 @@ St. Thomas Aquinas, the Angelic Doctor and the greatest theologian of the Cathol
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Thomas Aquinas,
     pray for us.

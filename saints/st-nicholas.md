@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Nicholas of Myra** (Greek: ***Ἅγιος Νικόλαος***; Latin: *Sanctus Nicolaus*; c. 270 – 6 December 343 A.D.) was a fourth-century Christian bishop of **Myra** (modern-day Demre, Turkey). Known as **"Nicholas the Wonderworker"** for the many miracles attributed to his intercession, he is one of the most popular saints in both Eastern and Western Christianity, venerated by Catholics, Eastern Orthodox, Oriental Orthodox, and many Protestants. His legendary generosity—particularly giving gifts to the poor—evolved into the figure of **Santa Claus**. His feast day is **6 December**.
+**St. Nicholas of Myra** (Greek: _**Ἅγιος Νικόλαος**_; Latin: _Sanctus Nicolaus_; c. 270 – 6 December 343 A.D.) was a fourth-century Christian bishop of **Myra** (modern-day Demre, Turkey). Known as **"Nicholas the Wonderworker"** for the many miracles attributed to his intercession, he is one of the most popular saints in both Eastern and Western Christianity, venerated by Catholics, Eastern Orthodox, Oriental Orthodox, and many Protestants. His legendary generosity—particularly giving gifts to the poor—evolved into the figure of **Santa Claus**. His feast day is **6 December**.
 
 > "The best way to show our gratitude to God is to accept everything, even our problems, with joy."
 > — Attributed to St. Nicholas of Myra
@@ -77,27 +77,27 @@ In **1087**, Muslim Seljuk Turks controlled Myra, and Italian sailors from **Bar
 
 St. Nicholas is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Children** | His love for children and the three boys miracle |
-| **Sailors and Fishermen** | His calming of the storm |
-| **Merchants and Bankers** | The three bags of gold |
-| **The Poor and Unjustly Imprisoned** | His charitable works |
-| **Students and Scholars** | His reputation for wisdom |
-| **Bakers and Pawnbrokers** | The three gold balls (original symbol of pawnbrokers) |
-| **Russia** | Patron saint of Russia |
-| **Greece** | Widely venerated in Greece |
-| **Amsterdam, Liverpool, and Bari** | Patron of these cities |
+| Patronage                            | Description                                           |
+| ------------------------------------ | ----------------------------------------------------- |
+| **Children**                         | His love for children and the three boys miracle      |
+| **Sailors and Fishermen**            | His calming of the storm                              |
+| **Merchants and Bankers**            | The three bags of gold                                |
+| **The Poor and Unjustly Imprisoned** | His charitable works                                  |
+| **Students and Scholars**            | His reputation for wisdom                             |
+| **Bakers and Pawnbrokers**           | The three gold balls (original symbol of pawnbrokers) |
+| **Russia**                           | Patron saint of Russia                                |
+| **Greece**                           | Widely venerated in Greece                            |
+| **Amsterdam, Liverpool, and Bari**   | Patron of these cities                                |
 
 ---
 
 ## 7. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. Nicholas** | 6 December | Memorial | Principal feast |
-| **Translation of the Relics** | 9 May | Feast (in Bari) | Commemorates the arrival of relics in Bari |
-| **Byzantine Rite** | 6 December (principal); 9 May (Translation) | — | Major feast in Eastern Churches |
+| Feast                         | Date                                        | Rank            | Notes                                      |
+| ----------------------------- | ------------------------------------------- | --------------- | ------------------------------------------ |
+| **Memorial of St. Nicholas**  | 6 December                                  | Memorial        | Principal feast                            |
+| **Translation of the Relics** | 9 May                                       | Feast (in Bari) | Commemorates the arrival of relics in Bari |
+| **Byzantine Rite**            | 6 December (principal); 9 May (Translation) | —               | Major feast in Eastern Churches            |
 
 ---
 
@@ -121,13 +121,13 @@ St. Nicholas is traditionally depicted as a **bearded bishop** in Eastern vestme
 ## 10. Patristic and Magisterial Citations
 
 > "St. Nicholas, the Wonderworker of Myra, is a model of charity, especially towards the poor and children."
-> — Pope Benedict XVI, *Angelus*, 6 December 2010
+> — Pope Benedict XVI, _Angelus_, 6 December 2010
 
 > "The generosity of St. Nicholas points us to the ultimate generosity of God, who gave us His only Son."
-> — Pope Francis, *Homily*, 6 December 2013
+> — Pope Francis, _Homily_, 6 December 2013
 
 > "Nicholas, the holy bishop, is a light shining in the darkness of persecution and heresy."
-> — St. John Chrysostom, *Homily on St. Nicholas*
+> — St. John Chrysostom, _Homily on St. Nicholas_
 
 ---
 
@@ -152,7 +152,7 @@ St. Nicholas of Myra, the Wonderworker, is one of the most beloved saints in bot
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Nicholas of Myra,
     pray for us.

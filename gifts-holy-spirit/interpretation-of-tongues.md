@@ -40,10 +40,10 @@ The phrase "unless someone interprets" is crucial. It establishes that tongues-w
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Interpretation** | ἑρμηνεία (_hermēneia_) | Translation, explanation, unfolding of meaning — derived from ἑρμηνεύω (_hermēneuō_), "I interpret, I explain" |
-| **Tongues** | γλωσσῶν (_glōssōn_) | Languages — the charismatic utterances spoken under the Spirit's impulse |
+| Term                          | Greek                                  | Meaning                                                                                                                     |
+| ----------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Interpretation**            | ἑρμηνεία (_hermēneia_)                 | Translation, explanation, unfolding of meaning — derived from ἑρμηνεύω (_hermēneuō_), "I interpret, I explain"              |
+| **Tongues**                   | γλωσσῶν (_glōssōn_)                    | Languages — the charismatic utterances spoken under the Spirit's impulse                                                    |
 | **Interpretation of Tongues** | ἑρμηνεία γλωσσῶν (_hermēneia glōssōn_) | The Spirit-given ability to render a tongue intelligible — to convey its meaning in the vernacular language of the assembly |
 
 The word ἑρμηνεία appears elsewhere in the New Testament only at [1 Corinthians 14:26](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/), where St. Paul says that when the church assembles, "each one has... an interpretation" (ἑρμηνείαν ἔχει). The verb form appears in [Luke 24:27](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/), where Christ "interpreted" (διερμήνευσεν) the Scriptures concerning himself to the disciples on the road to Emmaus.
@@ -84,12 +84,12 @@ The interpretation of tongues serves precisely this end: it brings the charismat
 
 ### 4.3 The Hierarchy of Communicative Charisms (Revisited)
 
-| Charism | Mode | Edification |
-| --- | --- | --- |
-| **Prophecy** | Direct intelligible divine communication | Directly edifies all hearers |
-| **Tongues + Interpretation** | Mysterious utterance → intelligible meaning | Edifies all hearers through the interpreted message |
-| **Word of Wisdom / Knowledge** | Intelligible teaching | Edifies through instruction |
-| **Uninterpreted Tongues** | Mysterious utterance without interpretation | Edifies only the speaker, and imperfectly |
+| Charism                        | Mode                                        | Edification                                         |
+| ------------------------------ | ------------------------------------------- | --------------------------------------------------- |
+| **Prophecy**                   | Direct intelligible divine communication    | Directly edifies all hearers                        |
+| **Tongues + Interpretation**   | Mysterious utterance → intelligible meaning | Edifies all hearers through the interpreted message |
+| **Word of Wisdom / Knowledge** | Intelligible teaching                       | Edifies through instruction                         |
+| **Uninterpreted Tongues**      | Mysterious utterance without interpretation | Edifies only the speaker, and imperfectly           |
 
 Interpretation is therefore the **key** that unlocks the edifying potential of tongues. Without it, tongues are a locked door; with it, the door opens to the full benefit of the assembly.
 
@@ -131,13 +131,13 @@ The gift of [discernment of spirits](discernment-of-spirits.md) applies with par
 
 Criteria for testing an interpretation:
 
-| Authentic Interpretation | Inauthentic Interpretation |
-| --- | --- |
-| Conforms to Scripture and Tradition | Contradicts or "improves upon" the deposit of faith |
-| Builds up, encourages, consoles | Causes confusion, fear, or division |
-| Glorifies Christ and leads to Him | Draws attention to the interpreter or to novelty |
-| Consistent with the character of God as revealed in Christ | Portrays God as capricious, cruel, or inconsistent |
-| Accepted by mature believers after testing | Accepted only by the gullible; rejected by discerning believers |
+| Authentic Interpretation                                   | Inauthentic Interpretation                                      |
+| ---------------------------------------------------------- | --------------------------------------------------------------- |
+| Conforms to Scripture and Tradition                        | Contradicts or "improves upon" the deposit of faith             |
+| Builds up, encourages, consoles                            | Causes confusion, fear, or division                             |
+| Glorifies Christ and leads to Him                          | Draws attention to the interpreter or to novelty                |
+| Consistent with the character of God as revealed in Christ | Portrays God as capricious, cruel, or inconsistent              |
+| Accepted by mature believers after testing                 | Accepted only by the gullible; rejected by discerning believers |
 
 ---
 
@@ -145,12 +145,12 @@ Criteria for testing an interpretation:
 
 St. Paul's distribution of tongues and interpretation as **separate gifts** given to different persons is theologically significant:
 
-| Principle | Implication |
-| --- | --- |
-| **Mutual Dependence** | The tongue-speaker needs the interpreter; the interpreter needs the tongue-speaker. Neither is self-sufficient. This teaches the Body's interdependence ([1 Cor 12:21](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)). |
-| **Humility** | The tongue-speaker cannot claim that their utterance is "too spiritual to be understood." The very existence of the separate gift of interpretation proves that the Spirit intends tongues to be rendered intelligible. |
-| **Community Discernment** | Because interpretation comes through another person, the assembly can evaluate both the tongue and the interpretation. The message is tested by the community, not imposed by a single individual. |
-| **Christological Pattern** | The relationship mirrors the Incarnation: the transcendent Word (tongue) becomes intelligible through human mediation (interpretation), just as the eternal Logos became intelligible in the human nature of Christ. |
+| Principle                  | Implication                                                                                                                                                                                                                                          |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mutual Dependence**      | The tongue-speaker needs the interpreter; the interpreter needs the tongue-speaker. Neither is self-sufficient. This teaches the Body's interdependence ([1 Cor 12:21](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)). |
+| **Humility**               | The tongue-speaker cannot claim that their utterance is "too spiritual to be understood." The very existence of the separate gift of interpretation proves that the Spirit intends tongues to be rendered intelligible.                              |
+| **Community Discernment**  | Because interpretation comes through another person, the assembly can evaluate both the tongue and the interpretation. The message is tested by the community, not imposed by a single individual.                                                   |
+| **Christological Pattern** | The relationship mirrors the Incarnation: the transcendent Word (tongue) becomes intelligible through human mediation (interpretation), just as the eternal Logos became intelligible in the human nature of Christ.                                 |
 
 ### Can the Same Person Have Both Gifts?
 

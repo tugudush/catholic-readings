@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. George** (Greek: ***Γεώργιος***, *Georgios*; Latin: *Georgius*; c. 275/280 – 23 April 303 A.D.) was a Roman soldier and Christian martyr who has been venerated as one of the **Fourteen Holy Helpers** and one of the most prominent military saints in the Catholic and Orthodox traditions. His legendary victory over a dragon has made him a symbol of the triumph of good over evil. He is the **patron saint of England, Georgia, Portugal, and Catalonia**. His feast day is **23 April**.
+**St. George** (Greek: _**Γεώργιος**_, _Georgios_; Latin: _Georgius_; c. 275/280 – 23 April 303 A.D.) was a Roman soldier and Christian martyr who has been venerated as one of the **Fourteen Holy Helpers** and one of the most prominent military saints in the Catholic and Orthodox traditions. His legendary victory over a dragon has made him a symbol of the triumph of good over evil. He is the **patron saint of England, Georgia, Portugal, and Catalonia**. His feast day is **23 April**.
 
 > "I am a servant of Christ. I have come to do the will of God."
 > — St. George (from the traditional account of his trial)
@@ -29,7 +29,7 @@ In **303 A.D.**, Diocletian issued an edict ordering the persecution of all Chri
 
 ### The Trial
 
-According to the traditional account (including the *Acta Sanctorum*), George was subjected to a series of tortures over **seven years**:
+According to the traditional account (including the _Acta Sanctorum_), George was subjected to a series of tortures over **seven years**:
 
 1. **Laceration on a wheel of swords** (the "wheel of martyrdom").
 2. **Burning with torches**.
@@ -49,7 +49,7 @@ On **23 April 303 A.D.**, after confessing Christ one final time, George was **b
 
 ## 4. The Dragon Legend
 
-The most famous legend associated with St. George—the **dragon**—first appears in Western sources in the 11th–12th centuries (the *Golden Legend* of Jacobus de Voragine, c. 1260). According to the story:
+The most famous legend associated with St. George—the **dragon**—first appears in Western sources in the 11th–12th centuries (the _Golden Legend_ of Jacobus de Voragine, c. 1260). According to the story:
 
 - A dragon terrorized the city of **Silene** in Libya, demanding human sacrifices.
 - The lot fell upon the **king's daughter** to be sacrificed.
@@ -65,26 +65,26 @@ This legend is understood allegorically as representing the victory of Christ (t
 
 St. George is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **England** | Principal patron; St. George's Cross is the flag of England |
-| **Georgia** | Country named after him (Georgians adopted him as patron) |
-| **Portugal** | Patron saint of Portugal |
-| **Catalonia** | Patron saint (*Sant Jordi*) |
-| **Soldiers and the Military** | As a military saint |
-| **Scouts** | Chivalric ideal |
-| **Farmers and Agricultural Workers** | His name means "farmer" or "earth-worker" |
-| **Those Suffering from Leprosy and Plague** | Invoked against these diseases |
-| **Knights and Chivalry** | Patron of knighthood and the Order of the Garter |
+| Patronage                                   | Description                                                 |
+| ------------------------------------------- | ----------------------------------------------------------- |
+| **England**                                 | Principal patron; St. George's Cross is the flag of England |
+| **Georgia**                                 | Country named after him (Georgians adopted him as patron)   |
+| **Portugal**                                | Patron saint of Portugal                                    |
+| **Catalonia**                               | Patron saint (_Sant Jordi_)                                 |
+| **Soldiers and the Military**               | As a military saint                                         |
+| **Scouts**                                  | Chivalric ideal                                             |
+| **Farmers and Agricultural Workers**        | His name means "farmer" or "earth-worker"                   |
+| **Those Suffering from Leprosy and Plague** | Invoked against these diseases                              |
+| **Knights and Chivalry**                    | Patron of knighthood and the Order of the Garter            |
 
 ---
 
 ## 6. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Memorial of St. George** | 23 April | Memorial; Solemnity in England | Principal feast |
-| **Byzantine Rite** | 23 April (principal); 26 November (Dedication of Church in Lydda) | — | Major feast in Eastern Churches |
+| Feast                      | Date                                                              | Rank                           | Notes                           |
+| -------------------------- | ----------------------------------------------------------------- | ------------------------------ | ------------------------------- |
+| **Memorial of St. George** | 23 April                                                          | Memorial; Solemnity in England | Principal feast                 |
+| **Byzantine Rite**         | 23 April (principal); 26 November (Dedication of Church in Lydda) | —                              | Major feast in Eastern Churches |
 
 ---
 
@@ -115,13 +115,13 @@ St. George is traditionally depicted as a **Roman soldier on horseback**, slayin
 ## 9. Patristic and Magisterial Citations
 
 > "St. George is a model of courage and faith, a soldier who gave his life for Christ."
-> — Pope Benedict XVI, *Angelus*, 23 April 2007
+> — Pope Benedict XVI, _Angelus_, 23 April 2007
 
 > "The example of St. George reminds us that the victory of good over evil is won through the Cross of Christ."
-> — Pope Francis, *Homily*, 23 April 2015
+> — Pope Francis, _Homily_, 23 April 2015
 
 > "St. George is honoured in both East and West as a martyr who witnessed courageously to Christ."
-> — Pope John Paul II, *Address*, 23 April 2001
+> — Pope John Paul II, _Address_, 23 April 2001
 
 ---
 
@@ -146,7 +146,7 @@ St. George, the Great Martyr and dragon-slayer, is one of the most widely venera
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. George, Great Martyr,
     pray for us.

@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Gregory the Great** (Latin: *Gregorius Magnus*; c. 540 – 12 March 604 A.D.) was **Pope from 590 to 604** and one of the four **Great Doctors of the Latin Church** (with Augustine, Ambrose, and Jerome). He is known for his reform of the liturgy, his missionary initiatives (including the sending of St. Augustine of Canterbury to England), his prolific writings, and his development of **Gregorian chant**. His feast day is **3 September** (formerly 12 March).
+**St. Gregory the Great** (Latin: _Gregorius Magnus_; c. 540 – 12 March 604 A.D.) was **Pope from 590 to 604** and one of the four **Great Doctors of the Latin Church** (with Augustine, Ambrose, and Jerome). He is known for his reform of the liturgy, his missionary initiatives (including the sending of St. Augustine of Canterbury to England), his prolific writings, and his development of **Gregorian chant**. His feast day is **3 September** (formerly 12 March).
 
 > "The Scriptures are a river in which the lamb may wade and the elephant may swim."
 > — St. Gregory the Great
@@ -33,7 +33,7 @@ After his father's death, Gregory converted his family mansion into a **Benedict
 
 ### The Papal Representative
 
-Pope Benedict I ordained Gregory as a **deacon** and sent him as his representative (*apocrisiarius*) to the imperial court in **Constantinople**, where he served for about six years.
+Pope Benedict I ordained Gregory as a **deacon** and sent him as his representative (_apocrisiarius_) to the imperial court in **Constantinople**, where he served for about six years.
 
 ---
 
@@ -57,19 +57,19 @@ Gregory is credited with major reforms of the Roman liturgy, including:
 
 ### The Pastoral Care of the Church
 
-Gregory wrote ***Regula Pastoralis*** (*Pastoral Rule*), a handbook for bishops on the care of souls, which became a standard text throughout the Middle Ages. He also reorganized the administration of the Church's vast estates (the Patrimony of St. Peter) to feed the poor and ransom captives.
+Gregory wrote _**Regula Pastoralis**_ (_Pastoral Rule_), a handbook for bishops on the care of souls, which became a standard text throughout the Middle Ages. He also reorganized the administration of the Church's vast estates (the Patrimony of St. Peter) to feed the poor and ransom captives.
 
 ---
 
 ## 5. Major Works
 
-| Work | Content |
-|------|---------|
-| ***Regula Pastoralis*** (Pastoral Rule) | A manual on the duties of a bishop and the care of souls |
-| ***Moralia in Job*** | A comprehensive commentary on the Book of Job |
-| ***Homilies on the Gospels*** | Forty homilies on the Gospels for the liturgical year |
-| ***Homilies on Ezechiel*** | Homilies on the prophet Ezekiel |
-| ***Dialogues*** | Four books on the lives and miracles of Italian saints, including St. Benedict |
+| Work                                    | Content                                                                        |
+| --------------------------------------- | ------------------------------------------------------------------------------ |
+| _**Regula Pastoralis**_ (Pastoral Rule) | A manual on the duties of a bishop and the care of souls                       |
+| _**Moralia in Job**_                    | A comprehensive commentary on the Book of Job                                  |
+| _**Homilies on the Gospels**_           | Forty homilies on the Gospels for the liturgical year                          |
+| _**Homilies on Ezechiel**_              | Homilies on the prophet Ezekiel                                                |
+| _**Dialogues**_                         | Four books on the lives and miracles of Italian saints, including St. Benedict |
 
 ---
 
@@ -83,22 +83,22 @@ Gregory died on **12 March 604** after a long and painful illness. He was buried
 
 St. Gregory the Great is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Popes and Church Leaders** | As a model pope |
-| **Musicians and Chanters** | His development of Gregorian chant |
-| **Teachers and Students** | His prolific writings |
-| **England** | As the architect of the English mission |
-| **Against Plague** | His intercession during the plague of 590 |
+| Patronage                    | Description                               |
+| ---------------------------- | ----------------------------------------- |
+| **Popes and Church Leaders** | As a model pope                           |
+| **Musicians and Chanters**   | His development of Gregorian chant        |
+| **Teachers and Students**    | His prolific writings                     |
+| **England**                  | As the architect of the English mission   |
+| **Against Plague**           | His intercession during the plague of 590 |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                                 | Date        | Rank     | Notes                                 |
+| ------------------------------------- | ----------- | -------- | ------------------------------------- |
 | **Memorial of St. Gregory the Great** | 3 September | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 12 March | — | Eastern Catholic celebration |
+| **Byzantine Rite**                    | 12 March    | —        | Eastern Catholic celebration          |
 
 ---
 
@@ -108,16 +108,16 @@ St. Gregory the Great is the patron saint of:
 > — Pope Benedict XVI, General Audience, 4 March 2008
 
 > "Gregory's Pastoral Rule remains a guide for all who exercise authority in the Church."
-> — Pope John Paul II, *Address*, 3 September 1995
+> — Pope John Paul II, _Address_, 3 September 1995
 
 > "Gregory sent Augustine to England and so began the conversion of the English people."
-> — Venerable Bede, *Ecclesiastical History of the English People*
+> — Venerable Bede, _Ecclesiastical History of the English People_
 
 ---
 
 ## 10. Prayer for Intercession
 
-St. Gregory the Great, Pope and Doctor of the Church, is one of the four great Latin Fathers and the architect of medieval Christendom. He reformed the liturgy (giving his name to Gregorian chant), sent St. Augustine of Canterbury to evangelize England, wrote the *Pastoral Rule* that shaped bishoply ministry for a millennium, and served the poor of Rome with his own hands. The faithful seek his intercession for the Holy Father, for those who serve in liturgical music, for the conversion of nations, and for the grace of humble and faithful pastoral leadership. The following prayer may be used to seek his intercession:
+St. Gregory the Great, Pope and Doctor of the Church, is one of the four great Latin Fathers and the architect of medieval Christendom. He reformed the liturgy (giving his name to Gregorian chant), sent St. Augustine of Canterbury to evangelize England, wrote the _Pastoral Rule_ that shaped bishoply ministry for a millennium, and served the poor of Rome with his own hands. The faithful seek his intercession for the Holy Father, for those who serve in liturgical music, for the conversion of nations, and for the grace of humble and faithful pastoral leadership. The following prayer may be used to seek his intercession:
 
     O glorious St. Gregory the Great,
     Pope and Doctor of the Church,
@@ -140,7 +140,7 @@ St. Gregory the Great, Pope and Doctor of the Church, is one of the four great L
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Gregory the Great,
     pray for us.

@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Rita of Cascia** (Italian: *Rita da Cascia*; Latin: *Rita Casciensis*; 1381 – 22 May 1457), born **Margherita Lotti**, was an Italian Augustinian nun who is venerated as the **patron saint of impossible causes, desperate situations, and marital difficulties**. Her life—as a wife, mother, widow, and nun—is a remarkable witness to faith, forgiveness, and perseverance through suffering. Her feast day is **22 May**.
+**St. Rita of Cascia** (Italian: _Rita da Cascia_; Latin: _Rita Casciensis_; 1381 – 22 May 1457), born **Margherita Lotti**, was an Italian Augustinian nun who is venerated as the **patron saint of impossible causes, desperate situations, and marital difficulties**. Her life—as a wife, mother, widow, and nun—is a remarkable witness to faith, forgiveness, and perseverance through suffering. Her feast day is **22 May**.
 
 > "If God permits me to suffer, He will also give me the strength to bear it."
 > — St. Rita of Cascia
@@ -81,22 +81,22 @@ Rita died on **22 May 1457** at the Convent of St. Mary Magdalene in Cascia. Her
 
 St. Rita of Cascia is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Impossible and Desperate Causes** | Her most famous patronage |
-| **Abused and Battered Spouses** | Her own difficult marriage |
-| **Widows and Single Mothers** | Her experience of widowhood |
-| **Difficult Marriages** | Her intercession for troubled marriages |
-| **Wounds and Injuries** | Her own mystical wound |
-| **Parents** | Her prayer for her sons' souls |
-| **Against Infertility** | Her own parents' long wait for a child |
+| Patronage                           | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| **Impossible and Desperate Causes** | Her most famous patronage               |
+| **Abused and Battered Spouses**     | Her own difficult marriage              |
+| **Widows and Single Mothers**       | Her experience of widowhood             |
+| **Difficult Marriages**             | Her intercession for troubled marriages |
+| **Wounds and Injuries**             | Her own mystical wound                  |
+| **Parents**                         | Her prayer for her sons' souls          |
+| **Against Infertility**             | Her own parents' long wait for a child  |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                              | Date   | Rank     | Notes           |
+| ---------------------------------- | ------ | -------- | --------------- |
 | **Memorial of St. Rita of Cascia** | 22 May | Memorial | Principal feast |
 
 ---
@@ -110,13 +110,13 @@ On St. Rita's feast day (22 May), roses are traditionally blessed and distribute
 ## 10. Patristic and Magisterial Citations
 
 > "St. Rita lived the Gospel in its fullest sense. Her life of suffering, forgiveness, and prayer is a model for all."
-> — Pope John Paul II, *Homily*, 22 May 2000
+> — Pope John Paul II, _Homily_, 22 May 2000
 
 > "Rita of Cascia teaches us that faith can transform the most difficult situations into opportunities for grace."
-> — Pope Francis, *Angelus*, 22 May 2016
+> — Pope Francis, _Angelus_, 22 May 2016
 
 > "God gives us trials to purify our love and to draw us closer to Him. St. Rita is a witness to this truth."
-> — Pope Benedict XVI, *General Audience*, 21 May 2008
+> — Pope Benedict XVI, _General Audience_, 21 May 2008
 
 ---
 
@@ -143,7 +143,7 @@ St. Rita of Cascia, the patroness of impossible and desperate causes, knew suffe
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Rita of Cascia,
     pray for us.

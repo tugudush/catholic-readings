@@ -129,15 +129,15 @@ A closely related question follows from the discussion above: now that Satan has
 
 Catholic doctrine distinguishes between an angel's **natural perfection** (its created spiritual intelligence, strength, and mode of acting) and its **supernatural life** (grace, friendship with God, and beatitude). The fall severs the latter but leaves the former intact.
 
-The *Catholic Encyclopedia* (s.v. "Devil") states this explicitly:
+The _Catholic Encyclopedia_ (s.v. "Devil") states this explicitly:
 
-> *"The fall of the angels did not impair their natural powers... Lucifer still retained the gifts that enabled him to influence his brethren before their fall."*
+> _"The fall of the angels did not impair their natural powers... Lucifer still retained the gifts that enabled him to influence his brethren before their fall."_
 
 The Catechism (CCC 391–395) confirms that the fallen angels were **created good by nature** and **became evil by their own doing** — their nature is not destroyed, only their orientation to God.
 
 ### The Natural Hierarchy Persists After the Fall
 
-St. Thomas Aquinas (*Summa Theologiae* I, q. 109, a. 1) teaches that the natural inequality among angels persists even after the fall. Since sin does not destroy nature, the differences in natural capacity between a high-ranking angel (such as a Cherub) and a lower-ranking one (such as an Archangel or Guardian Angel) remain. On this view:
+St. Thomas Aquinas (_Summa Theologiae_ I, q. 109, a. 1) teaches that the natural inequality among angels persists even after the fall. Since sin does not destroy nature, the differences in natural capacity between a high-ranking angel (such as a Cherub) and a lower-ranking one (such as an Archangel or Guardian Angel) remain. On this view:
 
 - A **fallen Cherub** (Satan, according to the most common traditional view) retains the **native intellectual power, spiritual strength, and capacity** of the Cherubic order.
 - This means he remains **naturally superior** in these respects to an **unfallen Archangel** (e.g., St. Michael, St. Gabriel, St. Raphael) and even more so to a **common Guardian Angel** (the lowest choir).
@@ -150,24 +150,24 @@ While Satan retains his natural superiority, Catholic tradition introduces three
 
 **1. Victory comes through God, not natural rank**
 
-In Revelation 12:7–9, it is **St. Michael and his angels** — St. Michael is an **Archangel**, of the second-lowest choir — who defeat Satan and cast him out of heaven. This is not because Archangels naturally outrank Cherubim, but because they fight **under God's authority**. The victory is God's, not a matter of angelic power tiers. As St. Paul writes, *"The God of peace will soon crush Satan under your feet"* (Rom 16:20).
+In Revelation 12:7–9, it is **St. Michael and his angels** — St. Michael is an **Archangel**, of the second-lowest choir — who defeat Satan and cast him out of heaven. This is not because Archangels naturally outrank Cherubim, but because they fight **under God's authority**. The victory is God's, not a matter of angelic power tiers. As St. Paul writes, _"The God of peace will soon crush Satan under your feet"_ (Rom 16:20).
 
 **2. The unfallen angels are confirmed in grace**
 
-While Satan lost grace irrevocably, the good angels who remained faithful were **confirmed in grace** by God after the trial of the faithful angels (Augustine, *Enchiridion* 28; cf. CCC 393). This means the good angels possess something Satan cannot have: **union with God**, which elevates and perfects their natural operations. An unfallen Guardian Angel, though lower by nature, acts as an instrument of divine omnipotence.
+While Satan lost grace irrevocably, the good angels who remained faithful were **confirmed in grace** by God after the trial of the faithful angels (Augustine, _Enchiridion_ 28; cf. CCC 393). This means the good angels possess something Satan cannot have: **union with God**, which elevates and perfects their natural operations. An unfallen Guardian Angel, though lower by nature, acts as an instrument of divine omnipotence.
 
 **3. Satan acts only by divine permission**
 
-The Catechism (CCC 395) teaches that Satan's power is **not infinite** — he cannot prevent the building of God's Kingdom. He *"acts only by God's permission"* and is ultimately subordinate to divine Providence. A Guardian Angel, by contrast, acts in **direct obedience to God's will** for the salvation of the soul entrusted to its care.
+The Catechism (CCC 395) teaches that Satan's power is **not infinite** — he cannot prevent the building of God's Kingdom. He _"acts only by God's permission"_ and is ultimately subordinate to divine Providence. A Guardian Angel, by contrast, acts in **direct obedience to God's will** for the salvation of the soul entrusted to its care.
 
 ### Summary Comparison
 
-| Dimension | Satan (Fallen Cherub) | St. Michael (Unfallen Archangel) | Guardian Angel (Unfallen, lowest choir) |
-|-----------|----------------------|----------------------------------|----------------------------------------|
-| **Natural rank** | Higher (Cherub, first triad) | Lower (Archangel, third triad) | Lowest (Angel, third triad) |
-| **Natural power** | Retains full native capacity | Full native capacity | Full native capacity |
-| **Supernatural grace** | Irreparably lost | Confirmed in grace | Confirmed in grace |
-| **Source of victory** | Defeated by God's power | Triumphs by God's authority, not own rank | Protects the soul by God's authority |
-| **Scope of action** | Acts only by divine permission | Acts in direct obedience to God | Acts in direct obedience to God |
+| Dimension              | Satan (Fallen Cherub)          | St. Michael (Unfallen Archangel)          | Guardian Angel (Unfallen, lowest choir) |
+| ---------------------- | ------------------------------ | ----------------------------------------- | --------------------------------------- |
+| **Natural rank**       | Higher (Cherub, first triad)   | Lower (Archangel, third triad)            | Lowest (Angel, third triad)             |
+| **Natural power**      | Retains full native capacity   | Full native capacity                      | Full native capacity                    |
+| **Supernatural grace** | Irreparably lost               | Confirmed in grace                        | Confirmed in grace                      |
+| **Source of victory**  | Defeated by God's power        | Triumphs by God's authority, not own rank | Protects the soul by God's authority    |
+| **Scope of action**    | Acts only by divine permission | Acts in direct obedience to God           | Acts in direct obedience to God         |
 
-**Bottom line:** Yes, Satan retains the **natural superiority** of his original high rank — he is naturally more powerful than an Archangel or a Guardian Angel. But that does not mean he can overcome them. The good angels, though lower in natural order, are **confirmed in grace**, act under **God's direct authority**, and ultimately prevail because their power is not their own — it is God's. As the *Catholic Encyclopedia* summarizes: *"The devil's power is great, but it is not equal to God's; it is limited and can be overcome by the grace of Christ."*
+**Bottom line:** Yes, Satan retains the **natural superiority** of his original high rank — he is naturally more powerful than an Archangel or a Guardian Angel. But that does not mean he can overcome them. The good angels, though lower in natural order, are **confirmed in grace**, act under **God's direct authority**, and ultimately prevail because their power is not their own — it is God's. As the _Catholic Encyclopedia_ summarizes: _"The devil's power is great, but it is not equal to God's; it is limited and can be overcome by the grace of Christ."_

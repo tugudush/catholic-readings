@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Jerome** (Latin: *Eusebius Sophronius Hieronymus*; Greek: ***Εὐσέβιος Σωφρόνιος Ἱερώνυμος***; c. 347 – 30 September 420 A.D.) was a Roman Catholic priest, theologian, and **Doctor of the Church** (one of the four Great Doctors of the Latin Church). He is best known for his translation of the Bible into Latin—the **Vulgate**—which became the authoritative biblical text for the Western Church for over a millennium. His feast day is **30 September**.
+**St. Jerome** (Latin: _Eusebius Sophronius Hieronymus_; Greek: _**Εὐσέβιος Σωφρόνιος Ἱερώνυμος**_; c. 347 – 30 September 420 A.D.) was a Roman Catholic priest, theologian, and **Doctor of the Church** (one of the four Great Doctors of the Latin Church). He is best known for his translation of the Bible into Latin—the **Vulgate**—which became the authoritative biblical text for the Western Church for over a millennium. His feast day is **30 September**.
 
 > "Ignorance of Scripture is ignorance of Christ."
 > — St. Jerome
@@ -59,7 +59,7 @@ Jerome gathered a group of noble Roman women—including **St. Paula, St. Eustoc
 
 ### The Commission
 
-Pope Damasus commissioned Jerome to produce a reliable Latin translation of the Bible to replace the various and often inconsistent Old Latin (*Vetus Latina*) versions in circulation.
+Pope Damasus commissioned Jerome to produce a reliable Latin translation of the Bible to replace the various and often inconsistent Old Latin (_Vetus Latina_) versions in circulation.
 
 ### Method
 
@@ -67,11 +67,11 @@ Jerome's translation method was groundbreaking:
 
 - For the **Gospels**: He revised the Old Latin text against the Greek originals.
 - For the **Old Testament**: He translated directly from the **Hebrew** (rather than the Greek Septuagint), consulting Jewish rabbis for difficult passages. This was controversial at the time, as most Christians considered the Septuagint the inspired version.
-- For the **Psalms**: He produced three versions: the *Roman Psalter* (a light revision), the *Gallican Psalter* (a revision from the Septuagint), and the *Hebrew Psalter* (translated from Hebrew).
+- For the **Psalms**: He produced three versions: the _Roman Psalter_ (a light revision), the _Gallican Psalter_ (a revision from the Septuagint), and the _Hebrew Psalter_ (translated from Hebrew).
 
 ### Completion
 
-Jerome completed his translation of the entire Bible around **405 A.D.**, after twenty years of labour. The **Vulgate** (from Latin *vulgatus*, "common/popular") became the standard Latin Bible and was declared the authentic Latin text of the Church by the **Council of Trent** (1546).
+Jerome completed his translation of the entire Bible around **405 A.D.**, after twenty years of labour. The **Vulgate** (from Latin _vulgatus_, "common/popular") became the standard Latin Bible and was declared the authentic Latin text of the Church by the **Council of Trent** (1546).
 
 ---
 
@@ -87,7 +87,7 @@ Jerome established a **monastery** for men and **three convents** for women in B
 
 ### The Translations and Commentaries
 
-In Bethlehem, Jerome continued his translation work and produced extensive biblical commentaries on nearly every book of the Bible, including *Commentaries on Isaiah, Jeremiah, Ezekiel, Daniel, Matthew, Galatians, Ephesians, Titus, and Philemon*.
+In Bethlehem, Jerome continued his translation work and produced extensive biblical commentaries on nearly every book of the Bible, including _Commentaries on Isaiah, Jeremiah, Ezekiel, Daniel, Matthew, Galatians, Ephesians, Titus, and Philemon_.
 
 ---
 
@@ -112,22 +112,22 @@ Jerome died on **30 September 420 A.D.** in Bethlehem, surrounded by his monks. 
 
 St. Jerome is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Scripture Scholars and Translators** | His biblical work |
-| **Librarians and Archivists** | His scholarly library |
-| **Students and Teachers** | His lifelong learning |
-| **Theologians and Apologists** | His doctrinal writings |
-| **Those Suffering from Migraines** | Traditional patronage |
+| Patronage                              | Description            |
+| -------------------------------------- | ---------------------- |
+| **Scripture Scholars and Translators** | His biblical work      |
+| **Librarians and Archivists**          | His scholarly library  |
+| **Students and Teachers**              | His lifelong learning  |
+| **Theologians and Apologists**         | His doctrinal writings |
+| **Those Suffering from Migraines**     | Traditional patronage  |
 
 ---
 
 ## 10. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                      | Date         | Rank     | Notes                                 |
+| -------------------------- | ------------ | -------- | ------------------------------------- |
 | **Memorial of St. Jerome** | 30 September | Memorial | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 15 June | — | Eastern Catholic celebration |
+| **Byzantine Rite**         | 15 June      | —        | Eastern Catholic celebration          |
 
 ---
 
@@ -137,10 +137,10 @@ St. Jerome is the patron saint of:
 > — Pope Benedict XVI, General Audience, 7 November 2007
 
 > "The Vulgate translation of St. Jerome has nourished the faith of countless Christians and shaped the language of the Latin Church."
-> — Pope Paul VI, *Homily*, 30 September 1973
+> — Pope Paul VI, _Homily_, 30 September 1973
 
 > "St. Jerome shows us the importance of the Word of God in the life of the Church and the need to read Scripture with the heart."
-> — Pope John Paul II, *Address*, 30 September 1995
+> — Pope John Paul II, _Address_, 30 September 1995
 
 ---
 
@@ -166,7 +166,7 @@ St. Jerome, Father and Doctor of the Church, was the greatest biblical scholar o
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Jerome,
     pray for us.

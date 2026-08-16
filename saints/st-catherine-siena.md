@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Catherine of Siena** (Italian: *Caterina da Siena*; Latin: *Catharina Senensis*; 25 March 1347 – 29 April 1380), born **Caterina di Jacopo di Benincasa**, was an Italian Dominican tertiary, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She was one of the most influential women of the Middle Ages, known for her role in ending the Avignon Papacy, her spiritual writings including ***The Dialogue***, and her profound mystical union with Christ. Her feast day is **29 April**.
+**St. Catherine of Siena** (Italian: _Caterina da Siena_; Latin: _Catharina Senensis_; 25 March 1347 – 29 April 1380), born **Caterina di Jacopo di Benincasa**, was an Italian Dominican tertiary, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She was one of the most influential women of the Middle Ages, known for her role in ending the Avignon Papacy, her spiritual writings including _**The Dialogue**_, and her profound mystical union with Christ. Her feast day is **29 April**.
 
 > "Be who God meant you to be and you will set the world on fire."
 > — Attributed to St. Catherine of Siena
@@ -55,7 +55,7 @@ Catherine gathered a circle of followers—including her confessor **Bl. Raymond
 
 ## 5. The Dialogue
 
-Catherine's most famous work, ***The Dialogue of Divine Providence*** (c. 1378), is a series of mystical conversations between Catherine and God the Father. It covers:
+Catherine's most famous work, _**The Dialogue of Divine Providence**_ (c. 1378), is a series of mystical conversations between Catherine and God the Father. It covers:
 
 - Divine Providence and the salvation of souls
 - The role of Christ as the Bridge between heaven and earth
@@ -85,36 +85,36 @@ She was buried in the cemetery of **Santa Maria sopra Minerva** in Rome, but her
 
 St. Catherine of Siena is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Europe** | Proclaimed co-patroness of Europe by Pope John Paul II in 1999 |
-| **Italy** | Co-patroness of Italy with St. Francis of Assisi |
-| **The Sick and Nurses** | Her work in hospitals during the plague |
-| **Against Fire and Miscarriage** | Traditional patronage |
-| **Temptations** | Her victorious spiritual warfare |
-| **Nursing Services** | Her care for the sick |
+| Patronage                        | Description                                                    |
+| -------------------------------- | -------------------------------------------------------------- |
+| **Europe**                       | Proclaimed co-patroness of Europe by Pope John Paul II in 1999 |
+| **Italy**                        | Co-patroness of Italy with St. Francis of Assisi               |
+| **The Sick and Nurses**          | Her work in hospitals during the plague                        |
+| **Against Fire and Miscarriage** | Traditional patronage                                          |
+| **Temptations**                  | Her victorious spiritual warfare                               |
+| **Nursing Services**             | Her care for the sick                                          |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
+| Feast                               | Date     | Rank  | Notes                                 |
+| ----------------------------------- | -------- | ----- | ------------------------------------- |
 | **Feast of St. Catherine of Siena** | 29 April | Feast | Principal feast; Doctor of the Church |
-| **Byzantine Rite** | 29 April | — | Eastern Catholic celebration |
+| **Byzantine Rite**                  | 29 April | —     | Eastern Catholic celebration          |
 
 ---
 
 ## 9. Patristic and Magisterial Citations
 
 > "St. Catherine of Siena, a woman of extraordinary courage and wisdom, was instrumental in the return of the Pope to Rome."
-> — Pope Paul VI, *Apostolic Letter*, 1970
+> — Pope Paul VI, _Apostolic Letter_, 1970
 
 > "Catherine teaches us that the more we love God, the more we are drawn to serve our neighbour."
 > — Pope Benedict XVI, General Audience, 24 November 2010
 
 > "She is a shining example of how faith in God can inspire a person to become a force for peace and renewal in the Church."
-> — Pope John Paul II, *Proclamation of Co-Patroness of Europe*, 1999
+> — Pope John Paul II, _Proclamation of Co-Patroness of Europe_, 1999
 
 ---
 
@@ -141,7 +141,7 @@ St. Catherine of Siena, the seraphic virgin and Doctor of the Church, was a fier
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Catherine of Siena,
     pray for us.

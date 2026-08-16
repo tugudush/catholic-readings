@@ -126,6 +126,7 @@ After the martyrdom, the faithful requested Polycarp's body. The Jews and pagans
 > "We later took up his bones, more valuable than precious stones and finer than refined gold, and laid them in a fitting place, where, gathering together as we are able, with joy and gladness, the Lord will permit us to celebrate the birthday of his martyrdom."
 
 This passage is the **earliest explicit witness** to the Catholic practices of:
+
 - **Veneration of relics** (the bones of the martyrs as sacred objects)
 - **Celebration of feast days** (the "birthday" or _dies natalis_ of the saint's entry into heaven)
 - **Communal veneration** of the saints at their tombs

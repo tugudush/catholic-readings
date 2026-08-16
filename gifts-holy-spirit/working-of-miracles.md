@@ -36,11 +36,11 @@ St. Paul himself appeals to "signs and wonders and mighty works" as authenticati
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Workings / Operations** | ἐνεργήματα (_energēmata_) | Effective, powerful operations — from ἐνεργέω, "I work, I energize" |
-| **Powers / Mighty Deeds** | δυνάμεων (_dynameōn_) | Miraculous powers, mighty acts — from δύναμις, "power, might, miracle" |
-| **Working of Miracles** | ἐνεργήματα δυνάμεων (_energēmata dynameōn_) | Operations of miraculous power — extraordinary divine acts that transcend the powers of created nature |
+| Term                      | Greek                                       | Meaning                                                                                                |
+| ------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Workings / Operations** | ἐνεργήματα (_energēmata_)                   | Effective, powerful operations — from ἐνεργέω, "I work, I energize"                                    |
+| **Powers / Mighty Deeds** | δυνάμεων (_dynameōn_)                       | Miraculous powers, mighty acts — from δύναμις, "power, might, miracle"                                 |
+| **Working of Miracles**   | ἐνεργήματα δυνάμεων (_energēmata dynameōn_) | Operations of miraculous power — extraordinary divine acts that transcend the powers of created nature |
 
 The plural δυνάμεων suggests a diversity of miraculous operations: not one kind of miracle but many, distributed by the one Spirit as He wills.
 
@@ -79,11 +79,11 @@ For Aquinas, a miracle (_miraculum_) is an effect produced by God **beyond the o
 
 Aquinas classifies miracles into three degrees (_Summa Theologiae_ I, q. 105, a. 8):
 
-| Degree | Description | Example |
-| --- | --- | --- |
-| **Highest** | What nature can never do | The Incarnation; the glorification of a mortal body; two bodies occupying the same space |
-| **Middle** | What nature can do, but not in this order | Raising the dead (nature can produce life, but not restore it to a corpse) |
-| **Lowest** | What nature can do, but without the natural means | Healing instantly without medicine; the multiplication of loaves |
+| Degree      | Description                                       | Example                                                                                  |
+| ----------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Highest** | What nature can never do                          | The Incarnation; the glorification of a mortal body; two bodies occupying the same space |
+| **Middle**  | What nature can do, but not in this order         | Raising the dead (nature can produce life, but not restore it to a corpse)               |
+| **Lowest**  | What nature can do, but without the natural means | Healing instantly without medicine; the multiplication of loaves                         |
 
 The charismatic "working of miracles" typically involves the second and third degrees.
 
@@ -131,12 +131,12 @@ The Church exercises great caution in evaluating claims of miracles. The 2024 Di
 
 ## 6. Distinction from Related Concepts
 
-| Concept | Distinction |
-| --- | --- |
-| **Gifts of Healing (1 Cor 12:9)** | Healing is a subset of miraculous action focused on the restoration of health. The "working of miracles" encompasses broader extraordinary acts — nature miracles, raising the dead, exorcisms. |
-| **Charismatic Faith (1 Cor 12:9)** | Charismatic faith is often the **interior disposition** through which miracles are worked; the "working of miracles" is the **external manifestation**. |
-| **Magic / Sorcery** | Miracles are works of **divine power** ordered to the confirmation of faith and the glory of God. Magic is the attempt to manipulate supernatural forces apart from God — gravely sinful ([CCC 2117](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2117)). |
-| **Scientific Anomaly** | A miracle is not merely an unexplained event but a **divine sign** — an act of God that transcends the powers of nature and carries a spiritual meaning. |
+| Concept                            | Distinction                                                                                                                                                                                                                                                                            |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gifts of Healing (1 Cor 12:9)**  | Healing is a subset of miraculous action focused on the restoration of health. The "working of miracles" encompasses broader extraordinary acts — nature miracles, raising the dead, exorcisms.                                                                                        |
+| **Charismatic Faith (1 Cor 12:9)** | Charismatic faith is often the **interior disposition** through which miracles are worked; the "working of miracles" is the **external manifestation**.                                                                                                                                |
+| **Magic / Sorcery**                | Miracles are works of **divine power** ordered to the confirmation of faith and the glory of God. Magic is the attempt to manipulate supernatural forces apart from God — gravely sinful ([CCC 2117](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/2117)). |
+| **Scientific Anomaly**             | A miracle is not merely an unexplained event but a **divine sign** — an act of God that transcends the powers of nature and carries a spiritual meaning.                                                                                                                               |
 
 ---
 

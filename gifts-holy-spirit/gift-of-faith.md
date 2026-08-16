@@ -31,10 +31,10 @@ St. Paul's theology of faith is rich and multidimensional:
 
 ## 2. Greek Terminology
 
-| Term | Greek | Meaning |
-| --- | --- | --- |
-| **Faith** | πίστις (_pistis_) | In context: not the ordinary theological virtue but a charismatic gift — an extraordinary trust in God's power to act miraculously in a specific situation |
-| **Theological Virtue of Faith** | _fides_ (Latin) | The supernatural virtue by which we believe in God and all that He has revealed, on the authority of God Himself ([CCC 1814](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1814)) |
+| Term                            | Greek             | Meaning                                                                                                                                                                                                       |
+| ------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Faith**                       | πίστις (_pistis_) | In context: not the ordinary theological virtue but a charismatic gift — an extraordinary trust in God's power to act miraculously in a specific situation                                                    |
+| **Theological Virtue of Faith** | _fides_ (Latin)   | The supernatural virtue by which we believe in God and all that He has revealed, on the authority of God Himself ([CCC 1814](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1814)) |
 
 The distinction between the theological virtue and the charism is critical: every Christian possesses the theological virtue of faith (infused at Baptism), but not every Christian receives the charismatic gift of faith.
 
@@ -67,14 +67,14 @@ Aquinas identifies this charism with a **supereminent certitude** — a confiden
 
 ### 4.2 Charismatic Faith vs. Theological Faith
 
-| | **Charismatic Faith (1 Cor 12:9)** | **Theological Faith (Virtue)** |
-| --- | --- | --- |
-| **Category** | _Gratia gratis data_ (for the benefit of others) | Theological virtue — infused at Baptism for personal sanctification |
-| **Nature** | Extraordinary confidence in God's miraculous intervention in a specific circumstance | Habitual assent to all that God has revealed, on the authority of God revealing |
-| **Recipients** | Given variously as the Spirit wills | Given to **every baptized person** |
-| **Object** | God's power to act miraculously here and now | God's revealed truth — the _depositum fidei_ |
-| **Effect** | Moves mountains; works signs and wonders; strengthens the faith of onlookers | Justifies the sinner; is the beginning of eternal life ([CCC 163](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/163)) |
-| **Necessity for Salvation** | Not necessary — a free gift of the Spirit | Absolutely necessary ([Hebrews 11:6](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/); [CCC 161](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/161)) |
+|                             | **Charismatic Faith (1 Cor 12:9)**                                                   | **Theological Faith (Virtue)**                                                                                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | _Gratia gratis data_ (for the benefit of others)                                     | Theological virtue — infused at Baptism for personal sanctification                                                                                                                                         |
+| **Nature**                  | Extraordinary confidence in God's miraculous intervention in a specific circumstance | Habitual assent to all that God has revealed, on the authority of God revealing                                                                                                                             |
+| **Recipients**              | Given variously as the Spirit wills                                                  | Given to **every baptized person**                                                                                                                                                                          |
+| **Object**                  | God's power to act miraculously here and now                                         | God's revealed truth — the _depositum fidei_                                                                                                                                                                |
+| **Effect**                  | Moves mountains; works signs and wonders; strengthens the faith of onlookers         | Justifies the sinner; is the beginning of eternal life ([CCC 163](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/163))                                                           |
+| **Necessity for Salvation** | Not necessary — a free gift of the Spirit                                            | Absolutely necessary ([Hebrews 11:6](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/); [CCC 161](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/161)) |
 
 ### 4.3 Faith, Miracles, and Charity
 
@@ -113,14 +113,14 @@ The Church's pastors have the duty of testing charisms ([_Lumen Gentium_ 12](htt
 
 ## 6. Biblical Exemplars of Charismatic Faith
 
-| Figure | Manifestation |
-| --- | --- |
-| **Abraham** | Believed against hope, trusting God's promise of a son in old age ([Romans 4:18–21](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **Moses** | Stretched out his hand over the Red Sea, trusting God to deliver Israel ([Exodus 14:21–22](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **Elijah** | Prayed with confidence for fire from heaven on Mount Carmel ([1 Kings 18:36–39](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **St. Peter** | Walked on water at Christ's command — and began to sink when his faith wavered ([Matthew 14:28–31](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **St. Stephen** | Full of faith and the Holy Spirit, worked great wonders and signs among the people ([Acts 6:8](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
-| **St. Paul** | Did not lose faith in the storm, trusting God's promise that all would survive the shipwreck ([Acts 27:22–25](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
+| Figure          | Manifestation                                                                                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Abraham**     | Believed against hope, trusting God's promise of a son in old age ([Romans 4:18–21](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))                           |
+| **Moses**       | Stretched out his hand over the Red Sea, trusting God to deliver Israel ([Exodus 14:21–22](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))                    |
+| **Elijah**      | Prayed with confidence for fire from heaven on Mount Carmel ([1 Kings 18:36–39](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))                               |
+| **St. Peter**   | Walked on water at Christ's command — and began to sink when his faith wavered ([Matthew 14:28–31](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))            |
+| **St. Stephen** | Full of faith and the Holy Spirit, worked great wonders and signs among the people ([Acts 6:8](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/))                |
+| **St. Paul**    | Did not lose faith in the storm, trusting God's promise that all would survive the shipwreck ([Acts 27:22–25](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)) |
 
 ---
 

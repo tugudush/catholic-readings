@@ -137,14 +137,14 @@ It was at Paris that Íñigo adopted the Latin name **Ignatius** (after St. Igna
 
 At Paris, Ignatius gathered a small group of fellow students who were drawn to his spirituality and apostolic vision. These **First Companions** were:
 
-| Name | Nationality | Later Role |
-|------|-------------|------------|
+| Name                   | Nationality      | Later Role                                 |
+| ---------------------- | ---------------- | ------------------------------------------ |
 | **St. Francis Xavier** | Basque (Navarre) | Apostle of the Indies, missionary to Japan |
-| **Bl. Peter Faber** | Savoyard | Theologian, diplomat, first Jesuit priest |
-| **Diego Laínez** | Spanish | Second Superior General of the Jesuits |
-| **Alfonso Salmerón** | Spanish | Theologian at the Council of Trent |
-| **Simón Rodrigues** | Portuguese | Founder of the Jesuit province in Portugal |
-| **Nicolás Bobadilla** | Spanish | Missionary and preacher |
+| **Bl. Peter Faber**    | Savoyard         | Theologian, diplomat, first Jesuit priest  |
+| **Diego Laínez**       | Spanish          | Second Superior General of the Jesuits     |
+| **Alfonso Salmerón**   | Spanish          | Theologian at the Council of Trent         |
+| **Simón Rodrigues**    | Portuguese       | Founder of the Jesuit province in Portugal |
+| **Nicolás Bobadilla**  | Spanish          | Missionary and preacher                    |
 
 ### The Vows of Montmartre (15 August 1534)
 
@@ -212,12 +212,12 @@ The **_Spiritual Exercises_ (_Exercitia Spiritualia_)** is St. Ignatius's most e
 
 The Exercises are organized into Four "Weeks" (which correspond not to seven-day periods but to stages of spiritual progress):
 
-| Week | Theme | Duration |
-|:----:|-------|:--------:|
-| **First Week** | The Purpose of Life; Sin and its Consequences; Hell | ~10 days |
+|      Week       | Theme                                                                                                     | Duration |
+| :-------------: | --------------------------------------------------------------------------------------------------------- | :------: |
+| **First Week**  | The Purpose of Life; Sin and its Consequences; Hell                                                       | ~10 days |
 | **Second Week** | The Life of Christ from the Incarnation to Palm Sunday; The Call of the King; The Two Standards; Election | ~12 days |
-| **Third Week** | The Passion of Christ | ~7 days |
-| **Fourth Week** | The Resurrection and Ascension; The Contemplation on the Love of God | ~7 days |
+| **Third Week**  | The Passion of Christ                                                                                     | ~7 days  |
+| **Fourth Week** | The Resurrection and Ascension; The Contemplation on the Love of God                                      | ~7 days  |
 
 ### Key Doctrinal and Methodological Elements
 
@@ -305,7 +305,7 @@ St. Ignatius of Loyola is the patron saint of:
 
 ## 13. Prayer for Intercession
 
-St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author of the *Spiritual Exercises*, was a Basque knight converted from worldly ambition to the service of the King of Kings. The faithful seek his intercession for the grace of discernment of spirits, for the Society of Jesus and all its works, for those making retreats, for the greater glory of God (*Ad Maiorem Dei Gloriam*), and for the gift of holy indifference — the freedom to desire nothing but God's will. The following prayer, drawn from his *Spiritual Exercises*, may be used to seek his intercession:
+St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author of the _Spiritual Exercises_, was a Basque knight converted from worldly ambition to the service of the King of Kings. The faithful seek his intercession for the grace of discernment of spirits, for the Society of Jesus and all its works, for those making retreats, for the greater glory of God (_Ad Maiorem Dei Gloriam_), and for the gift of holy indifference — the freedom to desire nothing but God's will. The following prayer, drawn from his _Spiritual Exercises_, may be used to seek his intercession:
 
     O glorious St. Ignatius of Loyola,
     founder of the Society of Jesus
@@ -327,7 +327,7 @@ St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Ignatius of Loyola,
     pray for us.

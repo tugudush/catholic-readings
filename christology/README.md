@@ -8,8 +8,8 @@ Christology is the central mystery of the Christian faith: the **Incarnation** o
 
 ## Documents in This Directory
 
-| Document | Subject |
-|----------|---------|
+| Document                                                  | Subject                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [The Child Jesus (Santo Niño)](child-jesus-santo-nino.md) | A comprehensive theological and historical study of devotion to the Child Jesus in the Catholic tradition — including the theological significance of Christ's infancy, the spiritual childhood taught by the Gospel, the devotion to the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines and its papal endorsements, and other major Child Jesus devotions throughout the world. |
 
 ---

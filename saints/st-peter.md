@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-**St. Peter** (Aramaic: ***כֵּיפָא***, *Kepha*; Greek: ***Πέτρος***, *Petros*; Latin: *Petrus*; c. 1 B.C. – c. 64–68 A.D.), originally named **Simon** (Hebrew: ***שִׁמְעוֹן***, *Shim'on*), was a fisherman from Bethsaida in Galilee whom Jesus Christ called to be one of the **Twelve Apostles** and whom He established as the **first leader of the Church**. He is venerated as the **Prince of the Apostles**, the **first Bishop of Rome**, and the **first Pope**. His feast day is celebrated jointly with St. Paul on **29 June** (Solemnity of Saints Peter and Paul), and his chair (*Cathedra Petri*) is honoured on **22 February**.
+**St. Peter** (Aramaic: _**כֵּיפָא**_, _Kepha_; Greek: _**Πέτρος**_, _Petros_; Latin: _Petrus_; c. 1 B.C. – c. 64–68 A.D.), originally named **Simon** (Hebrew: _**שִׁמְעוֹן**_, _Shim'on_), was a fisherman from Bethsaida in Galilee whom Jesus Christ called to be one of the **Twelve Apostles** and whom He established as the **first leader of the Church**. He is venerated as the **Prince of the Apostles**, the **first Bishop of Rome**, and the **first Pope**. His feast day is celebrated jointly with St. Paul on **29 June** (Solemnity of Saints Peter and Paul), and his chair (_Cathedra Petri_) is honoured on **22 February**.
 
 > "You are Peter, and on this rock I will build my Church, and the gates of Hades will not prevail against it. I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
 > — Jesus Christ (Matthew 16:18–19, NRSV-CE)
@@ -23,7 +23,7 @@ The Gospels record that Simon was a man of impulsive energy, deep faith, and hum
 
 ### The Call of the First Disciple
 
-According to the Gospel of John, Andrew first encountered Jesus and immediately went to find his brother Simon, declaring: "We have found the Messiah" (John 1:41). He brought Simon to Jesus, who looked at him and said: "You are Simon son of John. You are to be called Cephas" (John 1:42), which is translated *Peter* (the Rock).
+According to the Gospel of John, Andrew first encountered Jesus and immediately went to find his brother Simon, declaring: "We have found the Messiah" (John 1:41). He brought Simon to Jesus, who looked at him and said: "You are Simon son of John. You are to be called Cephas" (John 1:42), which is translated _Peter_ (the Rock).
 
 The synoptic Gospels record a second call by the Sea of Galilee, where Jesus, after preaching from Simon's boat and granting a miraculous catch of fish, said to him: "Do not be afraid; from now on you will be catching people" (Luke 5:10). Simon and his partners, James and John, left everything and followed Him.
 
@@ -113,7 +113,7 @@ Peter arrived in Rome probably in the early 40s A.D. and established the Christi
 During the **Neronian persecution** (64–68 A.D.), following the Great Fire of Rome, Christians were made scapegoats and subjected to horrific executions. According to the consistent testimony of early Christian writers (Tertullian, Origen, Eusebius, St. Jerome), Peter was **crucified upside down** at his own request, deeming himself unworthy to die in the same manner as his Lord.
 
 > "When Peter was about to suffer martyrdom, he requested that he be crucified head downwards, because he said that he was not worthy to suffer as his Lord had suffered."
-> — St. Jerome, *De Viris Illustribus*, ch. 1
+> — St. Jerome, _De Viris Illustribus_, ch. 1
 
 ### The Burial Site
 
@@ -134,9 +134,9 @@ The Catholic Church teaches that the primacy conferred on Peter was not a person
 
 ### Early Witnesses to Roman Primacy
 
-- **Pope St. Clement I** (c. 96 A.D.), in his letter to the Corinthians (*1 Clement*), exercises authority over the Church of Corinth, demonstrating Roman primacy in the first century.
-- **St. Irenaeus of Lyons** (c. 180 A.D.) describes the Church of Rome as "the greatest and most ancient Church, known to all, founded and established at Rome by the two most glorious apostles, Peter and Paul," and insists that "every Church must agree with this Church on account of her preeminent authority" (*Against Heresies*, III.3.2).
-- **St. Cyprian of Carthage** (c. 250 A.D.) calls the See of Rome "the chair of Peter and the principal Church, from which sacerdotal unity has its source" (*Letters*, 59).
+- **Pope St. Clement I** (c. 96 A.D.), in his letter to the Corinthians (_1 Clement_), exercises authority over the Church of Corinth, demonstrating Roman primacy in the first century.
+- **St. Irenaeus of Lyons** (c. 180 A.D.) describes the Church of Rome as "the greatest and most ancient Church, known to all, founded and established at Rome by the two most glorious apostles, Peter and Paul," and insists that "every Church must agree with this Church on account of her preeminent authority" (_Against Heresies_, III.3.2).
+- **St. Cyprian of Carthage** (c. 250 A.D.) calls the See of Rome "the chair of Peter and the principal Church, from which sacerdotal unity has its source" (_Letters_, 59).
 
 ---
 
@@ -144,16 +144,16 @@ The Catholic Church teaches that the primacy conferred on Peter was not a person
 
 St. Peter is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **The Papacy** | As the first Pope, he is the patron of all popes and the Roman Curia |
-| **Fishermen and Fishmongers** | He was a fisherman by trade before his calling |
-| **Netmakers and Shipbuilders** | Related to his occupation on the Sea of Galilee |
-| **Rome** | As first Bishop of Rome and martyr there |
-| **Potters and Brickmakers** | Traditional patronage in some regions |
-| **Watchmakers and Clockmakers** | Attributed to his role as keeper of the keys |
-| **Bridge Builders** | Symbolic reference to his role as a "bridge" to Christ |
-| **Against Fever and Snakebite** | Traditional intercessory patronage |
+| Patronage                       | Description                                                          |
+| ------------------------------- | -------------------------------------------------------------------- |
+| **The Papacy**                  | As the first Pope, he is the patron of all popes and the Roman Curia |
+| **Fishermen and Fishmongers**   | He was a fisherman by trade before his calling                       |
+| **Netmakers and Shipbuilders**  | Related to his occupation on the Sea of Galilee                      |
+| **Rome**                        | As first Bishop of Rome and martyr there                             |
+| **Potters and Brickmakers**     | Traditional patronage in some regions                                |
+| **Watchmakers and Clockmakers** | Attributed to his role as keeper of the keys                         |
+| **Bridge Builders**             | Symbolic reference to his role as a "bridge" to Christ               |
+| **Against Fever and Snakebite** | Traditional intercessory patronage                                   |
 
 He is also the patron of numerous cities, dioceses, and nations worldwide.
 
@@ -161,12 +161,12 @@ He is also the patron of numerous cities, dioceses, and nations worldwide.
 
 ## 9. Feast Days
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Solemnity of Saints Peter and Paul** | 29 June | Solemnity | Principal feast, shared with St. Paul |
-| **Chair of St. Peter** | 22 February | Feast | Commemorates the apostolic office of Peter |
-| **St. Peter's Chains** | 1 August | Optional Memorial (Traditional) | Commemorates the liberation of Peter from prison |
-| **Byzantine Rite** | 29 June (principal); 16 January (Veneration of the Chains) | — | Eastern Catholic celebration |
+| Feast                                  | Date                                                       | Rank                            | Notes                                            |
+| -------------------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------------------------------------------ |
+| **Solemnity of Saints Peter and Paul** | 29 June                                                    | Solemnity                       | Principal feast, shared with St. Paul            |
+| **Chair of St. Peter**                 | 22 February                                                | Feast                           | Commemorates the apostolic office of Peter       |
+| **St. Peter's Chains**                 | 1 August                                                   | Optional Memorial (Traditional) | Commemorates the liberation of Peter from prison |
+| **Byzantine Rite**                     | 29 June (principal); 16 January (Veneration of the Chains) | —                               | Eastern Catholic celebration                     |
 
 ---
 
@@ -191,7 +191,7 @@ St. Peter holds a unique place in the Catholic Church as the **visible foundatio
 
 ### In Eastern Catholic Tradition
 
-The Eastern Catholic Churches venerate St. Peter with profound reverence, honouring him as the **foremost of the Apostles** (*Koryphaios*), the receiver of the keys, and the first among the apostolic college. The Byzantine Rite celebrates his feast on 29 June, preceded by a period of fasting (the Apostles' Fast). The Eastern tradition emphasizes Peter's primacy of honour and his role as the first confessor of Christ's divinity.
+The Eastern Catholic Churches venerate St. Peter with profound reverence, honouring him as the **foremost of the Apostles** (_Koryphaios_), the receiver of the keys, and the first among the apostolic college. The Byzantine Rite celebrates his feast on 29 June, preceded by a period of fasting (the Apostles' Fast). The Eastern tradition emphasizes Peter's primacy of honour and his role as the first confessor of Christ's divinity.
 
 ### In Art and Literature
 
@@ -202,16 +202,16 @@ St. Peter has been a central figure in Christian art from the earliest Roman cat
 ## 12. Patristic and Magisterial Citations
 
 > "The Church of Rome was founded and established by the two most glorious apostles, Peter and Paul. With this Church, on account of her preeminent authority, every Church must agree."
-> — St. Irenaeus of Lyons, *Against Heresies*, III.3.2
+> — St. Irenaeus of Lyons, _Against Heresies_, III.3.2
 
 > "Peter, the first of the apostles, was crucified in Rome head downwards, and thus gave up his spirit to God."
-> — St. Clement of Rome, *1 Clement*, 5
+> — St. Clement of Rome, _1 Clement_, 5
 
 > "You are the shepherd of the lambs, the shepherd of the sheep. You are the fisherman who catches men in the net of the Word. You are the rock on which the Church is built."
-> — St. Augustine of Hippo, *Sermon 295*
+> — St. Augustine of Hippo, _Sermon 295_
 
 > "Upon you [Peter] He deigned to bestow the keys of the heavenly kingdom, and on you He bestowed the power of binding and loosing."
-> — Pope St. Leo the Great, *Sermon 4*
+> — Pope St. Leo the Great, _Sermon 4_
 
 > "The Pope is not the absolute monarch; he is the servant of the servants of God. His authority is a service, a ministry, a diakonia."
 > — Pope Benedict XVI, General Audience, 7 June 2006
@@ -241,7 +241,7 @@ St. Peter, the Prince of the Apostles, holds the keys of the Kingdom of Heaven (
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Peter, Prince of the Apostles,
     pray for us.

@@ -6,10 +6,10 @@
 
 ## 1. Introduction
 
-**St. Benedict of Nursia** (Latin: *Benedictus Nursiae*; Italian: *Benedetto da Norcia*; c. 480 – 21 March 547 A.D.) is the **father of Western monasticism** and the author of the ***Rule of St. Benedict***, which became the foundational document of monastic life in Western Europe. He is a **co-patron of Europe** (proclaimed by Pope Paul VI in 1964). His feast day is **11 July** (formerly 21 March).
+**St. Benedict of Nursia** (Latin: _Benedictus Nursiae_; Italian: _Benedetto da Norcia_; c. 480 – 21 March 547 A.D.) is the **father of Western monasticism** and the author of the _**Rule of St. Benedict**_, which became the foundational document of monastic life in Western Europe. He is a **co-patron of Europe** (proclaimed by Pope Paul VI in 1964). His feast day is **11 July** (formerly 21 March).
 
 > "Listen carefully, my son, to the master's instructions, and attend to them with the ear of your heart."
-> — St. Benedict, *Rule*, Prologue
+> — St. Benedict, _Rule_, Prologue
 
 ---
 
@@ -45,24 +45,24 @@ Around **529 A.D.**, Benedict left Subiaco and founded his greatest monastery on
 
 ### The Rule of St. Benedict
 
-The ***Rule of St. Benedict*** (*Regula Benedicti*) was composed at Monte Cassino and is one of the most influential documents in Western civilization. It consists of a **Prologue and 73 chapters** covering:
+The _**Rule of St. Benedict**_ (_Regula Benedicti_) was composed at Monte Cassino and is one of the most influential documents in Western civilization. It consists of a **Prologue and 73 chapters** covering:
 
-| Element | Content |
-|---------|---------|
+| Element                   | Content                                      |
+| ------------------------- | -------------------------------------------- |
 | **Spiritual Foundations** | The tools of good works, humility, obedience |
-| **Liturgical Life** | The Divine Office (Opus Dei), the Psalms |
-| **Governance** | The Abbot, the council, the cellarer |
-| **Discipline** | Penalties for faults, excommunication |
-| **Daily Life** | Manual labour, reading, meals, sleep |
-| **Hospitality** | Reception of guests and pilgrims |
+| **Liturgical Life**       | The Divine Office (Opus Dei), the Psalms     |
+| **Governance**            | The Abbot, the council, the cellarer         |
+| **Discipline**            | Penalties for faults, excommunication        |
+| **Daily Life**            | Manual labour, reading, meals, sleep         |
+| **Hospitality**           | Reception of guests and pilgrims             |
 
 ### The Benedictine Vows
 
 The Rule is built on three vows:
 
-1. **Stability** (*Stabilitas*): Commitment to a particular community for life.
-2. **Conversion of Morals** (*Conversatio Morum*): Ongoing conversion and monastic way of life.
-3. **Obedience** (*Obedientia*): Obedience to the abbot and the Rule.
+1. **Stability** (_Stabilitas_): Commitment to a particular community for life.
+2. **Conversion of Morals** (_Conversatio Morum_): Ongoing conversion and monastic way of life.
+3. **Obedience** (_Obedientia_): Obedience to the abbot and the Rule.
 
 ### "Ora et Labora"
 
@@ -72,7 +72,7 @@ The Benedictine motto **"Ora et Labora"** ("Pray and Work") captures the Rule's 
 
 ## 5. Miracles
 
-The *Dialogues* of **Pope St. Gregory the Great** (Book II) record many miracles of St. Benedict:
+The _Dialogues_ of **Pope St. Gregory the Great** (Book II) record many miracles of St. Benedict:
 
 - **The Broken Sieve**: Benedict miraculously repaired a broken earthenware sieve.
 - **The Poisoned Cup**: He blessed and shattered a poisoned cup.
@@ -92,52 +92,52 @@ St. Benedict died at **Monte Cassino** on **21 March 547 A.D.**, standing at the
 
 St. Benedict is the patron saint of:
 
-| Patronage | Description |
-|-----------|-------------|
-| **Europe** | Co-patron of Europe (with SS. Cyril and Methodius) |
-| **Monks and Religious** | Father of Western monasticism |
-| **Civil Engineers and Architects** | His building of monasteries |
-| **Schoolchildren and Students** | His model of learning |
-| **Against Poison and Witchcraft** | His miracles |
-| **Farmers and Agricultural Workers** | The agricultural work of monasteries |
-| **The Dying** | His holy death |
+| Patronage                            | Description                                        |
+| ------------------------------------ | -------------------------------------------------- |
+| **Europe**                           | Co-patron of Europe (with SS. Cyril and Methodius) |
+| **Monks and Religious**              | Father of Western monasticism                      |
+| **Civil Engineers and Architects**   | His building of monasteries                        |
+| **Schoolchildren and Students**      | His model of learning                              |
+| **Against Poison and Witchcraft**    | His miracles                                       |
+| **Farmers and Agricultural Workers** | The agricultural work of monasteries               |
+| **The Dying**                        | His holy death                                     |
 
 ---
 
 ## 8. Feast Day
 
-| Feast | Date | Rank | Notes |
-|-------|------|------|-------|
-| **Feast of St. Benedict** | 11 July | Feast | Principal feast (since 1970; formerly 21 March) |
-| **Byzantine Rite** | 14 March | — | Eastern Catholic celebration |
+| Feast                     | Date     | Rank  | Notes                                           |
+| ------------------------- | -------- | ----- | ----------------------------------------------- |
+| **Feast of St. Benedict** | 11 July  | Feast | Principal feast (since 1970; formerly 21 March) |
+| **Byzantine Rite**        | 14 March | —     | Eastern Catholic celebration                    |
 
 ---
 
 ## 9. The Medal of St. Benedict
 
-The **Medal of St. Benedict** is one of the most popular sacramentals in the Catholic Church. It bears the image of St. Benedict holding the Rule and the Cross, with the exorcistic inscription: **"VRSNSMV–SMQLIVB"** (*Vade retro Satana! Nunquam suade mihi vana! Sunt mala quae libas. Ipse venena bibas.* — "Begone, Satan! Never tempt me with your vanities! What you offer me is evil. Drink the poison yourself!").
+The **Medal of St. Benedict** is one of the most popular sacramentals in the Catholic Church. It bears the image of St. Benedict holding the Rule and the Cross, with the exorcistic inscription: **"VRSNSMV–SMQLIVB"** (_Vade retro Satana! Nunquam suade mihi vana! Sunt mala quae libas. Ipse venena bibas._ — "Begone, Satan! Never tempt me with your vanities! What you offer me is evil. Drink the poison yourself!").
 
 ---
 
 ## 10. Patristic and Magisterial Citations
 
 > "St. Benedict is the father of Europe. His Rule became the leaven of civilization in the West."
-> — Pope Paul VI, *Pacis Nuntius* (1964)
+> — Pope Paul VI, _Pacis Nuntius_ (1964)
 
 > "By his life and his Rule, Benedict showed that the search for God is the foundation of all human community."
 > — Pope Benedict XVI, General Audience, 9 April 2008
 
 > "The Benedictine monastery is a school of the Lord's service, where nothing is preferred to the work of God."
-> — St. Benedict, *Rule*, Chapter 43
+> — St. Benedict, _Rule_, Chapter 43
 
 > "Benedict's Rule is a school of humility, obedience, and fraternal love that shaped the soul of Europe."
-> — Pope John Paul II, *Ad Limina Address*, 1996
+> — Pope John Paul II, _Ad Limina Address_, 1996
 
 ---
 
 ## 11. Prayer for Intercession
 
-St. Benedict of Nursia, the Father of Western monasticism and co-patron of Europe, bequeathed to the Church a Rule that has formed countless souls in the school of the Lord's service. The faithful seek his intercession for a spirit of prayer and work (*ora et labora*), for protection against evil (through the Medal of St. Benedict), for a good and holy death, and for the grace of stability in one's vocation. The following prayer may be used to seek his intercession:
+St. Benedict of Nursia, the Father of Western monasticism and co-patron of Europe, bequeathed to the Church a Rule that has formed countless souls in the school of the Lord's service. The faithful seek his intercession for a spirit of prayer and work (_ora et labora_), for protection against evil (through the Medal of St. Benedict), for a good and holy death, and for the grace of stability in one's vocation. The following prayer may be used to seek his intercession:
 
     O glorious St. Benedict, Father of monks
     and patron of a holy death,
@@ -159,7 +159,7 @@ St. Benedict of Nursia, the Father of Western monasticism and co-patron of Europ
     pray for us now and at the hour of our death.
     Amen.
 
-*A shorter invocation for daily use:*
+_A shorter invocation for daily use:_
 
     St. Benedict of Nursia,
     pray for us.

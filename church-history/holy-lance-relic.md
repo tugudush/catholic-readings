@@ -152,12 +152,12 @@ The Church has never definitively pronounced on the authenticity of any particul
 
 The historical record includes several other relics claimed to be the lance of Longinus:
 
-| Lance | Location | History |
-|-------|----------|---------|
-| **The Vatican Lance** | St. Peter's Basilica, Rome | A lance point preserved at the Vatican; its provenance is obscure, but some traditions hold that it was brought to Rome from Constantinople. |
-| **The Echmiadzin Lance** | Echmiadzin, Armenia | An Armenian tradition claims that the Apostle St. Jude Thaddeus brought the lance to Armenia in the 1st century. It is preserved at the monastery of Echmiadzin. |
-| **The Krakow Lance** | Krakow, Poland | A replica of the Vienna Lance, held at Wawel Cathedral. |
-| **The Paris Lance (lost)** | Formerly Sainte-Chapelle, Paris | The broken-off point given to St. Louis IX, disappeared during the French Revolution. |
+| Lance                      | Location                        | History                                                                                                                                                          |
+| -------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Vatican Lance**      | St. Peter's Basilica, Rome      | A lance point preserved at the Vatican; its provenance is obscure, but some traditions hold that it was brought to Rome from Constantinople.                     |
+| **The Echmiadzin Lance**   | Echmiadzin, Armenia             | An Armenian tradition claims that the Apostle St. Jude Thaddeus brought the lance to Armenia in the 1st century. It is preserved at the monastery of Echmiadzin. |
+| **The Krakow Lance**       | Krakow, Poland                  | A replica of the Vienna Lance, held at Wawel Cathedral.                                                                                                          |
+| **The Paris Lance (lost)** | Formerly Sainte-Chapelle, Paris | The broken-off point given to St. Louis IX, disappeared during the French Revolution.                                                                            |
 
 That at least four distinct relics claim to be the Holy Lance illustrates the complexity of medieval relic translation and the profound devotion that the piercing of Christ's side has inspired across Christian cultures.
 
@@ -204,5 +204,7 @@ The lance remains, for Catholics, far more than an archaeological curiosity. The
 ---
 
 [^1]: _Catholic Encyclopedia_, "The Holy Lance."
+
 [^2]: _Kunsthistorisches Museum Wien_, Imperial Treasury (_Schatzkammer_), Hofburg Palace, Vienna.
+
 [^3]: _Myth Hunters_, Series 2, Episode 1: "The Spear of Destiny" — Documentary on the Holy Lance, Hitler, and Walter Horn (2013).

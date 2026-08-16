@@ -143,14 +143,14 @@ The Eastern Catholic Churches maintain their own formation programs, frequently 
 
 ## 9. Latin Rite vs. Eastern Catholic Tradition: Summary
 
-| Aspect | Latin Rite | Eastern Catholic Churches |
-| --- | --- | --- |
-| **Name of the sacrament** | Holy Orders | Holy Orders (_Teletourgia_) |
-| **Degrees** | Episcopate, Presbyterate, Diaconate (including permanent) | Episcopate, Presbyterate, Diaconate (including permanent) |
-| **Celibacy** | Required for priests and bishops; permanent deacons may be married | Married men may be ordained to the diaconate and presbyterate; bishops chosen only from among celibate men |
-| **Consecrating minister** | A bishop, assisted by two other bishops (for episcopal ordination) | A bishop, assisted by two other bishops (for episcopal ordination) |
-| **Theological teaching** | Identical | Identical |
-| **Apostolic succession** | Through the line of bishops | Through the line of bishops |
+| Aspect                    | Latin Rite                                                         | Eastern Catholic Churches                                                                                  |
+| ------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Name of the sacrament** | Holy Orders                                                        | Holy Orders (_Teletourgia_)                                                                                |
+| **Degrees**               | Episcopate, Presbyterate, Diaconate (including permanent)          | Episcopate, Presbyterate, Diaconate (including permanent)                                                  |
+| **Celibacy**              | Required for priests and bishops; permanent deacons may be married | Married men may be ordained to the diaconate and presbyterate; bishops chosen only from among celibate men |
+| **Consecrating minister** | A bishop, assisted by two other bishops (for episcopal ordination) | A bishop, assisted by two other bishops (for episcopal ordination)                                         |
+| **Theological teaching**  | Identical                                                          | Identical                                                                                                  |
+| **Apostolic succession**  | Through the line of bishops                                        | Through the line of bishops                                                                                |
 
 The theological content — apostolic succession, indelible character, _in persona Christi Capitis_ — is identical in East and West.
 
@@ -168,18 +168,18 @@ The priest is therefore called to act for the people, not in their place, but in
 
 ## 11. Key Magisterial Citations
 
-| Source | Reference |
-| --- | --- |
-| **Council of Trent, Session XXIII** (1563) | Definitive teaching on Holy Orders: the three degrees, the matter, the form, the minister. |
-| **Council of Trent, Session XXIV, c. 9** | On the prohibition of marriage for those ordained in the Latin Church. |
-| **Catechism of the Catholic Church** | [CCC 1533–1605](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1533) |
-| **Lumen Gentium** (Vatican II) | [§§18–29](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/) |
-| **_Presbyterorum Ordinis_** (Vatican II) | Decree on the life and ministry of priests. |
-| **_Optatam Totius_** (Vatican II) | Decree on priestly formation. |
-| **Code of Canon Law** | c. 1008–1054 (The Sacrament of Holy Orders) |
-| **Code of Canons of the Eastern Churches** | c. 322–399 (Holy Orders) |
+| Source                                          | Reference                                                                                                                                            |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Council of Trent, Session XXIII** (1563)      | Definitive teaching on Holy Orders: the three degrees, the matter, the form, the minister.                                                           |
+| **Council of Trent, Session XXIV, c. 9**        | On the prohibition of marriage for those ordained in the Latin Church.                                                                               |
+| **Catechism of the Catholic Church**            | [CCC 1533–1605](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1533)                                                      |
+| **Lumen Gentium** (Vatican II)                  | [§§18–29](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)                                                                |
+| **_Presbyterorum Ordinis_** (Vatican II)        | Decree on the life and ministry of priests.                                                                                                          |
+| **_Optatam Totius_** (Vatican II)               | Decree on priestly formation.                                                                                                                        |
+| **Code of Canon Law**                           | c. 1008–1054 (The Sacrament of Holy Orders)                                                                                                          |
+| **Code of Canons of the Eastern Churches**      | c. 322–399 (Holy Orders)                                                                                                                             |
 | **Pope Pius XII**, _Sacramentum Ordinis_ (1947) | Apostolic Constitution defining the matter and form of priestly ordination in the Latin Rite (the imposition of hands and the words of the Preface). |
-| **Pope Paul VI**, _Ministeria Quaedam_ (1972) | Reorganized the minor orders and established the ministry of acolyte and lector. |
+| **Pope Paul VI**, _Ministeria Quaedam_ (1972)   | Reorganized the minor orders and established the ministry of acolyte and lector.                                                                     |
 
 ---
 

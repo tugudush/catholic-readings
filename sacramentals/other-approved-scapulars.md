@@ -20,15 +20,15 @@ All scapulars share the same structure: they are **sacramentals**, they are rece
 
 ## 2. The Principal Approved Scapulars at a Glance
 
-| Scapular                                    | Color    | Devotion / Mystery                                  | Associated Order / Institute                          | Approvals (summary)                                        |
-| ------------------------------------------- | -------- | --------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
-| **Brown Scapular of Our Lady of Mount Carmel** | Brown    | Our Lady of Mount Carmel, Carmelite consecration    | Carmelites (O.Carm., O.C.D.)                          | Ancient; extended to the universal Church; see [brown-scapular.md](brown-scapular.md) |
-| **Blue Scapular of the Immaculate Conception** | Blue     | The Immaculate Conception of the Blessed Virgin     | Theatines (with Venerable Ursula Benincasa)           | Approved under Pope Clement XI (1710); enriched under Pope Pius IX |
-| **Red Scapular of the Passion**                | Red      | The Passion of our Lord and the Sacred Hearts       | Sisters of Charity of St. Vincent de Paul             | Revealed 1846; approved by Pope Pius IX (1847)             |
-| **Black Scapular of the Seven Dolors**         | Black    | The Seven Sorrows of the Blessed Virgin             | Servites (Order of Servants of Mary)                  | Ancient Servite devotion; long approved                   |
-| **White Scapular of the Most Holy Trinity**    | White    | The Most Holy Trinity                               | Trinitarians (Order of the Most Holy Trinity)         | Approved in connection with the Trinitarian Order         |
-| **Green Scapular of the Immaculate Heart of Mary** | Green | The Immaculate Heart of Mary                        | Daughters of Charity of St. Vincent de Paul           | Revealed 1840; approved by Pope Pius IX (1863)            |
-| **Scapular of the Sacred Heart**               | White/Red | The Sacred Heart of Jesus and the Immaculate Heart of Mary | Daughters of the Sacred Heart (Antwerp)     | Approved by the Congregation of Rites (4 April 1900)      |
+| Scapular                                           | Color     | Devotion / Mystery                                         | Associated Order / Institute                  | Approvals (summary)                                                                   |
+| -------------------------------------------------- | --------- | ---------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Brown Scapular of Our Lady of Mount Carmel**     | Brown     | Our Lady of Mount Carmel, Carmelite consecration           | Carmelites (O.Carm., O.C.D.)                  | Ancient; extended to the universal Church; see [brown-scapular.md](brown-scapular.md) |
+| **Blue Scapular of the Immaculate Conception**     | Blue      | The Immaculate Conception of the Blessed Virgin            | Theatines (with Venerable Ursula Benincasa)   | Approved under Pope Clement XI (1710); enriched under Pope Pius IX                    |
+| **Red Scapular of the Passion**                    | Red       | The Passion of our Lord and the Sacred Hearts              | Sisters of Charity of St. Vincent de Paul     | Revealed 1846; approved by Pope Pius IX (1847)                                        |
+| **Black Scapular of the Seven Dolors**             | Black     | The Seven Sorrows of the Blessed Virgin                    | Servites (Order of Servants of Mary)          | Ancient Servite devotion; long approved                                               |
+| **White Scapular of the Most Holy Trinity**        | White     | The Most Holy Trinity                                      | Trinitarians (Order of the Most Holy Trinity) | Approved in connection with the Trinitarian Order                                     |
+| **Green Scapular of the Immaculate Heart of Mary** | Green     | The Immaculate Heart of Mary                               | Daughters of Charity of St. Vincent de Paul   | Revealed 1840; approved by Pope Pius IX (1863)                                        |
+| **Scapular of the Sacred Heart**                   | White/Red | The Sacred Heart of Jesus and the Immaculate Heart of Mary | Daughters of the Sacred Heart (Antwerp)       | Approved by the Congregation of Rites (4 April 1900)                                  |
 
 ---
 

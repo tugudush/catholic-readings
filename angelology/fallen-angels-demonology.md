@@ -125,15 +125,15 @@ Catholic doctrine draws a clear line between:
 - **Natural perfection**: what an angel is and can do by its created nature — its spiritual intelligence, strength, mode of acting, and capacity for knowledge.
 - **Supernatural life**: grace, friendship with God, and the capacity for beatitude — a gratuitous gift above and beyond created nature.
 
-The fall severs the latter definitively but leaves the former intact. The *Catholic Encyclopedia* (s.v. "Devil") states:
+The fall severs the latter definitively but leaves the former intact. The _Catholic Encyclopedia_ (s.v. "Devil") states:
 
-> *"The fall of the angels did not impair their natural powers... Lucifer still retained the gifts that enabled him to influence his brethren before their fall."*
+> _"The fall of the angels did not impair their natural powers... Lucifer still retained the gifts that enabled him to influence his brethren before their fall."_
 
-The Catechism (CCC 391, citing the Fourth Lateran Council) affirms that the devil and the other demons *"were indeed created naturally good by God, but they became evil by their own doing."* Their nature, being created good, remains even after their sin.
+The Catechism (CCC 391, citing the Fourth Lateran Council) affirms that the devil and the other demons _"were indeed created naturally good by God, but they became evil by their own doing."_ Their nature, being created good, remains even after their sin.
 
 #### Implications for Satan's Power Relative to Unfallen Angels
 
-Since the natural hierarchy among angels persists after the fall (per St. Thomas Aquinas, *ST* I, q. 109, a. 1), a fallen angel of a higher original choir retains a **greater native capacity** than an unfallen angel of a lower choir:
+Since the natural hierarchy among angels persists after the fall (per St. Thomas Aquinas, _ST_ I, q. 109, a. 1), a fallen angel of a higher original choir retains a **greater native capacity** than an unfallen angel of a lower choir:
 
 - **Satan** (likely a Cherub or Seraph before his fall, see [angelic-hierarchy-choirs.md](angelic-hierarchy-choirs.md)) retains the natural capacities of that high order — immense intelligence, spiritual strength, and influence.
 - An **unfallen Guardian Angel** (the lowest choir) has less natural capacity by virtue of its lower place in the angelic hierarchy.
@@ -141,7 +141,7 @@ Since the natural hierarchy among angels persists after the fall (per St. Thomas
 
 However, this natural superiority is **not the decisive factor** in spiritual combat, for three reasons:
 
-1. **The good angels are confirmed in grace** (Augustine, *Enchiridion* 28; CCC 393). They possess something Satan irrevocably lacks: union with God, which elevates and perfects their natural operations.
+1. **The good angels are confirmed in grace** (Augustine, _Enchiridion_ 28; CCC 393). They possess something Satan irrevocably lacks: union with God, which elevates and perfects their natural operations.
 
 2. **Satan acts only by divine permission** (CCC 395). His power is not infinite; he cannot prevent the building of God's Kingdom. The good angels, by contrast, act in direct obedience to God's will.
 
@@ -149,13 +149,13 @@ However, this natural superiority is **not the decisive factor** in spiritual co
 
 #### Summary
 
-| Aspect | Effect of the Fall |
-|--------|-------------------|
-| **Natural powers** (intelligence, strength, abilities) | Retained — not diminished |
-| **Supernatural grace** (friendship with God, beatitude) | Irreparably lost |
-| **Natural hierarchy among fallen angels** | Persists — some demons remain naturally higher than others |
-| **Power relative to unfallen angels** | Naturally superior if originally higher-ranked, but constrained by divine Providence |
-| **Ultimate authority** | Subject to God's permission; good angels act by God's command |
+| Aspect                                                  | Effect of the Fall                                                                   |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Natural powers** (intelligence, strength, abilities)  | Retained — not diminished                                                            |
+| **Supernatural grace** (friendship with God, beatitude) | Irreparably lost                                                                     |
+| **Natural hierarchy among fallen angels**               | Persists — some demons remain naturally higher than others                           |
+| **Power relative to unfallen angels**                   | Naturally superior if originally higher-ranked, but constrained by divine Providence |
+| **Ultimate authority**                                  | Subject to God's permission; good angels act by God's command                        |
 
 ### Important Distinctions
 

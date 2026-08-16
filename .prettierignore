@@ -1,0 +1,10 @@
+# Version control
+.git/
+
+# Installed dependencies
+node_modules/
+
+# Private content that is intentionally not committed
+private-assets/
+private-confessions/
+other-matters/
