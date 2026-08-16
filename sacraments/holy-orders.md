@@ -28,6 +28,8 @@ The apostolic succession is therefore understood as the continuity of episcopal 
 
 ---
 
+For the full hierarchical structure of the Church — the Pope, the college of bishops, the cardinals, and the offices of patriarch, archbishop, and metropolitan — together with a detailed comparison of the diaconate and the presbyterate, see [church-history/church-hierarchy.md](../church-history/church-hierarchy.md).
+
 ## 2. The Three Degrees
 
 The sacrament of Holy Orders is conferred in three degrees, all of which are conferred by the bishop acting as the ordinary minister:
