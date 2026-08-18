@@ -254,6 +254,7 @@ These witnesses are powerful and worthy of respect, but they do not constitute a
 ### Related Documents in This Repository
 
 - [liturgy/order-of-the-mass.md](order-of-the-mass.md) — The Order of the Mass, including the Communion Rite (Liturgy of the Eucharist §3.3.3).
+- [liturgy/prayer-after-communion.md](prayer-after-communion.md) — The Prayer After Communion and the other traditional prayers of thanksgiving after Holy Communion.
 - [liturgy/mass-intentions.md](mass-intentions.md) — The doctrine and practice of Mass intentions.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The sacrament of the Most Holy Eucharist: Real Presence, transubstantiation, and adoration.
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — The sacrament of Penance, necessary for worthy reception of Communion after grave sin.
