@@ -259,6 +259,8 @@ The **universal law** of the Latin Church regarding fast and abstinence is set f
 
 Bishops' conferences may adjust these norms for their territories. The faithful are also encouraged to **voluntarily** extend fasting, abstinence, and other penances throughout Lent.
 
+_For the complete treatment of fasting and abstinence — the biblical foundations, the history of the discipline, the Eastern Catholic fasting seasons, the Eucharistic fast, and pastoral guidance — see [liturgy/fasting-abstinence.md](fasting-abstinence.md)._
+
 ### 5.5 Lenten Practices and Observances
 
 | Practice                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                             |

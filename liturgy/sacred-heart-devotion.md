@@ -259,7 +259,7 @@ Pray the classic Act of Consecration to the Sacred Heart of Pope Leo XIII, given
 
 **6. The Act of Spiritual Communion (11:45–11:50)**
 
-When one cannot receive the Blessed Sacrament sacramentally, unite oneself to Christ by an act of spiritual communion:
+When one cannot receive the Blessed Sacrament sacramentally, unite oneself to Christ by an [act of spiritual communion](spiritual-communion.md):
 
     My Jesus, I believe that Thou art present in the Most Holy Sacrament of the Altar.
     I love Thee above all things, and I desire to receive Thee into my soul.
