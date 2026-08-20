@@ -2,6 +2,8 @@
 
 A comprehensive canonical and pastoral study of the Catholic Church's provision for validating a marriage that was contracted outside canonical form — whether civilly, before a non-Catholic minister, or without the required witness — bringing it into sacramental validity.
 
+> **See also:** [Communion in a Civil Marriage](communion-civil-marriage.md) for the related pastoral and canonical question of whether a Catholic in a civil-only marriage may receive Holy Communion, including the discipline of Communion (cc. 915–916), complete continence (_Familiaris Consortio_ 84), and the role of the confessor.
+
 ---
 
 ## 1. Foundational: The Canonical Form Requirement

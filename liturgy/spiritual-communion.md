@@ -75,7 +75,7 @@ A spiritual Communion should include the principal dispositions of Eucharistic d
 - **Hope** in the grace and mercy of God;
 - **Charity** expressed through obedience and service to others.
 
-The prayer should not be treated as a way to minimize mortal sin or to decide a disputed canonical situation privately. When the reason for refraining from Communion involves marriage, canonical status, or another public matter, the person should follow the guidance of a confessor or pastor. For a civil marriage that requires regularization, see [Convalidation](../sacraments/convalidation.md).
+The prayer should not be treated as a way to minimize mortal sin or to decide a disputed canonical situation privately. When the reason for refraining from Communion involves marriage, canonical status, or another public matter, the person should follow the guidance of a confessor or pastor. For the full treatment of receiving Holy Communion in a civil-only marriage, see [Communion in a Civil Marriage](../sacraments/communion-civil-marriage.md); for a civil marriage that requires regularization, see [Convalidation](../sacraments/convalidation.md).
 
 ---
 
