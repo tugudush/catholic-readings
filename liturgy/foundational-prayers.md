@@ -128,30 +128,6 @@ The traditional doxology of praise to the Trinity, recited at the end of Psalms 
 
 A faithful summary of the Apostles' faith, originating as a baptismal creed in the ancient Church of Rome (CCC 194). This is the creed recited at the beginning of the **Holy Rosary** (on the crucifix, after the Sign of the Cross), rather than the longer Nicene-Constantinopolitan Creed, which belongs to the Liturgy of the Word at Mass.
 
-### Traditional English (Baltimore Catechism / Douay-Rheims)
-
-The older, more expansive English rendering, which repeats "I believe" at each major article for clarity. This is the version many Catholics learned from traditional catechisms and prayer books.
-
-- **English (Traditional):**  
-  I believe in God, the Father almighty,  
-  Creator of heaven and earth.  
-  I believe in Jesus Christ, his only Son, our Lord,  
-  who was conceived by the Holy Spirit,  
-  born of the Virgin Mary,  
-  suffered under Pontius Pilate,  
-  was crucified, died and was buried;  
-  he descended into hell;  
-  on the third day he rose again from the dead;  
-  he ascended into heaven,  
-  and is seated at the right hand of God the Father almighty;  
-  from there he will come to judge the living and the dead.  
-  I believe in the Holy Spirit,  
-  the holy catholic Church,  
-  the communion of saints,  
-  the forgiveness of sins,  
-  the resurrection of the body,  
-  and life everlasting. Amen.
-
 ### Modern English (Literal from the Latin)
 
 A more literal line-by-line rendering where the opening "I believe" governs the clauses that follow. This version is common in contemporary missals and catechisms.
