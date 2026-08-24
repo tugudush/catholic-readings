@@ -385,7 +385,7 @@ A Eucharistic prayer dating back to the early 14th century, often associated wit
   Within Thy wounds hide me.  
   Suffer me not to be separated from Thee.  
   From the malignant enemy defend me.  
-  In the hour of my death call me,  
+  At the hour of my death call me,
   and bid me come unto Thee,  
   that with Thy saints I may praise Thee  
   for ever and ever. Amen.
