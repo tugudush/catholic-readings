@@ -157,6 +157,7 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 - **Fr. Chad Ripperger on the Crisis in the Church and World**: See [eschatology/ripperger-navigating-crisis-church-world.md](eschatology/ripperger-navigating-crisis-church-world.md) for a detailed VideoMcp-based synthesis of his 2017 lecture on Marian prophecies, moral and ecclesial crisis, spiritual warfare, and the Catholic discernment of private revelation.
 - **Fr. Chad Ripperger on Our Times Part II**: See [eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md](eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md) for a detailed VideoMcp-based synthesis of his lecture on Modernism, Freemasonry, family order, practical preparedness, and the natural-level response to cultural and ecclesial crisis.
+- **Fr. Chad Ripperger on Our Times Part III**: See [eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md](eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md) for a detailed VideoMcp-based synthesis of his lecture on detachment, suffering, mortification, reparation, Marian prophecy, the Rosary, mental meditation, the First Fridays and First Saturdays, sacramental preparation, and hope amid chastisement.
 
 ## 11. The Nine Spiritual Gifts (Charisms) of the Holy Spirit
 
