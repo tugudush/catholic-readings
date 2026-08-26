@@ -8,6 +8,8 @@ The events at Fatima are considered by the Catholic Church to be among the most 
 - In June 2000, the Congregation for the Doctrine of the Faith (CDF) issued a comprehensive document _The Message of Fatima_, which provided the authentic texts of the secrets of Fatima along with a detailed theological commentary by Cardinal Joseph Ratzinger (later Pope Benedict XVI).
 - The CDF clarified that the Fatima message is a call to Christian conversion, prayer, penance, and trust in God's providence, directing the faithful back to the heart of the Gospel.
 
+For a source-attributed analysis of a sermon connecting Fatima with the Holy Rosary, Brown Scapular, and the tradition attributed to St. Dominic, see [The Rosary & Brown Scapular Will Save the World: Video Analysis Report](../../../liturgy/rosary-brown-scapular-fatima-video-report.md).
+
 ## The Apparitions to the Three Shepherds
 
 Between May 13 and October 13, 1917, the Blessed Virgin Mary appeared six times to three young shepherd children—Lúcia dos Santos (age 10) and her cousins Francisco (age 9) and Jacinta Marto (age 7)—in the Cova da Iria near Fatima, Portugal.
