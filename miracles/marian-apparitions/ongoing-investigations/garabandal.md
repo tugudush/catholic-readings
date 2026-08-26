@@ -19,6 +19,40 @@ Between **June 18, 1961** and **1965**, four girls of the village of San Sebasti
 4. **The Crowds and the Church's Response**: The village drew thousands of pilgrims. The local Ordinary, Bishop Doroteo Fernández of Santander, and successive commissions investigated; in 1967 the bishop declared that the events could not be established as supernatural (_non constat de supernaturalitate_), prohibited clerical involvement, and directed the faithful away from the site.
 5. **The Later Lives**: The seers have maintained their accounts; Conchita González later married and has lived an ordinary life. No Church approval has ever been granted, and no formal condemnation naming the events has been issued, leaving the case in a state of official non-approval.
 
+## The Reported Messages
+
+The following are the two messages traditionally published by Garabandal sources. They are reproduced as reported English translations, not as authenticated ecclesiastical texts; wording, punctuation, and capitalization vary among editions. The first was reportedly signed by the four visionaries. The second was written by Conchita González and attributed to the Blessed Virgin Mary through the intercession of Saint Michael the Archangel.
+
+### First Message: 18 October 1961
+
+> "We must make many sacrifices, do much penance.
+>
+> We must visit the Blessed Sacrament frequently; but first, we must be good. And unless we do this, a punishment will befall us.
+>
+> The Cup is already filling, and unless we change, a very great punishment will befall us.
+>
+> The Virgin wants us to do this, so that God will not punish us."
+
+### Second Message: 18 June 1965
+
+> "The Message which the Blessed Virgin has given to the world through the intercession of St. Michael.
+>
+> The Angel said: 'As my Message of the 18th of October has not been complied with, and as it has not been made known to the world, I am telling you that this is the last one. Previously, the Cup was filling; now, it is brimming over.
+>
+> Many priests are following the road to perdition, and with them they are taking many more souls. Ever less importance is being given to the Holy Eucharist.
+>
+> We should turn the wrath of God away from us by our own efforts. If you ask His forgiveness with a sincere heart, He will pardon you. I, your Mother, through the intercession of St. Michael the Archangel, wish to tell you that you should make amends.
+>
+> You are now being given the last warnings. I love you very much, and I do not want your condemnation. Ask Us sincerely and We shall grant your plea. You must make more sacrifices. Reflect on the Passion of Jesus.'"
+>
+> _Conchita Gonzalez, 18-VI-65._
+
+The English text above follows the transcription published by F. Sanchez-Ventura y Pascual in _The Apparitions of Garabandal_ (1966), pages 119 and 171. In other editions, **punishment** is translated as **chastisement**, and the wording of the second message differs in small details. Neither the source publication nor the messages themselves constitutes ecclesiastical approval.
+
+The Holy Family School of Faith presents the alleged Garabandal message in four parts: a worldwide warning, a public miracle, a permanent sign, and a conditional chastisement. Its article reproduces the core of the first message in a shorter translation, but it is a contemporary devotional presentation rather than an ecclesiastical judgment or an authenticated source.
+
+The Servants of the Pierced Hearts of Jesus and Mary likewise publish alternate English renderings of both messages. Their first message is shorter, and their second uses expressions such as **"amend your lives"** and **"ask and you will receive."** These are translation and transcription variants, not separate messages. Their expanded accounts of the alleged Warning, Miracle, permanent sign, and punishment are also reported prophetic material without ecclesiastical approval.
+
 ## Current Status
 
 - **No Approval**: Garabandal has never received any episcopal or pontifical approval, and its characteristic prophecies and "secrets" are not part of Catholic teaching.
@@ -28,5 +62,8 @@ Between **June 18, 1961** and **1965**, four girls of the village of San Sebasti
 ## Further Reading
 
 - For the new norms governing discernment, see the Dicastery for the Doctrine of the Faith, _Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena_ (17 May 2024), and [miracles/README.md](../../README.md).
+- For the historical English transcriptions, see F. Sanchez-Ventura y Pascual, _The Apparitions of Garabandal_, [page 119](http://www.garabandal.org/BrownBook/BrownBookP119.htm) and [page 171](http://www.garabandal.org/BrownBook/BrownBookP171.htm).
+- For a contemporary devotional presentation of the alleged four-part message and the shorter 1961 transcription, see the [Holy Family School of Faith article, "The Messages of Our Lady at Garabandal"](https://schooloffaith.com/rosary-archive/garabandal).
+- For alternate transcriptions of both messages and a devotional account of the alleged Warning, Miracle, permanent sign, and punishment, see the [Servants of the Pierced Hearts of Jesus and Mary, "Apparitions of Our Lady in Garabandal"](https://www.piercedhearts.org/treasures/shrines/garabandal.htm).
 - For approved apparitions with which Garabandal is often compared, see [our-lady-of-fatima.md](../approved/fatima.md).
 - For the Church's teaching on private revelation and its limits, see the Catechism of the Catholic Church, §§ 66–67.

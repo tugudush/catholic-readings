@@ -198,6 +198,7 @@ His published works include _Dominion_, _Introduction to the Science of Mental H
 ## 9. Further Reading
 
 - **On Eschatology**: [eschatology/doctrinal-foundations.md](doctrinal-foundations.md) — Magisterial sources on the last things; [eschatology/reading-list.md](reading-list.md) — doctrinally graded book recommendations
+- **Contemporary Crisis and Marian Prophecy**: [ripperger-navigating-crisis-church-world.md](ripperger-navigating-crisis-church-world.md) — a VideoMcp-based synthesis of Fr. Ripperger's 2017 lecture on the crisis in the Church and world, Marian warnings, spiritual warfare, and private-revelation discernment.
 - **On Angels**: [angelology/angelic-hierarchy-choirs.md](../angelology/angelic-hierarchy-choirs.md) — the nine choirs; [angelology/fallen-angels-demonology.md](../angelology/fallen-angels-demonology.md) — the fall of the rebel angels
 - **On Christology**: [christology/README.md](../christology/README.md) — the Person and work of Christ
 - **On Divine Mercy Devotions**: [liturgy/chaplet-divine-mercy.md](../liturgy/chaplet-divine-mercy.md); [liturgy/hour-of-great-mercy.md](../liturgy/hour-of-great-mercy.md); [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md)

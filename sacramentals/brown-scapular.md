@@ -2,6 +2,8 @@
 
 The **Brown Scapular of Our Lady of Mount Carmel** — commonly called simply "the brown scapular" or "the Carmelite scapular" — is the most widely worn sacramental in the Catholic Church. It is a reduced form of the religious habit of the **Order of the Brothers of the Blessed Virgin Mary of Mount Carmel** (O.Carm.), received through a special rite of the Church, and worn as an external sign of filial consecration to the Blessed Virgin Mary and of commitment to Christian living ([Directory on Popular Piety and the Liturgy, 205](https://www.magisterium.com/docs/4fba701f-fda0-47a5-a2de-2e210d81f770/ref/205)).
 
+For a source-attributed video synthesis of the Brown Scapular alongside the Holy Rosary and the Fatima message, see [The Rosary & Brown Scapular Will Save the World: Video Analysis Report](../liturgy/rosary-brown-scapular-fatima-video-report.md).
+
 This document is for any Catholic who wears, or wishes to understand, the brown scapular. It covers:
 
 1. The nature of the scapular as a **sacramental**, not a sacrament.

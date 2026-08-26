@@ -70,6 +70,7 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 - **The Holy Rosary**: Detailed historical documents and prayer guides can be found under the rosary directory:
   - **Historical Development**: Read [liturgy/rosary/history.md](liturgy/rosary/history.md) to discover the early origins of the Psalter, the Dominican tradition, the codification by Pope St. Pius V, the Battle of Lepanto, and modern papal endorsements.
   - **How to Meditate & Pray**: See [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md) for a complete devotional structure of the mysteries (Joyful, Sorrowful, Glorious, and Luminous) and step-by-step instructions.
+  - **Video Source Synthesis**: Read [liturgy/rosary-brown-scapular-fatima-video-report.md](liturgy/rosary-brown-scapular-fatima-video-report.md) for a timestamped analysis of the Sensus Fidelium video on the Rosary, Brown Scapular, Fatima, and the prophecy attributed to St. Dominic.
 
 ---
 
@@ -154,6 +155,11 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 - **Fr. Chris Alar on the End Times**: See [eschatology/alar-end-times-interview.md](eschatology/alar-end-times-interview.md) for a structured theological synthesis of an interview with Fr. Chris Alar, MIC — the five biblical signs of the Second Coming, the order of end-time events according to the saints, the Warning (Illumination of Conscience), the Antichrist and the three days of darkness, Fatima and Akita, and the primacy of the sacraments as the only remedy.
 
 ---
+
+- **Fr. Chad Ripperger on the Crisis in the Church and World**: See [eschatology/ripperger-navigating-crisis-church-world.md](eschatology/ripperger-navigating-crisis-church-world.md) for a detailed VideoMcp-based synthesis of his 2017 lecture on Marian prophecies, moral and ecclesial crisis, spiritual warfare, and the Catholic discernment of private revelation.
+- **Fr. Chad Ripperger on Our Times Part II**: See [eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md](eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md) for a detailed VideoMcp-based synthesis of his lecture on Modernism, Freemasonry, family order, practical preparedness, and the natural-level response to cultural and ecclesial crisis.
+- **Fr. Chad Ripperger on Our Times Part III**: See [eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md](eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md) for a detailed VideoMcp-based synthesis of his lecture on detachment, suffering, mortification, reparation, Marian prophecy, the Rosary, mental meditation, the First Fridays and First Saturdays, sacramental preparation, and hope amid chastisement.
+- **Fr. Chad Ripperger on Our Times Part IV**: See [eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md](eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md) for a detailed VideoMcp-based synthesis of his Q&A on Fatima, prophecy, family formation, sacramentals, exorcism, spiritual warfare, and the limits of private revelation.
 
 ## 11. The Nine Spiritual Gifts (Charisms) of the Holy Spirit
 

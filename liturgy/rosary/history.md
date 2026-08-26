@@ -2,6 +2,8 @@
 
 The **Catholic Rosary** is a highly cherished, Christocentric vocal and meditative form of prayer. Its historical development spans various centuries, evolving from early medieval prayer-counting tools into a structured, universally practiced contemplation of the Gospels.
 
+For a source-attributed video synthesis focused on the Rosary, Brown Scapular, Fatima, and the tradition associated with St. Dominic, see [The Rosary & Brown Scapular Will Save the World: Video Analysis Report](../rosary-brown-scapular-fatima-video-report.md).
+
 ---
 
 ## 1. Early Antecedents: The "Paternoster" and Marian Psalters
