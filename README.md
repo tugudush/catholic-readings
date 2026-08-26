@@ -173,7 +173,16 @@ A comprehensive theological study of the nine charismatic gifts enumerated by St
 
 ---
 
-## 12. Cultural Practices & Regional Catholic Traditions
+## 12. Spiritual Life & Sanctification
+
+Catholic teaching and spiritual theology concerning the growth of grace, virtue, prayer, ascetical purification, contemplation, and the perfection of charity:
+
+- **Master Index & Scope**: Read [spiritual-life/README.md](spiritual-life/README.md) for the directory scope and its distinction between doctrine, spiritual-theological frameworks, devotional practice, and pastoral counsel.
+- **Christian Spiritual Perfection and the Interior Life**: See [spiritual-life/sanctified-perfection-and-holiness.md](spiritual-life/sanctified-perfection-and-holiness.md) for a detailed video-based synthesis of Fr. Chad Ripperger's teaching on sanctified perfection, sanctifying and actual grace, acquired and infused virtues, the purgative, illuminative, and unitive ways, prayer, digital distraction, the sacraments, and disinterested charity.
+
+---
+
+## 13. Cultural Practices & Regional Catholic Traditions
 
 The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
 
@@ -183,7 +192,7 @@ The rich tapestry of Catholic cultural practices as lived out in various regions
 
 ---
 
-## 13. Private Confessions & Personal Examinations
+## 14. Private Confessions & Personal Examinations
 
 Personal and pastoral resources dealing with matters of conscience, sin, and reconciliation:
 
@@ -192,7 +201,7 @@ Personal and pastoral resources dealing with matters of conscience, sin, and rec
 
 ---
 
-## 14. Catholic Lay Organizations & Apostolates
+## 15. Catholic Lay Organizations & Apostolates
 
 Comprehensive studies of Catholic lay organizations, fraternal orders, and apostolic associations — their founders, histories, structures, canonical standing, charitable works, and the Magisterium's teaching on the apostolate of the laity:
 
@@ -201,7 +210,7 @@ Comprehensive studies of Catholic lay organizations, fraternal orders, and apost
 
 ---
 
-## 15. Enemies of the Church
+## 16. Enemies of the Church
 
 Studies of the movements, ideologies, and secret societies that the Catholic Church has identified as opposed to her doctrine, discipline, and mission — together with the magisterial response to them across the centuries. These documents maintain the Church's rigorous distinction between her **doctrinal condemnation of error** and her rejection of the **violent persecution of persons**:
 
@@ -211,7 +220,7 @@ Studies of the movements, ideologies, and secret societies that the Catholic Chu
 
 ---
 
-## 16. Local Church Schedules
+## 17. Local Church Schedules
 
 Published parish and cathedral schedules, confession times, contact details, and source-verification notes are collected in the [churches/](churches/) directory:
 
