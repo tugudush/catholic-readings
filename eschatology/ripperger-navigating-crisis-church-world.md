@@ -181,6 +181,8 @@ The practical response he recommends is consistent in broad outline with Catholi
 
 These remedies are the lecture's strongest and most pastorally constructive element. They also provide the best way to read the warning material without allowing private revelation to displace the Gospel, the sacraments, or the Church's ordinary means of discernment.
 
+For the companion lecture on natural-level preparation through study, family order, and practical prudence, see [Our Times Part II: Modernism, Freemasonry, and the Crisis](ripperger-our-times-part-ii-modernism-freemasonry-crisis.md).
+
 ## Visual and Presentation Analysis
 
 VideoMcp frame sampling shows a largely slide-driven presentation with little dependence on continuous live footage. The sampled sequence includes:
