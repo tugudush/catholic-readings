@@ -155,6 +155,8 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
+- **Fr. Chad Ripperger on the Crisis in the Church and World**: See [eschatology/ripperger-navigating-crisis-church-world.md](eschatology/ripperger-navigating-crisis-church-world.md) for a detailed VideoMcp-based synthesis of his 2017 lecture on Marian prophecies, moral and ecclesial crisis, spiritual warfare, and the Catholic discernment of private revelation.
+
 ## 11. The Nine Spiritual Gifts (Charisms) of the Holy Spirit
 
 A comprehensive theological study of the nine charismatic gifts enumerated by St. Paul in 1 Corinthians 12:8–10 — distinct from the seven gifts of the Holy Spirit (Isaiah 11:2) that are permanent dispositions for personal sanctification. These charisms are gratuitous manifestations of the Spirit given for the common good and the building up of the Church:
