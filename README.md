@@ -70,7 +70,6 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 - **The Holy Rosary**: Detailed historical documents and prayer guides can be found under the rosary directory:
   - **Historical Development**: Read [liturgy/rosary/history.md](liturgy/rosary/history.md) to discover the early origins of the Psalter, the Dominican tradition, the codification by Pope St. Pius V, the Battle of Lepanto, and modern papal endorsements.
   - **How to Meditate & Pray**: See [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md) for a complete devotional structure of the mysteries (Joyful, Sorrowful, Glorious, and Luminous) and step-by-step instructions.
-  - **Video Source Synthesis**: Read [liturgy/rosary-brown-scapular-fatima-video-report.md](liturgy/rosary-brown-scapular-fatima-video-report.md) for a timestamped analysis of the Sensus Fidelium video on the Rosary, Brown Scapular, Fatima, and the prophecy attributed to St. Dominic.
 
 ---
 
@@ -156,11 +155,6 @@ The Church's teaching on the "four last things" (death, judgment, heaven, hell),
 
 ---
 
-- **Fr. Chad Ripperger on the Crisis in the Church and World**: See [eschatology/ripperger-navigating-crisis-church-world.md](eschatology/ripperger-navigating-crisis-church-world.md) for a detailed VideoMcp-based synthesis of his 2017 lecture on Marian prophecies, moral and ecclesial crisis, spiritual warfare, and the Catholic discernment of private revelation.
-- **Fr. Chad Ripperger on Our Times Part II**: See [eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md](eschatology/ripperger-our-times-part-ii-modernism-freemasonry-crisis.md) for a detailed VideoMcp-based synthesis of his lecture on Modernism, Freemasonry, family order, practical preparedness, and the natural-level response to cultural and ecclesial crisis.
-- **Fr. Chad Ripperger on Our Times Part III**: See [eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md](eschatology/ripperger-our-times-part-iii-detachment-suffering-hope.md) for a detailed VideoMcp-based synthesis of his lecture on detachment, suffering, mortification, reparation, Marian prophecy, the Rosary, mental meditation, the First Fridays and First Saturdays, sacramental preparation, and hope amid chastisement.
-- **Fr. Chad Ripperger on Our Times Part IV**: See [eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md](eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md) for a detailed VideoMcp-based synthesis of his Q&A on Fatima, prophecy, family formation, sacramentals, exorcism, spiritual warfare, and the limits of private revelation.
-
 ## 11. The Nine Spiritual Gifts (Charisms) of the Holy Spirit
 
 A comprehensive theological study of the nine charismatic gifts enumerated by St. Paul in 1 Corinthians 12:8–10 — distinct from the seven gifts of the Holy Spirit (Isaiah 11:2) that are permanent dispositions for personal sanctification. These charisms are gratuitous manifestations of the Spirit given for the common good and the building up of the Church:
@@ -179,16 +173,7 @@ A comprehensive theological study of the nine charismatic gifts enumerated by St
 
 ---
 
-## 12. Spiritual Life & Sanctification
-
-Catholic teaching and spiritual theology concerning the growth of grace, virtue, prayer, ascetical purification, contemplation, and the perfection of charity:
-
-- **Master Index & Scope**: Read [spiritual-life/README.md](spiritual-life/README.md) for the directory scope and its distinction between doctrine, spiritual-theological frameworks, devotional practice, and pastoral counsel.
-- **Christian Spiritual Perfection and the Interior Life**: See [spiritual-life/sanctified-perfection-and-holiness.md](spiritual-life/sanctified-perfection-and-holiness.md) for a detailed video-based synthesis of Fr. Chad Ripperger's teaching on sanctified perfection, sanctifying and actual grace, acquired and infused virtues, the purgative, illuminative, and unitive ways, prayer, digital distraction, the sacraments, and disinterested charity.
-
----
-
-## 13. Cultural Practices & Regional Catholic Traditions
+## 12. Cultural Practices & Regional Catholic Traditions
 
 The rich tapestry of Catholic cultural practices as lived out in various regions and communities around the world. These documents focus on regional funeral and burial customs, mourning practices, liturgical inculturation, and the distinction between universal Catholic doctrine and local custom:
 
@@ -198,7 +183,7 @@ The rich tapestry of Catholic cultural practices as lived out in various regions
 
 ---
 
-## 14. Private Confessions & Personal Examinations
+## 13. Private Confessions & Personal Examinations
 
 Personal and pastoral resources dealing with matters of conscience, sin, and reconciliation:
 
@@ -207,7 +192,7 @@ Personal and pastoral resources dealing with matters of conscience, sin, and rec
 
 ---
 
-## 15. Catholic Lay Organizations & Apostolates
+## 14. Catholic Lay Organizations & Apostolates
 
 Comprehensive studies of Catholic lay organizations, fraternal orders, and apostolic associations — their founders, histories, structures, canonical standing, charitable works, and the Magisterium's teaching on the apostolate of the laity:
 
@@ -216,7 +201,7 @@ Comprehensive studies of Catholic lay organizations, fraternal orders, and apost
 
 ---
 
-## 16. Enemies of the Church
+## 15. Enemies of the Church
 
 Studies of the movements, ideologies, and secret societies that the Catholic Church has identified as opposed to her doctrine, discipline, and mission — together with the magisterial response to them across the centuries. These documents maintain the Church's rigorous distinction between her **doctrinal condemnation of error** and her rejection of the **violent persecution of persons**:
 
@@ -226,7 +211,7 @@ Studies of the movements, ideologies, and secret societies that the Catholic Chu
 
 ---
 
-## 17. Local Church Schedules
+## 16. Local Church Schedules
 
 Published parish and cathedral schedules, confession times, contact details, and source-verification notes are collected in the [churches/](churches/) directory:
 
