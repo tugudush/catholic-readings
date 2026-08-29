@@ -1,10 +1,10 @@
 # St. Benedict of Nursia: Father of Western Monasticism and Patron of Europe
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the _Rule of St. Benedict_ and other primary testimony, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Benedict of Nursia** (Latin: _Benedictus Nursiae_; Italian: _Benedetto da Norcia_; c. 480 – 21 March 547 A.D.) is the **father of Western monasticism** and the author of the _**Rule of St. Benedict**_, which became the foundational document of monastic life in Western Europe. He is a **co-patron of Europe** (proclaimed by Pope Paul VI in 1964). His feast day is **11 July** (formerly 21 March).
 
@@ -88,7 +88,18 @@ St. Benedict died at **Monte Cassino** on **21 March 547 A.D.**, standing at the
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date       | Event                                              | Significance or source                                                             |
+| ---------- | -------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| c. 480     | Born at Nursia                                     | The approximate date and place come from St. Gregory the Great, _Dialogues_, II.1. |
+| c. 500     | Leaves studies and worldly life in Rome            | Gregory's account presents this withdrawal as a decisive search for God.           |
+| c. 505-520 | Lives as a hermit at Subiaco and gathers disciples | The first communities develop under Benedict's spiritual guidance.                 |
+| c. 529     | Establishes the monastery at Monte Cassino         | The monastery becomes the setting for the _Rule of St. Benedict_.                  |
+| c. 547     | Dies at Monte Cassino                              | Gregory, _Dialogues_, II.37, records Benedict's final prayer and burial.           |
+| 1964       | Proclaimed co-patron of Europe by Pope Paul VI     | _Pacis Nuntius_ gives the title ecclesial and continental significance.            |
+
+## 8. Patronage
 
 St. Benedict is the patron saint of:
 
@@ -104,7 +115,7 @@ St. Benedict is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                     | Date     | Rank  | Notes                                           |
 | ------------------------- | -------- | ----- | ----------------------------------------------- |
@@ -113,13 +124,13 @@ St. Benedict is the patron saint of:
 
 ---
 
-## 9. The Medal of St. Benedict
+## 10. The Medal of St. Benedict
 
 The **Medal of St. Benedict** is one of the most popular sacramentals in the Catholic Church. It bears the image of St. Benedict holding the Rule and the Cross, with the exorcistic inscription: **"VRSNSMV–SMQLIVB"** (_Vade retro Satana! Nunquam suade mihi vana! Sunt mala quae libas. Ipse venena bibas._ — "Begone, Satan! Never tempt me with your vanities! What you offer me is evil. Drink the poison yourself!").
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Benedict is the father of Europe. His Rule became the leaven of civilization in the West."
 > — Pope Paul VI, _Pacis Nuntius_ (1964)
@@ -135,7 +146,9 @@ The **Medal of St. Benedict** is one of the most popular sacramentals in the Cat
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Benedict
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Benedict of Nursia, the Father of Western monasticism and co-patron of Europe, bequeathed to the Church a Rule that has formed countless souls in the school of the Lord's service. The faithful seek his intercession for a spirit of prayer and work (_ora et labora_), for protection against evil (through the Medal of St. Benedict), for a good and holy death, and for the grace of stability in one's vocation. The following prayer may be used to seek his intercession:
 
@@ -166,7 +179,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The early medieval Church.
 - [sacramentals/README.md](../sacramentals/README.md) — The Medal of St. Benedict as a sacramental.

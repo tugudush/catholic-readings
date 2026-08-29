@@ -1,10 +1,10 @@
 # St. Michael the Archangel: Prince of the Heavenly Host
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the biblical testimony about Michael, the Church's angelology and liturgical recognition, later hagiography and local tradition, approved or unapproved devotional claims, and modern devotional composition. It does not treat artistic attributes or private devotional claims as revealed doctrine; quotations and historical assertions are qualified according to their source.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Michael the Archangel** (Hebrew: _**מִיכָאֵל**_, _Mikha'el_, "Who is like God?"; Latin: _Michael_; Arabic: _**ميكائيل**_, _Mika'il_) is one of the three archangels named in Sacred Scripture (along with Gabriel and Raphael) and the **leader of the heavenly host** in the war against Satan. He is revered as the **Prince of the Angels**, the **guardian of the Church**, and the **patron of soldiers, police, and the sick**. His feast is celebrated on **29 September** (Michaelmas), with a separate commemoration of the Apparition of St. Michael on **8 May**.
 
@@ -75,7 +75,19 @@ Composed by Pope Leo XIII in **1886** after a vision of the battle against the f
 
 ---
 
-## 5. Patronage
+## 5. Selected Chronology
+
+Michael is an angelic person, not a human saint with a recoverable earthly biography. The chronology therefore records the biblical and liturgical witnesses without inventing dates for his creation or ministry.
+
+| Witness or date      | Event                                                            | Significance or source                                                                                       |
+| -------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Daniel 10 and 12     | Michael is named as a chief prince and protector of God's people | Sacred Scripture supplies the earliest biblical witness to his role.                                         |
+| Jude 9               | Michael says, "The Lord rebuke you," in disputing with the devil | The text teaches reverence for God's judgment and does not authorize angel worship.                          |
+| Revelation 12:7-9    | Michael and his angels fight the dragon                          | The apocalyptic vision is read within Catholic angelology and the Church's teaching on the spiritual combat. |
+| 29 September         | Feast of Saints Michael, Gabriel, and Raphael                    | The Roman calendar commemorates the three archangels named in Scripture.                                     |
+| 8 November and 8 May | Byzantine and traditional Western commemorations                 | These are liturgical and local observances, not dates in a human life.                                       |
+
+## 6. Patronage
 
 St. Michael the Archangel is the patron saint of:
 
@@ -94,7 +106,7 @@ St. Michael the Archangel is the patron saint of:
 
 ---
 
-## 6. Feast Day
+## 7. Feast Day
 
 | Feast                                                     | Date                                                                                    | Rank                        | Notes                        |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------- | ---------------------------- |
@@ -104,7 +116,7 @@ St. Michael the Archangel is the patron saint of:
 
 ---
 
-## 7. Iconography
+## 8. Iconography
 
 St. Michael is traditionally depicted as a **winged warrior** in Roman or Byzantine armour, holding:
 
@@ -119,7 +131,7 @@ In Eastern iconography, he is often shown in the robes of a courtier rather than
 
 ---
 
-## 8. Patristic and Magisterial Citations
+## 9. Patristic and Magisterial Citations
 
 > "Michael signifies 'Who is like God?' and by this name we understand that no one can do what God does."
 > — St. Gregory the Great, _Homily 34 on the Gospels_
@@ -135,7 +147,9 @@ In Eastern iconography, he is often shown in the robes of a courtier rather than
 
 ---
 
-## 9. Prayer for Intercession
+## 10. Prayers Asking for the Intercession of St. Michael the Archangel
+
+> **Prayer status:** The short Prayer to St. Michael is the formula composed by Pope Leo XIII in 1886; the longer protection prayer below is a devotional composition for this article. Neither text is presented as words written by the archangel.
 
 St. Michael the Archangel is the Prince of the Heavenly Host, the defender of the Church against the powers of darkness, and the guardian who escorts souls to the judgment seat of God. The faithful invoke him for protection against evil, for strength in spiritual combat, for the dying, and for the Church in her trials. Pope Leo XIII composed the following prayer after a terrifying vision of the battle being waged by the evil one against the Church, and it remains the most widely used invocation of St. Michael:
 
@@ -175,7 +189,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 10. Further Reading
+## 11. Primary Sources and Further Reading
 
 - [angelology/angelic-hierarchy-choirs.md](../angelology/angelic-hierarchy-choirs.md) — The nine choirs of angels and their hierarchy.
 - [angelology/fallen-angels-demonology.md](../angelology/fallen-angels-demonology.md) — The fallen angels and the battle against evil.

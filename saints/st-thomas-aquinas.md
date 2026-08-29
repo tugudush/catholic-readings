@@ -1,10 +1,10 @@
 # St. Thomas Aquinas: The Angelic Doctor
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Thomas's theological works, hymns, contemporary and near-contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Authorship of attributed works, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Thomas Aquinas** (Italian: _Tommaso d'Aquino_; Latin: _Thomas de Aquino_; 1225 – 7 March 1274) was an Italian Dominican friar, priest, and the most influential theologian of the Catholic Church. He is honoured as the **Angelic Doctor** (_Doctor Angelicus_), the **Universal Doctor** (_Doctor Communis_), and a **Doctor of the Church**. His masterwork, the _**Summa Theologica**_, remains the definitive synthesis of Catholic theology. His feast day is **28 January**.
 
@@ -107,7 +107,18 @@ Pope Gregory X summoned Thomas to the **Second Council of Lyons** in 1274. While
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date            | Event                                                                       | Significance or source                                                                                            |
+| --------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| c. 1225         | Born at Roccasecca in the Kingdom of Sicily                                 | The date is approximate; the early biographies by William of Tocco and others provide the main narrative sources. |
+| 1244            | Enters the Order of Preachers                                               | His Dominican vocation places study and preaching within the Church's apostolic mission.                          |
+| 1252-1256       | Studies and begins teaching theology at Paris                               | The period establishes his academic and theological vocation.                                                     |
+| 1265-1274       | Writes major parts of the _Summa theologiae_ and teaches in Italy and Paris | His works synthesize Scripture, the Fathers, philosophy, and received Catholic doctrine.                          |
+| 6 December 1273 | Stops writing after a profound experience during Mass                       | The testimony is recorded in the canonization process and later biographies; its interpretation is devotional.    |
+| 7 March 1274    | Dies at Fossanova; canonized in 1323                                        | The canonization and later doctorate recognize his service to theology.                                           |
+
+## 8. Patronage
 
 St. Thomas Aquinas is the patron saint of:
 
@@ -123,7 +134,7 @@ St. Thomas Aquinas is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                              | Date       | Rank     | Notes                                 |
 | ---------------------------------- | ---------- | -------- | ------------------------------------- |
@@ -132,7 +143,7 @@ St. Thomas Aquinas is the patron saint of:
 
 ---
 
-## 9. The Five Ways
+## 10. The Five Ways
 
 In the _Summa Theologica_ (I, q. 2, a. 3), Thomas presents **five proofs for the existence of God**, known as the **Five Ways** (_Quinque Viae_):
 
@@ -144,7 +155,7 @@ In the _Summa Theologica_ (I, q. 2, a. 3), Thomas presents **five proofs for the
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Thomas Aquinas is a model of how to use human reason in the service of faith. His theological synthesis remains a valid and indispensable resource for the Church."
 > — Pope Benedict XVI, General Audience, 16 June 2010
@@ -160,7 +171,9 @@ In the _Summa Theologica_ (I, q. 2, a. 3), Thomas presents **five proofs for the
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Thomas Aquinas
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Thomas Aquinas, the Angelic Doctor and the greatest theologian of the Catholic Church, composed the incomparable Eucharistic hymns _Pange Lingua_, _Adoro Te Devote_, and _Tantum Ergo_ — and his _Summa Theologica_ remains a pillar of Catholic intellectual tradition. The faithful seek his intercession for clarity of thought, for purity of heart (the angelic virtue for which he was girded by angels), for students and scholars, for those struggling with doubt, and for a deeper love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
 
@@ -190,7 +203,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist, whose theology Thomas expounded.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine of Hippo, whose thought Thomas synthesized with Aristotle.

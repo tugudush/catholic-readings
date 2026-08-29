@@ -1,10 +1,10 @@
 # St. Ignatius of Loyola: Founder of the Society of Jesus
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Ignatius's _Autobiography_, _Spiritual Exercises_, letters, and constitutions, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, mystical experiences, miracle accounts, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Ignatius of Loyola** (Basque: _Iñigo Loiolakoa_; Spanish: _Ignacio de Loyola_; 1491 – 31 July 1556) was a Spanish Basque knight, hermit, priest, and theologian who founded the **Society of Jesus** (the Jesuits) in 1540. He is one of the most influential figures of the Catholic Reformation (the Counter-Reformation), and his _Spiritual Exercises_ remain a cornerstone of Catholic spirituality. His feast day is celebrated on **31 July**.
 
@@ -252,7 +252,18 @@ In the summer of **1556**, Ignatius fell gravely ill. On the morning of **31 Jul
 
 ---
 
-## 10. Legacy and Influence
+## 10. Selected Chronology
+
+| Date              | Event                                                                          | Significance or source                                                                               |
+| ----------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| 1491              | Born at the Castle of Loyola in the Basque country                             | The precise date is unknown; his early life is preserved in his _Autobiography_.                     |
+| 20 May 1521       | Wounded at the defense of Pamplona                                             | The injury begins the convalescence and conversion described in the _Autobiography_.                 |
+| 1522-1523         | Pilgrimage, penance, and spiritual formation at Montserrat and Manresa         | These experiences shape the method later expressed in the _Spiritual Exercises_.                     |
+| 15 August 1534    | Makes the vows of Montmartre with the First Companions                         | The vows establish the companions' apostolic purpose under ecclesial discernment.                    |
+| 27 September 1540 | Pope Paul III approves the Society of Jesus in _Regimini Militantis Ecclesiae_ | The papal bull gives the new religious institute canonical foundation.                               |
+| 31 July 1556      | Dies in Rome; canonized in 1622                                                | His death closes the founding period while his writings continue to shape Catholic retreat practice. |
+
+## 11. Legacy and Influence
 
 ### The Jesuit Order
 
@@ -283,7 +294,7 @@ St. Ignatius of Loyola is the patron saint of:
 
 ---
 
-## 11. Key Writings
+## 12. Key Writings
 
 - **_The Spiritual Exercises_ (_Exercitia Spiritualia_, 1548)** — The manual of meditations and discernment.
 - **_The Constitutions of the Society of Jesus_ (1550)** — The foundational legal and spiritual document of the Jesuits.
@@ -293,26 +304,9 @@ St. Ignatius of Loyola is the patron saint of:
 
 ---
 
-## 12. Patristic and Magisterial Citations
+## 13. Prayers St. Ignatius of Loyola Wrote
 
-> "The Spiritual Exercises of St. Ignatius of Loyola are a treasure of Christendom. They are not a simple book of piety; they are a school of the _sequela Christi_, a path of conversion and of discipleship."
-> — Pope St. John Paul II, _Vita Consecrata_, 65
-
-> "St. Ignatius of Loyola was a true master of the spiritual life. His _Exercises_ continue to be a source of renewal and apostolic dynamism for the whole Church."
-> — Pope Benedict XVI, General Audience, 15 March 2006
-
----
-
-## 13. Prayer for Intercession
-
-St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author of the _Spiritual Exercises_, was a Basque knight converted from worldly ambition to the service of the King of Kings. The faithful seek his intercession for the grace of discernment of spirits, for the Society of Jesus and all its works, for those making retreats, for the greater glory of God (_Ad Maiorem Dei Gloriam_), and for the gift of holy indifference — the freedom to desire nothing but God's will. The following prayer, drawn from his _Spiritual Exercises_, may be used to seek his intercession:
-
-    O glorious St. Ignatius of Loyola,
-    founder of the Society of Jesus
-    and master of the discernment of spirits,
-    you who traded the ambitions of a knight
-    for the standard of Christ the King,
-    obtain for us the grace to seek and find God in all things.
+The following prayer is the **Suscipe** from the _Spiritual Exercises_, no. 234. It is a prayer written by St. Ignatius, not a prayer asking for his intercession. English wording varies by translation.
 
     Take, Lord, and receive all my liberty,
     my memory, my understanding, and my entire will —
@@ -322,6 +316,29 @@ St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author
     All is Yours; dispose of it wholly according to Your will.
     Give me only Your love and Your grace;
     that is enough for me.
+
+## 14. Patristic and Magisterial Citations
+
+> "The Spiritual Exercises of St. Ignatius of Loyola are a treasure of Christendom. They are not a simple book of piety; they are a school of the _sequela Christi_, a path of conversion and of discipleship."
+> — Pope St. John Paul II, _Vita Consecrata_, 65
+
+> "St. Ignatius of Loyola was a true master of the spiritual life. His _Exercises_ continue to be a source of renewal and apostolic dynamism for the whole Church."
+> — Pope Benedict XVI, General Audience, 15 March 2006
+
+---
+
+## 15. Prayers Asking for the Intercession of St. Ignatius of Loyola
+
+> **Prayer status:** The opening intercession below is a new devotional composition for this article. The _Suscipe_ is St. Ignatius's own prayer and is identified separately above; it is not presented as an intercession prayer written by him.
+
+St. Ignatius of Loyola, founder of the Society of Jesus (the Jesuits) and author of the _Spiritual Exercises_, was a Basque knight converted from worldly ambition to the service of the King of Kings. The faithful seek his intercession for the grace of discernment of spirits, for the Society of Jesus and all its works, for those making retreats, for the greater glory of God (_Ad Maiorem Dei Gloriam_), and for the gift of holy indifference — the freedom to desire nothing but God's will. The following prayer may be used to seek his intercession:
+
+    O glorious St. Ignatius of Loyola,
+    founder of the Society of Jesus
+    and master of the discernment of spirits,
+    you who traded the ambitions of a knight
+    for the standard of Christ the King,
+    obtain for us the grace to seek and find God in all things.
 
     St. Ignatius, soldier of Christ,
     pray for us now and at the hour of our death.
@@ -334,7 +351,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Further Reading
+## 16. Primary Sources and Further Reading
 
 - [church-history/protestant-reformation.md](../church-history/protestant-reformation.md) — The historical context of the Catholic Reformation in which St. Ignatius lived and worked.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The early Church foundations that St. Ignatius sought to defend and renew.

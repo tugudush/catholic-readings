@@ -1,10 +1,10 @@
 # St. Joseph: Spouse of the Blessed Virgin Mary and Patron of the Universal Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the canonical Gospel testimony, patristic and magisterial teaching, apocryphal and later hagiographical tradition, liturgical recognition, and modern devotional composition. Claims about Joseph's age, prior marriage, death, relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Joseph** (Hebrew: **_יוֹסֵף_**, _Yosef_, "God shall add"; Latin: _Josephus_) is the **spouse of the Blessed Virgin Mary**, the **foster father and guardian of Jesus Christ**, and the **Patron of the Universal Church**. Though not a single word of his is recorded in Scripture, his silent obedience and just character have made him the model of faithfulness, humility, and working-class holiness. His principal feast is celebrated on **19 March** (Solemnity of St. Joseph, Spouse of the Blessed Virgin Mary), and his patronage as **St. Joseph the Worker** is honoured on **1 May**.
 
@@ -318,7 +318,11 @@ The **Sacred Heart of St. Joseph** (analogous to the Sacred Heart of Jesus) is a
 
 ---
 
-## 13. Patristic and Magisterial Citations
+## 13. Prayers St. Joseph Wrote or Is Recorded as Praying
+
+Sacred Scripture records no spoken prayer by St. Joseph, and no securely preserved prayer written by him is known. The prayers and devotions discussed in this article are later ecclesial or devotional compositions and must not be attributed to Joseph without a source.
+
+## 14. Patristic and Magisterial Citations
 
 > "He was chosen by the eternal Father as the faithful guardian and protector of His greatest treasures, namely, His divine Son and Mary, Joseph's wife."
 > — Pope Leo XIII, _Quamquam Pluries_ (1889)
@@ -355,7 +359,9 @@ The **Sacred Heart of St. Joseph** (analogous to the Sacred Heart of Jesus) is a
 
 ---
 
-## 14. Prayer for Intercession
+## 15. Prayers Asking for the Intercession of St. Joseph
+
+> **Prayer status:** The first prayer is a new devotional composition for this article. The traditional prayer identified below has a devotional history but is not presented as a text written by St. Joseph or as a formula "over 1,900 years" old without documentary support.
 
 St. Joseph, the just and silent carpenter of Nazareth, is the most powerful intercessor after the Blessed Virgin Mary. As Pope Leo XIII taught, "he holds a place of singular dignity among the saints" because the eternal Father entrusted to him His greatest treasures — Jesus and Mary. The faithful seek his intercession for a happy death, for protection of the family, for purity of heart, for workers and those seeking employment, for the grace of obedient faith, and for the Universal Church. The following prayer, drawn from the Church's rich tradition, may be used to seek his intercession:
 
@@ -401,7 +407,7 @@ _The ancient prayer to St. Joseph (known for over 1,900 years):_
 
 ---
 
-## 15. Further Reading
+## 16. Primary Sources and Further Reading
 
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage and St. Joseph's role as spouse.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — Prayers including the Litany of St. Joseph.

@@ -1,16 +1,25 @@
 # St. Polycarp of Smyrna: Disciple of St. John and Apostolic Martyr
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Polycarp's surviving letter, contemporary and near-contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, eyewitness details, miracles, and relic claims are qualified according to their source and certainty.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Polycarp of Smyrna** (Greek: _Πολύκαρπος_, _Polýkarpos_, meaning "much fruit"; c. 69–155 A.D.) was the **Bishop of Smyrna** (modern-day Izmir, Turkey) and one of the most important figures of the sub-apostolic age. He was a direct **disciple of St. John the Evangelist**, the teacher of **St. Irenaeus of Lyons**, and a companion of **St. Ignatius of Antioch**. His _Letter to the Philippians_ and the account of his martyrdom (the _Martyrium Polycarpi_) are among the most precious documents of early Christianity.
 
 St. Polycarp stands as the principal link between the apostolic age and the later patristic period. Through his disciple St. Irenaeus, the tradition of St. John the Evangelist was transmitted to the Latin West, ensuring the preservation of Johannine theology—the Incarnation, the Real Presence, and the apostolic foundation of the Church.
 
 His feast day is celebrated on **23 February** in the Latin Rite and on **23 February** in the Byzantine Rite.
+
+| Profile              | Details                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------ |
+| Full name and titles | Polycarp of Smyrna; St. Polycarp                                                     |
+| Canonical status     | Saint, bishop, Apostolic Father, and martyr                                          |
+| Dates                | c. 69-155 A.D.; dates are approximate                                                |
+| Birthplace           | Uncertain; probably the Roman province of Asia                                       |
+| Vocation and office  | Bishop of Smyrna, teacher of St. Irenaeus, and author of _Letter to the Philippians_ |
+| Historical setting   | The Johannine and sub-apostolic Church of Asia Minor                                 |
 
 ---
 
@@ -183,7 +192,17 @@ This document is sometimes confused with Polycarp's writings, but it is actually
 
 ---
 
-## 9. Legacy
+## 9. Selected Chronology
+
+| Date        | Event                                       | Significance or source                                                                                |
+| ----------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| c. 69       | Born in the Roman province of Asia          | The date is approximate; later testimony places him within the Johannine circle.                      |
+| c. 100      | Becomes Bishop of Smyrna                    | St. Irenaeus identifies him as a bishop established in Asia by the Apostles.                          |
+| c. 110-140  | Writes the _Letter to the Philippians_      | The letter preserves moral teaching, scriptural citation, and the transmission of Ignatius's letters. |
+| c. 155      | Martyred at Smyrna                          | The _Martyrium Polycarpi_ is the principal near-contemporary account.                                 |
+| 23 February | Latin and Byzantine Catholic commemorations | The liturgical calendars preserve the memory of the bishop-martyr.                                    |
+
+## 10. Patronage, Feast Days, and Legacy
 
 St. Polycarp of Smyrna is of immense and enduring importance for the following reasons:
 
@@ -195,7 +214,55 @@ St. Polycarp of Smyrna is of immense and enduring importance for the following r
 
 ---
 
-## 10. Further Reading
+### Patronage and feast days
+
+St. Polycarp has no universally defined occupational patronage. He is customarily associated with bishops, teachers of the faith, and those who give witness under persecution. These associations are devotional and do not replace the historical evidence for his episcopate and martyrdom.
+
+| Celebration              | Date        | Rite, calendar, or notes                                                       |
+| ------------------------ | ----------- | ------------------------------------------------------------------------------ |
+| Memorial of St. Polycarp | 23 February | Latin Church memorial and Byzantine Catholic commemoration in local calendars. |
+
+## 11. Prayers St. Polycarp Wrote or Is Recorded as Praying
+
+Polycarp's _Letter to the Philippians_ contains blessings and prayerful exhortation, but no separate formal prayer whose wording can be isolated from the letter with complete certainty. The letter should be cited by chapter when devotional passages are used.
+
+## 12. Prayers Asking for the Intercession of St. Polycarp
+
+The following is a new devotional composition for this article. It is not a text written by St. Polycarp or an official collect.
+
+O holy Polycarp of Smyrna,
+faithful bishop, disciple of the Apostles,
+and steadfast martyr of Christ,
+pray that we may hold fast to the faith
+handed on in the Church.
+
+Ask the Lord to make bishops and teachers faithful,
+to strengthen those who suffer for the Gospel,
+and to unite Christians in truth and charity.
+
+Help us to confess Christ without fear,
+to reject hatred,
+and to entrust our lives to the resurrection.
+
+St. Polycarp,
+pray for us now and at the hour of our death.
+Amen.
+
+## 13. Attribution Cautions
+
+- The _Martyrium Polycarpi_ is a near-contemporary witness to his death, but its theological and literary purpose should be distinguished from a modern stenographic report.
+- The account of the flames and the quantity of blood belongs to the martyrdom narrative and should be labeled as its reported miracle.
+- Polycarp's _Letter to the Philippians_ is his securely preserved work; _2 Clement_ is not by Polycarp.
+- The intercession prayer in this article is a new devotional composition and is not attributed to Polycarp.
+
+## 14. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [St. Polycarp](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/St.%20Polycarp) — historical and ecclesial reference entry.
+- St. Polycarp, _Letter to the Philippians_.
+- _Martyrium Polycarpi_, especially chapters 9-19.
+- St. Irenaeus of Lyons, _Letter to Florinus_, cited in Eusebius, _Church History_, V, 20.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the direct disciples of the Apostles.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The early Church's structural and historical development from apostolic times.

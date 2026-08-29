@@ -1,10 +1,10 @@
 # St. Gregory the Great: Pope and Doctor of the Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Gregory's letters, homilies, and _Pastoral Rule_, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Gregory the Great** (Latin: _Gregorius Magnus_; c. 540 – 12 March 604 A.D.) was **Pope from 590 to 604** and one of the four **Great Doctors of the Latin Church** (with Augustine, Ambrose, and Jerome). He is known for his reform of the liturgy, his missionary initiatives (including the sending of St. Augustine of Canterbury to England), his prolific writings, and his development of **Gregorian chant**. His feast day is **3 September** (formerly 12 March).
 
@@ -79,7 +79,18 @@ Gregory died on **12 March 604** after a long and painful illness. He was buried
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date         | Event                                                       | Significance or source                                                                         |
+| ------------ | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| c. 540       | Born in Rome to a senatorial family                         | His early life is known through Gregory's writings and the later biography by John the Deacon. |
+| c. 575       | Founds the monastery of St. Andrew and enters monastic life | The monastery becomes a center of prayer, study, and missionary formation.                     |
+| 579          | Sent as papal representative to Constantinople              | The mission shows Gregory's service to the Roman See before his election.                      |
+| 590          | Elected and consecrated Bishop of Rome                      | He governs during plague, famine, Lombard pressure, and ecclesial division.                    |
+| 596          | Sends Augustine and companions to evangelize the English    | The mission shapes the Latin Church in England and Gregory's missionary legacy.                |
+| 12 March 604 | Dies in Rome                                                | His letters, homilies, _Pastoral Rule_, and liturgical commemoration preserve his legacy.      |
+
+## 8. Patronage
 
 St. Gregory the Great is the patron saint of:
 
@@ -93,7 +104,7 @@ St. Gregory the Great is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                 | Date        | Rank     | Notes                                 |
 | ------------------------------------- | ----------- | -------- | ------------------------------------- |
@@ -102,7 +113,7 @@ St. Gregory the Great is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. Gregory the Great was a great pope and a great Doctor of the Church. He served the Church with wisdom and humility."
 > — Pope Benedict XVI, General Audience, 4 March 2008
@@ -115,7 +126,9 @@ St. Gregory the Great is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Gregory the Great
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Gregory the Great, Pope and Doctor of the Church, is one of the four great Latin Fathers and the architect of medieval Christendom. He reformed the liturgy (giving his name to Gregorian chant), sent St. Augustine of Canterbury to evangelize England, wrote the _Pastoral Rule_ that shaped bishoply ministry for a millennium, and served the poor of Rome with his own hands. The faithful seek his intercession for the Holy Father, for those who serve in liturgical music, for the conversion of nations, and for the grace of humble and faithful pastoral leadership. The following prayer may be used to seek his intercession:
 
@@ -147,7 +160,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
 - [saints/st-benedict.md](st-benedict.md) — St. Benedict, whose life Gregory recorded.

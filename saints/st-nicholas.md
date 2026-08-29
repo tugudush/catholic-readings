@@ -1,10 +1,10 @@
 # St. Nicholas of Myra: The Wonderworker and Patron of Children
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the limited early evidence for Nicholas, later hagiography and local traditions, Church teaching and liturgical recognition, and modern devotional composition. Miracle accounts, the Council of Nicaea tradition, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Nicholas of Myra** (Greek: _**Ἅγιος Νικόλαος**_; Latin: _Sanctus Nicolaus_; c. 270 – 6 December 343 A.D.) was a fourth-century Christian bishop of **Myra** (modern-day Demre, Turkey). Known as **"Nicholas the Wonderworker"** for the many miracles attributed to his intercession, he is one of the most popular saints in both Eastern and Western Christianity, venerated by Catholics, Eastern Orthodox, Oriental Orthodox, and many Protestants. His legendary generosity—particularly giving gifts to the poor—evolved into the figure of **Santa Claus**. His feast day is **6 December**.
 
@@ -73,7 +73,17 @@ In **1087**, Muslim Seljuk Turks controlled Myra, and Italian sailors from **Bar
 
 ---
 
-## 6. Patronage
+## 6. Selected Chronology
+
+| Date                          | Event                                                      | Significance or source                                                                                            |
+| ----------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| c. 270                        | Born at Patara in Lycia                                    | The approximate date and place are drawn from later biographical tradition.                                       |
+| c. 4th century                | Serves as Bishop of Myra                                   | The episcopal identity and early cult are more secure than the expanded miracle narratives.                       |
+| c. 303-311                    | Traditionally suffers during the persecution of Diocletian | Imprisonment and torture are ancient traditions whose details are not equally documented.                         |
+| 325                           | Traditionally present at the Council of Nicaea             | His attendance and the story of striking Arius are not established with the same certainty as the council itself. |
+| 6 December 343, traditionally | Dies at Myra; relics are translated to Bari in 1087        | The date of death and translation belong to the history of his cult and relic veneration.                         |
+
+## 7. Patronage
 
 St. Nicholas is the patron saint of:
 
@@ -91,7 +101,7 @@ St. Nicholas is the patron saint of:
 
 ---
 
-## 7. Feast Day
+## 8. Feast Day
 
 | Feast                         | Date                                        | Rank            | Notes                                      |
 | ----------------------------- | ------------------------------------------- | --------------- | ------------------------------------------ |
@@ -101,13 +111,13 @@ St. Nicholas is the patron saint of:
 
 ---
 
-## 8. The Santa Claus Tradition
+## 9. The Santa Claus Tradition
 
 The legend of St. Nicholas evolved through Dutch colonists in New Amsterdam (New York) into the figure of **Sinterklaas**, which became **Santa Claus**. The Dutch tradition of giving gifts on St. Nicholas Eve (5 December) merged with the Christmas celebration, transforming the historical bishop into the jolly red-suited gift-bringer.
 
 ---
 
-## 9. Iconography
+## 10. Iconography
 
 St. Nicholas is traditionally depicted as a **bearded bishop** in Eastern vestments (or Western bishop's robes), holding:
 
@@ -118,7 +128,7 @@ St. Nicholas is traditionally depicted as a **bearded bishop** in Eastern vestme
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Nicholas, the Wonderworker of Myra, is a model of charity, especially towards the poor and children."
 > — Pope Benedict XVI, _Angelus_, 6 December 2010
@@ -131,7 +141,9 @@ St. Nicholas is traditionally depicted as a **bearded bishop** in Eastern vestme
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Nicholas of Myra
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Nicholas of Myra, the Wonderworker, is one of the most beloved saints in both the Eastern and Western Churches. His legendary generosity — secretly providing dowries for three impoverished maidens by throwing bags of gold through their window — is the origin of the Christmas gift-giving tradition and earned him the role of patron of children. The faithful seek his intercession for the protection of children, for sailors and travelers, for those in financial distress, and for the grace of anonymous charity. The following prayer may be used to seek his intercession:
 
@@ -159,7 +171,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The Council of Nicaea and the Arian controversy.
 - [saints/README.md](README.md) — Master index of the saints directory.

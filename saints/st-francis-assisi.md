@@ -1,10 +1,10 @@
 # St. Francis of Assisi: Il Poverello, Founder of the Friars Minor
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Francis's rule, writings, and early biographical witnesses, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracle accounts, the stigmata, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Francis of Assisi** (Italian: _Francesco d'Assisi_; Latin: _Franciscus Assisiensis_; 1181/1182 – 3 October 1226), born **Giovanni di Pietro di Bernardone**, was an Italian Catholic deacon, mystic, and the **founder of the Order of Friars Minor** (the Franciscans). Affectionately known as **Il Poverello** ("the Little Poor One"), he is one of the most beloved and widely venerated saints in all of Christendom. His feast day is celebrated on **4 October**.
 
@@ -98,7 +98,18 @@ Less than two years after his death, on **16 July 1228**, Pope **Gregory IX** ca
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date           | Event                                                                                             | Significance or source                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1181/1182      | Born at Assisi                                                                                    | Thomas of Celano and St. Bonaventure provide the principal early biographical witnesses.                              |
+| 1205-1206      | Conversion begins through prayer, service to lepers, and the call at San Damiano                  | The episodes are interpreted within the early Franciscan sources as a gradual vocation, not a single slogan.          |
+| 1209           | Francis and the first brothers receive oral approval for their way of life from Pope Innocent III | The community's identity is ecclesial from its beginning.                                                             |
+| 1219           | Travels to Egypt and meets Sultan al-Malik al-Kamil                                               | The encounter is documented in early sources and should not be turned into a modern political program.                |
+| 1223-1224      | Rule confirmed; receives the stigmata at La Verna                                                 | The _Regula bullata_ is an ecclesial text; the stigmata belong to Franciscan hagiographical and devotional testimony. |
+| 3 October 1226 | Dies at the Portiuncula; canonized 16 July 1228                                                   | The early biographies and papal canonization establish his public cult.                                               |
+
+## 9. Patronage
 
 St. Francis of Assisi is the patron saint of:
 
@@ -114,7 +125,7 @@ St. Francis of Assisi is the patron saint of:
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
 | Feast                                 | Date      | Rank     | Notes                        |
 | ------------------------------------- | --------- | -------- | ---------------------------- |
@@ -123,7 +134,7 @@ St. Francis of Assisi is the patron saint of:
 
 ---
 
-## 10. The Franciscan Family
+## 11. The Franciscan Family
 
 St. Francis founded **three orders**:
 
@@ -133,7 +144,7 @@ St. Francis founded **three orders**:
 
 ---
 
-## 11. Patristic and Magisterial Citations
+## 12. Patristic and Magisterial Citations
 
 > "In St. Francis of Assisi, the face of Christ shines forth in a singular way. His life is a living Gospel."
 > — Pope Benedict XVI, General Audience, 27 January 2010
@@ -149,7 +160,9 @@ St. Francis founded **three orders**:
 
 ---
 
-## 12. Prayer for Intercession
+## 13. Prayers Asking for the Intercession of St. Francis of Assisi
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Francis of Assisi, Il Poverello, embodied the radical poverty and joyous love of Christ to such a degree that he received the sacred stigmata — the very wounds of the Crucified. The faithful seek his intercession for the grace of simplicity, for peace in a divided world, for love of all God's creation, and for the courage to live the Gospel without compromise. The following prayer, inspired by the Franciscan tradition, may be used to seek his intercession:
 
@@ -177,7 +190,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 13. Further Reading
+## 14. Primary Sources and Further Reading
 
 - [saints/st-clare-assisi.md](st-clare-assisi.md) — St. Clare of Assisi, foundress of the Poor Clares.
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — The stigmata in the lives of the saints.

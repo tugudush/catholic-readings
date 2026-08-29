@@ -1,10 +1,10 @@
 # St. Pio of Pietrelcina (Padre Pio): The Stigmatist of San Giovanni Rotondo
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Padre Pio's documented religious ministry, official testimony in his cause, contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Stigmata, bilocation, healing, prophetic, relic, and prayer-attribution claims are qualified according to their source and ecclesial status; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Pio of Pietrelcina** (Italian: _Pio da Pietrelcina_; 25 May 1887 – 23 September 1968), commonly known as **Padre Pio**, was an Italian Capuchin Franciscan friar, priest, and mystic who bore the **stigmata**—the visible wounds of Christ—for fifty years. He is one of the most popular saints of the modern era, venerated for his extraordinary spiritual gifts, his devotion to the Eucharist and confession, and his charitable works. His feast day is **23 September**.
 
@@ -85,7 +85,7 @@ Padre Pio encouraged the formation of **Prayer Groups**, which spread throughout
 
 ---
 
-## 7. The Prayer Padre Pio Prayed for Intentions
+## 7. Prayers Padre Pio Is Reported to Have Used for Intentions
 
 ### The Efficacious Novena to the Sacred Heart
 
@@ -150,7 +150,18 @@ Padre Pio died on **23 September 1968** at the age of eighty-one. His final word
 
 ---
 
-## 9. Patronage
+## 9. Selected Chronology
+
+| Date                             | Event                                     | Significance or source                                                                                                                      |
+| -------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 25 May 1887                      | Born Francesco Forgione at Pietrelcina    | His family and early religious formation are part of the documented biography.                                                              |
+| 6 January 1903                   | Enters the Capuchin novitiate at Morcone  | He receives the name Pio and begins religious formation.                                                                                    |
+| 10 August 1910                   | Ordained a priest                         | His priestly life centers on the Eucharist, confession, prayer, and spiritual direction.                                                    |
+| 20 September 1918                | Receives the visible stigmata             | The phenomenon is examined in the records of his life and cause; it remains a private, ecclesially recognized matter, not a new revelation. |
+| 1956                             | Founds the Casa Sollievo della Sofferenza | The hospital expresses his apostolate of concrete charity toward the sick.                                                                  |
+| 23 September 1968 / 16 June 2002 | Dies and is canonized                     | The dates mark the close of his earthly ministry and the Church's canonization.                                                             |
+
+## 10. Patronage
 
 St. Pio of Pietrelcina is the patron saint of:
 
@@ -164,7 +175,7 @@ St. Pio of Pietrelcina is the patron saint of:
 
 ---
 
-## 10. Feast Day
+## 11. Feast Day
 
 | Feast                                  | Date         | Rank     | Notes           |
 | -------------------------------------- | ------------ | -------- | --------------- |
@@ -172,7 +183,7 @@ St. Pio of Pietrelcina is the patron saint of:
 
 ---
 
-## 11. Patristic and Magisterial Citations
+## 12. Patristic and Magisterial Citations
 
 > "Padre Pio was a humble Capuchin friar who became an instrument of God's mercy. His life shows that the power of God is made perfect in weakness."
 > — Pope John Paul II, Canonization Homily, 16 June 2002
@@ -185,7 +196,9 @@ St. Pio of Pietrelcina is the patron saint of:
 
 ---
 
-## 12. Prayer for Intercession
+## 13. Prayers Asking for the Intercession of St. Pio of Pietrelcina
+
+> **Prayer status:** This prayer is a devotional composition for this article. Padre Pio's reported counsel and the novena discussed earlier are not used as evidence that he authored this text.
 
 St. Pio of Pietrelcina (Padre Pio), the stigmatist of San Giovanni Rotondo, bore the visible wounds of Christ for fifty years and spent up to sixteen hours a day in the confessional, reading souls and reconciling sinners to God. His famous counsel — "Pray, hope, and don't worry" — has comforted millions. The faithful seek his intercession for physical and spiritual healing, for the grace of a worthy confession, for those suffering from anxiety, for the sick (especially through the Casa Sollievo della Sofferenza), and for the gift of perseverance in trial. The following prayer may be used to seek his intercession:
 
@@ -217,7 +230,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 13. Further Reading
+## 14. Primary Sources and Further Reading
 
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — Detailed account of the stigmata of Padre Pio.
 - [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md) — The devotion to the Sacred Heart of Jesus, including the full text of the Efficacious Novena.

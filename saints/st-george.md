@@ -1,10 +1,10 @@
 # St. George: The Great Martyr and Patron of England
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the early evidence for George's martyr cult, contemporary and near-contemporary evidence where available, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. The date and circumstances of his martyrdom, the dragon narrative, relics, and quotations are qualified according to their source and certainty.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. George** (Greek: _**Γεώργιος**_, _Georgios_; Latin: _Georgius_; c. 275/280 – 23 April 303 A.D.) was a Roman soldier and Christian martyr who has been venerated as one of the **Fourteen Holy Helpers** and one of the most prominent military saints in the Catholic and Orthodox traditions. His legendary victory over a dragon has made him a symbol of the triumph of good over evil. He is the **patron saint of England, Georgia, Portugal, and Catalonia**. His feast day is **23 April**.
 
@@ -61,7 +61,17 @@ This legend is understood allegorically as representing the victory of Christ (t
 
 ---
 
-## 5. Patronage
+## 5. Selected Chronology
+
+| Date              | Event                                                            | Significance or source                                                                                       |
+| ----------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| c. 275-280        | Born, traditionally in Cappadocia                                | The exact birthplace and early life are uncertain; the early cult centers on a soldier-martyr.               |
+| c. 303            | Martyred during the persecution under Diocletian                 | The date and setting are traditional; the early martyr cult is more secure than the later narrative details. |
+| 4th-6th centuries | Cult spreads in the East and West                                | Churches and liturgical commemorations provide evidence of veneration without confirming every later legend. |
+| 1222              | Feast of St. George established as a major observance in England | This is a historical development of English patronal devotion, not evidence of the dragon story.             |
+| 23 April          | Annual commemoration in the Roman calendar                       | The liturgical feast honors the martyr's witness to Christ.                                                  |
+
+## 6. Patronage
 
 St. George is the patron saint of:
 
@@ -79,7 +89,7 @@ St. George is the patron saint of:
 
 ---
 
-## 6. Feast Day
+## 7. Feast Day
 
 | Feast                      | Date                                                              | Rank                           | Notes                           |
 | -------------------------- | ----------------------------------------------------------------- | ------------------------------ | ------------------------------- |
@@ -88,7 +98,7 @@ St. George is the patron saint of:
 
 ---
 
-## 7. Veneration
+## 8. Veneration
 
 ### England
 
@@ -100,7 +110,7 @@ St. George is numbered among the **Fourteen Holy Helpers**, a group of saints in
 
 ---
 
-## 8. Iconography
+## 9. Iconography
 
 St. George is traditionally depicted as a **Roman soldier on horseback**, slaying a dragon with a lance. His iconographic attributes include:
 
@@ -112,7 +122,7 @@ St. George is traditionally depicted as a **Roman soldier on horseback**, slayin
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. George is a model of courage and faith, a soldier who gave his life for Christ."
 > — Pope Benedict XVI, _Angelus_, 23 April 2007
@@ -125,7 +135,9 @@ St. George is traditionally depicted as a **Roman soldier on horseback**, slayin
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. George
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. George, the Great Martyr and dragon-slayer, is one of the most widely venerated saints in both East and West — a soldier of Christ who preferred death to the denial of his Lord. The faithful seek his intercession for courage in spiritual combat, for protection against evil, for soldiers and all who face danger in the line of duty, and for the grace of unwavering faith in the face of hostility. The following prayer may be used to seek his intercession:
 
@@ -153,7 +165,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The age of persecution under Diocletian.
 - [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael, the first soldier-saint.

@@ -1,10 +1,10 @@
 # St. Monica: Patron of Mothers and Converts
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Augustine's testimony about Monica, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, visions, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Monica** (Latin: _Monica_; c. 331 – 27 August 387 A.D.) was a Christian saint and the **mother of St. Augustine of Hippo**. She is venerated as the **patron saint of mothers, wives, and those who have difficult marriages or wayward children**, and is remembered for her persistent prayers and tears for the conversion of her son, which ultimately led to one of the greatest conversions in Church history. Her feast day is **27 August**.
 
@@ -85,7 +85,17 @@ The image of St. Monica's **tears** is central to her legacy. Augustine wrote: "
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date      | Event                                                                          | Significance or source                                                                                                 |
+| --------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| c. 331    | Born in North Africa                                                           | The approximate date and details of her family are known chiefly through Augustine's _Confessions_.                    |
+| 370s-380s | Prays and works for the conversion of Augustine and the peace of her household | Augustine, _Confessions_, III.11-12 and IX.8-13, is the principal source.                                              |
+| 384-387   | Follows Augustine to Milan and witnesses his conversion and baptism            | Her perseverance is presented in Augustine's testimony, not as a guarantee that every private prediction is fulfilled. |
+| 387       | Shares the conversation with Augustine at Ostia and dies there                 | _Confessions_, IX.10-13, records the conversation, her death, and Augustine's prayer for the dead.                     |
+| 27 August | Memorial of St. Monica                                                         | The Roman calendar places her liturgical memorial immediately before that of St. Augustine.                            |
+
+## 8. Patronage
 
 St. Monica is the patron saint of:
 
@@ -100,7 +110,7 @@ St. Monica is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                      | Date      | Rank     | Notes                                                   |
 | -------------------------- | --------- | -------- | ------------------------------------------------------- |
@@ -109,13 +119,13 @@ St. Monica is the patron saint of:
 
 ---
 
-## 9. Relics
+## 10. Relics
 
 The relics of St. Monica rest in the Basilica of **Sant'Agostino** in Rome, in a chapel dedicated to her.
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Monica is the model of the Christian mother, whose prayers and tears won the conversion of her son Augustine."
 > — Pope John Paul II, _Homily_, 27 August 1997
@@ -128,7 +138,9 @@ The relics of St. Monica rest in the Basilica of **Sant'Agostino** in Rome, in a
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Monica
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Monica, the patient mother who prayed and wept for seventeen years until her wayward son Augustine became a baptized Christian, a bishop, and a Doctor of the Church, is the patroness of mothers, of converts, of difficult marriages, and of all who wait and pray with tears for the conversion of loved ones. The faithful seek her intercession for the grace of persevering prayer, for hope when a situation seems hopeless, and for the return of those who have strayed from the faith. The following prayer may be used to seek her intercession:
 
@@ -156,7 +168,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, the son whose conversion Monica obtained.
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage.

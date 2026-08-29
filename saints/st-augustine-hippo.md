@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Augustine of Hippo** (Latin: _Aurelius Augustinus Hipponensis_; 13 November 354 - 28 August 430 A.D.) was a bishop, theologian, philosopher, preacher, and Christian writer of Roman North Africa. He served as Bishop of Hippo Regius, near modern Annaba in Algeria, from approximately 395/396 until his death. The Church venerates him as a **Father and Doctor of the Church**, traditionally calling him the **Doctor of Grace**.
 
@@ -381,6 +381,8 @@ Augustine did not present himself as spiritually self-sufficient. In _Letter_ 23
 ---
 
 ## 14. Prayers Asking for the Intercession of St. Augustine
+
+> **Prayer status:** The prayers in this section are modern devotional compositions unless otherwise identified. They ask St. Augustine's intercession and do not attribute these words to him.
 
 The prayers in this section are modern devotional compositions unless otherwise identified. They ask St. Augustine to pray with and for the faithful; they do not attribute these words to him.
 

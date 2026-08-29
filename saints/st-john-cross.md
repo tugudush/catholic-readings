@@ -1,10 +1,10 @@
 # St. John of the Cross: Mystic and Doctor of the Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes John of the Cross's poems, treatises, letters, and recorded testimony, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Mystical experiences, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. John of the Cross** (Spanish: _Juan de la Cruz_; Latin: _Ioannes a Cruce_; 24 June 1542 – 14 December 1591), born **Juan de Yepes y Álvarez**, was a Spanish Discalced Carmelite friar, priest, mystic, and **Doctor of the Church** (proclaimed by Pope Pius XI in 1926). He is one of the greatest mystical theologians in the Catholic tradition, known for his profound poetry and writings on the **"dark night of the soul"** —the purification of the soul on its journey to union with God. His feast day is **14 December**.
 
@@ -92,7 +92,18 @@ John died on **14 December 1591** in **Úbeda**, Spain, at the age of forty-nine
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date             | Event                                               | Significance or source                                                                 |
+| ---------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1542             | Born at Fontiveros in Castile                       | His early poverty and family circumstances are preserved in early Carmelite testimony. |
+| 1563             | Enters the Carmelite Order                          | He receives the name John of St. Matthias and begins religious formation.              |
+| 1567             | Ordained priest and meets St. Teresa of Avila       | Their collaboration becomes decisive for the Carmelite reform.                         |
+| 1568             | Makes the first foundation of the reform at Duruelo | The Discalced Carmelite life takes institutional form.                                 |
+| 1577-1578        | Imprisoned at Toledo and escapes                    | The suffering becomes a context for his poetry and mystical theology.                  |
+| 14 December 1591 | Dies at Ubeda; canonized in 1726                    | His writings later support his proclamation as a Doctor of the Church in 1926.         |
+
+## 8. Patronage
 
 St. John of the Cross is the patron saint of:
 
@@ -106,7 +117,7 @@ St. John of the Cross is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                 | Date        | Rank     | Notes                                 |
 | ------------------------------------- | ----------- | -------- | ------------------------------------- |
@@ -115,7 +126,7 @@ St. John of the Cross is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. John of the Cross is the mystical Doctor of the Church. His writings are a sure guide to union with God."
 > — Pope John Paul II, _Letter for the Fourth Centenary of St. John of the Cross_, 1991
@@ -128,7 +139,9 @@ St. John of the Cross is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. John of the Cross
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. John of the Cross, the Mystical Doctor and reformer of the Carmelite Order alongside St. Teresa of Ávila, endured imprisonment, starvation, and flogging at the hands of his own brethren — and in that dark cell composed some of the most sublime poetry in the Spanish language, including the _Spiritual Canticle_ and _The Dark Night of the Soul_. The faithful seek his intercession for those suffering spiritual dryness and desolation, for poets and contemplatives, for those unjustly imprisoned, and for the grace to embrace the Cross as the path to union with God. The following prayer may be used to seek his intercession:
 
@@ -160,7 +173,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, his collaborator in the Carmelite reform.
 - [saints/st-therese-lisieux.md](st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor.

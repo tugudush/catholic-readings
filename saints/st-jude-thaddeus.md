@@ -1,10 +1,10 @@
 # St. Jude Thaddeus: Patron of Hopeless Causes
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the New Testament testimony, early Christian and liturgical evidence, later hagiography and local tradition, Church teaching and recognition, and modern devotional composition. The identification of Jude with other apostolic figures, his mission, martyrdom, relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Jude Thaddeus** (Greek: _**Ἰούδας Θαδδαῖος**_; Latin: _Iudas Thaddaeus_; Aramaic: _**יהודה**_, _Yehuda_), also known as **St. Jude the Apostle** or **Lebbeus**, was one of the **Twelve Apostles** of Jesus Christ. He is venerated as the **patron saint of hopeless and desperate causes**, and devotion to him has become one of the most widespread in the modern Catholic Church. His feast day is celebrated with St. Simon on **28 October**.
 
@@ -55,7 +55,17 @@ In **1962**, entertainer **Danny Thomas** founded **St. Jude Children's Research
 
 ---
 
-## 5. Patronage
+## 5. Selected Chronology
+
+| Date                       | Event                                                                                                       | Significance or source                                                                           |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1st century                | Jude appears among the Twelve in the apostolic lists and is associated with the question at the Last Supper | John 14:22 and the Synoptic lists provide the secure scriptural evidence.                        |
+| 1st century                | Preaches the Gospel after Pentecost                                                                         | The destinations and details of his mission are preserved mainly in later traditions.            |
+| 1st century                | The Epistle of Jude circulates in the Church                                                                | The letter's authorship and relation to the Apostle are discussed in the article's source notes. |
+| 1st century, traditionally | Martyrdom with St. Simon the Zealot                                                                         | The manner and location belong to ancient but not uniformly documented tradition.                |
+| 28 October                 | Feast of Saints Simon and Jude                                                                              | The Roman calendar gives the Church's stable liturgical commemoration.                           |
+
+## 6. Patronage
 
 St. Jude Thaddeus is the patron saint of:
 
@@ -70,7 +80,7 @@ St. Jude Thaddeus is the patron saint of:
 
 ---
 
-## 6. Feast Day
+## 7. Feast Day
 
 | Feast                            | Date                | Rank  | Notes                                        |
 | -------------------------------- | ------------------- | ----- | -------------------------------------------- |
@@ -79,7 +89,7 @@ St. Jude Thaddeus is the patron saint of:
 
 ---
 
-## 7. Iconography
+## 8. Iconography
 
 St. Jude Thaddeus is traditionally depicted holding:
 
@@ -91,7 +101,7 @@ St. Jude Thaddeus is traditionally depicted holding:
 
 ---
 
-## 8. The Novena to St. Jude
+## 9. The Novena to St. Jude
 
 The most common prayer to St. Jude begins:
 
@@ -99,7 +109,7 @@ The most common prayer to St. Jude begins:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. Jude, relative of the Lord and apostle, is invoked as the patron of hopeless causes because of his powerful intercession with God."
 > — Pope Benedict XVI, General Audience, 11 October 2006
@@ -112,7 +122,9 @@ The most common prayer to St. Jude begins:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Jude Thaddeus
+
+> **Prayer status:** The Novena to St. Jude below is a traditional devotional prayer whose specific author and earliest form are not established here. It is not presented as a prayer written by the Apostle Jude or as an official universal collect.
 
 St. Jude Thaddeus, Apostle and kinsman of our Lord, is the patron of hopeless and desperate causes — the saint to whom the faithful turn when every earthly avenue is closed and only a miracle remains. The Church honours him with this singular privilege because his intercession before the throne of God is marked by swiftness and power, and because he reminds us that no situation, however desperate, lies beyond the reach of Divine Mercy. The following prayer, the traditional Novena to St. Jude, may be used to seek his intercession:
 
@@ -146,7 +158,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The apostolic age.
 - [saints/st-peter.md](st-peter.md) — St. Peter, Prince of the Apostles.

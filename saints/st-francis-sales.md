@@ -1,10 +1,10 @@
 # St. Francis de Sales: Doctor of Love and Patron of Writers
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Francis de Sales's letters and published works, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Francis de Sales** (French: _François de Sales_; Latin: _Franciscus Salesius_; 21 August 1567 – 28 December 1622) was a Bishop of Geneva, a Doctor of the Church, and one of the most influential spiritual writers in Catholic history. He is known for his gentle approach to spirituality, his work among the Calvinists of the Chablais region, and his classic works _**Introduction to the Devout Life**_ and _**Treatise on the Love of God**_. He is the **patron saint of writers, journalists, and the deaf**. His feast day is **24 January**.
 
@@ -89,7 +89,18 @@ Francis died on **28 December 1622** in **Lyon** at the age of fifty-five. His h
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date             | Event                                                      | Significance or source                                                                                  |
+| ---------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 21 August 1567   | Born at Thorens in Savoy                                   | His family, education, and early vocation are described in early Salesian biographies.                  |
+| 1593             | Ordained a priest                                          | He begins a ministry marked by preaching, spiritual direction, and patient catechesis.                  |
+| 1594-1598        | Works for the return of the Chablais to Catholic communion | The mission illustrates his apologetic method and his emphasis on charity in controversy.               |
+| 1602             | Consecrated Bishop of Geneva                               | He governs a diocese whose see was controlled by the Reformed city of Geneva and ministers from Annecy. |
+| 1610             | Founds the Visitation with St. Jane Frances de Chantal     | The institute expresses his teaching on holiness accessible in ordinary states of life.                 |
+| 28 December 1622 | Dies at Lyon; declared a Doctor of the Church in 1877      | His works and the Church's later recognition ground the Salesian spiritual tradition.                   |
+
+## 8. Patronage
 
 St. Francis de Sales is the patron saint of:
 
@@ -104,7 +115,7 @@ St. Francis de Sales is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                | Date       | Rank     | Notes                                 |
 | ------------------------------------ | ---------- | -------- | ------------------------------------- |
@@ -112,7 +123,7 @@ St. Francis de Sales is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. Francis de Sales is the Doctor of gentle love. His writings are a school of holiness for all the faithful."
 > — Pope Benedict XVI, General Audience, 21 March 2012
@@ -125,7 +136,9 @@ St. Francis de Sales is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Francis de Sales
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Francis de Sales, the Doctor of Divine Love and patron of writers and journalists, taught that holiness is not reserved for monks and nuns but is the universal vocation of every Christian in every state of life. The faithful seek his intercession for the grace of gentleness in dealing with others, for wisdom in writing and communication, for patience with oneself in the spiritual life, and for a deeper trust in God's merciful love. The following prayer may be used to seek his intercession:
 
@@ -154,7 +167,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — Another Doctor of the Church known for her writings on prayer.
 - [saints/st-therese-lisieux.md](st-therese-lisieux.md) — The Little Way, similar to Salesian spirituality.

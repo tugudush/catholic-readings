@@ -1,10 +1,10 @@
 # St. Cecilia: Virgin and Martyr, Patron of Musicians
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the early evidence for Cecilia's cult, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. The historical details of her life, martyrdom, music, and relics are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Cecilia** (Latin: _Cæcilia_; c. 200 – c. 230 A.D.) was a Roman virgin martyr who is venerated as the **patron saint of musicians, sacred music, and the blind**. Her association with music arose from the tradition that she sang to God in her heart during her wedding feast. She is one of the most revered early Roman martyrs, mentioned in the Roman Canon of the Mass. Her feast day is **22 November**.
 
@@ -43,7 +43,17 @@ Numerous musical societies, conservatories, and choirs are named after her. The 
 
 ---
 
-## 5. Patronage
+## 5. Selected Chronology
+
+| Date            | Event                                                                                                                          | Significance or source                                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2nd-3rd century | Cecilia's martyr cult develops in Rome                                                                                         | The exact dates of her life are uncertain; the _Passio Sanctae Ceciliae_ is a later hagiographical source.                                   |
+| 4th century     | A titular church is associated with Cecilia in Trastevere                                                                      | The Roman titulus is early evidence of an established cult, not proof of every detail in the _Passio_.                                       |
+| 821             | Relics traditionally translated from the catacomb to Santa Cecilia in Trastevere                                               | The translation belongs to the history of her Roman veneration.                                                                              |
+| 1599            | Cardinal Paolo Emilio Sfondrati opens the sarcophagus and reports the body in the posture later represented by Stefano Maderno | The event is a documented early-modern act of veneration; artistic representation remains distinct from eyewitness history of the martyrdom. |
+| 22 November     | Cecilia's memorial is celebrated in the Roman calendar                                                                         | The liturgical observance gives stable ecclesial expression to her cult.                                                                     |
+
+## 6. Patronage
 
 St. Cecilia is the patron saint of:
 
@@ -57,7 +67,7 @@ St. Cecilia is the patron saint of:
 
 ---
 
-## 6. Feast Day
+## 7. Feast Day
 
 | Feast                       | Date        | Rank     | Notes                        |
 | --------------------------- | ----------- | -------- | ---------------------------- |
@@ -66,7 +76,7 @@ St. Cecilia is the patron saint of:
 
 ---
 
-## 7. Iconography
+## 8. Iconography
 
 St. Cecilia is traditionally depicted with:
 
@@ -77,7 +87,7 @@ St. Cecilia is traditionally depicted with:
 
 ---
 
-## 8. Patristic and Magisterial Citations
+## 9. Patristic and Magisterial Citations
 
 > "St. Cecilia, the patroness of music, teaches us that the highest song is the one sung in the heart to God."
 > — Pope Benedict XVI, _Homily_, 22 November 2005
@@ -90,7 +100,9 @@ St. Cecilia is traditionally depicted with:
 
 ---
 
-## 9. Prayer for Intercession
+## 10. Prayers Asking for the Intercession of St. Cecilia
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Cecilia, virgin and martyr, is the patroness of musicians and sacred music because, according to tradition, she sang to God in her heart during her wedding feast and at the hour of her martyrdom. Musicians, singers, composers, and all who serve the liturgy through sacred music seek her intercession, as do those who desire purity of heart and the courage to witness to Christ. The following prayer may be used to seek her intercession:
 
@@ -118,7 +130,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 10. Further Reading
+## 11. Primary Sources and Further Reading
 
 - [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — Sacred music in the liturgy.
 - [saints/README.md](README.md) — Master index of the saints directory.

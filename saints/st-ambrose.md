@@ -1,10 +1,10 @@
 # St. Ambrose of Milan: Father and Doctor of the Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Ambrose's own writings, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, disputed episodes, miracles, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Ambrose of Milan** (Latin: _Ambrosius Mediolanensis_; Italian: _Ambrogio di Milano_; c. 339 – 4 April 397 A.D.) was a Roman politician who, while serving as the imperial governor of Aemilia-Liguria, was unexpectedly acclaimed **Bishop of Milan** by popular acclamation—even though he was not yet baptized. He became one of the four **Great Doctors of the Latin Church** (along with Augustine, Jerome, and Gregory the Great), a fierce defender of Nicene orthodoxy against Arianism, and the mentor and baptizer of **St. Augustine of Hippo**. His feast day is **7 December**.
 
@@ -85,7 +85,17 @@ Ambrose died on **4 April 397** (Holy Saturday) at the age of about fifty-seven.
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date        | Event                                                                          | Significance or source                                                                                          |
+| ----------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| c. 339      | Born at Trier into a Roman Christian family                                    | The date and place are supplied by ancient biographical tradition; see Paulinus, _Life of Ambrose_, 1.          |
+| 374         | Elected and consecrated Bishop of Milan while still a catechumen               | Reported by Paulinus, _Life of Ambrose_, 7-9; the election illustrates the bishop's pastoral and civic setting. |
+| 378-379     | Begins the formation of clergy and theological teaching at Milan               | Ambrose's episcopate becomes a major center of Latin preaching and catechesis.                                  |
+| 390         | Refuses Emperor Theodosius public communion after the massacre at Thessalonica | Ambrose's letter to Theodosius and later accounts witness to episcopal correction of public wrongdoing.         |
+| 4 April 397 | Dies at Milan                                                                  | His _Life_ by Paulinus and the liturgical tradition preserve the memory of his death and burial.                |
+
+## 9. Patronage
 
 St. Ambrose of Milan is the patron saint of:
 
@@ -100,7 +110,7 @@ St. Ambrose of Milan is the patron saint of:
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
 | Feast                       | Date       | Rank     | Notes                                 |
 | --------------------------- | ---------- | -------- | ------------------------------------- |
@@ -109,7 +119,7 @@ St. Ambrose of Milan is the patron saint of:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Ambrose was a great bishop who defended the faith, composed beautiful hymns, and led the Emperor Theodosius to penance."
 > — Pope Benedict XVI, General Audience, 24 October 2007
@@ -122,7 +132,9 @@ St. Ambrose of Milan is the patron saint of:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Ambrose
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Ambrose of Milan, Father and Doctor of the Church, was the bishop who baptized St. Augustine and whose preaching opened the Scriptures to the greatest mind of the Latin Church. He is the father of Latin hymnody and the patron of Milan, of beekeepers (a swarm of bees settled on his infant lips, foretelling his eloquence), and of those who study Sacred Scripture. The faithful seek his intercession for courage in defending the faith before civil authority, for the gift of sacred eloquence, and for the grace to read Scripture with the mind of the Church. The following prayer may be used to seek his intercession:
 
@@ -152,7 +164,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, Ambrose's greatest convert.
 - [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Ambrosian Rite of Milan.

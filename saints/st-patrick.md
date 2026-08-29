@@ -1,10 +1,10 @@
 # St. Patrick: Apostle of Ireland
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Patrick's _Confessio_ and _Epistola_, contemporary and near-contemporary evidence, later hagiography and Irish tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, the chronology of his mission, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Patrick** (Latin: _Patricius_; Irish: _Pádraig_; c. 385 – 17 March 461 A.D.) is the **patron saint and national apostle of Ireland**. He is credited with bringing Christianity to Ireland, establishing the Church there, and converting the Irish people from their pagan traditions. His feast day, **17 March**, is celebrated worldwide as a cultural and religious holiday. His writings, particularly his _**Confessio**_ and _**Letter to the Soldiers of Coroticus**_, are among the earliest surviving documents of British Christianity.
 
@@ -85,7 +85,18 @@ St. Patrick died on **17 March 461 A.D.**, probably at **Saul** (Sabhall), Count
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date     | Event                                      | Significance or source                                                                                  |
+| -------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| c. 385   | Born in Roman Britain                      | Patrick's _Confessio_ supplies the principal autobiographical evidence for his origin and formation.    |
+| c. 400   | Captured and taken as a slave to Ireland   | His own _Confessio_, 1-3, interprets the captivity as a setting for conversion and prayer.              |
+| c. 405   | Escapes and returns to his family          | The return is followed by a vocational call to serve the Irish people.                                  |
+| c. 432   | Returns to Ireland as a missionary bishop  | The exact date is uncertain; Patrick's _Confessio_ and _Epistola_ are primary witnesses to his mission. |
+| c. 461   | Dies, traditionally at Saul or Downpatrick | The date and burial place are traditional; the Irish cult is ancient.                                   |
+| 17 March | Annual memorial of St. Patrick             | The Roman calendar preserves the widespread liturgical observance.                                      |
+
+## 9. Patronage
 
 St. Patrick is the patron saint of:
 
@@ -101,7 +112,7 @@ St. Patrick is the patron saint of:
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
 | Feast                        | Date     | Rank                                                  | Notes                       |
 | ---------------------------- | -------- | ----------------------------------------------------- | --------------------------- |
@@ -109,7 +120,7 @@ St. Patrick is the patron saint of:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Patrick, the apostle of Ireland, is a shining example of missionary zeal and faithfulness to the Gospel."
 > — Pope John Paul II, _Homily at Drogheda_, 29 September 1979
@@ -122,7 +133,9 @@ St. Patrick is the patron saint of:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Patrick
+
+> **Prayer status:** The prayer below is a devotional composition for this article drawing on the tradition of Patrick's _Lorica_. The present form of the _Lorica_ and its attribution to Patrick require historical qualification; neither is treated here as a securely identified autograph prayer.
 
 St. Patrick, the Apostle of Ireland, was kidnapped into slavery as a youth, escaped, and then returned to the land of his captivity to bring the Gospel to the very people who had enslaved him — converting an entire nation to Christ. The faithful seek his intercession for the conversion of nations, for those held captive or oppressed, for missionaries, and for protection against spiritual enemies. The following prayer, drawing on the famous Breastplate of St. Patrick (_Lorica Sancti Patricii_), may be used to seek his intercession:
 
@@ -152,7 +165,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The spread of Christianity in the early medieval period.
 - [saints/README.md](README.md) — Master index of the saints directory.

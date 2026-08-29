@@ -1,10 +1,10 @@
 # St. Papias of Hierapolis: Presbyter of the Johannine Tradition
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Papias's surviving fragments as quoted by later writers, contemporary and near-contemporary evidence, later tradition, Church teaching and liturgical recognition, and modern devotional composition. The extent of Papias's writings, his millenarian views, and traditions not supported by the fragments are qualified according to their source and certainty.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Papias of Hierapolis** (Greek: _Παπίας_; c. 60–130 A.D.) was the **Bishop of Hierapolis** in Phrygia (modern-day Pamukkale, Turkey) and, like St. Polycarp of Smyrna, a direct **hearer of St. John the Evangelist**. He is the author of a lost five-volume work titled the _Exposition of the Oracles of the Lord_ (_Logiōn Kyriakōn Exēgēsis_), which survives only in fragments quoted by later writers—principally Eusebius of Caesarea.
 
@@ -14,6 +14,15 @@ Despite the fragmentary preservation of his work, St. Papias is of extraordinary
 2. He embodies the early Church's preference for the **living voice of apostolic tradition** over written records, a principle that would become foundational for Catholic teaching on the relationship between Sacred Scripture and Sacred Tradition (cf. _Dei Verbum_, 7–10).
 
 His feast day is celebrated on **22 February** in the Latin Rite and on **22 February** in the Byzantine Rite.
+
+| Profile              | Details                                                                                 |
+| -------------------- | --------------------------------------------------------------------------------------- |
+| Full name and titles | Papias of Hierapolis; St. Papias                                                        |
+| Canonical status     | Saint and bishop in Catholic tradition; local calendars may differ in rank or inclusion |
+| Dates                | c. 60-130 A.D.; dates are approximate                                                   |
+| Birthplace           | Uncertain; probably the Roman province of Asia                                          |
+| Vocation and office  | Bishop of Hierapolis and author of a lost five-volume exposition                        |
+| Historical setting   | The transition from the apostolic generation to the early second-century Church         |
 
 ---
 
@@ -194,7 +203,17 @@ The Catholic Church has not pronounced any judgment on Papias's orthodoxy, but h
 
 ---
 
-## 8. Legacy
+## 8. Selected Chronology
+
+| Date        | Event                                                              | Significance or source                                                                 |
+| ----------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| c. 60       | Birth of Papias in the region of Phrygia                           | The date and place are approximate and come from later chronological reconstruction.   |
+| c. 100-130  | Serves as Bishop of Hierapolis and gathers apostolic traditions    | Papias's own preface, preserved by Eusebius, emphasizes inquiry into the living voice. |
+| c. 100-130  | Composes the five books of _Exposition of the Oracles of the Lord_ | The work is lost and survives only in fragments quoted by later authors.               |
+| c. 130      | Dies, traditionally at Hierapolis                                  | The date and circumstances of death are uncertain.                                     |
+| 22 February | Traditional local commemoration                                    | Catholic calendars do not all assign Papias the same rank or universal observance.     |
+
+## 9. Patronage, Feast Days, and Legacy
 
 Despite the fragmentary survival of his work, St. Papias of Hierapolis remains a figure of singular importance:
 
@@ -205,7 +224,55 @@ Despite the fragmentary survival of his work, St. Papias of Hierapolis remains a
 
 ---
 
-## 9. Further Reading
+### Patronage and feast days
+
+St. Papias has no universally defined occupational patronage. He is customarily associated with bishops, students of the apostolic Fathers, and the study of Gospel transmission, but these are devotional associations rather than universal ecclesial titles.
+
+| Celebration                             | Date        | Rite, calendar, or notes                                                                                                                      |
+| --------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Traditional commemoration of St. Papias | 22 February | Local or Eastern Christian calendars may differ; this date should not be presented as a universal Roman memorial without a calendar citation. |
+
+## 10. Prayers St. Papias Wrote or Is Recorded as Praying
+
+Papias's five-volume _Exposition of the Oracles of the Lord_ is lost and survives only in fragments. No securely preserved standalone prayer by Papias is extant. The fragments should therefore be cited as historical testimony, not expanded into prayers that he did not write.
+
+## 11. Prayers Asking for the Intercession of St. Papias
+
+The following is a new devotional composition for this article. It is not a text written by Papias or an official collect.
+
+    O holy Papias of Hierapolis,
+    faithful bishop and hearer of the apostolic voice,
+    pray that the Church may receive the Gospel
+    with reverence, fidelity, and humble understanding.
+
+    Ask the Lord to bless bishops, teachers, and students,
+    to preserve the memory of the Apostles,
+    and to protect us from confusing speculation with the faith
+    handed on in the communion of the Church.
+
+    Help us to love Sacred Scripture,
+    to listen to the living teaching of the Church,
+    and to seek truth without pride.
+
+    St. Papias,
+    pray for us now and at the hour of our death.
+    Amen.
+
+## 12. Attribution Cautions
+
+- Papias's _Exposition_ is known through fragments, principally in Eusebius and Irenaeus; no complete reconstruction should be presented as extant.
+- His millenarian or chiliastic material is a historical theological opinion, not Catholic dogma.
+- Papias's preference for the "living voice" should not be turned into a rejection of Sacred Scripture; Catholic teaching receives Scripture and Tradition as one sacred deposit (cf. _Dei Verbum_, 7-10).
+- The intercession prayer in this article is a new devotional composition and is not attributed to Papias.
+
+## 13. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [St. Papias](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/St.%20Papias) — historical and ecclesial reference entry.
+- Eusebius of Caesarea, _Church History_, III, 39.
+- St. Irenaeus of Lyons, _Against Heresies_, V, 33, 4.
+- Papias, fragments of _Exposition of the Oracles of the Lord_, as preserved by Eusebius and Irenaeus.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the direct disciples of the Apostles.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The early Church's structural and historical development from apostolic times.

@@ -1,16 +1,25 @@
 # St. Cletus (Anacletus): Third Successor of St. Peter and Third Bishop of Rome
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Cletus's own surviving testimony (none is securely preserved), contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, the identification of Cletus with Anacletus, and details of his martyrdom are qualified according to their source and certainty.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Cletus** (Latin: _Cletus_ or _Anacletus_; Greek: _Ἀνάκλητος_, _Anaklētos_, meaning "the one who is called back" or "invoked"; c. 25–88 A.D.), also known as **Anacletus** and **Pope St. Cletus**, was the **third Bishop of Rome** after St. Peter, serving as the visible head of the Catholic Church from approximately **c. 76 to 88 A.D.** He stands as the immediate successor of St. Linus and the second link in the unbroken chain of Roman pontiffs after the Prince of the Apostles.
 
 The name **Cletus** (from Greek _Κλητός_, _Klētos_, meaning "called" or "chosen") and **Anacletus** (from Greek _Ἀνάκλητος_, _Anaklētos_) appear in ancient sources as referring to the same person, though the duplication of names led some later writers to mistakenly divide him into two distinct popes. Modern scholarship recognizes that **Cletus and Anacletus are the same figure**, with the _Liber Pontificalis_ and the Roman Canon using "Cletus" while Eusebius of Caesarea and St. Irenaeus use "Anacletus."
 
 St. Cletus is commemorated in the **Roman Canon** (Eucharistic Prayer I) of the Latin Mass alongside St. Linus and St. Clement I, and his feast day is celebrated on **26 April** in both the Latin Rite and the Byzantine Rite.
+
+| Profile              | Details                                                                           |
+| -------------------- | --------------------------------------------------------------------------------- |
+| Full name and titles | Cletus; Anacletus; Pope St. Cletus                                                |
+| Canonical status     | Saint, bishop, and martyr in the Catholic Church's liturgical tradition           |
+| Dates                | c. 25-88 A.D.; dates are approximate                                              |
+| Birthplace           | Uncertain; Greek origin and an Italian setting are both reported in later sources |
+| Vocation and office  | Third Bishop of Rome and successor of St. Linus                                   |
+| Historical setting   | The post-apostolic Roman Church between the Neronian and Domitianic persecutions  |
 
 ---
 
@@ -133,7 +142,17 @@ The primary task of the early popes was the faithful transmission of the apostol
 
 ---
 
-## 5. Legacy
+## 5. Selected Chronology
+
+| Date        | Event                                                                | Significance or source                                                                   |
+| ----------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| c. 25       | Birth of Cletus, traditionally in the Greek world or Rome            | The place and date are uncertain; the ancient sources differ in biographical detail.     |
+| c. 76/79    | Succeeds St. Linus as Bishop of Rome                                 | St. Irenaeus, _Against Heresies_, III, 3, 3, places Anacletus between Linus and Clement. |
+| c. 76/79-88 | Governs the Roman Church                                             | Ancient lists assign a pontificate of about twelve years, but exact dates vary.          |
+| c. 88       | Dies and is buried on the Vatican Hill, according to later tradition | The martyrdom and burial tradition are ancient but not equally documented.               |
+| 26 April    | Liturgical commemoration of St. Cletus                               | The Roman calendar and local Eastern observances express the Church's veneration.        |
+
+## 6. Patronage, Feast Days, and Legacy
 
 St. Cletus (Anacletus), though one of the most historically obscure of the early popes, is of enduring importance for the following reasons:
 
@@ -153,7 +172,46 @@ St. Cletus (Anacletus), though one of the most historically obscure of the early
 
 ---
 
-## 6. Further Reading
+## 7. Prayers St. Cletus Wrote or Is Recorded as Praying
+
+No letter, sermon, or securely preserved prayer by St. Cletus is extant. The appropriate sources for his life are the ancient episcopal lists, patristic testimony, later historical compilations, and the Church's liturgical texts.
+
+## 8. Prayers Asking for the Intercession of St. Cletus
+
+The following is a new devotional composition for this article. It is not a text written by St. Cletus or an official collect.
+
+O holy Cletus,
+faithful bishop and successor of the Apostles,
+pray that the Church may preserve the faith
+received from Christ and handed on through the Apostles.
+
+Ask the Lord to strengthen pastors in patience,
+to protect the unity of the Roman Church,
+and to make the faithful humble servants of the Gospel.
+
+Help us to remain steadfast in trial,
+reverent in worship,
+and faithful to the communion of the Church.
+
+St. Cletus,
+pray for us now and at the hour of our death.
+Amen.
+
+## 9. Attribution Cautions
+
+- Cletus and Anacletus should not be counted as two separate popes; the ancient names refer to one figure in the modern Catholic understanding.
+- Details attributed to the _Liber Pontificalis_, including the number of priests ordained and the circumstances of martyrdom, are later traditions and should be identified as such.
+- No prayer, letter, or doctrinal treatise should be assigned to Cletus without a primary-text witness.
+- Asking for Cletus's intercession is devotional prayer through a saint, not worship of the saint.
+
+## 10. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [Pope St. Cletus](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Pope%20St.%20Cletus) — historical and ecclesial reference entry.
+- [The Roman Martyrology, 26 April](https://www.magisterium.com/docs/ffefc33d-aa36-4ee6-ad7b-c31c3381c463/ref/April%2026) — liturgical witness to the commemoration.
+- St. Irenaeus of Lyons, _Against Heresies_, III, 3, 3.
+- Eusebius of Caesarea, _Church History_, III, 4 and III, 13.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the early post-apostolic Church.
 - [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.

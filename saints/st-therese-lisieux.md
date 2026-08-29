@@ -1,10 +1,10 @@
 # St. Thérèse of Lisieux: The Little Flower and Doctor of the Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Thérèse's _Story of a Soul_, letters, poems, and other writings, contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracles, the "little way," relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Thérèse of Lisieux** (French: _Thérèse de Lisieux_; Latin: _Teresia Lexoviensis_; 2 January 1873 – 30 September 1897), known as **St. Thérèse of the Child Jesus and of the Holy Face**, was a French Discalced Carmelite nun who is one of the most popular saints in the history of the Catholic Church. She is venerated as a **Doctor of the Church** (proclaimed by Pope John Paul II in 1997), the **patroness of missions**, and is affectionately known as **"The Little Flower"** (_La Petite Fleur_). Her feast day is **1 October**.
 
@@ -94,7 +94,18 @@ Thérèse was buried in the Carmelite cemetery in Lisieux. Her autobiography, _*
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date              | Event                                                                                  | Significance or source                                                                                                |
+| ----------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2 January 1873    | Born at Alencon, France                                                                | Her family life and childhood are described in the autobiographical manuscripts later published as _Story of a Soul_. |
+| 9 April 1888      | Enters the Carmelite monastery at Lisieux                                              | Her vocation begins with hidden prayer, obedience, and ordinary fidelity.                                             |
+| 8 September 1890  | Makes religious profession                                                             | The date marks her public commitment to the Carmelite life.                                                           |
+| 1896-1897         | Experiences illness and a spiritual trial of faith while writing her final manuscripts | Her writings present suffering as an offering of trust, not as proof of a private doctrine.                           |
+| 30 September 1897 | Dies at Lisieux                                                                        | Her sisters' testimony and her manuscripts provide the principal evidence for her final years.                        |
+| 1925 / 1997       | Canonized and declared a Doctor of the Church                                          | These acts establish her universal ecclesial recognition and theological significance.                                |
+
+## 8. Patronage
 
 St. Thérèse of Lisieux is the patron saint of:
 
@@ -110,7 +121,7 @@ St. Thérèse of Lisieux is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                       | Date      | Rank  | Notes                                 |
 | ------------------------------------------- | --------- | ----- | ------------------------------------- |
@@ -119,13 +130,13 @@ St. Thérèse of Lisieux is the patron saint of:
 
 ---
 
-## 9. The Shower of Roses
+## 10. The Shower of Roses
 
 Thérèse promised on her deathbed: **"I will spend my heaven doing good on earth. I will let fall a shower of roses."** Countless testimonies of favours and miracles attributed to her intercession—often signalled by the appearance of roses or their scent—have been reported worldwide. Novenas to St. Thérèse are among the most popular in Catholic devotion.
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "The Little Way of Thérèse is the way of the Gospel itself. It is the way of spiritual childhood, the way of trust and total abandonment to the love of God."
 > — Pope John Paul II, _Divini Amoris Scientia_ (1997)
@@ -141,7 +152,9 @@ Thérèse promised on her deathbed: **"I will spend my heaven doing good on eart
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Therese of Lisieux
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Thérèse of Lisieux, the Little Flower and Doctor of the Church, promised before her death: "I will spend my heaven doing good on earth. I will let fall a shower of roses." Her "Little Way" of spiritual childhood — doing ordinary things with extraordinary love — has inspired millions. The faithful seek her intercession for simplicity of heart, for trust in God's merciful love, for missionaries, for the sick (especially those with tuberculosis), and for the grace to find holiness in the small duties of daily life. The following prayer may be used to seek her intercession:
 
@@ -172,7 +185,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another Carmelite Doctor of the Church.
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.

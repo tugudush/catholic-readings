@@ -1,10 +1,10 @@
 # St. Dominic de Guzmán: Founder of the Order of Preachers
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes contemporary testimony and the early sources for Dominic's life, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracle accounts, the Rosary tradition, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Dominic de Guzmán** (Spanish: _Domingo de Guzmán_; Latin: _Dominicus de Guzmán_; 8 August 1170 – 6 August 1221) was a Spanish Catholic priest and the **founder of the Order of Preachers** (the Dominicans), a mendicant religious order dedicated to preaching, teaching, and the intellectual defence of the faith. His feast day is **8 August**.
 
@@ -101,7 +101,18 @@ Dominic died on **6 August 1221** at the age of fifty in **Bologna**, Italy, exh
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date          | Event                                                                                          | Significance or source                                                                 |
+| ------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| c. 1170       | Born at Caleruega in Castile                                                                   | The approximate date and place are preserved in the early Dominican tradition.         |
+| 1191          | Receives an ecclesiastical education at Palencia                                               | His study of Scripture and theology prepares him for preaching and reform.             |
+| 1206          | Begins preaching against the Albigensian movement in southern France                           | Dominic's mission combines doctrinal preaching, poverty, and pastoral persuasion.      |
+| 1215-1216     | Establishes the foundation that becomes the Order of Preachers and receives papal confirmation | The order's charism is preaching for the salvation of souls under ecclesial authority. |
+| 6 August 1221 | Dies at Bologna                                                                                | Early Dominican witnesses preserve the memory of his final illness and burial.         |
+| 13 July 1234  | Canonized by Pope Gregory IX                                                                   | The canonization confirms the Church's public recognition of his sanctity.             |
+
+## 9. Patronage
 
 St. Dominic is the patron saint of:
 
@@ -116,7 +127,7 @@ St. Dominic is the patron saint of:
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
 | Feast                       | Date     | Rank     | Notes                                      |
 | --------------------------- | -------- | -------- | ------------------------------------------ |
@@ -125,7 +136,7 @@ St. Dominic is the patron saint of:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Dominic was a man of great holiness, a preacher of the truth, a defender of the faith, and a light to the Church."
 > — Pope Benedict XVI, General Audience, 3 February 2010
@@ -138,7 +149,9 @@ St. Dominic is the patron saint of:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Dominic de Guzman
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Dominic de Guzmán, founder of the Order of Preachers (the Dominicans), received the Holy Rosary from the hands of the Blessed Virgin Mary herself as a spiritual weapon against the Albigensian heresy. The faithful seek his intercession for a love of sacred truth, for preachers and teachers of the faith, for the conversion of heretics and unbelievers, for the grace to defend the faith with charity, and for devotion to the Most Holy Rosary. The following prayer may be used to seek his intercession:
 
@@ -168,7 +181,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-thomas-aquinas.md](st-thomas-aquinas.md) — The greatest Dominican theologian.
 - [saints/st-catherine-siena.md](st-catherine-siena.md) — Dominican tertiary and Doctor of the Church.

@@ -1,10 +1,10 @@
 # St. John Vianney (the Curé d'Ars): Patron of Parish Priests
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the contemporary testimony and published sermons associated with John Vianney, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Reports of bilocation, demonic attacks, miracles, relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. John Vianney** (French: _Jean-Marie Vianney_; Latin: _Ioannes Maria Vianney_; 8 May 1786 – 4 August 1859), known as the **Curé d'Ars** (the parish priest of Ars), was a French Catholic priest who is venerated as the **patron saint of parish priests** worldwide. Despite his humble origins and limited formal education, he is renowned for his extraordinary pastoral ministry, his gift of reading souls, and his heroic work in converting the deeply indifferent community of Ars. His feast day is **4 August**.
 
@@ -79,7 +79,18 @@ Vianney died on **4 August 1859** at the age of seventy-three, surrounded by his
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date          | Event                                                  | Significance or source                                                                                    |
+| ------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| 8 May 1786    | Born at Dardilly near Lyon                             | His family and childhood belong to the period of the French Revolution and religious persecution.         |
+| 1815          | Ordained a priest                                      | His difficult seminary formation is followed by a vocation centered on the Eucharist and Penance.         |
+| 1818          | Appointed parish priest of Ars                         | His ministry transforms a small rural parish through preaching, prayer, and the confessional.             |
+| 1824-1859     | Receives pilgrims and hears confessions for long hours | The reports belong to contemporary and later testimony and should be distinguished from defined doctrine. |
+| 4 August 1859 | Dies at Ars                                            | His death closes a pastoral ministry later held up as a model for parish priests.                         |
+| 1925 / 1929   | Canonized and proclaimed patron of parish priests      | These acts establish his universal ecclesial recognition and patronage.                                   |
+
+## 8. Patronage
 
 St. John Vianney is the patron saint of:
 
@@ -93,7 +104,7 @@ St. John Vianney is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                            | Date     | Rank     | Notes                                           |
 | -------------------------------- | -------- | -------- | ----------------------------------------------- |
@@ -101,13 +112,13 @@ St. John Vianney is the patron saint of:
 
 ---
 
-## 9. The Year for Priests
+## 10. The Year for Priests
 
 Pope Benedict XVI declared a **Year for Priests** (19 June 2009 – 11 June 2010) on the 150th anniversary of St. John Vianney's death, inviting the whole Church to reflect on the gift of the priesthood and to imitate the pastoral charity of the Curé d'Ars.
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. John Vianney is a model of pastoral ministry, a man consumed by love for God and souls."
 > — Pope Benedict XVI, _Letter Proclaiming the Year for Priests_, 2009
@@ -123,7 +134,9 @@ Pope Benedict XVI declared a **Year for Priests** (19 June 2009 – 11 June 2010
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. John Vianney
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. John Vianney, the Curé d'Ars and patron of parish priests, spent up to sixteen hours a day in the confessional, reading souls and reconciling sinners to God. The faithful seek his intercession for holy priests, for the grace of a good confession, for perseverance in prayer, and for a deep love of the Blessed Sacrament. The following prayer may be used to seek his intercession:
 
@@ -152,7 +165,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The sacrament of Holy Orders.
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — The sacrament of confession, central to Vianney's ministry.

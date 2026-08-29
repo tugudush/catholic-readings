@@ -1,10 +1,10 @@
 # St. Catherine of Siena: Mystic, Doctor of the Church, and Patron of Europe
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Catherine's _Dialogue_, letters, and recorded testimony, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, mystical claims, miracle accounts, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Catherine of Siena** (Italian: _Caterina da Siena_; Latin: _Catharina Senensis_; 25 March 1347 – 29 April 1380), born **Caterina di Jacopo di Benincasa**, was an Italian Dominican tertiary, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She was one of the most influential women of the Middle Ages, known for her role in ending the Avignon Papacy, her spiritual writings including _**The Dialogue**_, and her profound mystical union with Christ. Her feast day is **29 April**.
 
@@ -81,7 +81,18 @@ She was buried in the cemetery of **Santa Maria sopra Minerva** in Rome, but her
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date          | Event                                                                                  | Significance or source                                                                      |
+| ------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 25 March 1347 | Born at Siena                                                                          | Her family setting and childhood are described in Raymond of Capua, _Legenda maior_.        |
+| c. 1363       | Joins the Dominican Mantellate while remaining a laywoman                              | This vocation gives Catherine a disciplined life of prayer and works of mercy.              |
+| 1374          | Appears before the Dominican General Chapter at Florence                               | The event marks wider ecclesial recognition of her spiritual counsel.                       |
+| 1376          | Travels to Avignon to urge Pope Gregory XI to return to Rome                           | Her mission reflects a private spiritual vocation exercised in service to ecclesial unity.  |
+| 1378          | The Western Schism begins; Catherine supports Urban VI and dictates letters for reform | Her position must be read within the contested politics and obedience claims of the period. |
+| 29 April 1380 | Dies in Rome; canonized in 1461                                                        | Her letters, _Dialogue_, and early testimony support the enduring cult.                     |
+
+## 8. Patronage
 
 St. Catherine of Siena is the patron saint of:
 
@@ -96,7 +107,7 @@ St. Catherine of Siena is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                               | Date     | Rank  | Notes                                 |
 | ----------------------------------- | -------- | ----- | ------------------------------------- |
@@ -105,7 +116,7 @@ St. Catherine of Siena is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "St. Catherine of Siena, a woman of extraordinary courage and wisdom, was instrumental in the return of the Pope to Rome."
 > — Pope Paul VI, _Apostolic Letter_, 1970
@@ -118,7 +129,9 @@ St. Catherine of Siena is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Catherine of Siena
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Catherine of Siena, the seraphic virgin and Doctor of the Church, was a fiery lover of Christ crucified whose intercession was so powerful that she was instrumental in ending the Avignon Papacy and returning the Pope to Rome. The faithful seek her intercession for courage to speak the truth to those in authority, for purity of heart, for the healing of divisions in the Church, and for a consuming love of the Precious Blood of Christ. The following prayer may be used to seek her intercession:
 
@@ -148,7 +161,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The Avignon Papacy and Western Schism.
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another woman Doctor of the Church.

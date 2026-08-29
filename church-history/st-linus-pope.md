@@ -1,14 +1,23 @@
 # St. Linus: Second Successor of St. Peter and Second Bishop of Rome
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the New Testament witness, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, the details attributed to the _Liber Pontificalis_, and the manner of Linus's death are qualified according to their source and certainty.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Linus** (Latin: _Linus_; Greek: _Λῖνος_; c. 10–76/79 A.D.) was the **second Bishop of Rome** after St. Peter, serving as the visible head of the Catholic Church from approximately **c. 64 to 76/79 A.D.** He stands as the immediate successor of the Prince of the Apostles and is the first Roman-born pope, bridging the apostolic age and the early sub-apostolic period.
 
 St. Linus is mentioned in the New Testament—**2 Timothy 4:21**—where St. Paul, near the end of his life, sends greetings from Linus and his companions. This makes Linus one of the very few early popes whose name appears in Sacred Scripture itself. He is commemorated in the **Roman Canon** (Eucharistic Prayer I) of the Latin Mass alongside St. Cletus and St. Clement I, and his feast day is celebrated on **23 September** in the Latin Rite and on **7 June** in the Byzantine Rite.
+
+| Profile              | Details                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| Full name and titles | Linus; Pope St. Linus                                                                      |
+| Canonical status     | Saint, bishop, and martyr in the Catholic Church's liturgical tradition                    |
+| Dates                | c. 10-76/79 A.D.; dates are approximate                                                    |
+| Birthplace           | Tuscia or the wider Italian region according to later tradition; exact origin is uncertain |
+| Vocation and office  | Second Bishop of Rome and immediate successor of St. Peter                                 |
+| Historical setting   | The Roman Church during and after the Neronian persecution                                 |
 
 ---
 
@@ -149,7 +158,17 @@ The testimony of St. Irenaeus, who emphasizes that the Roman Church preserved th
 
 ---
 
-## 5. Legacy
+## 5. Selected Chronology
+
+| Date         | Event                                                                | Significance or source                                                                                  |
+| ------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| c. 10        | Birth of Linus, traditionally in Tuscia                              | The _Liber Pontificalis_ supplies later biographical details whose precision is uncertain.              |
+| c. 64/67     | Succeeds St. Peter as Bishop of Rome                                 | St. Irenaeus, _Against Heresies_, III, 3, 3, identifies Linus as the first episcopal successor in Rome. |
+| c. 64-76/79  | Governs the Roman Church                                             | Eusebius and later lists give a pontificate of about twelve years, with variant dates.                  |
+| c. 76/79     | Dies and is buried on the Vatican Hill, according to later tradition | The date and manner of death are not documented with equal certainty.                                   |
+| 23 September | Latin memorial of St. Linus                                          | The Roman calendar and the Roman Canon preserve his liturgical memory; local Eastern calendars vary.    |
+
+## 6. Patronage, Feast Days, and Legacy
 
 St. Linus, though shrouded in historical obscurity compared to his successors Clement I and Ignatius of Antioch, is of enduring importance for the following reasons:
 
@@ -169,7 +188,48 @@ St. Linus, though shrouded in historical obscurity compared to his successors Cl
 
 ---
 
-## 6. Further Reading
+## 7. Prayers St. Linus Wrote or Is Recorded as Praying
+
+No letter, sermon, or securely preserved prayer by St. Linus is extant. The New Testament mention in 2 Timothy 4:21 and the ancient succession testimonies are the principal written evidence connected with him.
+
+## 8. Prayers Asking for the Intercession of St. Linus
+
+The following is a new devotional composition for this article. It is not a text written by St. Linus or an official collect.
+
+O holy Linus,
+faithful servant of St. Peter
+and shepherd of the Church of Rome,
+pray that the successors of the Apostles
+may guard the deposit of faith with courage and humility.
+
+Ask the Lord to strengthen the Church
+when she suffers persecution,
+to preserve her unity,
+and to make every Christian steadfast in hope.
+
+Help us to bear witness to Christ
+with patience, reverence, and charity.
+
+St. Linus,
+pray for us now and at the hour of our death.
+Amen.
+
+## 9. Attribution Cautions
+
+- The Linus named in 2 Timothy 4:21 is identified with the second Bishop of Rome by ancient tradition and early Church testimony; the verse itself does not state his later office.
+- The exact dates of the pontificate and the details reported by the _Liber Pontificalis_ are uncertain.
+- No prayer, letter, or disciplinary decree should be assigned to Linus without distinguishing later tradition from contemporary evidence.
+- Asking for Linus's intercession is devotional prayer through a saint, not worship of the saint.
+
+## 10. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [2 Timothy 4](https://www.magisterium.com/docs/7ab6e175-afab-4262-915a-0e98ce0d133d/ref/2%20Timothy%204) — the New Testament context for the greeting from Linus.
+- [Pope St. Linus](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Pope%20St.%20Linus) — historical and ecclesial reference entry.
+- [The Roman Martyrology, 23 September](https://www.magisterium.com/docs/ffefc33d-aa36-4ee6-ad7b-c31c3381c463/ref/September%2023) — liturgical witness to the commemoration.
+- St. Irenaeus of Lyons, _Against Heresies_, III, 3, 3.
+- Eusebius of Caesarea, _Church History_, III, 2-4 and III, 13.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the early post-apostolic Church.
 - [st-cletus-anacletus.md](st-cletus-anacletus.md) — St. Cletus (Anacletus), the second successor of St. Peter and third Bishop of Rome.

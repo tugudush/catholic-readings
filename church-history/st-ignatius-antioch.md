@@ -1,10 +1,10 @@
 # St. Ignatius of Antioch: Third Bishop of Antioch, Apostolic Father, and Witness to the Monarchial Episcopate
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Ignatius's seven authentic letters, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. The date of his arrest, the route of his journey, and details of his martyrdom or relics are qualified where the evidence is uncertain.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Ignatius of Antioch** (Greek: _Ἰγνάτιος_, _Ignátios_; also known as **Ignatius Theophorus** — "God-bearer"; c. 35–108 A.D.) was the **third Bishop of Antioch**, a direct disciple of **St. John the Evangelist**, and one of the most important figures of the sub-apostolic age. He is, after St. Clement of Rome, the most prolific of the Apostolic Fathers whose writings have survived, and his seven authentic letters are among the most precious documents of Christian antiquity.
 
@@ -17,6 +17,15 @@ St. Ignatius is the first writer in Christian history to:
 His seven letters, written during his journey to martyrdom in Rome (c. 107–110 A.D.), provide an indispensable witness to the life, liturgy, governance, and doctrine of the early Church in the generation immediately following the deaths of the Apostles.
 
 St. Ignatius is commemorated in the **Roman Canon** (Eucharistic Prayer I) of the Latin Mass, and his feast day is celebrated on **17 October** in the Latin Rite and on **20 December** in the Byzantine Rite.
+
+| Profile              | Details                                                                 |
+| -------------------- | ----------------------------------------------------------------------- |
+| Full name and titles | Ignatius Theophorus; St. Ignatius of Antioch                            |
+| Canonical status     | Saint, bishop, Apostolic Father, and martyr                             |
+| Dates                | c. 35-108 A.D.; dates are approximate                                   |
+| Birthplace           | Uncertain; probably Syria or the eastern Mediterranean                  |
+| Vocation and office  | Third Bishop of Antioch and author of seven authentic letters           |
+| Historical setting   | The sub-apostolic Church under the Roman Empire and the reign of Trajan |
 
 ---
 
@@ -308,7 +317,18 @@ It is also important to note that the **"Short Recension"** (a Syriac abbreviati
 
 ---
 
-## 10. Legacy
+## 10. Selected Chronology
+
+| Date                     | Event                                                    | Significance or source                                                                                                    |
+| ------------------------ | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| c. 35                    | Birth of Ignatius, probably in Syria                     | The date and place are uncertain; later traditions about his childhood are not securely documented.                       |
+| c. 68-108                | Serves as Bishop of Antioch                              | His episcopate belongs to the generation after the Apostles and is known chiefly through later testimony.                 |
+| c. 107-110               | Arrested and escorted from Antioch toward Rome           | The letters written on the journey are the primary evidence for this period.                                              |
+| c. 108                   | Writes the seven authentic letters from Smyrna and Troas | The Middle Recension is distinguished from later interpolated and spurious texts.                                         |
+| c. 108-110               | Martyred at Rome                                         | The exact date and arena details are uncertain; his own _Letter to the Romans_ expresses his desire for faithful witness. |
+| 17 October / 20 December | Latin and Byzantine Catholic commemorations              | The two calendars preserve distinct liturgical observances.                                                               |
+
+## 11. Patronage, Feast Days, and Legacy
 
 St. Ignatius of Antioch is a monumental figure in the history of the Church for the following reasons:
 
@@ -324,11 +344,60 @@ St. Ignatius of Antioch is a monumental figure in the history of the Church for 
 
 6. **Bridge Figure**: He connects the apostolic age (St. John the Evangelist) to the later patristic age (Sts. Irenaeus, Cyprian, Chrysostom) and is venerated in both the Latin and Eastern Catholic traditions.
 
-7. **Patronage**: He is the patron saint of the **Society of Jesus** (the Jesuits), the **Syriac Catholic Church**, and the **Syriac Orthodox Church**.
+7. **Associations**: He is especially honored in the Antiochene and Syriac Christian traditions. The Society of Jesus takes its name from St. Ignatius of Loyola, who chose it in part to honor this earlier bishop; that naming connection should not be confused with a formal patronage claim for Ignatius of Antioch.
 
 ---
 
-## 11. Further Reading
+### Patronage and feast days
+
+St. Ignatius of Antioch has no universally defined occupational patronage. He is venerated as a bishop-martyr and an Apostolic Father, and is especially associated with the unity of the local Church around the bishop and the Eucharist.
+
+| Celebration                              | Date        | Rite, calendar, or notes                                                   |
+| ---------------------------------------- | ----------- | -------------------------------------------------------------------------- |
+| Memorial of St. Ignatius of Antioch      | 17 October  | Latin Church memorial; he is also named in Eucharistic Prayer I.           |
+| Commemoration of St. Ignatius of Antioch | 20 December | Byzantine Catholic observance in the tradition of the Antiochene Churches. |
+
+## 12. Prayers St. Ignatius of Antioch Wrote or Is Recorded as Praying
+
+The seven authentic letters contain doxologies, petitions, and prayerful exhortations, but no separate formal prayer whose wording can be detached from the letters with complete certainty. Passages from _To the Romans_, _To the Ephesians_, and _To the Smyrnaeans_ should be identified by letter and section when used devotionally.
+
+## 13. Prayers Asking for the Intercession of St. Ignatius of Antioch
+
+The following is a new devotional composition for this article. It is not a text written by St. Ignatius or an official collect.
+
+    O holy Ignatius of Antioch,
+    bishop, Apostolic Father, and martyr,
+    pray that the Church may remain one in Christ,
+    faithful to the Apostles and gathered around the Eucharist.
+
+    Ask the Lord to strengthen bishops, presbyters, and deacons
+    in humble service of the flock,
+    to protect Christians from false teaching,
+    and to make our faith visible in charity.
+
+    Teach us to desire Christ above every earthly security,
+    to bear suffering without hatred,
+    and to persevere in the hope of resurrection.
+
+    St. Ignatius of Antioch,
+    pray for us now and at the hour of our death.
+    Amen.
+
+## 14. Attribution Cautions
+
+- The seven-letter Middle Recension is distinguished from the later Long Recension and from the shorter Syriac collection.
+- The phrase "presiding in love" in _To the Romans_, introduction, is an important early witness but its precise ecclesiological interpretation remains a matter of historical and theological discussion.
+- Later _Martyrdom of Ignatius_ accounts and details about the arena, relics, or travel route should not be presented as equally certain with the seven letters.
+- The intercession prayer in this article is a new devotional composition and is not attributed to Ignatius.
+
+## 15. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [Pope Benedict XVI, General Audience of 14 March 2007: Saint Ignatius of Antioch](https://www.magisterium.com/docs/903fc8c4-2419-4c38-af31-7233505b382d/ref/page1) — papal catechesis on his letters and martyrdom.
+- [St. Ignatius of Antioch](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/St.%20Ignatius%20of%20Antioch) — historical and ecclesial reference entry.
+- St. Ignatius of Antioch, the seven letters of the Middle Recension.
+- Eusebius of Caesarea, _Church History_, III, 36.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with broader context on the direct disciples of the Apostles.
 - [st-clement-rome.md](st-clement-rome.md) — St. Clement of Rome, fellow Apostolic Father and the earliest witness to apostolic succession and Roman primacy.

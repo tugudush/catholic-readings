@@ -1,10 +1,10 @@
 # St. John Paul II: Pope of the Family and the Great Jubilee
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes John Paul II's papal documents, homilies, and other writings, contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracle accounts, private revelations, quotations, and historical interpretations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. John Paul II** (Latin: _Ioannes Paulus II_; Polish: _Jan Paweł II_; 18 May 1920 – 2 April 2005), born **Karol Józef Wojtyła**, served as the **264th Pope** of the Catholic Church from **16 October 1978** until his death in 2005. He was the first non-Italian pope in 455 years (since Pope Adrian VI, 1522–1523) and the first Polish pope in history. His pontificate of **26 years, 5 months, and 17 days** is one of the longest in history. He was canonized on **27 April 2014**. His feast day is **22 October**.
 
@@ -99,7 +99,18 @@ His funeral on **8 April 2005** was one of the largest gatherings in human histo
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date                         | Event                                                          | Significance or source                                                                                 |
+| ---------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 18 May 1920                  | Born Karol Wojtyla at Wadowice, Poland                         | His early life is shaped by family loss, the Nazi occupation, and the experience of the Polish Church. |
+| 1 November 1946              | Ordained a priest                                              | His priestly ministry begins after clandestine formation during the occupation.                        |
+| 1958 / 1964                  | Named auxiliary bishop of Krakow and then Archbishop of Krakow | His episcopal ministry includes the Second Vatican Council and the defense of the Church's freedom.    |
+| 16 October 1978              | Elected Bishop of Rome and Pope                                | He becomes the first Polish pope and begins a worldwide Petrine ministry.                              |
+| 13 May 1981                  | Survives an assassination attempt in St. Peter's Square        | The event becomes part of his public witness to forgiveness and suffering.                             |
+| 2 April 2005 / 27 April 2014 | Dies and is canonized with John XXIII                          | His canonization follows the Church's examination of his life and intercession.                        |
+
+## 8. Patronage
 
 St. John Paul II is the patron saint of:
 
@@ -114,7 +125,7 @@ St. John Paul II is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                     | Date       | Rank              | Notes                             |
 | ----------------------------------------- | ---------- | ----------------- | --------------------------------- |
@@ -122,7 +133,7 @@ St. John Paul II is the patron saint of:
 
 ---
 
-## 9. Major Writings
+## 10. Major Writings
 
 | Work                      | Year | Type                                  |
 | ------------------------- | ---- | ------------------------------------- |
@@ -140,7 +151,7 @@ St. John Paul II is the patron saint of:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "John Paul II is the Pope of the family, the Pope of the Gospel of Life, the Pope of the Great Jubilee, the Pope who opened the doors of Christ to the world."
 > — Pope Benedict XVI, Beatification Homily, 1 May 2011
@@ -153,7 +164,9 @@ St. John Paul II is the patron saint of:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. John Paul II
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. John Paul II, the Pilgrim Pope whose pontificate spanned twenty-six years and touched every continent, was instrumental in the fall of communism, the promulgation of the _Catechism of the Catholic Church_, the Theology of the Body, and the institution of Divine Mercy Sunday. The faithful seek his intercession for the young, for families, for those suffering from illness (particularly Parkinson's disease), for the defence of human dignity, and for the grace to echo his signature exhortation: "Be not afraid!" The following prayer may be used to seek his intercession:
 
@@ -183,7 +196,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — Divine Mercy devotion, which John Paul II championed.

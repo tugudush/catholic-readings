@@ -1,10 +1,10 @@
 # St. Jerome: Father and Doctor of the Church, Translator of the Vulgate
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Jerome's biblical translations, commentaries, letters, and other writings, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, disputed textual claims, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Jerome** (Latin: _Eusebius Sophronius Hieronymus_; Greek: _**Εὐσέβιος Σωφρόνιος Ἱερώνυμος**_; c. 347 – 30 September 420 A.D.) was a Roman Catholic priest, theologian, and **Doctor of the Church** (one of the four Great Doctors of the Latin Church). He is best known for his translation of the Bible into Latin—the **Vulgate**—which became the authoritative biblical text for the Western Church for over a millennium. His feast day is **30 September**.
 
@@ -108,7 +108,18 @@ Jerome died on **30 September 420 A.D.** in Bethlehem, surrounded by his monks. 
 
 ---
 
-## 9. Patronage
+## 9. Selected Chronology
+
+| Date             | Event                                                                                             | Significance or source                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| c. 347           | Born at Stridon in Dalmatia or nearby                                                             | The exact location is disputed; Jerome's letters and later biographies provide the principal evidence. |
+| c. 366           | Baptized in Rome                                                                                  | His Roman education and baptism precede his later ascetic and scholarly work.                          |
+| 382-385          | Serves Pope Damasus I and begins major revision of Latin biblical texts                           | The Roman commission is an important stage in the history of the Vulgate.                              |
+| 386              | Settles at Bethlehem and establishes a monastic and scholarly center                              | The community supports biblical translation, commentary, and ascetic life.                             |
+| c. 405           | Completes the principal revision of the Latin Gospels and continues the Old Testament translation | His work contributes to the Latin biblical tradition later associated with the Vulgate.                |
+| 30 September 420 | Dies at Bethlehem                                                                                 | His tomb and writings become central to the Church's memory of the biblical Doctor.                    |
+
+## 10. Patronage
 
 St. Jerome is the patron saint of:
 
@@ -122,7 +133,7 @@ St. Jerome is the patron saint of:
 
 ---
 
-## 10. Feast Day
+## 11. Feast Day
 
 | Feast                      | Date         | Rank     | Notes                                 |
 | -------------------------- | ------------ | -------- | ------------------------------------- |
@@ -131,7 +142,7 @@ St. Jerome is the patron saint of:
 
 ---
 
-## 11. Patristic and Magisterial Citations
+## 12. Patristic and Magisterial Citations
 
 > "Jerome, the great Doctor of the Church, devoted his life to the study of Scripture. He teaches us that ignorance of Scripture is ignorance of Christ."
 > — Pope Benedict XVI, General Audience, 7 November 2007
@@ -144,7 +155,9 @@ St. Jerome is the patron saint of:
 
 ---
 
-## 12. Prayer for Intercession
+## 13. Prayers Asking for the Intercession of St. Jerome
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Jerome, Father and Doctor of the Church, was the greatest biblical scholar of the ancient world — the translator of the Latin Vulgate, which was the official Bible of the Western Church for over fifteen centuries. Despite his famously irascible temperament, he was a man of deep prayer and asceticism who spent his final decades as a hermit in Bethlehem. The faithful seek his intercession for a love of Sacred Scripture, for scholars and translators, for those struggling with anger or impatience, and for the grace of combining study with prayer. The following prayer may be used to seek his intercession:
 
@@ -173,7 +186,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 13. Further Reading
+## 14. Primary Sources and Further Reading
 
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The canon of Scripture and the history of the Vulgate.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, contemporary and correspondent of Jerome.

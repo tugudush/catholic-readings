@@ -1,10 +1,10 @@
 # St. Lorenzo Ruiz: Protomartyr of the Philippines
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the historical and canonical records for Lorenzo Ruiz and his companions, contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, martyrdom records, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Lorenzo Ruiz** (Spanish: _Lorenzo Ruiz de Manila_; Chinese: 李乐伦, _Lǐ Yuèlún_; 28 November 1594 – 29 September 1637), also known as **San Lorenzo de Manila**, was a Filipino Catholic layman and member of the **Third Order of Saint Dominic** (T.O.S.D.). He is the **Protomartyr of the Philippines** — the first Filipino canonized saint — and is venerated as a martyr who died for the Catholic faith in Nagasaki, Japan, under the Tokugawa Shogunate's persecution of Christians.
 
@@ -171,7 +171,28 @@ St. Lorenzo Ruiz has left an enduring mark on Filipino culture and the global Fi
 
 ---
 
-## 10. Prayer for Intercession
+## 10. Selected Chronology
+
+| Date                               | Event                                                                                  | Significance or source                                                                               |
+| ---------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 28 November 1594                   | Born in Binondo, Manila                                                                | The historical record identifies his Filipino-Chinese family and parish setting.                     |
+| 1636                               | Leaves Manila after a false accusation and joins the Dominican mission bound for Japan | The cause and early testimony provide the principal evidence for this turning point.                 |
+| 29 September 1637                  | Martyred by _tsurushi_ at Nishizaka Hill, Nagasaki                                     | The martyrdom is documented in the Japanese persecution records and the testimony used in his cause. |
+| 18 February 1981 / 18 October 1987 | Beatified and canonized by Pope John Paul II                                           | These acts establish his universal ecclesial recognition as a martyr.                                |
+| 28 September                       | Feast of St. Lorenzo Ruiz                                                              | The local and Filipino Catholic calendar expresses his continuing liturgical veneration.             |
+
+## 11. Patronage, Feast Days, and Legacy
+
+The patronages listed in the preceding account are devotional and regional associations rather than all universal calendar titles. His principal historical associations are the Philippines, Filipino migrants, lay witnesses, and those who suffer persecution for the Catholic faith.
+
+| Celebration                             | Date             | Rite, calendar, or notes                                                      |
+| --------------------------------------- | ---------------- | ----------------------------------------------------------------------------- |
+| Memorial of St. Lorenzo Ruiz            | 28 September     | Philippine and local Catholic observance; rank follows the approved calendar. |
+| Commemoration with the Martyrs of Japan | Local dates vary | The companions' feasts and memorials are governed by the proper calendar.     |
+
+## 12. Prayers Asking for the Intercession of St. Lorenzo Ruiz
+
+> **Prayer status:** The prayers below are new devotional compositions for this article, with Tagalog and Cebuano renderings. They are not presented as words written or spoken by St. Lorenzo Ruiz.
 
 St. Lorenzo Ruiz, the protomartyr of the Philippines, gave his life rather than renounce the Catholic faith, declaring before his executioners: "I am a Catholic and wholeheartedly I accept death for God. If I had a thousand lives, I would offer them all to Him." The faithful invoke him for courage in persecution, for overseas Filipino workers separated from their families, for those falsely accused, and for the grace of perseverance in the face of trial. The following prayer may be used to seek his intercession:
 
@@ -237,7 +258,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## Sources
+## 13. Primary Sources and Further Reading
 
 - Pope John Paul II, Homily for the Beatification of Lorenzo Ruiz, 18 February 1981.
 - Pope John Paul II, Homily for the Canonization of Lorenzo Ruiz and Companions, 18 October 1987.

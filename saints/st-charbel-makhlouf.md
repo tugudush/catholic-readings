@@ -1,10 +1,10 @@
 # St. Charbel Makhlouf: The Hermit of Annaya
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Charbel's documented religious life, official testimony in his cause, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracle reports, incorruptibility claims, relic accounts, and quotations are qualified according to their source and ecclesial status; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Charbel Makhlouf** (Arabic: _Šarbil Maḫlūf_; born **Youssef Antoun Makhlouf**, 8 May 1828 – 24 December 1898) was a Lebanese Maronite Catholic monk, priest, and hermit. He is one of the most beloved saints of the Middle East — the first confessor of the Eastern Churches to be canonized according to the modern procedure of the Catholic Church, and a figure whose sanctity bridges the ancient monastic traditions of the Christian East with the universal Church of Rome. Known during his lifetime for his heroic practice of poverty, chastity, obedience, silence, and prayer, his fame multiplied after his death through an extraordinary stream of miracles attributed to his intercession. His feast day is **24 July** (the date of his baptism in the Maronite calendar; in the Roman calendar it is celebrated on the same date as an _Optional Memorial_).
 
@@ -138,7 +138,18 @@ The Pope presented a **lamp** as a gift to the monastery, entrusting Lebanon and
 
 ---
 
-## 9. Patronage
+## 9. Selected Chronology
+
+| Date             | Event                                                                      | Significance or source                                                         |
+| ---------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 8 May 1828       | Born Youssef Antoun Makhlouf at Bekaa Kafra, Lebanon                       | The early life is documented in Maronite and monastic records.                 |
+| 1851             | Enters the Lebanese Maronite Order and receives the religious name Charbel | His profession begins a life of monastic obedience and ascetic formation.      |
+| 23 July 1859     | Ordained priest                                                            | The priesthood becomes the center of his Eucharistic and sacramental ministry. |
+| 1875             | Enters the hermitage of Saints Peter and Paul at Annaya                    | The hermit life deepens his silence, manual labor, fasting, and prayer.        |
+| 24 December 1898 | Dies at Annaya                                                             | The monastery's records preserve the immediate memory of his death and burial. |
+| 1965 / 1977      | Beatified by Pope Paul VI and canonized by Pope Paul VI                    | These acts establish the Church's public recognition of his sanctity and cult. |
+
+## 10. Patronage
 
 St. Charbel Makhlouf is the **patron saint of Lebanon**. He is also invoked as:
 
@@ -149,7 +160,7 @@ St. Charbel Makhlouf is the **patron saint of Lebanon**. He is also invoked as:
 
 ---
 
-## 10. Feast Day
+## 11. Feast Day
 
 | Feast                                      | Date               | Rank                               | Notes                                                                                                        |
 | ------------------------------------------ | ------------------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -161,7 +172,7 @@ In the **Maronite Catholic Church**, St. Charbel is celebrated with solemnity, a
 
 ---
 
-## 11. Iconography
+## 12. Iconography
 
 St. Charbel is depicted in traditional iconography with the following attributes:
 
@@ -179,7 +190,7 @@ In modern devotional images, he is often depicted with a serene expression, eyes
 
 ---
 
-## 12. The Maronite Monastic Tradition
+## 13. The Maronite Monastic Tradition
 
 To understand St. Charbel, one must understand the tradition from which he came. The **Lebanese Maronite Order** traces its origins to **St. Maron** (died c. 410 A.D.), a Syriac hermit-priest whose disciples formed the nucleus of the Maronite Church — one of the twenty-three Eastern Catholic Churches _sui iuris_ in full communion with Rome.
 
@@ -195,7 +206,7 @@ Charbel stands as the supreme modern flowering of this ancient tradition — a l
 
 ---
 
-## 13. Spiritual Legacy
+## 14. Spiritual Legacy
 
 ### The Counter-Cultural Witness
 
@@ -216,7 +227,7 @@ At both his beatification and canonization, Pope Paul VI presented Charbel as a 
 
 ---
 
-## 14. Patristic and Magisterial Citations
+## 15. Patristic and Magisterial Citations
 
 > "A hermit of the Lebanese mountain is inscribed among the blessed — the first confessor of the East raised to the altars according to the current procedure of the Catholic Church. What a symbol of union between East and West! What a sign of ecclesial fraternity among Christians of the whole world!"
 > — Pope St. Paul VI, Beatification Homily, 5 December 1965
@@ -235,7 +246,9 @@ At both his beatification and canonization, Pope Paul VI presented Charbel as a 
 
 ---
 
-## 15. Prayer for Intercession
+## 16. Prayers Asking for the Intercession of St. Charbel Makhlouf
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Charbel is one of the most powerful intercessors of the modern era, with thousands of documented miracles attributed to his heavenly aid — especially physical healings, reconciliations, and conversions. The **22nd of each month** is a traditional day of pilgrimage and prayer to St. Charbel, and many faithful keep a novena to him in times of illness, distress, or spiritual dryness. The oil of St. Charbel, which exudes from his relics, is used as a sacramental for anointing the sick. The following prayer, rooted in the Maronite tradition, may be used to seek his intercession:
 
@@ -263,7 +276,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 16. Further Reading
+## 17. Primary Sources and Further Reading
 
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Comprehensive guide to the Eastern Catholic Churches, including the Maronite Church and its monastic tradition.
 - [saints/st-padre-pio.md](st-padre-pio.md) — St. Pio of Pietrelcina, to whom St. Charbel is often compared ("the Padre Pio of Lebanon").

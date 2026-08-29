@@ -1,10 +1,10 @@
 # St. Anthony of Padua: Evangelical Doctor and Patron of Lost Things
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Anthony's own sermons and writings, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Anthony of Padua** (Portuguese: _Santo António de Lisboa_; Italian: _Sant'Antonio di Padova_; 1195 – 13 June 1231), born **Fernando Martins de Bulhões**, was a Portuguese Catholic priest, a member of the **Order of Friars Minor**, and a **Doctor of the Church** (proclaimed by Pope Pius XII in 1946 with the title "Evangelical Doctor"). He is one of the most popular and widely invoked saints in the Catholic world, celebrated especially as the **patron of lost things**. His feast day is **13 June**.
 
@@ -89,7 +89,18 @@ Anthony's relics rest in the magnificent **Basilica of St. Anthony of Padua**, o
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date         | Event                                                                   | Significance or source                                                                      |
+| ------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1195         | Born at Lisbon                                                          | The traditional date and place are preserved in Anthony's early biographical tradition.     |
+| 1220         | Enters the Order of Friars Minor after serving as an Augustinian canon  | The change of religious family redirects his vocation toward missionary preaching.          |
+| 1221         | Meets St. Francis of Assisi at the general chapter in Assisi            | The encounter places Anthony within the early Franciscan movement.                          |
+| 1222         | His preaching gifts become publicly known at Forli                      | Early Franciscan tradition remembers this as the beginning of his major preaching ministry. |
+| 1227-1230    | Serves as minister provincial in northern Italy and continues preaching | His ministry combines doctrinal preaching, reconciliation, and care for the poor.           |
+| 13 June 1231 | Dies near Padua; canonized on 30 May 1232                               | The unusually rapid canonization reflects the strength of the early cult and testimony.     |
+
+## 8. Patronage
 
 St. Anthony of Padua is the patron saint of:
 
@@ -107,7 +118,7 @@ St. Anthony of Padua is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                                | Date         | Rank     | Notes                                      |
 | ------------------------------------ | ------------ | -------- | ------------------------------------------ |
@@ -117,7 +128,7 @@ St. Anthony of Padua is the patron saint of:
 
 ---
 
-## 9. The "Tonsure of St. Anthony" and Popular Devotion
+## 10. The "Tonsure of St. Anthony" and Popular Devotion
 
 St. Anthony is one of the most invoked saints in Catholic popular piety. The **"Bread of St. Anthony"** tradition—alms given in thanksgiving for favours received—continues in many parishes. His **Sermons** (_Sermones Dominicales et Festivi_) remain a treasure of scriptural exegesis.
 
@@ -125,7 +136,7 @@ The **Lily of St. Anthony** and the **Infant Jesus** (whom he once held in a vis
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "Anthony of Padua, Franciscan priest and Doctor of the Church, was an exceptional preacher and a great expert in Sacred Scripture."
 > — Pope Benedict XVI, General Audience, 10 February 2010
@@ -138,7 +149,9 @@ The **Lily of St. Anthony** and the **Infant Jesus** (whom he once held in a vis
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Anthony of Padua
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Anthony of Padua is one of the most beloved and widely invoked saints in the Catholic world, renowned especially as the patron of lost things and lost people. The traditional prayer to find lost articles — "St. Anthony, St. Anthony, please come round; something's lost and can't be found" — is but the simplest expression of a deeper trust in his powerful intercession before the throne of God. The faithful also seek his aid for the poor, for travelers, and for a deeper love of Sacred Scripture. The following prayer, rooted in the Franciscan tradition, may be used to seek his intercession:
 
@@ -166,7 +179,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-francis-assisi.md](st-francis-assisi.md) — St. Francis of Assisi, founder of the Franciscan Order.
 - [saints/st-clare-assisi.md](st-clare-assisi.md) — St. Clare of Assisi, companion in the Franciscan movement.

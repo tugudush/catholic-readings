@@ -1,10 +1,10 @@
 # St. Peter the Apostle: Prince of the Apostles and First Pope
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the Gospel and Acts, the Petrine letters, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, the chronology of Peter's journeys, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Peter** (Aramaic: _**כֵּיפָא**_, _Kepha_; Greek: _**Πέτρος**_, _Petros_; Latin: _Petrus_; c. 1 B.C. – c. 64–68 A.D.), originally named **Simon** (Hebrew: _**שִׁמְעוֹן**_, _Shim'on_), was a fisherman from Bethsaida in Galilee whom Jesus Christ called to be one of the **Twelve Apostles** and whom He established as the **first leader of the Church**. He is venerated as the **Prince of the Apostles**, the **first Bishop of Rome**, and the **first Pope**. His feast day is celebrated jointly with St. Paul on **29 June** (Solemnity of Saints Peter and Paul), and his chair (_Cathedra Petri_) is honoured on **22 February**.
 
@@ -140,7 +140,17 @@ The Catholic Church teaches that the primacy conferred on Peter was not a person
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date          | Event                                                                       | Significance or source                                                                                     |
+| ------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| c. 1 B.C.     | Born Simon at Bethsaida and works as a fisherman                            | The Gospel narratives provide the principal evidence for his family, trade, and call.                      |
+| c. 27-30 A.D. | Called by Christ, confesses him at Caesarea Philippi, and receives the keys | Matthew 16:13-20, Luke 22:31-32, and John 21:15-19 ground the Catholic reading of Peter's pastoral office. |
+| c. 30         | Proclaims Christ at Pentecost and leads the apostolic Church in Jerusalem   | Acts 1-5 presents his early leadership and witness.                                                        |
+| c. 40s-60s    | Ministers in Jerusalem, Antioch, and Rome                                   | The precise itinerary is reconstructed from Scripture and early Christian testimony.                       |
+| c. 64-68      | Martyred and buried in Rome                                                 | The Roman tradition and early witnesses preserve the memory of his crucifixion and tomb.                   |
+
+## 9. Patronage
 
 St. Peter is the patron saint of:
 
@@ -159,7 +169,7 @@ He is also the patron of numerous cities, dioceses, and nations worldwide.
 
 ---
 
-## 9. Feast Days
+## 10. Feast Days
 
 | Feast                                  | Date                                                       | Rank                            | Notes                                            |
 | -------------------------------------- | ---------------------------------------------------------- | ------------------------------- | ------------------------------------------------ |
@@ -170,7 +180,7 @@ He is also the patron of numerous cities, dioceses, and nations worldwide.
 
 ---
 
-## 10. Iconography
+## 11. Iconography
 
 St. Peter is traditionally depicted with:
 
@@ -183,7 +193,7 @@ St. Peter is traditionally depicted with:
 
 ---
 
-## 11. Legacy and Veneration
+## 12. Legacy and Veneration
 
 ### The Prince of the Apostles
 
@@ -199,7 +209,7 @@ St. Peter has been a central figure in Christian art from the earliest Roman cat
 
 ---
 
-## 12. Patristic and Magisterial Citations
+## 13. Patristic and Magisterial Citations
 
 > "The Church of Rome was founded and established by the two most glorious apostles, Peter and Paul. With this Church, on account of her preeminent authority, every Church must agree."
 > — St. Irenaeus of Lyons, _Against Heresies_, III.3.2
@@ -221,7 +231,9 @@ St. Peter has been a central figure in Christian art from the earliest Roman cat
 
 ---
 
-## 13. Prayer for Intercession
+## 14. Prayers Asking for the Intercession of St. Peter the Apostle
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Peter, the Prince of the Apostles, holds the keys of the Kingdom of Heaven (Matthew 16:19). The Church has always turned to his powerful intercession for the unity of the faithful, for the Holy Father, and for the grace of repentance and firm faith. The following prayer may be used to seek his heavenly aid:
 
@@ -248,7 +260,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Further Reading
+## 15. Primary Sources and Further Reading
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The unbroken succession of Roman Pontiffs from St. Peter to the present.
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — The first generations of Christian leaders after the Apostles.
