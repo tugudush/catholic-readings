@@ -70,6 +70,7 @@ Sacred traditions of prayer and worship that shape the daily life of Catholic be
 - **The Holy Rosary**: Detailed historical documents and prayer guides can be found under the rosary directory:
   - **Historical Development**: Read [liturgy/rosary/history.md](liturgy/rosary/history.md) to discover the early origins of the Psalter, the Dominican tradition, the codification by Pope St. Pius V, the Battle of Lepanto, and modern papal endorsements.
   - **How to Meditate & Pray**: See [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md) for a complete devotional structure of the mysteries (Joyful, Sorrowful, Glorious, and Luminous) and step-by-step instructions.
+    - **Litany of Loreto**: Pray the complete [Litany of the Blessed Virgin Mary](liturgy/rosary/litany-of-the-blessed-virgin-mary.md), with its history, theological themes, and the three invocations added in 2020.
 
 ---
 

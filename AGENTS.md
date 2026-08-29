@@ -68,6 +68,7 @@ Before adding or modifying any documents, check the existing directory structure
   - [liturgy/rosary/](liturgy/rosary/):
     - [liturgy/rosary/history.md](liturgy/rosary/history.md): Historical evolution, Dominicans, Lepanto, and papal bull references.
     - [liturgy/rosary/how-to-pray.md](liturgy/rosary/how-to-pray.md): Devotional structure (Joyful, Sorrowful, Glorious, Luminous mysteries) and prayers.
+    - [liturgy/rosary/litany-of-the-blessed-virgin-mary.md](liturgy/rosary/litany-of-the-blessed-virgin-mary.md): Complete text, history, theological themes, and current invocations of the Litany of Loreto.
 - [churches/](churches/):
   - [churches/README.md](churches/README.md): Local Catholic church records, published Mass schedules, confession times, contact details, and source-verification notes.
   - [churches/st-michaels-cathedral.md](churches/st-michaels-cathedral.md): Published Mass timetable and church information for St. Michael's Cathedral in Iligan City, Lanao del Norte.

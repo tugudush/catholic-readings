@@ -4,6 +4,8 @@ The **Catholic Rosary** is a highly cherished, Christocentric vocal and meditati
 
 For a source-attributed video synthesis focused on the Rosary, Brown Scapular, Fatima, and the tradition associated with St. Dominic, see [The Rosary & Brown Scapular Will Save the World: Video Analysis Report](../rosary-brown-scapular-fatima-video-report.md).
 
+For the complete text and history of the Litany of Loreto, see [Litany of the Blessed Virgin Mary](litany-of-the-blessed-virgin-mary.md).
+
 ---
 
 ## 1. Early Antecedents: The "Paternoster" and Marian Psalters

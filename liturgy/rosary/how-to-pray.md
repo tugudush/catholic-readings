@@ -4,6 +4,8 @@ The **Rosary** is a scripture-based prayer that guides the faithful to meditate 
 
 For a source-attributed video synthesis of the Rosary's relationship to the Brown Scapular and the Fatima message, see [The Rosary & Brown Scapular Will Save the World: Video Analysis Report](../rosary-brown-scapular-fatima-video-report.md).
 
+For the complete text and theological context of the Litany of Loreto, see [Litany of the Blessed Virgin Mary](litany-of-the-blessed-virgin-mary.md).
+
 ---
 
 ## 1. Visual Guide to the Rosary Beads
