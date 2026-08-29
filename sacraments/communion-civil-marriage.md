@@ -30,6 +30,16 @@ A civil ceremony — before a mayor, judge, or other civil official — does not
 
 The civil union may be recognized by the state and may involve deep mutual fidelity, shared life, and children; but for the Church it does not constitute the sacrament of Matrimony. The Church's pastors owe such couples charity and respect (CCC 1650; _Familiaris Consortio_ 84), while the objective canonical situation remains what it is until the marriage is validated.
 
+### 2.1 The Two Controlling Texts: CCC 1650 and _Familiaris Consortio_ 84
+
+For couples in irregular unions — including civilly married couples raising children — two magisterial texts govern the Church's entire pastoral approach, and they must always be read together:
+
+- **_Catechism of the Catholic Church_, § 1650** states the objective situation. A Catholic who has entered a civil union that is not a valid marriage is in a situation that objectively contradicts the union of love between Christ and the Church signified and effected by the Eucharist; so long as that situation persists, the person ordinarily cannot be admitted to sacramental Communion. The Catechism adds the condition for reconciliation: it "can be granted only to those who repent of having violated the sign of the Covenant of Christ and his fidelity, and who are ready to live in complete continence, that is, by refraining from the acts proper to married couples."
+
+- **_Familiaris Consortio_ 84** states the pastoral path. Pope John Paul II directs pastors to exercise careful discernment and great charity toward couples who cannot separate without serious harm — and he names **the upbringing of the children** among those serious reasons. Such couples are called to undertake "the duty to live in complete continence," and the same paragraph insists that they are **not separated from the Church**: they should listen to the word of God, attend the sacrifice of the Mass, persevere in prayer and penance, contribute to works of charity, and **bring up their children in the Christian faith**.
+
+Read together, these texts hold two truths at once: the objective impossibility of sacramental Communion while the couple lives as spouses outside a valid marriage, and the couple's real, ongoing communion with the Church's life of word, worship, and charity — for their own salvation and for the sake of their children. Neither text may be cited against the other: CCC 1650 without _Familiaris Consortio_ 84 becomes mere exclusion, and _Familiaris Consortio_ 84 without CCC 1650 becomes mere accommodation.
+
 ---
 
 ## 3. The Objective Moral Question: Sexual Relations outside Marriage
@@ -89,6 +99,18 @@ Complete continence is not the same as refusing all affection. It means abstaini
 - It does **not** dispense from the obligation to seek convalidation where possible.
 - It does **not** make past sins unforgiven — but a valid confession, with contrition and firm purpose, does forgive them.
 
+### 5.3 The Pastoral Elements of _Familiaris Consortio_ 84
+
+_Familiaris Consortio_ 84 does not leave continent couples standing at the threshold of the Church. It names the concrete means by which they remain united to her while they await convalidation:
+
+- **Listening to the word of God** — regular reading of Sacred Scripture and attentive participation in the Liturgy of the Word;
+- **Attending the sacrifice of the Mass** — being present at Sunday Mass with the family even when not yet receiving Communion;
+- **Persevering in prayer and penance** — daily family prayer, the Rosary, and acts of penance offered for the grace of fidelity;
+- **Contributing to works of charity and justice** — serving the parish and the poor as a family;
+- **Bringing up the children in the Christian faith** — baptism, catechesis, and the daily witness of the parents' fidelity to each other and to the Church.
+
+For couples with children, this last element is central. The continence of the parents is itself a witness to the children of the seriousness of marriage, and the family's life of prayer and worship makes the home a domestic church (CCC 1656–1657). The Church's expectation is not that the couple withdraw until the situation is fixed, but that they live the Christian life fully in the ways that remain open to them.
+
 ---
 
 ## 6. The Role of the Confessor and Pastor
@@ -109,6 +131,8 @@ In practice, the person should:
 ## 7. Children Are Not an Obstacle
 
 Children born of a civil union are **legitimate** (c. 1137) and bear no guilt whatsoever for their parents' canonical situation. They are not an obstacle to the reception of the sacraments by their parents; indeed, the welfare of the children is one of the serious reasons recognized by the Church for a couple remaining together while living in complete continence (_Familiaris Consortio_ 84). The Catholic party also carries the serious duty, in all that is within his or her power, to have the children baptized and raised in the Catholic faith (c. 1125 §1).
+
+_Familiaris Consortio_ 84 names the upbringing of the children explicitly among the serious reasons that may make separation impossible, and it addresses such parents directly: they are to bring up their children in the Christian faith, and the Christian community is to help them do so. In this way the couple's continence is not a private burden but a service to the family: it preserves the truth of marriage for the children, keeps the home anchored in the word of God, the Mass, prayer, and charity, and prepares the whole family for full sacramental life once the marriage is convalidated. The children, far from being a reason to abandon the Church's discipline, are its most urgent beneficiaries.
 
 ---
 
@@ -151,7 +175,7 @@ The general principle is firm; the application to any particular person belongs 
 
 ## Sources
 
-- _Catechism of the Catholic Church_, §§ 1385, 1451–1452, 1623–1624, 1650, 1735, 1860, 2284, 2353, 2390.
+- _Catechism of the Catholic Church_, §§ 1385, 1451–1452, 1623–1624, 1650, 1656–1657, 1735, 1860, 2284, 2353, 2390.
 - Council of Trent, Session XIII, _Decree on the Most Holy Sacrament of the Eucharist_, ch. 8; Session XIV, _Decree on Penance_, ch. 4.
 - _Code of Canon Law_ (1983), cc. 915, 916, 1061 §3, 1108, 1117, 1125, 1137, 1156–1160, 1161–1165.
 - _Code of Canons of the Eastern Churches_ (1990), cc. 776–866.
