@@ -1,10 +1,10 @@
 # St. John the Baptist: The Forerunner of the Lord
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the Gospel and other scriptural testimony, early Christian interpretation, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Chronological details beyond Scripture, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. John the Baptist** (Hebrew: _**יוֹחָנָן הַמַּטְבִּיל**_, _Yoḥanan ha-Matbil_; Greek: _**Ἰωάννης ὁ Βαπτιστής**_; Latin: _Ioannes Baptista_; c. 5 B.C. – c. 30 A.D.) is the **last and greatest of the Old Testament prophets** and the **Forerunner of the Messiah**. He prepared the way for the public ministry of Jesus Christ by preaching a baptism of repentance for the forgiveness of sins. He is honoured as a saint in all Christian traditions and is also revered in Islam as a prophet. His principal feast days are **24 June** (Nativity) and **29 August** (Beheading).
 
@@ -95,7 +95,17 @@ John is the **last of the Old Testament prophets** and the **first witness of th
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date                  | Event                                         | Significance or source                                                                                   |
+| --------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| c. 5 B.C.             | Born to Zechariah and Elizabeth               | Luke 1 presents his birth as a work of divine providence and places him within the history of salvation. |
+| c. 27-29 A.D.         | Begins preaching repentance in the wilderness | The Synoptic Gospels and Josephus provide the principal historical and scriptural setting.               |
+| c. 28-30 A.D.         | Baptizes Jesus in the Jordan                  | The Gospel accounts present John as the Forerunner whose ministry points to Christ.                      |
+| c. 29-30 A.D.         | Imprisoned and executed by Herod Antipas      | The circumstances are recorded in the Gospels; the exact date is uncertain.                              |
+| 24 June and 29 August | Nativity and Beheading commemorations         | The two principal Roman observances express distinct moments of his witness.                             |
+
+## 8. Patronage
 
 St. John the Baptist is the patron saint of:
 
@@ -113,7 +123,7 @@ St. John the Baptist is the patron saint of:
 
 ---
 
-## 8. Feast Days
+## 9. Feast Days
 
 | Feast                                         | Date                                                           | Rank      | Notes                                                    |
 | --------------------------------------------- | -------------------------------------------------------------- | --------- | -------------------------------------------------------- |
@@ -123,13 +133,13 @@ St. John the Baptist is the patron saint of:
 
 ---
 
-## 9. The Baptism of Christ in Iconography
+## 10. The Baptism of Christ in Iconography
 
 John is traditionally depicted as an ascetic figure wearing camel skin, holding a staff shaped like a cross (a _crux hastata_ or processional cross), and pointing toward Christ. In Eastern iconography, he is shown with wings, as the "angel of the desert" foretold by Malachi (Malachi 3:1).
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "Among those born of women there has risen no one greater than John the Baptist."
 > — Jesus Christ (Matthew 11:11)
@@ -145,7 +155,9 @@ John is traditionally depicted as an ascetic figure wearing camel skin, holding 
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. John the Baptist
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. John the Baptist, the Forerunner of the Lord and the greatest of the prophets, was the voice crying in the wilderness who prepared the way for the Messiah and baptized Him in the Jordan. The faithful seek his intercession for the grace of repentance, for the humility to decrease so that Christ may increase, for courage to speak the truth in the face of power, and for the gift of recognizing the presence of the Lamb of God. The following prayer may be used to seek his intercession:
 
@@ -173,7 +185,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The Gospels' witness to John the Baptist.
 - [saints/st-peter.md](st-peter.md) — St. Peter, the first to confess Christ.

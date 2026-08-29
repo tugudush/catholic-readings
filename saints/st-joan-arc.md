@@ -1,10 +1,10 @@
 # St. Joan of Arc: The Maid of Orléans and Patron of France
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the trial and nullification records, contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Visions, military claims, quotations, and later national or political uses are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Joan of Arc** (French: _Jeanne d'Arc_; Latin: _Ioanna Arcensis_; c. 1412 – 30 May 1431), known as **"The Maid of Orléans"** (_La Pucelle d'Orléans_), was a French peasant girl who, claiming divine guidance, led the French army to several important victories during the **Hundred Years' War**, paving the way for the coronation of **Charles VII**. She was executed by burning at the stake at age nineteen, was rehabilitated by the Church twenty-five years later, and was **canonized in 1920**. She is the **patron saint of France** and one of the most remarkable figures in Christian history. Her feast day is **30 May**.
 
@@ -107,7 +107,18 @@ Twenty-five years after her death, following the end of the Hundred Years' War, 
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date               | Event                                                                 | Significance or source                                                                                               |
+| ------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| c. 1412            | Born at Domremy in Lorraine                                           | The date is approximate; the nullification trial preserves important testimony about her childhood and vocation.     |
+| 1429               | Meets Charles VII at Chinon and participates in the relief of Orleans | The events are documented in the trial records and contemporary chronicles.                                          |
+| 17 July 1429       | Charles VII is crowned at Reims                                       | Joan's military mission is linked to the restoration of the French king, not to an independent claim to sovereignty. |
+| 23 May 1430        | Captured at Compiegne                                                 | Her captivity leads to the ecclesiastical trial at Rouen.                                                            |
+| 30 May 1431        | Condemned and executed at Rouen                                       | The trial record documents her final confession of faith and martyrdom.                                              |
+| 1456 / 16 May 1920 | Nullification judgment and canonization                               | The later judgment overturned the original condemnation; Pope Benedict XV canonized her.                             |
+
+## 8. Patronage
 
 St. Joan of Arc is the patron saint of:
 
@@ -123,7 +134,7 @@ St. Joan of Arc is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                           | Date   | Rank                        | Notes                        |
 | ------------------------------- | ------ | --------------------------- | ---------------------------- |
@@ -132,7 +143,7 @@ St. Joan of Arc is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "In the midst of the Hundred Years' War, a young peasant girl, Joan of Arc, fulfilled a perilous mission, leading the French army to victory."
 > — Pope Benedict XV, _Divina Disponente_ (Canonization Bull, 1920)
@@ -145,7 +156,9 @@ St. Joan of Arc is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Joan of Arc
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Joan of Arc, the Maid of Orléans, was a peasant girl who, at the age of seventeen, led the French army to victory under the guidance of St. Michael, St. Catherine, and St. Margaret — and who was burned at the stake at nineteen with the name of Jesus on her lips. The faithful seek her intercession for courage against overwhelming odds, for purity in youth, for those unjustly condemned, and for unwavering fidelity to the will of God. The following prayer may be used to seek her intercession:
 
@@ -173,7 +186,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael the Archangel, who appeared to Joan.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The historical context of the Hundred Years' War.

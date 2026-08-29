@@ -1,10 +1,10 @@
 # St. Vincent de Paul: Apostle of Charity
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Vincent's letters, conferences, and rules, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, charitable anecdotes, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Vincent de Paul** (French: _Vincent de Paul_; Latin: _Vincentius a Paulo_; 24 April 1581 – 27 September 1660) was a French Catholic priest and the **founder of the Congregation of the Mission** (the Vincentians or Lazarists) and the **Daughters of Charity**. He is renowned for his extraordinary work among the poor, his reform of the clergy, and his foundational role in the development of organized Catholic charity. His feast day is **27 September**.
 
@@ -112,7 +112,18 @@ In **1833**, the **Society of St. Vincent de Paul** was founded in Paris by **Bl
 
 ---
 
-## 9. Patronage
+## 9. Selected Chronology
+
+| Date              | Event                                                                            | Significance or source                                                                                       |
+| ----------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 24 April 1581     | Born at Pouy in Gascony                                                          | His family background and early education prepare him for the priesthood.                                    |
+| 23 September 1600 | Ordained a priest                                                                | The priesthood becomes the setting for his preaching, spiritual direction, and works of mercy.               |
+| 1617              | Preaches at Folleville and organizes the Confraternities of Charity at Chatillon | These events mark the practical development of his mission to the poor.                                      |
+| 1625              | Founds the Congregation of the Mission                                           | The institute joins evangelization of the poor with formation of the clergy.                                 |
+| 1633              | Founds the Daughters of Charity with St. Louise de Marillac                      | The community develops a new form of active service to the sick and poor.                                    |
+| 27 September 1660 | Dies in Paris; canonized in 1737                                                 | His canonization and later patronage of charitable works confirm the Church's recognition of his apostolate. |
+
+## 10. Patronage
 
 St. Vincent de Paul is the patron saint of:
 
@@ -128,7 +139,7 @@ St. Vincent de Paul is the patron saint of:
 
 ---
 
-## 10. Feast Day
+## 11. Feast Day
 
 | Feast                               | Date         | Rank     | Notes                        |
 | ----------------------------------- | ------------ | -------- | ---------------------------- |
@@ -137,7 +148,7 @@ St. Vincent de Paul is the patron saint of:
 
 ---
 
-## 11. The Vincentian Charism
+## 12. The Vincentian Charism
 
 The core of Vincent's spirituality is the conviction that **Christ is especially present in the poor**. His spiritual legacy includes:
 
@@ -148,7 +159,7 @@ The core of Vincent's spirituality is the conviction that **Christ is especially
 
 ---
 
-## 12. Patristic and Magisterial Citations
+## 13. Patristic and Magisterial Citations
 
 > "St. Vincent de Paul was a man consumed by the love of God and neighbour. He understood that true charity is organized, practical, and respectful of the dignity of the poor."
 > — Pope Benedict XVI, _Deus Caritas Est_, 26
@@ -161,7 +172,9 @@ The core of Vincent's spirituality is the conviction that **Christ is especially
 
 ---
 
-## 13. Prayer for Intercession
+## 14. Prayers Asking for the Intercession of St. Vincent de Paul
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Vincent de Paul, the Apostle of Charity, organized systematic relief for the poor, the sick, the orphaned, and the imprisoned on a scale the world had never seen — founding both the Congregation of the Mission (the Vincentians) and the Daughters of Charity. The faithful seek his intercession for the poor and abandoned, for those who serve in charitable works, for the grace of practical love, and for the holiness of the diocesan clergy. The following prayer may be used to seek his intercession:
 
@@ -192,6 +205,6 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Further Reading
+## 15. Primary Sources and Further Reading
 
 - [saints/README.md](README.md) — Master index of the saints directory.

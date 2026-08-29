@@ -1,10 +1,10 @@
 # St. Paul the Apostle: Apostle to the Gentiles
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Paul's canonical letters and the Acts of the Apostles, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, journeys after Acts, martyrdom details, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Paul the Apostle** (Hebrew: _**שָׁאוּל**_, _Sha'ul_; Greek: _**Παῦλος**_, _Paulos_; Latin: _Paulus_; c. 5 – c. 64–67 A.D.), originally named **Saul of Tarsus**, was a Pharisaic Jew who, after a dramatic conversion on the road to Damascus, became the **greatest missionary of the early Church** and the **author of fourteen New Testament epistles**. He is venerated as the **Apostle to the Gentiles**, a Doctor of the Church by virtue of his inspired writings, and one of the two great patron saints of Rome alongside St. Peter. His feast day is celebrated jointly with St. Peter on **29 June**, and his conversion is commemorated on **25 January**.
 
@@ -116,7 +116,18 @@ He was buried on the Via Ostiense, where the **Basilica of St. Paul Outside the 
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date      | Event                                               | Significance or source                                                                                                        |
+| --------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| c. 5 A.D. | Born Saul of Tarsus                                 | Paul's autobiographical remarks in Galatians and Philippians provide the principal evidence for his Jewish and Roman setting. |
+| c. 34-36  | Encounters the risen Christ on the road to Damascus | Acts 9, 22, and 26 and Galatians 1 describe the event as the turning point of his vocation.                                   |
+| c. 46-57  | Undertakes the major missionary journeys            | Acts records the expansion of the Gospel through Asia Minor, Macedonia, Greece, and the eastern Mediterranean.                |
+| c. 49     | Participates in the Council of Jerusalem            | Acts 15 records the ecclesial discernment concerning Gentile converts and the Mosaic law.                                     |
+| c. 60-61  | Arrives in Rome under house arrest                  | Acts 28 presents his continued preaching and witness in the imperial capital.                                                 |
+| c. 64-67  | Martyred in Rome                                    | Early Christian testimony remembers his death by beheading as a Roman citizen.                                                |
+
+## 8. Patronage
 
 St. Paul is the patron saint of:
 
@@ -134,7 +145,7 @@ He is also the patron of numerous cities, dioceses, and nations, including **Mal
 
 ---
 
-## 8. Feast Days
+## 9. Feast Days
 
 | Feast                                      | Date                                         | Rank              | Notes                                  |
 | ------------------------------------------ | -------------------------------------------- | ----------------- | -------------------------------------- |
@@ -145,7 +156,7 @@ He is also the patron of numerous cities, dioceses, and nations, including **Mal
 
 ---
 
-## 9. Iconography
+## 10. Iconography
 
 St. Paul is traditionally depicted with:
 
@@ -157,7 +168,7 @@ St. Paul is traditionally depicted with:
 
 ---
 
-## 10. Legacy
+## 11. Legacy
 
 ### The Apostle to the Gentiles
 
@@ -173,7 +184,7 @@ The Eastern Catholic Churches honour Paul as the **Apostle to the Nations** and 
 
 ---
 
-## 11. Patristic and Magisterial Citations
+## 12. Patristic and Magisterial Citations
 
 > "Paul, more than any other, has shown us what man is, and in what true freedom consists."
 > — St. John Chrysostom, _Homilies on Romans_
@@ -189,7 +200,9 @@ The Eastern Catholic Churches honour Paul as the **Apostle to the Nations** and 
 
 ---
 
-## 12. Prayer for Intercession
+## 13. Prayers Asking for the Intercession of St. Paul the Apostle
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Paul, the Apostle to the Gentiles, was a man of unflagging zeal for the Gospel, whose conversion on the Damascus Road stands as a perpetual sign that no sinner is beyond the reach of God's grace. The faithful invoke him for courage in evangelization, for the conversion of souls, and for perseverance in the race of faith. The following prayer may be used to seek his intercession:
 
@@ -218,7 +231,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 13. Further Reading
+## 14. Primary Sources and Further Reading
 
 - [saints/st-peter.md](st-peter.md) — St. Peter the Apostle, Prince of the Apostles.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The foundations of the early Church.

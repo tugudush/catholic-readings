@@ -1,10 +1,10 @@
 # St. Athanasius of Alexandria: Champion of Nicene Orthodoxy
 
-> **Note:** This document was composed without Magisterium AI retrieval, as the MCP service was unavailable at the time of writing. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Athanasius's own writings, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, contested episodes, miracle accounts, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Athanasius of Alexandria** (Greek: _**Ἀθανάσιος Ἀλεξανδρείας**_, _Athanasios Alexandreias_; c. 296 – 2 May 373 A.D.) was the **twentieth Bishop (Patriarch) of Alexandria**, a **Father and Doctor of the Church**, and the most formidable defender of Nicene orthodoxy against the Arian heresy in the fourth century. For his unwavering confession of the divinity of Jesus Christ—that the Son is _homoousios_ (consubstantial, "of one substance") with the Father—he earned the title **"Athanasius contra mundum"** ("Athanasius against the world").
 
@@ -233,7 +233,18 @@ St. Athanasius was a prolific writer. The following are his principal surviving 
 
 ---
 
-## 8. Legacy and Veneration
+## 8. Selected Chronology
+
+| Date      | Event                                                                 | Significance or source                                                                                 |
+| --------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| c. 296    | Born in Alexandria                                                    | The date is approximate; his formation belongs to the Alexandrian Church after the Great Persecution.  |
+| 325       | Attends the Council of Nicaea as deacon-secretary to Bishop Alexander | The council defines the Son as consubstantial with the Father in the Nicene Creed.                     |
+| 328       | Succeeds Alexander as Bishop of Alexandria                            | Athanasius's episcopate becomes the center of resistance to Arian interpretations of the faith.        |
+| 336-366   | Endures five periods of exile and returns to Alexandria               | The chronology is reconstructed from Athanasius's apologetic works and contemporary ecclesial history. |
+| 367       | Issues the 39th Festal Letter                                         | The letter gives the earliest surviving list of the 27 books of the New Testament.                     |
+| 2 May 373 | Dies at Alexandria                                                    | His death closes a career devoted to the Nicene confession and the pastoral care of his see.           |
+
+## 9. Patronage, Feast Days, and Legacy
 
 ### Athanasius Contra Mundum
 
@@ -264,7 +275,7 @@ St. Athanasius is the patron saint of:
 
 ---
 
-## 9. Patristic and Magisterial Citations
+## 10. Patristic and Magisterial Citations
 
 > "Athanasius is the pillar of the Church. His life and conduct are the rule of bishops and the norm of the orthodox faith."
 > — St. Gregory of Nazianzus, _Oration 21_
@@ -283,7 +294,9 @@ St. Athanasius is the patron saint of:
 
 ---
 
-## 10. Prayer for Intercession
+## 11. Prayers Asking for the Intercession of St. Athanasius of Alexandria
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Athanasius of Alexandria, the twentieth Patriarch of Alexandria and Doctor of the Church, stood against the world — _Athanasius contra mundum_ — when nearly the whole Church wavered before the Arian heresy. His five exiles and forty-five years as bishop, during which he defended the full divinity of Christ, earned him the title "Father of Orthodoxy." The faithful seek his intercession for steadfastness in defending the faith, for those persecuted for orthodoxy, for the unity of the Church, and for a deep understanding of the mystery of the Incarnation. The following prayer may be used to seek his intercession:
 
@@ -313,7 +326,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 11. Further Reading
+## 12. Primary Sources and Further Reading
 
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — The ecumenical councils and the development of doctrine.
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — The Alexandrian and Antiochene theological traditions.

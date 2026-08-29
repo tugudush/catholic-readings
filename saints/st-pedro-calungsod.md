@@ -1,10 +1,10 @@
 # St. Pedro Calungsod: Young Visayan Catechist and Martyr
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the historical records and official testimony for Pedro Calungsod, contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. His disputed birthplace, martyrdom details, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Pedro Calungsod** (Spanish: _Pedro Calúnsugd_ or _Pedro Calonsor_; 21 July 1654 – 2 April 1672) was a young Filipino Visayan lay catechist and missionary who was martyred on the island of Guam while evangelizing the native Chamorro people alongside the Spanish Jesuit missionary **Diego Luis de San Vitores**. He is the **second canonized Filipino saint**, after St. Lorenzo Ruiz.
 
@@ -164,7 +164,29 @@ Numerous educational institutions bear his name, including:
 
 ---
 
-## 9. Prayer for Intercession
+## 9. Selected Chronology
+
+| Date            | Event                                                         | Significance or source                                                                                                                              |
+| --------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 21 July 1654    | Born, probably in the Visayan region                          | The exact birthplace is disputed; the historical record securely identifies him as Visayan.                                                         |
+| 1668            | Joins the Jesuit mission to the Marianas as a young catechist | The mission records and later cause testimony describe his catechetical service.                                                                    |
+| 2 April 1672    | Martyred at Tumon, Guam, with Diego Luis de San Vitores       | The missionary records and later ecclesial testimony preserve the account; no first-class relic is known because the bodies were cast into the sea. |
+| 5 March 2000    | Beatified by Pope John Paul II                                | The beatification recognizes his martyrdom and missionary witness.                                                                                  |
+| 21 October 2012 | Canonized by Pope Benedict XVI                                | He becomes the second canonized Filipino saint.                                                                                                     |
+| 21 October      | Feast of St. Pedro Calungsod                                  | The current local observance follows the approved transfer from 2 April.                                                                            |
+
+## 10. Patronage, Feast Days, and Legacy
+
+St. Pedro Calungsod is especially associated with Filipino youth, catechists, altar servers, missionaries, and overseas Filipino workers. These associations are devotional and local unless an approved calendar or ecclesial decree gives them a wider status.
+
+| Celebration                          | Date       | Rite, calendar, or notes                                                                                         |
+| ------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| Memorial of St. Pedro Calungsod      | 21 October | Philippine Catholic observance and anniversary of canonization.                                                  |
+| Traditional anniversary of martyrdom | 2 April    | Historical date; the liturgical feast was transferred to avoid recurring conflict with Holy Week and Eastertide. |
+
+## 11. Prayers Asking for the Intercession of St. Pedro Calungsod
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Pedro Calungsod, the young Visayan lay catechist who willingly gave his life alongside his missionary companion, Bl. Diego Luis de San Vitores, is a powerful intercessor for youth, catechists, and altar servers. His courage — choosing to die rather than abandon his spiritual father — inspires the faithful to seek his aid for purity of heart, missionary zeal, and fidelity to one's vocation. The following prayer may be used to seek his intercession:
 
@@ -193,7 +215,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## Sources
+## 12. Primary Sources and Further Reading
 
 - Pope John Paul II, Homily for the Beatification of Pedro Calungsod and 44 Companions, 5 March 2000.
 - Pope Benedict XVI, Homily for the Canonization of Pedro Calungsod, 21 October 2012.

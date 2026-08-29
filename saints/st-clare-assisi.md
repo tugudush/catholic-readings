@@ -1,10 +1,10 @@
 # St. Clare of Assisi: Foundress of the Poor Clares
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Clare's letters and rule, contemporary and near-contemporary testimony, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Miracle accounts, visions, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Clare of Assisi** (Italian: _Chiara d'Offreducci_; Latin: _Clara Assisiensis_; 16 July 1194 – 11 August 1253) was an Italian Catholic nun and the **foundress of the Order of Poor Ladies** (the **Poor Clares**), the second order of the Franciscan movement. She was the first woman to write a monastic rule for women and is honoured as the **patron saint of television** due to a vision in which she "saw" the celebration of Christmas Mass from her convent. Her feast day is **11 August**.
 
@@ -82,7 +82,18 @@ Clare died on **11 August 1253** at the age of fifty-nine, surrounded by her sis
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date             | Event                                                         | Significance or source                                                                               |
+| ---------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 16 July 1194     | Born at Assisi                                                | The date is traditional; early testimony emphasizes her noble family and early dedication to Christ. |
+| Palm Sunday 1212 | Leaves her family and receives the habit from St. Francis     | This event begins the form of evangelical poverty later associated with the Poor Ladies.             |
+| c. 1215          | The community settles at San Damiano under Clare's leadership | Clare's governance gives stable shape to the women's Franciscan vocation.                            |
+| 1247-1253        | Composes and secures approval for the Rule of St. Clare       | It is the first monastic rule known to have been written by a woman and approved for women.          |
+| 11 August 1253   | Dies at San Damiano                                           | The early witnesses to her final illness and death are central to her canonization tradition.        |
+| 15 August 1255   | Canonized by Pope Alexander IV                                | The canonization confirms the Church's public veneration of Clare.                                   |
+
+## 8. Patronage
 
 St. Clare of Assisi is the patron saint of:
 
@@ -98,7 +109,7 @@ St. Clare of Assisi is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                               | Date      | Rank     | Notes                        |
 | ----------------------------------- | --------- | -------- | ---------------------------- |
@@ -107,7 +118,7 @@ St. Clare of Assisi is the patron saint of:
 
 ---
 
-## 9. Iconography
+## 10. Iconography
 
 St. Clare is traditionally depicted as a **Franciscan nun** holding:
 
@@ -119,7 +130,7 @@ St. Clare is traditionally depicted as a **Franciscan nun** holding:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Clare of Assisi is a brilliant flower of sanctity, a woman of light, whose life radiates the Gospel."
 > — Pope John Paul II, _Homily_, 11 August 2003
@@ -132,7 +143,9 @@ St. Clare is traditionally depicted as a **Franciscan nun** holding:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Clare of Assisi
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Clare of Assisi, the first woman to write a monastic rule and the foundress of the Poor Clares, lived a life of evangelical poverty so radical that she was called _alter Franciscus_ — another Francis. The faithful seek her intercession for the grace of trust in Divine Providence, for clarity of vision (both physical and spiritual), for protection of the home, and for a love of the Blessed Sacrament. The following prayer may be used to seek her intercession:
 
@@ -160,7 +173,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-francis-assisi.md](st-francis-assisi.md) — St. Francis of Assisi, who inspired Clare.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Eucharist, central to Clare's spirituality.

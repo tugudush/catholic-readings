@@ -1,10 +1,10 @@
 # St. Stephen: Protomartyr
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the Acts of the Apostles and other scriptural testimony, early liturgical evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Details beyond Acts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Stephen** (Greek: _**Στέφανος**_, _Stephanos_, "crown"; Hebrew: _**סטיבן**_; c. 5 – c. 34 A.D.) is honoured as the **first Christian martyr** (protomartyr). He was one of the **first seven deacons** appointed by the Apostles to serve the early Christian community in Jerusalem. His preaching, his vision of Christ at the right hand of God, and his prayer for his executioners at the moment of his stoning have inspired the Church for two millennia. His feast day is **26 December** (the day after Christmas).
 
@@ -59,7 +59,17 @@ This prayer, echoing Christ's own prayer from the Cross ("Father, forgive them")
 
 ---
 
-## 5. Patronage
+## 5. Selected Chronology
+
+| Date        | Event                                                                      | Significance or source                                                                                     |
+| ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1st century | Chosen among the Seven to serve the Greek-speaking widows                  | Acts 6:1-6 presents the appointment as an apostolic response to a concrete need in the Church.             |
+| c. 34 A.D.  | Gives his defense before the Sanhedrin                                     | Acts 6:8-7:53 records the speech as a biblical witness to Christ and Israel's history.                     |
+| c. 34 A.D.  | Stoned outside Jerusalem while praying for his executioners                | Acts 7:54-60 is the primary source for his martyrdom and his likeness to Christ.                           |
+| c. 415      | Relics traditionally discovered at Kefar Gamla and translated to Jerusalem | The discovery belongs to later ecclesial tradition and should not be confused with the scriptural account. |
+| 26 December | Feast of St. Stephen                                                       | The Roman calendar places the protomartyr immediately after the Nativity of the Lord.                      |
+
+## 6. Patronage
 
 St. Stephen is the patron saint of:
 
@@ -72,7 +82,7 @@ St. Stephen is the patron saint of:
 
 ---
 
-## 6. Feast Day
+## 7. Feast Day
 
 | Feast                       | Date                                        | Rank              | Notes                                               |
 | --------------------------- | ------------------------------------------- | ----------------- | --------------------------------------------------- |
@@ -82,13 +92,13 @@ St. Stephen is the patron saint of:
 
 ---
 
-## 7. The Relics
+## 8. The Relics
 
 According to tradition, the relics of St. Stephen were discovered in **415 A.D.** near Jerusalem. They were translated to Constantinople and later to Rome, where they rest in the **Basilica of St. Lawrence Outside the Walls**.
 
 ---
 
-## 8. Patristic and Magisterial Citations
+## 9. Patristic and Magisterial Citations
 
 > "Now that Stephen the martyr is crowned as a deacon, the diaconate is glorified."
 > — St. John Chrysostom, _Homily on St. Stephen_
@@ -101,7 +111,9 @@ According to tradition, the relics of St. Stephen were discovered in **415 A.D.*
 
 ---
 
-## 9. Prayer for Intercession
+## 10. Prayers Asking for the Intercession of St. Stephen
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Stephen, the Protomartyr and first deacon of the Church, was filled with the Holy Spirit and saw the heavens opened as he was stoned to death — praying for his executioners even as the stones crushed him. The faithful seek his intercession for the grace of forgiveness toward enemies, for deacons and all who serve at the altar, for courage in bearing witness to Christ, and for the conversion of those who persecute the Church. The following prayer may be used to seek his intercession:
 
@@ -130,7 +142,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 10. Further Reading
+## 11. Primary Sources and Further Reading
 
 - [saints/st-lawrence.md](st-lawrence.md) — St. Lawrence, deacon and martyr.
 - [saints/st-paul.md](st-paul.md) — St. Paul, who witnessed Stephen's martyrdom.

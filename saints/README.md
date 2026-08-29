@@ -59,7 +59,8 @@ These documents are written to scholarly standards, grounded in primary sources 
 In fidelity to the repository conventions (see [AGENTS.md](../AGENTS.md)), each saint biography:
 
 - **Distinguishes levels of doctrinal weight**: Dogma, ecclesiastical discipline, private revelation, and theological opinion are clearly separated.
-- **Includes a Prayer for Intercession**: Each biography now contains a dedicated section with a prayer for seeking the saint's heavenly intercession, formatted according to the repository's [prayer-formatting guidelines](../.github/instructions/prayer-formatting.instructions.md), including a shorter daily invocation.
+- **Uses the saint-documentation structure**: Each biography begins with a source-boundary note, uses numbered narrative sections, and includes a selected chronology, qualified patronage and feast information, and a primary-sources section.
+- **Separates prayer provenance**: Authenticated prayers or securely preserved prayer texts are kept distinct from prayers asking for a saint's intercession. New devotional compositions, traditional prayers, and official liturgical texts are labeled by status and formatted with the required line breaks from the repository's [prayer-formatting guidelines](../.github/instructions/prayer-formatting.instructions.md).
 - **Recognizes Eastern Catholic traditions**: Where a saint is venerated in both East and West, the distinct feast days, liturgical commemorations, and traditions of the Eastern Catholic Churches are explicitly presented.
 - **Provides authoritative sourcing**: Citations reference primary documents (the saint's own writings, papal bulls of canonization, the _Roman Martyrology_, the _Acta Sanctorum_, conciliar decrees, and the Catechism of the Catholic Church).
 

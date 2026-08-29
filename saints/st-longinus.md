@@ -1,10 +1,10 @@
 # St. Longinus: The Soldier Who Pierced Christ's Side
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the unnamed soldier in the Gospel, early liturgical evidence, later hagiography and local traditions about Longinus, Church teaching and recognition, and modern devotional composition. The soldier's name, conversion, martyrdom, relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Longinus** (1st c. A.D.) is the traditional name given to the Roman soldier who, standing guard at the foot of the Cross, **pierced the side of our crucified Lord with a lance** (John 19:34), from which flowed blood and water — a moment the Church has always understood as signifying the birth of the sacraments of Baptism and the Eucharist from the pierced Heart of Christ. He is venerated as a **martyr** who converted upon witnessing the cosmic signs at the death of Jesus and, according to tradition, was healed of failing eyesight when the Precious Blood touched his eyes. His feast day is commemorated on **15 March** in the Roman Martyrology (associated with Caesarea in Cappadocia) and **16 October** in certain calendars.
 
@@ -133,7 +133,16 @@ This Mantua tradition competes with the Cappadocian tradition, and modern schola
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date                       | Event                                                                | Significance or source                                                                                         |
+| -------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1st century                | An unnamed Roman soldier pierces the side of Christ                  | John 19:34 is the secure scriptural source; it does not name the soldier.                                      |
+| 1st century, traditionally | The soldier confesses Christ after the signs at the Crucifixion      | The identification with Longinus comes from later Christian tradition, not the Gospel text.                    |
+| 4th century onward         | Longinus traditions develop around Caesarea of Cappadocia and Mantua | The competing traditions should be treated as local devotional histories rather than one continuous biography. |
+| 16 October                 | Memorial of St. Longinus in the Roman calendar                       | The liturgical commemoration honors the traditional martyr.                                                    |
+
+## 9. Patronage
 
 St. Longinus is the patron saint of:
 
@@ -148,7 +157,7 @@ St. Longinus is the patron saint of:
 
 ---
 
-## 9. Feast Days
+## 10. Feast Days
 
 | Feast                                     | Date       | Rank              | Notes                                                                                                     |
 | ----------------------------------------- | ---------- | ----------------- | --------------------------------------------------------------------------------------------------------- |
@@ -160,7 +169,7 @@ Note: The Roman Martyrology for 21 July mentions a different "Longinus" — one 
 
 ---
 
-## 10. In Art and Iconography
+## 11. In Art and Iconography
 
 ### Traditional Attributes
 
@@ -185,7 +194,7 @@ In Eastern Orthodox and Eastern Catholic iconography, St. Longinus is honoured a
 
 ---
 
-## 11. The Holy Lance — Relic and Legend
+## 12. The Holy Lance — Relic and Legend
 
 The weapon with which Longinus pierced Christ's side became one of the most venerated and controversial relics in Christendom. Known as the **Holy Lance** (Latin: _Lancea Sacra_) or the **Spear of Destiny** (German: _Heilige Lanze_), its history is treated in full separately at [church-history/holy-lance-relic.md](../church-history/holy-lance-relic.md). Key highlights include:
 
@@ -198,7 +207,7 @@ For the full history, including Hitler's obsession, General Patton's fascination
 
 ---
 
-## 12. Patristic and Magisterial Citations
+## 13. Patristic and Magisterial Citations
 
 > "He who saw it has borne witness — his testimony is true, and he knows that he tells the truth — that you also may believe."
 > — John 19:35, the Evangelist's solemn affirmation of the piercing
@@ -220,7 +229,9 @@ For the full history, including Hitler's obsession, General Patton's fascination
 
 ---
 
-## 13. Prayer for Intercession
+## 14. Prayers Asking for the Intercession of St. Longinus
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Longinus, Roman soldier who stood at the foot of the Cross, thrust the lance into the Saviour's side, and was healed of blindness by the Precious Blood that flowed down the shaft, the faithful seek his intercession for clarity of spiritual sight, for healing of diseases of the eye, for soldiers facing the trials of military life, and for the grace to recognize Christ in the midst of suffering. The following prayer may be used to seek his intercession:
 
@@ -255,7 +266,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Further Reading
+## 15. Primary Sources and Further Reading
 
 - [church-history/holy-lance-relic.md](../church-history/holy-lance-relic.md) — The complete history of the Holy Lance (Spear of Destiny), from Jerusalem through Constantinople, Vienna, Hitler's seizure, and the WWII recovery.
 - [christology/README.md](../christology/README.md) — Christology: the Person and work of Jesus Christ, including the Passion.

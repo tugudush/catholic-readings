@@ -1,14 +1,23 @@
 # St. Clement of Rome: Third Successor of St. Peter and Witness to Apostolic Succession
 
-> **Note:** This document was composed without Magisterium AI retrieval. Citations should be verified against primary sources where possible.
+> **Source note:** This article distinguishes Clement's own letter, contemporary and near-contemporary testimony, later hagiographical tradition, Church teaching and liturgical recognition, and modern devotional composition. Dates, the identification of Clement with the companion named in Philippians 4:3, and details of his martyrdom are qualified where the evidence is uncertain.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Clement of Rome** (Latin: _Clemens Romanus_; Greek: _Κλήμης_; c. 35–99 A.D.), also known as **Clement I** and **Pope St. Clement I**, was the **third Bishop of Rome** after St. Peter, serving as the visible head of the Catholic Church from approximately **c. 88 to 99 A.D.** He is the first Apostolic Father for whom we have extant writings, and his _First Epistle to the Corinthians_ (_1 Clement_) is one of the most precious documents of Christian antiquity—a letter that provides the earliest explicit witness to the doctrines of **apostolic succession** and **Roman primacy** outside of the New Testament.
 
 St. Clement is commemorated in the **Roman Canon** (Eucharistic Prayer I) of the Latin Mass alongside St. Linus and St. Cletus (Anacletus), and his feast day is celebrated on **23 November** in the Latin Rite and on **25 November** in the Byzantine Rite.
+
+| Profile              | Details                                                                       |
+| -------------------- | ----------------------------------------------------------------------------- |
+| Full name and titles | Clement of Rome; Clement I; Bishop of Rome                                    |
+| Canonical status     | Saint, bishop, and martyr in the Catholic Church's liturgical tradition       |
+| Dates                | c. 35-99 A.D.; dates are approximate                                          |
+| Birthplace           | Uncertain; an early Roman setting is traditional but not securely documented  |
+| Vocation and office  | Bishop of Rome, teacher, and author of _1 Clement_                            |
+| Historical setting   | The late first-century Church after the deaths of the Apostles Peter and Paul |
 
 ---
 
@@ -156,7 +165,17 @@ None of these works are genuine, but their attribution demonstrates the immense 
 
 ---
 
-## 7. Legacy
+## 7. Selected Chronology
+
+| Date           | Event                                         | Significance or source                                                                                                                                                    |
+| -------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| c. 35          | Birth of Clement, probably in the Roman world | The date and place are uncertain; no contemporary biography survives.                                                                                                     |
+| c. 88-99       | Episcopate at Rome                            | The succession is attested by St. Irenaeus, _Against Heresies_, III, 3, 3; dates vary in ancient lists.                                                                   |
+| c. 96          | Letter from the Church of Rome to Corinth     | _1 Clement_ addresses the Corinthian dispute and witnesses to apostolic order, repentance, and ecclesial unity.                                                           |
+| c. 99 or later | Death of Clement                              | Martyrdom and the anchor tradition are ancient but the precise circumstances are not historically certain.                                                                |
+| 9th century    | Relics traditionally translated to Rome       | The translation is associated with Sts. Cyril and Methodius; the history of the relics should be stated as a tradition rather than as proof of every accompanying legend. |
+
+## 8. Patronage, Feast Days, and Legacy
 
 St. Clement of Rome is a monumental figure in the history of the Church for the following reasons:
 
@@ -172,7 +191,76 @@ St. Clement of Rome is a monumental figure in the history of the Church for the 
 
 ---
 
-## 8. Further Reading
+### Patronage and associations
+
+| Patronage or association      | Historical, devotional, or vocational connection                                                       |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Mariners and seafarers        | The anchor is a traditional symbol of his reported martyrdom.                                          |
+| Stone-cutters and blacksmiths | Local and artistic associations with the anchor and his Roman cult.                                    |
+| Slavic peoples                | Devotional association with the translation of his relics and the mission of Sts. Cyril and Methodius. |
+
+These are devotional and local associations, not all-purpose universal patronages. The anchor is an iconographic and traditional attribute, not independently documented evidence of the manner of death.
+
+### Feast days and liturgical observance
+
+| Celebration                  | Date        | Rite, calendar, or notes                                                        |
+| ---------------------------- | ----------- | ------------------------------------------------------------------------------- |
+| Memorial of St. Clement I    | 23 November | Latin Church memorial; he is also named in Eucharistic Prayer I.                |
+| Commemoration of St. Clement | 25 November | Byzantine Catholic calendar in the tradition represented by the local calendar. |
+
+St. Clement's lasting importance lies in the way _1 Clement_ joins fidelity to apostolic teaching with repentance, ordered ministry, Eucharistic worship, and prayer for civil authorities. His authority is that of an early bishop and witness within the Church, not an independent source alongside Sacred Scripture and the Magisterium.
+
+## 9. Prayers St. Clement Wrote or Transmitted
+
+The following is a prayer preserved in the communal letter of the Roman Church known as _1 Clement_. It is not a private prayer whose exact composition can be separated from the letter's ecclesial setting. English wording varies by translation.
+
+### Prayer for rulers and the civil order
+
+In _1 Clement_, 59.2-4, the Roman Church asks God to grant civil authorities health, peace, concord, and the wisdom to govern without offense:
+
+    Grant to them, Lord,
+    health, peace, concord, and stability,
+    that they may administer the government
+    which you have given them without offense.
+
+The text is a primary witness to the early Church's public prayer for rulers. It should not be treated as a complete liturgical formula for every Catholic rite.
+
+## 10. Prayers Asking for the Intercession of St. Clement of Rome
+
+The following prayer is a new devotional composition for this article. It is not a text written by St. Clement or an official collect.
+
+    O holy Clement of Rome,
+    faithful bishop and witness to the apostolic faith,
+    pray that the Church may persevere in unity,
+    humility, repentance, and charity.
+
+    Ask the Lord to strengthen the successors of the Apostles,
+    to reconcile Christians divided by jealousy or ambition,
+    and to make our worship faithful to the Gospel.
+
+    Teach us to pray for those who govern,
+    to serve the poor with sincerity,
+    and to remain steadfast in hope through persecution.
+
+    St. Clement of Rome,
+    pray for us now and at the hour of our death.
+    Amen.
+
+## 11. Attribution Cautions
+
+- The identification of Clement with the companion named in Philippians 4:3 is an ancient tradition, not a conclusion established by the verse itself.
+- The _Martyrium Sancti Clementis_ and the account of the sea receding around his shrine belong to later hagiographical tradition and should not be presented as contemporary eyewitness evidence.
+- The so-called _Second Epistle of Clement_, the _Clementine Homilies_, and related works should not be presented as writings of Clement.
+- The invocation of Clement's intercession in this article is devotional prayer directed to God through a canonized saint's intercession; it is not worship of the saint.
+
+## 12. Primary Sources and Further Reading
+
+### Primary and ecclesial sources
+
+- [Pope Benedict XVI, General Audience of 7 March 2007: Saint Clement, Bishop of Rome](https://www.magisterium.com/docs/b756c6fb-19c9-4582-aa97-4a59571a62a8/ref/page1) — papal catechesis on Clement's life, letter, and ecclesial witness.
+- [St. Clement of Rome, _First Epistle to the Corinthians_](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/Pope%20St.%20Clement%20I) — corpus entry containing the principal historical and literary references.
+- St. Irenaeus of Lyons, _Against Heresies_, III, 3, 3.
+- Eusebius of Caesarea, _Church History_, III, 4 and IV, 23.
 
 - [apostolic-fathers.md](apostolic-fathers.md) — The master monograph on the Apostolic Fathers, with the broader context of the direct disciples of the Apostles.
 - [st-linus-pope.md](st-linus-pope.md) — St. Linus, the immediate successor of St. Peter and second Bishop of Rome.

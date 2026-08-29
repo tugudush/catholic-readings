@@ -1,10 +1,10 @@
 # St. Lawrence: Deacon and Protomartyr of Rome
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the early records of Lawrence's diaconal ministry and martyrdom, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Details of the martyrdom, relics, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Lawrence** (Latin: _Laurentius_; Spanish: _San Lorenzo_; c. 225 – 10 August 258 A.D.) was one of the **seven deacons** of the Church of Rome under **Pope St. Sixtus II** and is one of the most venerated martyrs of the early Church. He is the **patron saint of cooks, librarians, and the poor**. His martyrdom by gridiron—famously joking with his executioners—has made him an enduring symbol of faith and humour in the face of death. His feast day is **10 August**.
 
@@ -39,7 +39,17 @@ The Prefect, enraged, ordered Lawrence to be **martyred on a gridiron** (a metal
 
 ---
 
-## 4. Patronage
+## 4. Selected Chronology
+
+| Date               | Event                                                                | Significance or source                                                                                                         |
+| ------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| c. 225             | Born, probably in Hispania or Rome according to differing traditions | The early evidence for his birthplace is not uniform.                                                                          |
+| 257                | Serves as deacon and archdeacon of Pope Sixtus II                    | The Roman Church's records place his ministry in the context of the Valerian persecution.                                      |
+| 6 August 258       | Pope Sixtus II and fellow deacons are martyred                       | The date is recorded in early Roman commemorations and precedes Lawrence's own death.                                          |
+| 10 August 258      | Martyred at Rome                                                     | The gridiron account is an early and influential tradition; details should be distinguished from the secure fact of martyrdom. |
+| 4th century onward | His Roman basilica and cult expand                                   | The development of his cult explains his enduring place in the Roman liturgical tradition.                                     |
+
+## 5. Patronage
 
 St. Lawrence is the patron saint of:
 
@@ -55,7 +65,7 @@ St. Lawrence is the patron saint of:
 
 ---
 
-## 5. Feast Day
+## 6. Feast Day
 
 | Feast                     | Date      | Rank  | Notes                            |
 | ------------------------- | --------- | ----- | -------------------------------- |
@@ -64,7 +74,7 @@ St. Lawrence is the patron saint of:
 
 ---
 
-## 6. Veneration
+## 7. Veneration
 
 The **Basilica of St. Lawrence Outside the Walls** in Rome (San Lorenzo fuori le Mura) is one of the seven pilgrimage churches of Rome and houses his tomb.
 
@@ -72,7 +82,7 @@ The **Escorial** palace-monastery in Spain is dedicated to St. Lawrence, built i
 
 ---
 
-## 7. Patristic and Magisterial Citations
+## 8. Patristic and Magisterial Citations
 
 > "St. Lawrence, the archdeacon of the Roman Church, showed the true riches of the Church when he brought the poor to the Prefect."
 > — St. Ambrose of Milan, _On the Duties of the Clergy_
@@ -85,7 +95,9 @@ The **Escorial** palace-monastery in Spain is dedicated to St. Lawrence, built i
 
 ---
 
-## 8. Prayer for Intercession
+## 9. Prayers Asking for the Intercession of St. Lawrence
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Lawrence, deacon and martyr, presented the poor, the crippled, and the blind as the true treasures of the Church — and for this confession he was roasted alive on a gridiron, famously telling his executioners, "Turn me over; I am done on this side." The faithful seek his intercession for a cheerful spirit in suffering, for the grace of holy humour in the face of trial, for deacons and all who serve the poor, and for protection against fire. The following prayer may be used to seek his intercession:
 
@@ -113,7 +125,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 9. Further Reading
+## 10. Primary Sources and Further Reading
 
 - [saints/st-stephen.md](st-stephen.md) — St. Stephen, the first Christian martyr.
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — The diaconate.

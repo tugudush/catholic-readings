@@ -1,10 +1,10 @@
 # St. Teresa of Ávila: Mystic, Reformer, and Doctor of the Church
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes Teresa's autobiographical works, letters, foundations, and other writings, contemporary and near-contemporary evidence, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. Mystical experiences, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Teresa of Ávila** (Spanish: _Teresa de Ávila_; Latin: _Teresia Abulensis_; 28 March 1515 – 4 October 1582), born **Teresa Sánchez de Cepeda y Ahumada**, was a Spanish Discalced Carmelite nun, mystic, theologian, and **Doctor of the Church** (proclaimed by Pope Paul VI in 1970). She is one of the giants of Catholic spirituality, known for her reform of the Carmelite Order, her profound mystical writings, and her extraordinary spiritual experiences. Her feast day is **15 October**.
 
@@ -114,7 +114,18 @@ Teresa died on **4 October 1582** at the convent of **Alba de Tormes**, attended
 
 ---
 
-## 8. Patronage
+## 8. Selected Chronology
+
+| Date            | Event                                                                 | Significance or source                                                                                   |
+| --------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 28 March 1515   | Born at Gotarrendura or Avila                                         | The birthplace is disputed in local tradition; Teresa's _Life_ is the principal autobiographical source. |
+| 2 November 1535 | Enters the Carmelite monastery of the Incarnation at Avila            | Her religious vocation begins before the later reform of Carmel.                                         |
+| 1554            | Experiences a decisive renewal before an image of the wounded Christ  | Teresa describes this conversion in _Life_, 9; the account is autobiographical testimony.                |
+| 1562            | Founds the first reformed Carmelite monastery at St. Joseph's, Avila  | The foundation begins the reform later known as the Discalced Carmelites.                                |
+| 1567-1582       | Establishes additional foundations and writes her principal works     | Her prayer, governance, and theology develop together in the reforming mission.                          |
+| 4 October 1582  | Dies at Alba de Tormes; canonized in 1622 and declared Doctor in 1970 | The Church's later recognition rests on her life, writings, and enduring cult.                           |
+
+## 9. Patronage
 
 St. Teresa of Ávila is the patron saint of:
 
@@ -130,7 +141,7 @@ St. Teresa of Ávila is the patron saint of:
 
 ---
 
-## 9. Feast Day
+## 10. Feast Day
 
 | Feast                            | Date       | Rank  | Notes                                 |
 | -------------------------------- | ---------- | ----- | ------------------------------------- |
@@ -139,7 +150,7 @@ St. Teresa of Ávila is the patron saint of:
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Teresa of Ávila is a teacher of prayer, a reformer of religious life, and a Doctor of the Church."
 > — Pope Paul VI, _Proclamation of Doctor of the Church_, 1970
@@ -152,7 +163,9 @@ St. Teresa of Ávila is the patron saint of:
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Teresa of Avila
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Teresa of Ávila (Teresa of Jesus), the seraphic virgin and Doctor of the Church, reformed the Carmelite Order, founded seventeen convents of Discalced Carmelites, and wrote masterpieces of mystical theology — _The Life_, _The Way of Perfection_, and _The Interior Castle_ — that remain unsurpassed guides to the life of prayer. Known for her earthy humour, her iron will, and her profound union with God, the faithful seek her intercession for progress in mental prayer, for those suffering from illness or spiritual aridity, for the reform of religious life, and for the grace of holy perseverance. The following prayer, echoing her own words, may be used to seek her intercession:
 
@@ -183,7 +196,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.
 - [saints/st-therese-lisieux.md](st-therese-lisieux.md) — St. Thérèse of Lisieux, another Carmelite Doctor of the Church.

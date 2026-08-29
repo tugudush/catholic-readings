@@ -1,10 +1,10 @@
 # St. Rita of Cascia: Patron of Impossible Causes
 
-> **Note:** This document was composed with the assistance of Magisterium AI. Citations should be verified against primary sources where possible.
+> **Source note:** This biography distinguishes the early evidence for Rita, later hagiography and local tradition, Church teaching and liturgical recognition, and modern devotional composition. The chronology of her marriage and religious profession, miracle accounts, relic claims, and quotations are qualified according to their source and certainty; English wording varies by translation.
 
 ---
 
-## 1. Introduction
+## 1. Introduction and Identity
 
 **St. Rita of Cascia** (Italian: _Rita da Cascia_; Latin: _Rita Casciensis_; 1381 – 22 May 1457), born **Margherita Lotti**, was an Italian Augustinian nun who is venerated as the **patron saint of impossible causes, desperate situations, and marital difficulties**. Her life—as a wife, mother, widow, and nun—is a remarkable witness to faith, forgiveness, and perseverance through suffering. Her feast day is **22 May**.
 
@@ -77,7 +77,18 @@ Rita died on **22 May 1457** at the Convent of St. Mary Magdalene in Cascia. Her
 
 ---
 
-## 7. Patronage
+## 7. Selected Chronology
+
+| Date         | Event                                                            | Significance or source                                                                                    |
+| ------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 1381         | Born at Roccaporena near Cascia                                  | The date and place are traditional and preserved in later Augustinian biographies.                        |
+| c. 1395-1400 | Marries Paolo Mancini                                            | The account of her difficult marriage and her pursuit of peace belongs to the early devotional tradition. |
+| c. 1406-1410 | Widowed after her husband's murder                               | Rita's response is remembered as an example of Christian forgiveness; the documentary record is limited.  |
+| c. 1417      | Enters the Augustinian monastery of St. Mary Magdalene at Cascia | Her religious vocation becomes the setting for prayer, penance, and service.                              |
+| 22 May 1457  | Dies at Cascia; canonized in 1900                                | The canonization establishes the Church's universal recognition of her cult.                              |
+| 22 May       | Memorial of St. Rita                                             | The Roman calendar commemorates her on the anniversary traditionally assigned to her death.               |
+
+## 8. Patronage
 
 St. Rita of Cascia is the patron saint of:
 
@@ -93,7 +104,7 @@ St. Rita of Cascia is the patron saint of:
 
 ---
 
-## 8. Feast Day
+## 9. Feast Day
 
 | Feast                              | Date   | Rank     | Notes           |
 | ---------------------------------- | ------ | -------- | --------------- |
@@ -101,13 +112,13 @@ St. Rita of Cascia is the patron saint of:
 
 ---
 
-## 9. The Blessing of Roses
+## 10. The Blessing of Roses
 
 On St. Rita's feast day (22 May), roses are traditionally blessed and distributed to the faithful in her honour, recalling the miraculous rose that bloomed in January. The rose has become her symbol, representing the beauty that can bloom from suffering.
 
 ---
 
-## 10. Patristic and Magisterial Citations
+## 11. Patristic and Magisterial Citations
 
 > "St. Rita lived the Gospel in its fullest sense. Her life of suffering, forgiveness, and prayer is a model for all."
 > — Pope John Paul II, _Homily_, 22 May 2000
@@ -120,7 +131,9 @@ On St. Rita's feast day (22 May), roses are traditionally blessed and distribute
 
 ---
 
-## 11. Prayer for Intercession
+## 12. Prayers Asking for the Intercession of St. Rita of Cascia
+
+> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
 St. Rita of Cascia, the patroness of impossible and desperate causes, knew suffering in every state of life — as a wife in a difficult marriage, as a mother who lost her children, as a widow, and as a religious who bore the thorn of Christ's crown in her forehead for fifteen years. The faithful turn to her when every human remedy has failed, trusting that the saint of the impossible will obtain from God what no one else can. The following prayer may be used to seek her intercession:
 
@@ -150,7 +163,7 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 12. Further Reading
+## 13. Primary Sources and Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, whose Rule Rita followed.
 - [sacraments/matrimony.md](../sacraments/matrimony.md) — The sacrament of marriage.
