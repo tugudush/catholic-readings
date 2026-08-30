@@ -175,6 +175,7 @@ The Church has investigated and approved several historical miracles in which th
 
 ## 12. Cross-References
 
+- For a practical and devotional guide to Eucharistic adoration, including silent prayer, Scripture, the Holy Hour, and traditional Eucharistic prayers, see [../liturgy/eucharistic-adoration.md](../liturgy/eucharistic-adoration.md).
 - For Baptism, the first sacrament of initiation, see [baptism.md](baptism.md).
 - For Confirmation / Chrismation, the second sacrament of initiation, see [confirmation.md](confirmation.md).
 - For the Order of the Mass — the fourfold structure, prayers, and history of the Eucharistic celebration in the Latin Rite and Eastern Catholic Churches — see [../liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md).

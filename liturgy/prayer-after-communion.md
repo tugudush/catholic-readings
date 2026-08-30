@@ -278,6 +278,7 @@ The prayers in § 5 are Latin-rite formulas; Eastern Catholics may equally make 
 
 ## 9. Cross-References
 
+- [liturgy/eucharistic-adoration.md](eucharistic-adoration.md) — a practical guide to adoration, including the use of _Adoro te devote_, _Anima Christi_, Scripture, silence, and Eucharistic thanksgiving.
 - [liturgy/order-of-the-mass.md](order-of-the-mass.md) — the Communion Rite and the Prayer after Communion within the structure of the Mass.
 - [liturgy/communion-reception-hand-tongue.md](communion-reception-hand-tongue.md) — the manner of receiving Holy Communion, including proper preparation and thanksgiving (CCC 1386–1387).
 - [liturgy/foundational-prayers.md](foundational-prayers.md) — the basic prayers of the Church, both Latin and Eastern.
