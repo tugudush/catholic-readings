@@ -53,6 +53,7 @@ A collection of scholarly historical analyses mapping the journey of the Church 
 Sacred traditions of prayer and worship that shape the daily life of Catholic believers in both Western and Eastern rites:
 
 - **Foundational Daily Prayers**: Explore [liturgy/foundational-prayers.md](liturgy/foundational-prayers.md) for essential prayers (including the Sign of the Cross, the Lord's Prayer, Hail Mary, and Doxology) represented in both Latin Rite and Eastern/Byzantine Rite traditions.
+- **The Angelus**: Read [liturgy/angelus.md](liturgy/angelus.md) for the history, biblical and theological foundations, complete English and Latin forms, daily practice, current partial indulgence, Easter _Regina Caeli_ substitution, and Latin and Eastern Catholic perspectives.
 - **Spiritual Communion**: See [liturgy/spiritual-communion.md](liturgy/spiritual-communion.md) for the meaning, practice, doctrinal foundation, and Act of Spiritual Communion used when sacramental reception is not possible or prudent.
 - **Eucharistic Adoration**: See [liturgy/eucharistic-adoration.md](liturgy/eucharistic-adoration.md) for the theology of adoration, practical guidance, a one-hour Holy Hour, and suitable prayers and devotions.
 - **The Liturgy of the Hours**: Read [liturgy/liturgy-of-the-hours.md](liturgy/liturgy-of-the-hours.md) for the theology and daily structure of the Divine Office, including the principal hours, fixed ordinary prayers, the Benedictus, Magnificat, Nunc Dimittis, Te Deum, Night Prayer, obligations, and Eastern Catholic parallels.
