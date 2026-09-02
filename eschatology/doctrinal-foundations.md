@@ -74,6 +74,8 @@ Defines heaven as the **uncreated beatific vision** — the direct encounter wit
 
 The faithful on earth can help the souls in purgatory by **indulgences, suffrage, and the Eucharistic sacrifice**.
 
+> For the dedicated treatment of this doctrine — including why dying in a state of grace does not guarantee immediate entry into heaven, and the complete catalog of means for reducing temporal punishment while still living — see **[Purgatory: The Final Purification and the Reduction of Temporal Punishment](purgatory.md)**.
+
 ### 3.5 Hell — CCC §§ 1033–1037
 
 Affirms the **eternity of hell** as a truth of faith, while emphasizing that **God does not predestine anyone to hell**; rather, the damned freely choose to reject God definitively. The teaching on hell is intimately tied to the doctrine of **mortal sin**.
