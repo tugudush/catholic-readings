@@ -535,7 +535,7 @@ The Solemnity of the Sacred Heart, however, is a specifically **Roman Rite** lit
 
 The Sacred Heart of Jesus and the Immaculate Heart of Mary are closely linked in Catholic piety, as Mary's heart is perfectly conformed to the Heart of her Son. The two devotions are often paired:
 
-- The **First Saturday** devotion (requested by Our Lady of Fatima) echoes the First Friday devotion, with reparation offered to the Immaculate Heart.
+- The **First Saturday** devotion (requested by Our Lady of Fatima at Pontevedra, 1925) echoes the First Friday devotion, with reparation offered to the Immaculate Heart — see [liturgy/first-saturdays-devotion.md](first-saturdays-devotion.md) for the complete treatment.
 - **Pope Pius XII** consecrated the Church to the Immaculate Heart in 1942; **Pope Leo XIII** had consecrated the world to the Sacred Heart in 1899.
 - The **Enthronement of the Sacred Heart** in homes is often accompanied by the consecration to the Immaculate Heart.
 
@@ -575,6 +575,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 - [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md) — The 3:00 p.m. devotion to the Divine Mercy.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Scapular of the Sacred Heart mentioned among approved sacramentals.
 - [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The First Saturday devotion and the Immaculate Heart.
+- [liturgy/first-saturdays-devotion.md](first-saturdays-devotion.md) — The Five First Saturdays of reparation to the Immaculate Heart of Mary, the Marian counterpart of the Nine First Fridays.
 - [christology/README.md](../christology/README.md) — Christological foundations of the devotion.
 - [saints/st-padre-pio.md](../saints/st-padre-pio.md) — The Efficacious Novena, traditionally the prayer by which St. Pio of Pietrelcina interceded for the intentions of the faithful.
 

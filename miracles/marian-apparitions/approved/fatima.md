@@ -35,3 +35,9 @@ Multiple popes have recognized and participated in the mysteries of Fatima:
 
 - **Canonical Approval**: On October 13, 1930, Bishop José Alves Correia da Silva of Leiria declared the apparitions "worthy of belief" and authorized public devotion.
 - **Canonization of the Seers**: Francisco and Jacinta Marto died young, as Mary had predicted, in the influenza pandemic of 1919–1920. Both were beatified in 2000 and canonized by Pope Francis in Fatima on May 13, 2017. Lúcia dos Santos entered the Discalced Carmelite Order and died in 2005 at the age of 97; her cause for beatification is currently underway, and she has been declared Venerable.
+
+## The First Saturdays Devotion (Pontevedra, 1925)
+
+The practical core of the request for devotion to the Immaculate Heart was made explicit in the apparition at **Pontevedra, Spain, on December 10, 1925**, where Our Lady — her Heart encircled by thorns — asked Sister Lúcia for the **Five First Saturdays of reparation** (Confession, Holy Communion of reparation, five decades of the Rosary, and fifteen minutes of meditation on the mysteries), promising to assist at the hour of death with all the graces necessary for salvation.
+
+For the complete treatment — the conditions and their practical norms, the five blasphemies against the Immaculate Heart revealed at Tuy (1930), the promise and its correct theological reading, the parallel with the Nine First Fridays of the Sacred Heart, and the devotion's ecclesial reception in the _Directory on Popular Piety and the Liturgy_ (§174) — see [The First Saturdays Devotion](../../../liturgy/first-saturdays-devotion.md).
