@@ -58,7 +58,7 @@ On **February 15, 1926**, the Child Jesus appeared again to Sister Lúcia (then 
 
 > "It is true, My daughter, that many souls begin but few persevere... The confession may be made within eight days, and even more, provided that when they receive Me on the first Saturday they are in the state of grace and have the intention of making reparation to the Immaculate Heart of Mary."
 
-Sister Lúcia's questioner had also asked whether the Children Jesus meant that this confession could be made on the following Saturday, to which He answered that it could, provided the reception of Communion on the first Saturday of the month was made in the required dispositions. This clarification is the basis of the customary pastoral practice that the confession may be made **up to eight days before or after** the First Saturday (and, with a legitimate cause and right intention, even further in advance), so long as Communion itself is received on the day with a soul in the state of grace and the intention of reparation.[^7]
+Sister Lúcia's questioner had also asked whether the Child Jesus meant that this confession could be made on the following Saturday, to which He answered that it could, provided the reception of Communion on the first Saturday of the month was made in the required dispositions. This clarification is the basis of the customary pastoral practice that the confession may be made **up to eight days before or after** the First Saturday (and, with a legitimate cause and right intention, even further in advance), so long as Communion itself is received on the day with a soul in the state of grace and the intention of reparation.[^7]
 
 ### The Revelation of the Five Blasphemies (May 29, 1930)
 
@@ -97,9 +97,112 @@ On the **first Saturday of the month, for five consecutive months**, the faithfu
 
 - **The intention of reparation** must accompany the practice: it is a month-by-month, act-by-act offering made for the five offenses against the Immaculate Heart (blasphemies against her Immaculate Conception, her virginity, her maternity, the corruption of children against her, and outrages against her images), for one's own sins, and for the conversion of sinners.
 - **Parish practice.** In many places the devotion is fulfilled communally: a First Saturday Mass, confessions, the public recitation of the Rosary, and a fifteen-minute meditation before the Blessed Sacrament or on the mysteries. Communal fulfillment does not substitute for the personal intention of reparation.
-- **The meditation can take many forms.** A slow, prayerful reading of the Gospel passages of a mystery; the use of a scriptural Rosary; a meditation before an image of Our Lady; or Eucharistic adoration centred on the mysteries of the Rosary — all are consonant with the request "keep me company for fifteen minutes."
+- **The meditation can take many forms.** A slow, prayerful reading of the Gospel passages of a mystery; the use of a scriptural Rosary; a meditation before an image of Our Lady; or Eucharistic adoration centred on the mysteries of the Rosary — all are consonant with the request "keep me company for fifteen minutes." For the precise nature of this fourth condition and a worked fifteen-minute example, see [The Fifteen Minutes of Meditation in Detail](#the-fifteen-minutes-of-meditation-in-detail) below.
 - **Interruption and resumption.** Those who begin the devotion and are interrupted are encouraged to resume it; the pastoral spirit of Our Lord's clarification in 1926 is that dispositions of grace, contrition, and the intention of reparation are decisive, not a rigid arithmetic of dates. Where the five consecutive months cannot be completed, many of the faithful adopt the custom of adding further First Saturdays with the intention of repairing the omissions.
 - **Communion within the Eucharist.** The _Directory on Popular Piety and the Liturgy_ cautions that the reception of Holy Communion on the Five First Saturdays should not be dominated by "overestimation of temporal factors" but should be re-contextualized "within the framework of the Eucharist": the First Saturdays are an opportunity "to live intensely the paschal Mystery celebrated in the Holy Eucharist, as inspired by the life of the Blessed Virgin Mary."[^2]
+
+### The Fifteen Minutes of Meditation in Detail
+
+The fourth condition — "keep me company for fifteen minutes while meditating on the mysteries of the Rosary" — is the most personal of the four acts and the one most easily reduced to a formality. The request made at Pontevedra is not for a longer Rosary: it is for a **separate quarter of an hour of accompaniment**. Just as Christ asked His disciples in Gethsemane, "Could you not watch with me one hour?" (Matthew 26:40), Our Lady asks for a deliberate, unhurried fifteen minutes spent in her company, considering the mysteries of her Rosary with the intention of consoling her Immaculate Heart.
+
+#### Sister Lúcia's Clarifications (1927)
+
+Because the 1925 formula might be read as though the meditation were simply the mental accompaniment of the decades themselves, Sister Lúcia set out the matter more precisely in a letter of **1927** to Fr. José Bernardo Gonçalves, S.J., her former confessor at Fatima. In substance, she explained three points:[^10]
+
+- The fifteen minutes are **distinct from the recitation of the five decades**. The Rosary is the third condition; the meditation is the fourth. Piously reciting the decades while thinking of the mysteries does not of itself satisfy the fourth condition.
+- The meditation may be made **on one mystery or on several**. A full quarter of an hour spent on the Annunciation alone is a complete fulfillment; so is fifteen minutes distributed over several mysteries.
+- The meditation **need not be simultaneous** with the recitation of the decades. It may be made before or after the Rosary, or at another hour of the same First Saturday.
+
+#### Ways of Making the Meditation
+
+- **A slow, prayerful reading of the Gospel text** of one mystery, pausing over each verse (e.g., Luke 1:26–38 for the Annunciation).
+- **Classical mental prayer**: a brief composition of place, two or three points for consideration, and a closing colloquy with Our Lady.
+- **The scriptural Rosary format**: reading the Scripture verse appointed to each Hail Mary while keeping the mystery before the eyes.
+- **Eucharistic adoration**: a quarter of an hour before the tabernacle or monstrance, with the mysteries of the Rosary unfolded interiorly.
+- **A meditation guide or book**: a published meditation on the mysteries (e.g., from the Fatima pastoral literature or a Rosary commentary), read slowly and prayerfully rather than as study.
+- **Family or communal meditation**: parents and children, or a First Saturday congregation, spending the quarter hour together on one mystery, each one holding the personal intention of reparation.
+
+#### A Worked Example: Fifteen Minutes with the Annunciation
+
+Suppose the fourth condition is fulfilled at home, before an image of Our Lady, on a First Saturday. One fruitful pattern:
+
+| Minutes | Practice                                                                                                                                                                                                                                                                  |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0–2     | Sign of the cross. State the intention: "I wish to make reparation to your Immaculate Heart." Place yourself in Our Lady's company, as one would sit quietly with a beloved mother.                                                                                       |
+| 2–5     | Read Luke 1:26–38 slowly — the angel's greeting, Mary's troubling question, and her _fiat_: "Behold the handmaid of the Lord; be it done unto me according to thy word" (Luke 1:38).                                                                                      |
+| 5–11    | Mental prayer. Consider her humility at the greeting; her faith in what exceeds every expectation; the silence in which she conceived the Word made flesh. Speak to her simply and directly, as a child speaks to a mother.                                               |
+| 11–14   | Petition and reparation. Ask for a share in her humility and obedience; offer the quarter hour for the blasphemies against her divine maternity and for children raised in indifference or contempt toward her (the third and fourth blasphemies of the 1930 revelation). |
+| 14–15   | Close with a short act of reparation (below) or the _Memorare_.                                                                                                                                                                                                           |
+
+A closing act of reparation (one example):
+
+    O Immaculate Heart of Mary, pierced by the blasphemies of ungrateful men,
+    I offer You this quarter of an hour in reparation for the offenses committed against Your maternal love,
+    and I beg You to teach me the humility and obedience of Your fiat at the Annunciation,
+    that with You I may say "yes" to God in all things. Amen.
+
+#### Example Prayers for the Fifteen-Minute Meditation
+
+No particular wording is required for the meditation. The following are sample devotional formulas, not official liturgical texts; they may be adapted to the mystery being considered and to one's own circumstances. The prayer should make room for quiet reflection rather than replace it.
+
+**Opening prayer**
+
+    Immaculate Heart of Mary,
+    I come to keep you company for these fifteen minutes.
+    I offer this time in reparation for the offenses committed against your maternal Heart,
+    and I ask you to lead me more deeply into the mysteries of your Son, Jesus Christ.
+    Help me to pray with faith, humility, and love.
+    Obtain for me the grace to live what I contemplate. Amen.
+
+**The Annunciation: humility and obedience**
+
+    O Mary, at the Annunciation you received God's word with a humble and obedient heart.
+    Teach me to welcome God's will even when I do not understand it fully.
+    I make reparation for the rejection of your Immaculate Conception and your divine maternity.
+    Through your intercession, obtain for me a heart that can answer God with a faithful fiat.
+    Lead me to Jesus, the Word made flesh. Amen.
+
+**The Wedding at Cana: intercession and trust**
+
+    O Mary, at Cana you noticed the need of the bride and bridegroom
+    and brought it to Jesus with confidence.
+    Teach me to see the needs of others and to entrust them to your Son.
+    I make reparation for every contempt shown toward your maternal intercession.
+    Help me to do whatever Jesus tells me,
+    and to become an instrument of charity in my home and community. Amen.
+
+**The Crucifixion: compassion and reparation**
+
+    O Mary, standing beneath the Cross, you remained faithful while your Son offered Himself for the salvation of the world.
+    Let me remain with you in reverence before the sacrifice of Jesus.
+    I offer this meditation in reparation for the sorrows caused by sin
+    and for every offense against your Immaculate Heart.
+    Obtain for sinners the grace of repentance,
+    and teach me to unite my sufferings to the Cross of Christ. Amen.
+
+**The Resurrection: hope and perseverance**
+
+    O Mary, your faith remained firm as you awaited the Resurrection of your Son.
+    Strengthen my hope when prayer feels difficult and God's promises seem hidden.
+    I make reparation for indifference toward you and for the neglect of your mother's love.
+    Help me to seek the things that are above and to persevere in grace until death.
+    May the risen Christ be the joy and center of my life. Amen.
+
+**A prayer for reparation**
+
+    Most sorrowful and Immaculate Heart of Mary,
+    I am sorry for the offenses committed against your privileges and your maternal love.
+    In union with the Heart of Jesus,
+    I offer you my prayers, my sacrifices, and this time of meditation.
+    For those who deny your Immaculate Conception or perpetual virginity,
+    for those who reject your divine motherhood,
+    for those who lead children to indifference or hatred toward you,
+    and for those who dishonor your sacred images,
+    I ask mercy, conversion, and the triumph of grace in every heart. Amen.
+
+#### Where the Meditation May Be Made
+
+In a church before the Blessed Sacrament; before a statue or image of Our Lady at home, in a shrine, or in a parish _pabellón_ ([cultural-practices/pabellon-saints-pavilion.md](../cultural-practices/pabellon-saints-pavilion.md)); during Eucharistic adoration; in the family; or anywhere one can pray recollectedly for fifteen minutes. What is essential is the **quarter hour itself, the meditation on the mysteries of the Rosary, and the intention of reparation** — the circumstances are free.
 
 ---
 
@@ -228,3 +331,5 @@ The devotion of the Five First Saturdays of reparation to the Immaculate Heart o
 [^8]: Pope St. John Paul II, Homily at the Shrine of Our Lady of Fatima, May 13, 1982.
 
 [^9]: _Directory on Popular Piety and the Liturgy_, §171 (the first-Fridays devotion, its Eucharistic fruits, and the caution against "reduction of the practice to mere credulity"); the same normative caution is applied to the First Saturdays in §174.
+
+[^10]: Letter of Sister Lúcia to Fr. José Bernardo Gonçalves, S.J. (1927), explaining that the fifteen minutes of meditation are distinct from the Rosary and may be made on one or several mysteries; recorded in Frère Michel de la Sainte Trinité, _The Whole Truth About Fatima, Vol. II: The Secret and the Church_ (Immaculate Heart Publications, 1989), Part III; cf. [^7].
