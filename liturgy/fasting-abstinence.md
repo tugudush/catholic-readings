@@ -2,7 +2,7 @@
 
 The Catholic discipline of **fasting** (_ieiunium_) and **abstinence** (_abstinentia_) is one of the oldest and most misunderstood elements of the Christian life. This document presents the full Catholic doctrine and practice of fasting: its biblical foundations, its development from the Apostolic age through the Fathers, the present law of both the Latin and the Eastern Catholic Churches, its spiritual meaning, and pastoral guidance for its observance. It distinguishes carefully between what is **divine law**, what is **ecclesiastical discipline**, and what is **voluntary devotion**.
 
-For the fasting and abstinence norms of each liturgical season, see [liturgy/liturgical-calendar.md](liturgical-calendar.md). For the Eucharistic fast observed before receiving Holy Communion, see [liturgy/order-of-the-mass.md](order-of-the-mass.md).
+For the fasting and abstinence norms of each liturgical season, see [liturgy/liturgical-calendar.md](liturgical-calendar.md). For the Eucharistic fast observed before receiving Holy Communion, see [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md).
 
 ---
 
@@ -163,7 +163,7 @@ Each Eastern Catholic Church therefore determines its own manner and measure of 
 | **The Dormition Fast**                            | August 1–14                                                                                         | Two weeks of fasting in preparation for the Feast of the Dormition of the Theotokos                                                                                        |
 | **Paramony (Eves) of the Nativity and Theophany** | December 24 and January 5                                                                           | Strict fasting days                                                                                                                                                        |
 
-During the Great Fast the weekday **Divine Liturgy of the Presanctified Gifts** is celebrated on Wednesdays and Fridays (and, in some traditions, on other weekdays) — the penitential communion service that accompanies the fasting season (see [liturgy/order-of-the-mass.md](order-of-the-mass.md)). Bright Week (the week after Pascha) and the fast-free weeks are entirely free of fasting.
+During the Great Fast the weekday **Divine Liturgy of the Presanctified Gifts** is celebrated on Wednesdays and Fridays (and, in some traditions, on other weekdays) — the penitential communion service that accompanies the fasting season (see [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md)). Bright Week (the week after Pascha) and the fast-free weeks are entirely free of fasting.
 
 The Eastern theology of fasting is summed up in the Catechism of the Ukrainian Catholic Church: fasting "takes hold of the entire being: the body through restraint in food and drink, and the soul through restraint of the passions," quoting St. John Chrysostom: "Do you not eat flesh? Feed not upon indecency by means of the eyes… What does it profit if we abstain from birds and fishes; and yet bite and devour our brothers and sisters?" (_Christ – Our Pascha_, §786).
 
@@ -174,7 +174,7 @@ The Eastern theology of fasting is summed up in the Catechism of the Ukrainian C
 There are **two distinct fasts** connected with the Blessed Sacrament:
 
 1. **The penitential fast** (treated above), which disposes the soul through self-denial.
-2. **The Eucharistic fast** — the "natural fast" of reverence before receiving the Lord. The present Latin law ([canon 919](https://www.magisterium.com/docs/927224e3-8c2d-44ed-a9fb-dc736030081d/ref/919)): "One who is to receive the Most Holy Eucharist is to abstain from any food or drink, with the exception only of **water and medicine**, for at least the period of **one hour before Holy Communion**." The sick and the elderly may receive Holy Communion even if they have taken something within the hour (canon 919 §3). In the Eastern Catholic Churches, the older and stricter Eucharistic fast (from midnight, or the "fast from the evening") is retained in many traditions by particular law — see [liturgy/order-of-the-mass.md](order-of-the-mass.md).
+2. **The Eucharistic fast** — the "natural fast" of reverence before receiving the Lord. The present Latin law ([canon 919](https://www.magisterium.com/docs/927224e3-8c2d-44ed-a9fb-dc736030081d/ref/919)): "One who is to receive the Most Holy Eucharist is to abstain from any food or drink, with the exception only of **water and medicine**, for at least the period of **one hour before Holy Communion**." The sick and the elderly may receive Holy Communion even if they have taken something within the hour (canon 919 §3). In the Eastern Catholic Churches, the older and stricter Eucharistic fast (from midnight, or the "fast from the evening") is retained in many traditions by particular law — see [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md).
 
 The Eucharistic fast is a matter of reverence for the Real Presence, and it must not be confused with the penitential fast; one can break one without touching the other.
 
@@ -234,7 +234,7 @@ The obligation is serious but it is a matter of the Church's positive law; a gen
 ## 11. See Also
 
 - [liturgy/liturgical-calendar.md](liturgical-calendar.md) — the fasting and abstinence norms of each liturgical season, including Lent (§5.4), the Triduum, Ember Days, and the Eastern Catholic fasting year
-- [liturgy/order-of-the-mass.md](order-of-the-mass.md) — the Eucharistic fast and preparation for Holy Communion
+- [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md) — the Eucharistic fast and preparation for Holy Communion
 - [church-history/apostolic-fathers.md](../church-history/apostolic-fathers.md) — the _Didache_ and the earliest Christian practice of fasting
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — the sacrament of conversion, of which fasting is the constant companion
 - [liturgy/liturgy-of-the-hours.md](liturgy-of-the-hours.md) — prayer, the other pillar joined to fasting

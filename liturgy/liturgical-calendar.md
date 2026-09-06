@@ -306,7 +306,7 @@ These days continue the immediate preparation for the Triduum. Traditionally, th
 
 The **Easter Triduum** (_Triduum Paschale_) is the **summit of the entire liturgical year** ([_General Norms_ §18](https://www.magisterium.com/docs/6c499d17-83df-470e-8558-6c60ebcf2814/ref/18)). It is not three separate feasts but **one unified celebration** spanning three days, beginning with the Mass of the Lord's Supper on Holy Thursday evening and concluding with Vespers (Evening Prayer) of Easter Sunday.
 
-For a detailed exposition of the Mass itself, see [order-of-the-mass.md](order-of-the-mass.md).
+For a detailed exposition of the Mass itself, see [mass/order-of-the-mass.md](mass/order-of-the-mass.md).
 
 #### 6.3.1 Holy Thursday (Maundy Thursday): The Mass of the Lord's Supper
 

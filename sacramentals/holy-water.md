@@ -190,7 +190,7 @@ Following the conventions of [AGENTS.md](../AGENTS.md), this document distinguis
 - [sacramentals/README.md](../sacramentals/README.md) — the foundational theology of sacramentals in general.
 - [sacraments/baptism.md](../sacraments/baptism.md) — the sacrament of Baptism, which holy water recalls and to which it disposes the faithful.
 - [sacramentals/blessings-of-daily-life.md](blessings-of-daily-life.md) — the blessings of persons, homes, and objects, in which holy water is the principal sign.
-- [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — the Mass, whose sprinkling rite opens the celebration of the sacred mysteries.
+- [liturgy/mass/order-of-the-mass.md](../liturgy/mass/order-of-the-mass.md) — the Mass, whose sprinkling rite opens the celebration of the sacred mysteries.
 - [liturgy/liturgical-calendar.md](../liturgy/liturgical-calendar.md) — the Easter Vigil and the liturgical year, in which the solemn blessings of water are situated.
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — the Eastern Catholic Churches, whose Theophany blessing of waters is the Eastern counterpart of the Latin use of holy water.
 - [sacramentals/medal-of-st-benedict.md](medal-of-st-benedict.md) — the Medal of Saint Benedict, a sacramental of protection frequently used together with holy water.

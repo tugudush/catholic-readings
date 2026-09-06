@@ -289,7 +289,7 @@ He then warns that future chastisement, civil restrictions, martial law, or divi
 
 The practical conclusion is that Catholics should use the sacraments now to grow in holiness while also developing an interior life capable of perseverance during involuntary deprivation. The speaker does not provide a complete canonical or pastoral protocol for a person who cannot reach a priest. The Church's law already distinguishes voluntary neglect from genuine impossibility, and a person should follow the guidance of a priest or diocesan authority as soon as ordinary access becomes possible.
 
-The recommendation to attend daily Mass is a valuable devotional counsel for those whose state in life permits it, but it is not the same as the universal Sunday and holy-day obligation. The repository's [Order of the Mass](../liturgy/order-of-the-mass.md), [spiritual Communion guide](../liturgy/spiritual-communion.md), and [prayers for the dying and dead](../liturgy/prayers-for-the-dead.md) treat related questions in their proper liturgical and pastoral contexts.
+The recommendation to attend daily Mass is a valuable devotional counsel for those whose state in life permits it, but it is not the same as the universal Sunday and holy-day obligation. The repository's [Order of the Mass](../liturgy/mass/order-of-the-mass.md), [spiritual Communion guide](../liturgy/spiritual-communion.md), and [prayers for the dying and dead](../liturgy/prayers-for-the-dead.md) treat related questions in their proper liturgical and pastoral contexts.
 
 ### 16. The Positive Conclusion: Justice, Mercy, and Restoration
 
@@ -414,7 +414,7 @@ The recording does not provide a bibliography. The following repository document
 - [The Sacred Heart of Jesus](../liturgy/sacred-heart-devotion.md): theological foundations, First Fridays, reparation, and the distinction between devotion and dogma.
 - [Fasting and Abstinence](../liturgy/fasting-abstinence.md): Scripture, penitential practice, Latin law, and Eastern Catholic disciplines.
 - [The Rosary: History](../liturgy/rosary/history.md) and [How to Pray the Rosary](../liturgy/rosary/how-to-pray.md): history and devotional method.
-- [The Order of the Mass](../liturgy/order-of-the-mass.md): the Eucharistic liturgy and its Latin and Eastern Catholic context.
+- [The Order of the Mass](../liturgy/mass/order-of-the-mass.md): the Eucharistic liturgy and its Latin and Eastern Catholic context.
 - [Spiritual Communion](../liturgy/spiritual-communion.md): prayer when sacramental reception is not possible or prudent.
 - [Eschatology: Doctrinal Foundations](doctrinal-foundations.md): public Revelation, private revelation, the Last Things, and discernment of alleged supernatural phenomena.
 - Catechism of the Catholic Church, paragraphs 66-67, 1430-1438, 1457, 1767, 1806, 1808, 1817, 1822, 2181, 2544, 2697, and 2705.

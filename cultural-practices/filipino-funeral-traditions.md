@@ -427,7 +427,7 @@ The following timeline provides a practical guide for Filipino Catholics navigat
 ## 10. Cross-References
 
 - [liturgy/prayers-for-the-dead.md](../liturgy/prayers-for-the-dead.md) — Comprehensive guide to Catholic rites, prayers, and devotional practices surrounding death
-- [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Order of the Mass, including the Funeral Mass
+- [liturgy/mass/order-of-the-mass.md](../liturgy/mass/order-of-the-mass.md) — The Order of the Mass, including the Funeral Mass
 - [sacraments/anointing-of-the-sick.md](../sacraments/anointing-of-the-sick.md) — The Sacrament of Anointing of the Sick
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — Eastern Catholic funeral traditions (Panikhida)
 - [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md) — Magisterial sources on eschatology, including Purgatory and particular judgment

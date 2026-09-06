@@ -23,7 +23,7 @@ As we enter the church, the first thing we encounter is the **holy water font** 
 - **Theological meaning**: The baptismal font is placed at the entryway because _it is by baptism that we are brought into the life of Christ_. On our own, we could never approach the throne of the living God; we need His grace. Blessing ourselves with holy water reminds us that we _have_ His grace through baptism.
 - **Practical tip**: As you bless yourself, recall your baptism — the day you were claimed for Christ, washed of original sin, and made a temple of the Holy Spirit ([CCC 1213](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1213)).
 
-> See also: [sacraments/baptism.md](../sacraments/baptism.md)
+> See also: [sacraments/baptism.md](../../sacraments/baptism.md)
 
 ### 2. Genuflecting to the Tabernacle — Acknowledging the Real Presence (1:06)
 
@@ -44,7 +44,7 @@ After entering the pew, many of the faithful kneel in silent prayer before Mass 
 - **Theological meaning**: Every baptized Christian has been anointed as a **kingdom priest** — consecrated, set apart to offer the sacrifice, to give God worship (cf. [CCC 1546](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1546); 1 Peter 2:9).
 - **Practical prayer**: "God, prepare my heart. Give me the heart that's able to lift up the right sacrifice of the Son to the Father in the power of the Holy Spirit." Ask God to prepare your heart to worship.
 
-> See also: [sacraments/baptism.md](../sacraments/baptism.md) — the common priesthood of the faithful
+> See also: [sacraments/baptism.md](../../sacraments/baptism.md) — the common priesthood of the faithful
 
 ---
 
@@ -78,7 +78,7 @@ The priest highlights **three layers of meaning** in the Sign of the Cross:
 - **The open palm**: In the Roman tradition, the Sign of the Cross is often made with an **open palm** — the palm of blessing — reminding us that at baptism we were anointed as kingdom priests, blessing ourselves with that open palm.
 - **The greeting**: "The Lord be with you." — "And with your spirit." This is an ancient biblical greeting. In Scripture, whenever an angel or prophet came to someone with a call bigger than them, they began with these words. This greeting appears **four times** during Mass, each time with increasing intensity.
 
-> **Note on Eastern practice**: In the Eastern Catholic Churches, the Sign of the Cross is made with the thumb and first two fingers joined (symbolizing the Trinity) and the last two fingers pressed to the palm (symbolizing the two natures of Christ), and is traced from right to left. See [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md).
+> **Note on Eastern practice**: In the Eastern Catholic Churches, the Sign of the Cross is made with the thumb and first two fingers joined (symbolizing the Trinity) and the last two fingers pressed to the palm (symbolizing the two natures of Christ), and is traced from right to left. See [church-history/eastern-catholic-churches.md](../../church-history/eastern-catholic-churches.md).
 
 ### 7. The Penitential Rite (5:40)
 
@@ -249,7 +249,7 @@ While we are all standing, the lector announces the needs of the Church througho
 
 - **"Lord, comma, hear our prayer"**: We are actually _talking to someone_. There is Someone listening as we speak. When we say "Lord, hear our prayer," we are addressing the Lord Himself.
 
-> See also: [liturgy/order-of-the-mass.md](order-of-the-mass.md) §3.2 for the full structure of the Liturgy of the Word.
+> See also: [liturgy/mass/order-of-the-mass.md](order-of-the-mass.md) §3.2 for the full structure of the Liturgy of the Word.
 
 ---
 
@@ -538,12 +538,13 @@ Each time, "the degree of the bigness of that moment intensifies."
 
 ## Related Documents in This Repository
 
-- [liturgy/order-of-the-mass.md](order-of-the-mass.md) — comprehensive theological treatment of the Order of Mass, including historical development (Justin Martyr, Gregory the Great, Council of Trent, Vatican II), complete GIRM references, and comparison with the Eastern Catholic Divine Liturgy
-- [liturgy/foundational-prayers.md](foundational-prayers.md) — compilation of foundational prayers from both Eastern and Western traditions
-- [sacraments/eucharist.md](../sacraments/eucharist.md) — the theology of the Most Holy Eucharist as sacrament and sacrifice
-- [sacraments/baptism.md](../sacraments/baptism.md) — the gateway sacrament and the common priesthood of the faithful
-- [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — for comparison with the Byzantine Divine Liturgy and other Eastern Catholic rites
-- [liturgy/rosary/history.md](rosary/history.md) — the Rosary as a complement to the Eucharistic life
+- [liturgy/mass/order-of-the-mass.md](order-of-the-mass.md) — comprehensive theological treatment of the Order of Mass, including historical development (Justin Martyr, Gregory the Great, Council of Trent, Vatican II), complete GIRM references, and comparison with the Eastern Catholic Divine Liturgy
+- [liturgy/mass/ordinary-of-the-mass.md](ordinary-of-the-mass.md) — practical assembly text for the common prayers, responses, acclamations, and chants of the Ordinary Form
+- [liturgy/foundational-prayers.md](../foundational-prayers.md) — compilation of foundational prayers from both Eastern and Western traditions
+- [sacraments/eucharist.md](../../sacraments/eucharist.md) — the theology of the Most Holy Eucharist as sacrament and sacrifice
+- [sacraments/baptism.md](../../sacraments/baptism.md) — the gateway sacrament and the common priesthood of the faithful
+- [church-history/eastern-catholic-churches.md](../../church-history/eastern-catholic-churches.md) — for comparison with the Byzantine Divine Liturgy and other Eastern Catholic rites
+- [liturgy/rosary/history.md](../rosary/history.md) — the Rosary as a complement to the Eucharistic life
 
 ---
 

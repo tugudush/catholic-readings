@@ -175,6 +175,6 @@ _A shorter invocation for daily use:_
 ## 13. Primary Sources and Further Reading
 
 - [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) — The Eastern Catholic tradition.
-- [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Byzantine Divine Liturgy.
+- [liturgy/mass/order-of-the-mass.md](../liturgy/mass/order-of-the-mass.md) — The Byzantine Divine Liturgy.
 - [saints/st-athanasius.md](st-athanasius.md) — St. Athanasius, defender of Nicene orthodoxy.
 - [saints/README.md](README.md) — Master index of the saints directory.

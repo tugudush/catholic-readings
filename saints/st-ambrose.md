@@ -167,6 +167,6 @@ _A shorter invocation for daily use:_
 ## 13. Primary Sources and Further Reading
 
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, Ambrose's greatest convert.
-- [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — The Ambrosian Rite of Milan.
+- [liturgy/mass/order-of-the-mass.md](../liturgy/mass/order-of-the-mass.md) — The Ambrosian Rite of Milan.
 - [saints/st-jerome.md](st-jerome.md) — St. Jerome, another Latin Doctor.
 - [saints/README.md](README.md) — Master index of the saints directory.
