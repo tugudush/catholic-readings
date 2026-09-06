@@ -216,6 +216,7 @@ All authentic Assumption devotion leads to Christ, the Eucharist, the hope of th
 ## See Also
 
 - [The Liturgical Calendar](liturgical-calendar.md) - the Assumption within the Roman and Eastern Catholic liturgical years
+- [The Nativity of the Blessed Virgin Mary](nativity-of-the-blessed-virgin-mary.md) - the September 8 celebration of Mary's birth
 - [How to Pray the Rosary](rosary/how-to-pray.md) - the Glorious Mysteries and the full Rosary structure
 - [Catholic Prayers](foundational-prayers.md) - foundational Latin and Eastern Catholic prayers
 - [The Liturgy of the Hours](liturgy-of-the-hours.md) - the official daily prayer of the Church
