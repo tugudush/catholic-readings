@@ -91,7 +91,7 @@ While the Easter cycle shifts, many major feasts fall on **fixed calendar dates*
 | **August 10**                         | **St. Lawrence, Deacon and Martyr**                                                       | Feast                                                |
 | **August 15**                         | **[The Assumption of the Blessed Virgin Mary](assumption-of-the-blessed-virgin-mary.md)** | Solemnity (Holy Day of Obligation)                   |
 | **August 24**                         | **St. Bartholomew, Apostle**                                                              | Feast                                                |
-| **September 8**                       | **The Nativity of the Blessed Virgin Mary**                                               | Feast                                                |
+| **September 8**                       | **[The Nativity of the Blessed Virgin Mary](nativity-of-the-blessed-virgin-mary.md)**     | Feast                                                |
 | **September 14**                      | **The Exaltation of the Holy Cross**                                                      | Feast                                                |
 | **September 21**                      | **St. Matthew, Apostle and Evangelist**                                                   | Feast                                                |
 | **September 29**                      | **Sts. Michael, Gabriel, and Raphael, Archangels**                                        | Feast                                                |
