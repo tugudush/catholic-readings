@@ -132,5 +132,5 @@ _A shorter invocation for daily use:_
 
 ## 11. Primary Sources and Further Reading
 
-- [liturgy/order-of-the-mass.md](../liturgy/order-of-the-mass.md) — Sacred music in the liturgy.
+- [liturgy/mass/order-of-the-mass.md](../liturgy/mass/order-of-the-mass.md) — Sacred music in the liturgy.
 - [saints/README.md](README.md) — Master index of the saints directory.

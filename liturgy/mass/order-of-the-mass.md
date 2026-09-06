@@ -207,7 +207,7 @@ The Anaphora of St. John Chrysostom — the ordinary Eucharistic Prayer of the B
 | **Breaking of the Bread**    | Before Communion                                                                                                     | After the Lord's Prayer, before Communion (the _Artos_)                                                       |
 | **Communion**                | Under one kind (Host) for laity in Latin Rite; under both kinds (Host and Chalice) by intinction or spoon in Eastern | Under both kinds (Body and Blood together) by intinction with a spoon for all the faithful, including infants |
 
-For the doctrinal points shared by both rites — the Real Presence, transubstantiation (or the equivalent _metousiosis_), the sacrificial nature of the Eucharist, and the sacrificial priesthood of the New Covenant — see [sacraments/eucharist.md](../sacraments/eucharist.md).
+For the doctrinal points shared by both rites — the Real Presence, transubstantiation (or the equivalent _metousiosis_), the sacrificial nature of the Eucharist, and the sacrificial priesthood of the New Covenant — see [sacraments/eucharist.md](../../sacraments/eucharist.md).
 
 ### 5.3 Other Eastern Catholic Rites
 
@@ -289,14 +289,15 @@ The priest acts in _persona Christi_, but he acts also _in nomine totius Ecclesi
 
 ## 9. Cross-References
 
-- For the scriptural foundations of the Mass, see [scripture/bible-history-canon.md](../scripture/bible-history-canon.md).
-- For the theology of the Most Holy Eucharist — the Real Presence, transubstantiation, the sacrificial memorial, and Eucharistic adoration outside of Mass — see [sacraments/eucharist.md](../sacraments/eucharist.md).
-- For the foundational daily prayers said within and around the Mass (Sign of the Cross, Our Father, etc.), see [liturgy/foundational-prayers.md](foundational-prayers.md).
-- For the Mass as the supreme Marian prayer and the place of Marian devotion within the Liturgy of the Word (e.g., the feasts of the Blessed Virgin Mary), see [miracles/marian-apparitions/approved/guadalupe.md](../miracles/marian-apparitions/approved/guadalupe.md) and the related approved apparitions.
-- For the Eucharistic miracles that the Church has investigated as confirmations of Catholic faith in the Real Presence, see [miracles/eucharistic-miracles/lanciano.md](../miracles/eucharistic-miracles/lanciano.md) and [miracles/eucharistic-miracles/bolsena-orvieto.md](../miracles/eucharistic-miracles/bolsena-orvieto.md).
-- For the manner of receiving Holy Communion — in the hand vs. on the tongue, the historical development of both practices, the current canonical and liturgical norms, and the question of desecration — see [liturgy/communion-reception-hand-tongue.md](communion-reception-hand-tongue.md).
-- For the practice of thanksgiving after Holy Communion and the traditional prayers prayed after receiving (the _Anima Christi_, the Prayer of St. Thomas Aquinas, etc.), see [liturgy/prayer-after-communion.md](prayer-after-communion.md).
-- For the sacraments of initiation (Baptism, Confirmation) that dispose the faithful to receive Holy Communion, see [sacraments/baptism.md](../sacraments/baptism.md) and [sacraments/confirmation.md](../sacraments/confirmation.md).
-- For the sacrament of Penance and Reconciliation, by which a communicant in mortal sin is restored to a state of grace before receiving the Eucharist, see [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md).
-- For the sacrament of Holy Orders, by which bishops and priests are configured to Christ the High Priest to offer the Mass, see [sacraments/holy-orders.md](../sacraments/holy-orders.md).
-- For the Eastern Catholic Churches whose liturgical traditions are equally valid with the Latin Rite, see [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md).
+- For the scriptural foundations of the Mass, see [scripture/bible-history-canon.md](../../scripture/bible-history-canon.md).
+- For the theology of the Most Holy Eucharist — the Real Presence, transubstantiation, the sacrificial memorial, and Eucharistic adoration outside of Mass — see [sacraments/eucharist.md](../../sacraments/eucharist.md).
+- For the foundational daily prayers said within and around the Mass (Sign of the Cross, Our Father, etc.), see [liturgy/foundational-prayers.md](../foundational-prayers.md).
+- For the Mass as the supreme Marian prayer and the place of Marian devotion within the Liturgy of the Word (e.g., the feasts of the Blessed Virgin Mary), see [miracles/marian-apparitions/approved/guadalupe.md](../../miracles/marian-apparitions/approved/guadalupe.md) and the related approved apparitions.
+- For the Eucharistic miracles that the Church has investigated as confirmations of Catholic faith in the Real Presence, see [miracles/eucharistic-miracles/lanciano.md](../../miracles/eucharistic-miracles/lanciano.md) and [miracles/eucharistic-miracles/bolsena-orvieto.md](../../miracles/eucharistic-miracles/bolsena-orvieto.md).
+- For the manner of receiving Holy Communion — in the hand vs. on the tongue, the historical development of both practices, the current canonical and liturgical norms, and the question of desecration — see [liturgy/communion-reception-hand-tongue.md](../communion-reception-hand-tongue.md).
+- For the practice of thanksgiving after Holy Communion and the traditional prayers prayed after receiving (the _Anima Christi_, the Prayer of St. Thomas Aquinas, etc.), see [liturgy/prayer-after-communion.md](../prayer-after-communion.md).
+- For the sacraments of initiation (Baptism, Confirmation) that dispose the faithful to receive Holy Communion, see [sacraments/baptism.md](../../sacraments/baptism.md) and [sacraments/confirmation.md](../../sacraments/confirmation.md).
+- For the sacrament of Penance and Reconciliation, by which a communicant in mortal sin is restored to a state of grace before receiving the Eucharist, see [sacraments/penance-reconciliation.md](../../sacraments/penance-reconciliation.md).
+- For the sacrament of Holy Orders, by which bishops and priests are configured to Christ the High Priest to offer the Mass, see [sacraments/holy-orders.md](../../sacraments/holy-orders.md).
+- For the Eastern Catholic Churches whose liturgical traditions are equally valid with the Latin Rite, see [church-history/eastern-catholic-churches.md](../../church-history/eastern-catholic-churches.md).
+- For the common prayers, responses, acclamations, and chants used by the assembly, see [ordinary-of-the-mass.md](ordinary-of-the-mass.md).

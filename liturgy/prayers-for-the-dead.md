@@ -563,7 +563,7 @@ The Church grants **indulgences** applicable to the souls in Purgatory:
 - For the Sacrament of Penance, see [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md).
 - For the theology of Purgatory and the afterlife, see [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md).
 - For the foundational daily prayers (Sign of the Cross, Lord's Prayer, Hail Mary, _Requiem Aeternam_), see [liturgy/foundational-prayers.md](foundational-prayers.md).
-- For the Order of the Mass (including the Requiem Mass), see [liturgy/order-of-the-mass.md](order-of-the-mass.md).
+- For the Order of the Mass (including the Requiem Mass), see [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md).
 - For regional funeral customs and cultural practices surrounding death, see [cultural-practices/filipino-funeral-traditions.md](../cultural-practices/filipino-funeral-traditions.md) for a comprehensive guide to Filipino traditions including the wake (_Burol_), _Pasiyam_, the 40-day mourning period, and the distinction between cultural practice and Catholic liturgy.
 - For the doctrine and practice of Mass intentions — including how to request a Mass for the dead, the Mass stipend, and the canonical and theological foundations — see [liturgy/mass-intentions.md](mass-intentions.md).
 - For the dedicated fortieth-day prayer and additional practices, see the **A Prayer for the Fortieth Day** section above.
