@@ -200,4 +200,5 @@ _A shorter invocation for daily use:_
 
 - [church-history/papal-chronology.md](../church-history/papal-chronology.md) — The succession of Roman Pontiffs.
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — Divine Mercy devotion, which John Paul II championed.
+- [spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md](../spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md) — the Total Consecration of St. Louis de Montfort, source of the papal motto _Totus Tuus_.
 - [saints/README.md](README.md) — Master index of the saints directory.
