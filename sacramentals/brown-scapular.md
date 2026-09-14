@@ -199,6 +199,8 @@ The feast of Our Lady of Mount Carmel on **July 16** is also celebrated in many 
 
 The brown scapular is, fundamentally, a sign that the wearer belongs in a special way to **Mary**, the Mother of God, and that they accept her motherly intercession and protection. The Catechism's treatment of Mary as **Mother of the Church** and **Advocate** under many titles (Our Lady of Mount Carmel, Mother of Mercy, Queen of Heaven) underlies the meaning of this consecration.
 
+For the complete devotion of which the scapular is the standing external sign — the **Total Consecration to Jesus Incarnate Wisdom through Mary** of St. Louis de Montfort, with its theological foundations, its 33-day preparation, and the full Act of Consecration — see [spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md](../spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md).
+
 ### 8.2 A Sign of Baptismal Identity
 
 Because the Carmelite habit and its reduced form recall the **white garment** received at Baptism (a symbol of being "clothed in Christ," [Galatians 3:27](https://www.magisterium.com/docs/00a1de35-98f1-481a-956f-e98e2b52331d/ref/)), the Directory on Popular Piety teaches that the rite of imposition of the scapular should recall baptismal clothing in Christ, "with the assistance of the Blessed Virgin Mary." The scapular thus becomes a renewal of baptismal promises and a continual reminder that the Christian is called to live in Christ and in communion with his Church.

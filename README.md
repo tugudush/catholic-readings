@@ -228,6 +228,16 @@ Published parish and cathedral schedules, confession times, contact details, and
 
 ---
 
+## 17. Spiritual Life & the Interior Life
+
+Catholic teaching and spiritual theology concerning sanctification, the interior life, prayer, virtue, ascetical purification, contemplation, and the perfection of charity — with careful distinctions between binding doctrine, theological frameworks, devotional practice, and pastoral counsel:
+
+- **Master Index & Scope**: Read [spiritual-life/README.md](spiritual-life/README.md) for the introductory overview of the spiritual-life directory, its scope, and its relationship to the sacraments, foundational prayers, saints, and sacramental signs of consecration.
+- **Christian Spiritual Perfection and the Interior Life**: See [spiritual-life/sanctified-perfection-and-holiness.md](spiritual-life/sanctified-perfection-and-holiness.md) for a structured synthesis of Fr. Chad Ripperger's lecture on sanctified perfection — grace, acquired and infused virtue, the three ways of the interior life, prayer, distraction, the sacraments, and disinterested charity.
+- **Total Consecration to Jesus Incarnate Wisdom through Mary**: See [spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md](spiritual-life/total-consecration-jesus-incarnate-wisdom-mary.md) for the comprehensive treatment of St. Louis de Montfort's devotion of total consecration — its doctrinal classification, theological foundations (the Incarnate Wisdom, Mary's strictly subordinated maternal mediation per _Lumen Gentium_ 60–62 and _Redemptoris Mater_, the consecration as a renewal of Baptism per the Directory on Popular Piety §204, and the holy slavery of love), the 33-day preparation and its Marian-feast consecration days, the full traditional Act of Consecration, the practices for living the consecration, Pope St. John Paul II's reception of the devotion (_Totus Tuus_; his Solvay testimony), the Eastern Catholic parallel of entrustment, modern adaptations (33 Days to Morning Glory; Consecration to St. Joseph), and the Church's doctrinal cautions.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
