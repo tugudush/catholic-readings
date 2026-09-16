@@ -94,7 +94,7 @@ While the Easter cycle shifts, many major feasts fall on **fixed calendar dates*
 | **September 8**                       | **[The Nativity of the Blessed Virgin Mary](nativity-of-the-blessed-virgin-mary.md)**     | Feast                                                |
 | **September 14**                      | **The Exaltation of the Holy Cross**                                                      | Feast                                                |
 | **September 21**                      | **St. Matthew, Apostle and Evangelist**                                                   | Feast                                                |
-| **September 29**                      | **Sts. Michael, Gabriel, and Raphael, Archangels**                                        | Feast                                                |
+| **September 29**                      | **[Sts. Michael, Gabriel, and Raphael, Archangels](feast-of-st-michael-archangel.md)**    | Feast                                                |
 | **October 2**                         | **The Holy Guardian Angels**                                                              | Memorial                                             |
 | **October 18**                        | **St. Luke, Evangelist**                                                                  | Feast                                                |
 | **October 28**                        | **Sts. Simon and Jude, Apostles**                                                         | Feast                                                |
