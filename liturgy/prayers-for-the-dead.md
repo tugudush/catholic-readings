@@ -211,6 +211,8 @@ On each **anniversary of death**, the family and friends offer Mass and prayers 
 
 ### 5.6 All Souls' Day (November 2)
 
+For a source-critical treatment of the traditional _Pietate tua_ prayer and its historical indulgence attribution, see [Pietate Tua: Historical Prayer and Indulgence Claim](pietate-tua-prayer.md).
+
 The **Commemoration of All the Faithful Departed** (All Souls' Day) is a universal feast of the Church dedicated to praying for all the souls in Purgatory. On this day:
 
 - A **plenary indulgence** may be gained for the souls in Purgatory by visiting a church or oratory, praying a _Pater_ and _Credo_, and fulfilling the usual conditions (sacramental confession, Eucharistic communion, prayer for the intentions of the Holy Father, and detachment from all sin) ([Enchiridion Indulgentiarum, §29](https://www.magisterium.com/docs/b4e30e90-7ed9-4cc5-be4b-305ed07d425b/ref/Concessiones.%2029)).
