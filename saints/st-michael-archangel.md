@@ -63,6 +63,8 @@ Michael is recognized in Catholic tradition as:
 
 Known as **Michaelmas**, this feast celebrates all three archangels (Michael, Gabriel, Raphael). In the traditional Roman calendar, it was a Holy Day of Obligation.
 
+For the current Roman Rite rank, Mass texts, common practices, Eastern Catholic commemorations, and regional Michaelmas traditions, see [Feast of St. Michael the Archangel](../liturgy/feast-of-st-michael-archangel.md).
+
 ### The Apparition of St. Michael (8 May)
 
 Commemorates the appearance of St. Michael in the fifth century at **Monte Sant'Angelo** in Apulia, Italy—one of the oldest and most important shrines to St. Michael in Europe.
