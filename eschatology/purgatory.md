@@ -6,6 +6,8 @@
 >
 > 2. **Can one reduce the purification one owes while still living?** Yes. The Church teaches that the **temporal punishment due to sin** (the purification Purgatory completes) can be **remitted in this life** through sacramental penance, indulgences, the patient acceptance of suffering united to Christ, prayer, fasting, almsgiving, and a life of growing detachment from sin ([CCC 1459](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1459)–[1460](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1460), [CCC 1471](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1471)–[1479](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1479)). This document documents every means the Church places at the faithful's disposal.
 
+For a timestamped source-critical synthesis of a contemporary video that uses private visions and devotional narratives to discuss Purgatory, see [Cameron Riecker on Purgatory](cameron-riecker-purgatory-eyewitnesses.md).
+
 ---
 
 ## 1. The Three Final States After Death
