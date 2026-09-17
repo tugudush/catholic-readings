@@ -149,6 +149,7 @@ Sacred signs, blessed objects, and devotional items that the Church sets apart t
 - **Sacred Relics**: See [sacramentals/sacred-relics.md](sacramentals/sacred-relics.md) for the veneration of the relics of the saints — the theology of veneration, the three classes of relics, the Council of Trent (Session XXV), and the canon law and 2017 Dicastery norms governing authenticity and preservation.
 - **Sacred Images**: See [sacramentals/sacred-images.md](sacramentals/sacred-images.md) for the crucifix, statues, and icons — the Incarnation as their foundation, the dogmatic definition of the Second Council of Nicaea (787), and the distinction between latria and dulia.
 - **Blessings of Daily Life**: See [sacramentals/blessings-of-daily-life.md](sacramentals/blessings-of-daily-life.md) for the blessings that sanctify the ordinary — homes (Epiphany C+M+B), throats (Saint Blaise), animals, vehicles, meals, and persons, places, and objects.
+- **Prayers for a Sick Pet**: See [sacramentals/prayers-for-sick-pets.md](sacramentals/prayers-for-sick-pets.md) for the official animal-blessing prayer, popular devotional prayers, veterinary-care guidance, and traditional patron saints for pets and sick animals.
 
 ## 10. Eschatology & The Last Things
 

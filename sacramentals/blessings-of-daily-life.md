@@ -102,6 +102,8 @@ The **Book of Blessings** provides a rite for the blessing of animals, which inc
 
 > 📝 **Note**: The blessing of animals is a blessing of **God's creatures** in gratitude and petition; it is not a "sacrament" for animals (which cannot receive the sacraments), nor does it imply that animals have the immortal souls or the salvation proper to human persons. The Church's prayer asks that animals may serve human beings well and that human beings may care for them according to God's will.
 
+For prayers specifically concerning a sick dog or another companion animal, see [Catholic Prayers for a Sick Pet and Patron Saints of Animals](prayers-for-sick-pets.md), which distinguishes the official animal blessing from popular devotional prayers and patronal associations.
+
 ---
 
 ## 6. The Blessing of Vehicles and Means of Transport
