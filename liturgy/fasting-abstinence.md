@@ -4,6 +4,18 @@ The Catholic discipline of **fasting** (_ieiunium_) and **abstinence** (_abstine
 
 For the fasting and abstinence norms of each liturgical season, see [liturgy/liturgical-calendar.md](liturgical-calendar.md). For the Eucharistic fast observed before receiving Holy Communion, see [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md).
 
+## Quick Year-Round Guide (Latin Church)
+
+If you are a Latin Catholic following the universal rule, the simple weekly pattern is:
+
+| Day                               | What is required                                                                              | What this means in practice                                                                                                  |
+| --------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Wednesday**                     | No universal fast or abstinence                                                               | Meat is permitted, and normal meals are permitted. A Wednesday fast is a voluntary devotion unless a particular law applies. |
+| **Ordinary Friday**               | Abstinence from meat, or the alternative penance established by the local bishops' conference | Fasting is not required. Three full meals are permitted, including fish, eggs, dairy, and other permitted foods.             |
+| **Ash Wednesday and Good Friday** | Both fasting and abstinence                                                                   | No meat; one full meal and two smaller meals, with no eating between meals.                                                  |
+
+An ordinary Friday remains a penitential day even when fasting is not required, so prayer, charity, and some voluntary self-denial are fitting. If a solemnity falls on a Friday, abstinence does not bind. Eastern Catholics follow the particular law of their own Church _sui iuris_, which may require abstinence or fasting on Wednesdays and Fridays. Local bishops' conferences may also specify or substitute the Friday penance ([Code of Canon Law, canons 1250–1253](https://www.magisterium.com/docs/927224e3-8c2d-44ed-a9fb-dc736030081d/ref/1250)).
+
 ---
 
 ## 1. Two Distinct Obligations: Fasting and Abstinence
@@ -203,8 +215,10 @@ The authentic Christian fast, therefore:
 
 ### 10.1 Fasting in Practice
 
+- On a **normal Wednesday** in the Latin Church: no universal fast or abstinence is required, and meat is permitted. A Wednesday fast may be undertaken voluntarily or may be required by the particular law of an Eastern Catholic Church.
+- On an **ordinary Friday**: abstain from meat, or observe the alternative penance established by the local bishops' conference. Since fasting is not required, three full meals are permitted.
 - On a **fast day** (Ash Wednesday, Good Friday): one full meal and two small collations; no snacking between meals. Water does not break the fast.
-- On a **day of abstinence** (all Fridays, unless a solemnity; the Fridays of Lent always): no meat. Fish, eggs, and dairy are permitted.
+- On a **day of abstinence**: no meat. Fish, eggs, and dairy are permitted.
 - On **Ash Wednesday and Good Friday**: both — fast _and_ abstinence.
 - **Those who cannot fast** should not feel guilt; they are to substitute prayer and charity, and may ask a pastor for a commutation (canon 1245). Fasting that harms health is not the fast of the Church.
 - **Voluntary fasting** beyond the law — a stricter Lent, the Wednesday fast, the traditional Ember Days and vigils, or the Eastern weekly fasts — is a venerable devotion, provided it is prudent, healthy, and united to prayer and almsgiving.
@@ -213,6 +227,9 @@ The authentic Christian fast, therefore:
 
 **Is fish "meat"?**
 No. In the canonical sense "meat" means the flesh of warm-blooded animals (mammals and birds). Fish, shellfish, eggs, and dairy are permitted on days of abstinence (see §6.3).
+
+**Must Friday abstinence include giving up tasty or expensive food and drinks?**
+Not as a matter of the universal Latin law of abstinence. The law prohibits meat, not food merely because it is enjoyable, costly, or attractively prepared. A grilled salmon meal is therefore permitted on an ordinary Friday of abstinence. Coffee, tea, juice, soft drinks, and similar beverages are likewise not generally prohibited by Friday abstinence, although a bishops' conference or an Eastern Catholic Church's particular law may require a different observance. The penitential purpose should still be respected: voluntarily choosing a simpler meal, giving up an additional luxury, praying, or giving alms can make the Friday penance more genuine, while turning it into deliberate indulgence can contradict its spirit. On Ash Wednesday and Good Friday, the separate law of fasting also limits the quantity and number of meals (see §§6.2 and 6.3).
 
 **Does drinking water break the fast?**
 No. Water (and other non-nutritive liquids) and medicine do not break either the penitential fast or the Eucharistic fast (canon 919).
@@ -226,8 +243,10 @@ Yes. When a solemnity falls on a Friday, Friday abstinence does not bind (canon 
 **What about coffee, tea, or juice during a fast?**
 Custom and common practice permit non-alcoholic beverages during the fast; the law's concern is food and the quantity of meals. Those who wish to be stricter are free to be so.
 
-**I forgot and ate something on a fast day — is that a sin?**
-The obligation is serious but it is a matter of the Church's positive law; a genuine lapse through forgetfulness or weakness, especially followed by a return to the discipline, is not the stuff of scrupulosity. Fasting is a school of conversion, not a trap.
+**I forgot or failed to fast on Friday — is that a mortal sin?**
+Not automatically. On an ordinary Friday in the Latin Church, the usual obligation is **abstinence from meat**, not a fast limiting the amount of food; if "not fasting" means eating normal amounts of permitted food, there was ordinarily no Friday fast to violate. The precise Friday penance may also be modified by the local bishops' conference (canons 1251 and 1253). A genuine accidental lapse, such as eating meat because one forgot that it was Friday, ordinarily lacks full knowledge or deliberate consent and is not a mortal sin. Ash Wednesday and Good Friday bind the faithful to both fasting and abstinence, but an accidental failure on those days is not automatically mortal either.
+
+A person who knowingly and freely refuses a serious penitential obligation may commit grave sin, but mortal sin requires all three conditions: **grave matter, full knowledge, and deliberate consent** ([CCC 1857–1859](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1857)). Illness, danger to health, a lawful dispensation, or another legitimate exemption can remove or lessen the obligation. If the failure was deliberate or responsibility is unclear, it may be mentioned simply in the Sacrament of Penance; an accidental lapse should not become a cause for scrupulosity. Fasting is a school of conversion, not a trap.
 
 ---
 
