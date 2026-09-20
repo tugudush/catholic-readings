@@ -63,7 +63,7 @@ Catholic healing ministry respects the unity of body and soul. A person may rece
 4. **Relational and ecclesial healing**, including reconciliation and renewed participation in the life of the Church.
 5. **Strength to unite suffering to Christ**, even when the illness remains.
 
-Suffering is not good in itself. Yet, united to the Passion of Christ, it can become an offering of love and a participation in His redemptive work ([CCC 1505](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1505); [*Salvifici Doloris*](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)).
+Suffering is not good in itself. Yet, united to the Passion of Christ, it can become an offering of love and a participation in His redemptive work ([CCC 1505](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1505); [_Salvifici Doloris_](https://www.magisterium.com/docs/4a72892b-0a56-4371-a138-ff4aea2b0093/ref/)).
 
 ### 2.3 Healing and the mystery of God's will
 
@@ -196,13 +196,13 @@ These differences do not establish two different doctrines of healing. The same 
 
 ## 8. Distinguishing Healing Mass from Other Celebrations
 
-| Celebration | Principal purpose | Is it the Eucharistic sacrifice? | Who may preside or administer? |
-| --- | --- | --- | --- |
-| Healing Mass | Eucharistic worship with special prayers for healing | Yes | A priest or bishop celebrates the Mass; a bishop or priest administers Anointing |
-| Anointing of the Sick outside Mass | Sacramental strengthening and healing of a seriously ill person | No, unless celebrated within Mass | A bishop or priest |
-| Prayer service for healing | Intercession and petition for God's help | No | Clergy or, according to local norms, lay leaders |
-| Eucharistic adoration with prayers | Adoration of Christ truly present in the Blessed Sacrament | No new sacrifice is offered | An authorized priest or deacon exposes and blesses; others may lead prayer |
-| Christian medical care | Treatment of bodily illness and support of health | No | Qualified healthcare professionals |
+| Celebration                        | Principal purpose                                               | Is it the Eucharistic sacrifice?  | Who may preside or administer?                                                   |
+| ---------------------------------- | --------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------- |
+| Healing Mass                       | Eucharistic worship with special prayers for healing            | Yes                               | A priest or bishop celebrates the Mass; a bishop or priest administers Anointing |
+| Anointing of the Sick outside Mass | Sacramental strengthening and healing of a seriously ill person | No, unless celebrated within Mass | A bishop or priest                                                               |
+| Prayer service for healing         | Intercession and petition for God's help                        | No                                | Clergy or, according to local norms, lay leaders                                 |
+| Eucharistic adoration with prayers | Adoration of Christ truly present in the Blessed Sacrament      | No new sacrifice is offered       | An authorized priest or deacon exposes and blesses; others may lead prayer       |
+| Christian medical care             | Treatment of bodily illness and support of health               | No                                | Qualified healthcare professionals                                               |
 
 These celebrations may be pastorally connected, but one must not be presented as another. In particular, a prayer service cannot substitute for the sacrament, and a Healing Mass cannot guarantee the outcome of medical or spiritual treatment.
 
@@ -270,7 +270,7 @@ The following distinctions should be maintained:
 - [Catechism of the Catholic Church, §§1322–1419](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1322) — the Eucharist.
 - [Catechism of the Catholic Church, §§1500–1508](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1500) — Christ's compassion and Christian healing.
 - [Sacrosanctum Concilium, §§73–75](https://www.magisterium.com/docs/f3bd930d-74b4-46ee-86ed-06d79db364a9/ref/undefined) — the liturgical reform of the Anointing of the Sick.
-- Pope Paul VI, *Sacram Unctionem Infirmorum* (1972) — the reformed rite and pastoral care of the sick.
+- Pope Paul VI, _Sacram Unctionem Infirmorum_ (1972) — the reformed rite and pastoral care of the sick.
 - Code of Canon Law, cc. 998–1007 — the Anointing of the Sick in the Latin Church.
 - General Instruction of the Roman Missal — the celebration of the Eucharist and approved liturgical structure.
 - James 5:14–15; Mark 6:7, 13; Luke 9:1–2; Matthew 10:8; 1 Corinthians 12:9, 28–30 — biblical foundations for prayer, anointing, and gifts of healing.

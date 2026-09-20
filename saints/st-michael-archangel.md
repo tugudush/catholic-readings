@@ -195,5 +195,6 @@ _A shorter invocation for daily use:_
 
 - [angelology/angelic-hierarchy-choirs.md](../angelology/angelic-hierarchy-choirs.md) — The nine choirs of angels and their hierarchy.
 - [angelology/fallen-angels-demonology.md](../angelology/fallen-angels-demonology.md) — The fallen angels and the battle against evil.
+- [liturgy/novena-st-michael-archangels.md](../liturgy/novena-st-michael-archangels.md) — A nine-day devotional arrangement with Scripture, prayers, and guidance for accompanying Mass intentions.
 - [liturgy/foundational-prayers.md](../liturgy/foundational-prayers.md) — The Prayer to St. Michael and other angelic devotions.
 - [saints/README.md](README.md) — Master index of the saints directory.
