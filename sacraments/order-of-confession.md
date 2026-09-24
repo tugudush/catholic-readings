@@ -28,7 +28,7 @@ Most parishes offer confessions on Saturdays (typically late afternoon/early eve
 
 Prayerfully review your life since your last confession. Ask the Holy Spirit to enlighten you. You may **write your sins down** on a piece of paper or simply remember them — whichever helps you be most honest and thorough.
 
-Go through the **Ten Commandments** and the **Precepts of the Church**. Below is a concise examination; for a more thorough version, see [penance-reconciliation.md](penance-reconciliation.md#5-mortal-and-venial-sin).
+Go through the **Ten Commandments** and the **Precepts of the Church**. Below is a concise examination; for the complete guide — with full question sets by the Commandments, the Precepts, the capital sins, the works of mercy, and one's state in life — see [examination-of-conscience.md](examination-of-conscience.md).
 
 | Commandment / Precept                                                | Questions to ask yourself                                                                                                                                                                             |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

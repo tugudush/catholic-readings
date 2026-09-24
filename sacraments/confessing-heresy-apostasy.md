@@ -2,7 +2,7 @@
 
 A practical pastoral guide for baptized Catholics who have joined non-Catholic religions or Christian denominations and now seek to return to full communion with the Catholic Church — covering the examination of conscience, how to confess the sin of heresy or apostasy, the profession of faith, and the complete process of reconciliation.
 
-For the **canonical and theological foundations**, see the companion document [apostasy-formal-defection.md](apostasy-formal-defection.md). For the **general mechanics of confession** (the order of the sacrament, the Act of Contrition, and the basic examination of conscience), see [order-of-confession.md](order-of-confession.md). For the **theological treatment of the Sacrament of Penance**, see [penance-reconciliation.md](penance-reconciliation.md).
+For the **canonical and theological foundations**, see the companion document [apostasy-formal-defection.md](apostasy-formal-defection.md). For the **general mechanics of confession** (the order of the sacrament, the Act of Contrition, and the basic examination of conscience), see [order-of-confession.md](order-of-confession.md). For the **full examination of conscience**, see [examination-of-conscience.md](examination-of-conscience.md). For the **theological treatment of the Sacrament of Penance**, see [penance-reconciliation.md](penance-reconciliation.md).
 
 ---
 
@@ -315,7 +315,8 @@ A returning Catholic is already baptized and (in most cases) confirmed. What the
 ## 9. Related Documents
 
 - [apostasy-formal-defection.md](apostasy-formal-defection.md) — The canonical and theological foundations: the indelible baptismal character, formal defection and its abrogation, canonical penalties, and juridical status.
-- [order-of-confession.md](order-of-confession.md) — The practical step-by-step guide to making a confession, with full examination of conscience.
+- [order-of-confession.md](order-of-confession.md) — The practical step-by-step guide to making a confession, with a basic examination of conscience.
+- [examination-of-conscience.md](examination-of-conscience.md) — The complete examination of conscience: the theology of conscience, the Ignatian method, and full question sets by the Commandments, the Precepts, the capital sins, the works of mercy, and one's state of life.
 - [penance-reconciliation.md](penance-reconciliation.md) — The theological treatment of the Sacrament of Penance: matter, form, minister, effects, and biblical foundation.
 - [convalidation.md](convalidation.md) — The canonical process for bringing a civil marriage into full sacramental standing.
 - [private-confessions/confession.md](../private-confessions/confession.md) — A detailed examination of conscience structured around the Ten Commandments, the Precepts of the Church, the seven capital sins, and the duties of one's state in life.
