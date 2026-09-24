@@ -147,6 +147,20 @@ The hour is kept **Thursday night from 11:00 p.m. to midnight** because **Friday
 - When this is not possible, the hour may be kept before a **Sacred Heart image** at home or in any quiet place, recollected in the presence of God.
 - St. Margaret Mary prayed **prostrate**, as Christ lay in the Garden; **kneeling** is the more common practice. The interior disposition of love and reparation matters more than the posture.
 
+#### Does the Holy Hour Carry a Promise?
+
+The short answer is **no — not a distinct, formal promise**. Among the Twelve Promises, the only promise with a specific prescribed practice attached is the "Great Promise" of final perseverance, tied to **receiving Holy Communion on the First Friday of nine consecutive months** (see the Twelve Promises below). Pope Pius XI strongly commends the Holy Hour in _Miserentissimus Redemptor_, yet attaches no separate promise to it.[^15]
+
+The Holy Hour was requested by Christ not as a condition for a particular reward but as an act of **reparation and loving companionship**: He asked St. Margaret Mary to share in His mortal sadness in the Garden, to appease the divine anger, to beg mercy for sinners, and to make Him some return for the neglect He suffered even from His own Apostles.[^20]
+
+The graces bound up with the Holy Hour are therefore of three kinds:
+
+- The **general abundance of heavenly graces** promised by Christ to all who honour His Sacred Heart — the Twelve Promises above — which apply to any genuine act of devotion to His Heart, the Holy Hour included.
+- The **indulgences** with which the Church approved and enriched these reparative practices (see [Indulgences](#indulgences) below).[^15]
+- The **interior fruit** intended by the request itself: a share in the Agony of Christ, compassion for sinners, and growth in love for the Blessed Eucharist.
+
+This distinction protects both practices from a mechanical or superstitious reading: neither the Nine First Fridays nor the Holy Hour operates as an automatic guarantee detached from repentance and living faith, for, as the Church cautions, such devotions must nourish an authentic life of faith and love rather than replace it.[^19]
+
 #### The Order of the Holy Hour
 
 The following is a traditional order for the hour, with the prayers to be prayed at each step. It is adaptable to circumstances.
@@ -616,3 +630,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 [^17]: _Directory on Popular Piety and the Liturgy_ (Congregation for Divine Worship and the Discipline of the Sacraments, 2001), §165.
 
 [^18]: _Catholic Encyclopedia_, "St. Margaret Mary Alacoque."
+
+[^19]: _Directory on Popular Piety and the Liturgy_, §171.
+
+[^20]: St. Margaret Mary Alacoque, letter to Mother de Saumaise (1674), recounting Our Lord's request for the Thursday-night Holy Hour.
