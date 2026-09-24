@@ -124,6 +124,7 @@ The video is strongest when it joins urgency to hope: sin should not be hidden, 
 ## Related Repository Documents
 
 - [The Sacrament of Penance and Reconciliation](../sacraments/penance-reconciliation.md) - doctrinal treatment of contrition, Confession, absolution, satisfaction, the seal of Confession, and the effects of the sacrament.
+- [The Blasphemy Against the Holy Spirit](blasphemy-against-the-holy-spirit.md) - doctrinal study of the sin that "will not be forgiven, either in this age or in the age to come" (Matthew 12:32): its identity as the refusal of repentance that excludes the means of forgiveness, and why every repentant sinner remains within God's limitless mercy.
 - [The Order of Confession](../sacraments/order-of-confession.md) - practical preparation and step-by-step guidance for making a good Confession.
 - [Communion in a Civil Marriage](../sacraments/communion-civil-marriage.md) - canonical and pastoral treatment of Communion, state of grace, irregular marital situations, and convalidation.
 - [The Most Holy Eucharist](../sacraments/eucharist.md) - Catholic teaching on the Eucharist as sacrament, sacrifice, and Real Presence.
