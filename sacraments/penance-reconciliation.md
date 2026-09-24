@@ -194,6 +194,7 @@ In the Latin Rite, children are ordinarily admitted to the sacrament of Penance 
 ## 13. Cross-References
 
 - [order-of-confession.md](order-of-confession.md) — practical step-by-step guide to making a confession, with examination of conscience, prayers, and Eastern Catholic comparison.
+- [examination-of-conscience.md](examination-of-conscience.md) — complete guide to the examination of conscience: the theology of conscience, the Ignatian method, and full question sets by the Commandments, the Precepts, the capital sins, the works of mercy, and one's state in life.
 - For Baptism, whose grace is restored and increased by Penance, see [baptism.md](baptism.md).
 - For the Eucharist, which requires the state of grace that Penance restores, see [eucharist.md](eucharist.md).
 - For Anointing of the Sick, which completes the journey of sacramental healing in the face of grave illness, see [anointing-of-the-sick.md](anointing-of-the-sick.md).

@@ -29,6 +29,7 @@ The Catholic Church professes exactly **seven sacraments**, as defined by the [C
 - [The Most Holy Eucharist](eucharist.md) — the source and summit of the Christian life, the Body, Blood, Soul, and Divinity of Jesus Christ.
 - [Penance and Reconciliation](penance-reconciliation.md) — the forgiveness of sins committed after Baptism.
 - [Order of Confession](order-of-confession.md) — a practical step-by-step guide to making a confession, with examination of conscience and Eastern Catholic comparison.
+- [Examination of Conscience](examination-of-conscience.md) — a complete guide to preparing for confession: the theology of conscience, the Ignatian method of examination, the distinction of mortal and venial sin, and full question sets by the Ten Commandments, the Precepts of the Church, the capital sins, the works of mercy, and one's state in life.
 - [Anointing of the Sick](anointing-of-the-sick.md) — strength, peace, and the forgiveness of sins for the seriously ill.
 - [Holy Orders](holy-orders.md) — the apostolic ministry in three degrees: episcopate, presbyterate, diaconate.
 - [Matrimony](matrimony.md) — the conjugal covenant raised by Christ to the dignity of a sacrament.
