@@ -8,7 +8,7 @@ The Chaplet is classified as a **private revelation** (see CCC 67). While belief
 
 Theologically, the Chaplet offers to **God the Father** the **Body and Blood, Soul and Divinity** of Jesus Christ — the infinite merits of His Passion — in atonement for sins and as a plea for mercy on the whole world. It may be prayed at any time but is especially associated with the **Hour of Mercy (3:00 p.m.)**, the hour of our Lord's death on the Cross.
 
-_For the broader context of St. Faustina's revelations — including the Divine Mercy Image, the Feast of Mercy, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the Hour of Great Mercy devotion, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md)._
+_For the broader context of St. Faustina's revelations — including the Divine Mercy Image, the Feast of Mercy, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the Hour of Great Mercy devotion, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md). For Divine Mercy Sunday and the complete Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md)._
 
 ---
 
@@ -243,5 +243,6 @@ The theological focus on Divine Mercy resonates deeply with the Byzantine tradit
 - [liturgy/rosary/how-to-pray.md](rosary/how-to-pray.md) — How to pray the Holy Rosary
 - [liturgy/rosary/history.md](rosary/history.md) — The history and development of the Rosary
 - [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md) — The Hour of Great Mercy (3:00 p.m.) devotion
+- [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md) — The Feast of Divine Mercy (Divine Mercy Sunday) and the Divine Mercy Novena
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — The sacrament of Confession, to which the Divine Mercy devotion directs the faithful
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist, the fount of mercy

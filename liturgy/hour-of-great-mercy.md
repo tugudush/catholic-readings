@@ -6,7 +6,7 @@ The **Hour of Great Mercy** — also called the **Hour of Mercy** or the **Three
 
 The hour of 3:00 p.m. is sacred because it recalls the hour of our Lord's death on the Cross. As the Gospel of Mark records: _"It was the third hour when they crucified him"_ (Mark 15:25). At this hour, Christ offered His life in atonement for the sins of the world, and from His pierced side flowed Blood and Water — the fount of mercy and the source of the sacraments.
 
-For the broader context of the Divine Mercy revelations — including the Image, the Chaplet, the Feast of Mercy, and the life of St. Faustina — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the full text and method of the Chaplet, see [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md).
+For the broader context of the Divine Mercy revelations — including the Image, the Chaplet, the Feast of Mercy, and the life of St. Faustina — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the full text and method of the Chaplet, see [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md). For Divine Mercy Sunday and the complete Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md).
 
 ---
 

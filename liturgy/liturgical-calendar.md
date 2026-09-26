@@ -46,22 +46,22 @@ The Eastern Catholic Churches (and Eastern Orthodox) calculate Easter using the 
 
 Every movable feast in the liturgical year is calculated as a fixed number of days before or after Easter Sunday. The table below gives all the major movable observances with their **offset from Easter** and the **resulting date range**:
 
-| Observance                                                            | Relation to Easter             | Date Range               |
-| --------------------------------------------------------------------- | ------------------------------ | ------------------------ |
-| **Ash Wednesday**                                                     | 46 days before Easter          | February 4 – March 10    |
-| **First Sunday of Lent**                                              | 42 days before Easter          | February 8 – March 14    |
-| **Palm Sunday**                                                       | 7 days before Easter           | March 15 – April 18      |
-| **Holy Thursday**                                                     | 3 days before Easter           | March 19 – April 22      |
-| **Good Friday**                                                       | 2 days before Easter           | March 20 – April 23      |
-| **Holy Saturday**                                                     | 1 day before Easter            | March 21 – April 24      |
-| **Easter Sunday**                                                     | 0                              | March 22 – April 25      |
-| **Divine Mercy Sunday** (2nd Sunday of Easter)                        | 7 days after Easter            | March 29 – May 2         |
-| **Ascension of the Lord** (Thursday)                                  | 40 days after Easter           | April 30 – June 3        |
-| **Pentecost Sunday**                                                  | 50 days after Easter           | May 10 – June 13         |
-| **Trinity Sunday**                                                    | 56 days after Easter           | May 17 – June 20         |
-| **Corpus Christi** (Thursday; transferred to Sunday in many dioceses) | 63 days after Easter           | May 21 – June 24         |
-| **Sacred Heart of Jesus** (Friday)                                    | 68 days after Easter           | May 26 – June 29         |
-| **First Sunday of Advent**                                            | The Sunday nearest November 30 | November 27 – December 3 |
+| Observance                                                                         | Relation to Easter             | Date Range               |
+| ---------------------------------------------------------------------------------- | ------------------------------ | ------------------------ |
+| **Ash Wednesday**                                                                  | 46 days before Easter          | February 4 – March 10    |
+| **First Sunday of Lent**                                                           | 42 days before Easter          | February 8 – March 14    |
+| **Palm Sunday**                                                                    | 7 days before Easter           | March 15 – April 18      |
+| **Holy Thursday**                                                                  | 3 days before Easter           | March 19 – April 22      |
+| **Good Friday**                                                                    | 2 days before Easter           | March 20 – April 23      |
+| **Holy Saturday**                                                                  | 1 day before Easter            | March 21 – April 24      |
+| **Easter Sunday**                                                                  | 0                              | March 22 – April 25      |
+| **[Divine Mercy Sunday](divine-mercy-feast-and-novena.md)** (2nd Sunday of Easter) | 7 days after Easter            | March 29 – May 2         |
+| **Ascension of the Lord** (Thursday)                                               | 40 days after Easter           | April 30 – June 3        |
+| **Pentecost Sunday**                                                               | 50 days after Easter           | May 10 – June 13         |
+| **Trinity Sunday**                                                                 | 56 days after Easter           | May 17 – June 20         |
+| **Corpus Christi** (Thursday; transferred to Sunday in many dioceses)              | 63 days after Easter           | May 21 – June 24         |
+| **Sacred Heart of Jesus** (Friday)                                                 | 68 days after Easter           | May 26 – June 29         |
+| **First Sunday of Advent**                                                         | The Sunday nearest November 30 | November 27 – December 3 |
 
 > **Example for 2025**: Easter Sunday is **April 20**. Ash Wednesday is **March 5**. Ascension Thursday is **May 29**. Pentecost is **June 8**. First Sunday of Advent is **November 30**.
 
