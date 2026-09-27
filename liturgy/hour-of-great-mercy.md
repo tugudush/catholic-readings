@@ -38,6 +38,10 @@ Our Lord's instructions allow for flexibility based on one's state in life and d
 | **2**  | Visit the **Blessed Sacrament** in the chapel and adore the Merciful Heart of Jesus                            | Suitable when a church or chapel is accessible |
 | **3**  | **Brief mental prayer** wherever you happen to be — pause for a moment and turn your heart to Christ's Passion | Always possible; the minimum asked of everyone |
 
+### How to Pray the Stations of the Cross
+
+For the traditional fourteen stations, corresponding Scripture references, and complete leader-and-assembly responses, see [The Stations of the Cross](stations-of-the-cross.md). The guide distinguishes Gospel events from scenes preserved in devotional tradition.
+
 ### Essential Elements in Every Case
 
 Regardless of which option is chosen, every observance of the Hour of Great Mercy includes:
