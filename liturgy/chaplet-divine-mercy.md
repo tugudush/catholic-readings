@@ -8,7 +8,7 @@ The Chaplet is classified as a **private revelation** (see CCC 67). While belief
 
 Theologically, the Chaplet offers to **God the Father** the **Body and Blood, Soul and Divinity** of Jesus Christ — the infinite merits of His Passion — in atonement for sins and as a plea for mercy on the whole world. It may be prayed at any time but is especially associated with the **Hour of Mercy (3:00 p.m.)**, the hour of our Lord's death on the Cross.
 
-_For the broader context of St. Faustina's revelations — including the Divine Mercy Image, the Feast of Mercy, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the Hour of Great Mercy devotion, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md). For Divine Mercy Sunday and the complete Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md)._
+_For the broader context of St. Faustina's revelations — including the Divine Mercy Image, the Feast of Mercy, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the Hour of Great Mercy devotion, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md). For Divine Mercy Sunday and the complete Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md). For the autumn novena asking St. Faustina's intercession, see [liturgy/novena-st-faustina.md](novena-st-faustina.md)._
 
 ---
 
@@ -238,6 +238,8 @@ The theological focus on Divine Mercy resonates deeply with the Byzantine tradit
 ---
 
 ## See Also
+
+- [liturgy/novena-st-faustina.md](novena-st-faustina.md) — The autumn novena asking St. Faustina's intercession
 
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — The full account of St. Faustina's life and revelations
 - [liturgy/rosary/how-to-pray.md](rosary/how-to-pray.md) — How to pray the Holy Rosary

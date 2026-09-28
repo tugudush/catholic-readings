@@ -11,7 +11,7 @@ Two levels of doctrinal authority must be carefully distinguished throughout thi
 - The **doctrine of God's mercy poured out in Christ** is divine Revelation and irreformable doctrine (CCC 1846–1848; 210–211; _Dives in Misericordia_); the institution of the ministry of the forgiveness of sins on Easter evening is dogma (CCC 976; 1441).
 - The **specific requests of our Lord recorded in the Diary of St. Faustina** — the Feast of Mercy, the Novena, the promises — constitute an **approved private revelation** (CCC 67). The Church has judged the devotion free from doctrinal error and has embraced it in her magisterial documents, but belief in the revelations themselves is not required for salvation, and they add nothing to the definitive public Revelation of Jesus Christ.
 
-_For the broader context of the Divine Mercy revelations — the Image, the Chaplet, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the full text and method of the Chaplet, see [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md); for the 3:00 p.m. Hour of Great Mercy, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md)._
+_For the broader context of the Divine Mercy revelations — the Image, the Chaplet, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the full text and method of the Chaplet, see [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md); for the 3:00 p.m. Hour of Great Mercy, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md). The separate autumn novena asking St. Faustina's intercession is documented in [liturgy/novena-st-faustina.md](novena-st-faustina.md)._
 
 ---
 
@@ -366,315 +366,15 @@ _On the efficacy of intercession for the souls in Purgatory, see [eschatology/pu
 
 ## 7. The Novena to St. Faustina (Novena for Her Intercession)
 
-### 7.1 What This Novena Is
+The autumn novena asks for St. Faustina's intercession and is distinct from the Divine Mercy Novena in § 6. It is customarily prayed from **27 September through 5 October**, her feast day.
 
-Two different devotions are often called "the St. Faustina novena," and the distinction matters:
-
-1. **The Divine Mercy Novena** (§ 6 above) — the novena **given through** St. Faustina by our Lord, prayed for the world's salvation. When most Catholics say "the St. Faustina novena," this is usually what they mean.
-2. **A novena to St. Faustina herself** — a devotional exercise asking the **intercession of the saint**, documented fully in this section.
-
-The invocation of the saints is a doctrine of the faith: those who have died in grace, "united with Christ in glory," intercede for men (CCC 956), and the Church commends prayer to the saints (CCC 2683). St. Faustina is invoked especially as the **apostle and secretary of Divine Mercy**; the Church keeps her feast as an **Optional Memorial on 5 October** (Roman Martyrology, 5 October), the anniversary of her death in Kraków in 1938. The nine-day arrangement given below is, however, a **private devotional aid** — not a liturgical rite and not an obligatory formula — structured around her approved spirituality.
-
-### 7.2 When to Pray It
-
-- **27 September – 5 October**, as preparation for her feast: nine consecutive days concluding on the feast itself, which is then kept as a day of thanksgiving. The dates may be shifted a day either way in any given year; what matters is the nine days ending at (or before) the feast.
-- **At any other time**, for any serious intention — a sickness, a family need, a conversion, a decision, a death in the family — as with any novena to a saint.
-- The calendar date confers no automatic efficacy. The value of the novena lies in persevering prayer, trust in God's mercy, conversion of life, and charity toward one's neighbor.
-
-### 7.3 Preparation
-
-- **An image of the Divine Mercy** — the image our Lord asked St. Faustina to have painted and signed "Jesus, I trust in You" (Diary, § 88) — may be placed where you pray; a lighted candle is an optional help to recollection.
-- **A copy of the _Diary_** (optional) for the day's meditation; the meditations below stand on their own.
-- **The intention(s)**: name before God the person or intention for which the novena is made. In the prayers below, **N.** is the placeholder for a name or intention.
-- **The Sacrament of Penance**: because this devotion points to the mercy celebrated in Confession, the nine days are a fitting time to go to confession (see [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md)); Holy Communion within the novena, when possible, deepens it.
-- **Rosary or chaplet beads** (optional) — see [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md).
-
-### 7.4 The Daily Order of Prayer
-
-The following order may be used each day; when time is short, the Scripture, the day's prayer, and the invocation are the essential core.
-
-1. Make the **Sign of the Cross**.
-2. State the **intention** of the novena (for example: "for N., for the grace of…").
-3. Read the day's **Scripture** passage slowly.
-4. Ponder the day's **meditation** briefly.
-5. Pray the day's **novena prayer**.
-6. Pray the **daily invocation** to St. Faustina.
-7. Pray one **Our Father**, one **Hail Mary**, and one **Glory Be** for the intention.
-8. (Optional) Pray the **[Chaplet of Divine Mercy](chaplet-divine-mercy.md)** or a decade of the Rosary.
-9. On the ninth day (the feast), conclude with the **Concluding Prayer of Thanksgiving** (§ 7.8).
-
-**Daily invocation** (may be repeated during the day):
-
-    St. Faustina, apostle of Divine Mercy,
-    secretary of the mercy of God,
-    pray for us and for the intentions of our hearts,
-    that we may trust in Jesus without limit. Amen.
-
-### 7.5 Overview of the Nine Days
-
-| Day | Theme                               | Petition                                                                                         |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1   | **Trust in God's mercy**            | For the grace of unshakable trust in Jesus' mercy, the signature of her whole message            |
-| 2   | **Conversion and repentance**       | For the grace of true contrition and a humble confession, for oneself and for sinners everywhere |
-| 3   | **Priests and consecrated persons** | For holiness among priests and religious, whom she called the channels of God's mercy            |
-| 4   | **The sick and the suffering**      | To offer illness, weakness, and trials with Christ for the conversion of souls                   |
-| 5   | **The souls in Purgatory**          | For the suffering souls, whom our Lord called "very dear" to His Heart                           |
-| 6   | **Humility and littleness**         | For the grace of humility, obedience, and hiddenness after the pattern of her life               |
-| 7   | **The works of mercy**              | For deeds, words, and prayers of mercy toward every neighbor (CCC 2447)                          |
-| 8   | **The Eucharist and Penance**       | For deeper love of Holy Communion and frequent recourse to the Sacrament of Penance              |
-| 9   | **A merciful death**                | For oneself and for the dying, that each may commend the soul into the mercy of God at the last  |
-
-### 7.6 The Nine Days in Full
-
-#### Day 1 — Trust in God's Mercy
-
-**Scripture:** Psalm 62:8–9; John 20:27b–29.
-
-**Meditation:** Trust is the signature of the whole devotion: the image our Lord commanded carries the words "Jesus, I trust in You," and the first movement of the novena is the surrender of every fear, doubt, and self-measurement to the goodness of God. _"Blessed are those who have not seen and yet believe"_ — trust is the faith of the Christian who comes to the Fount of Mercy without proof in hand.
-
-**Prayer:**
-
-    Merciful Jesus, You revealed to St. Faustina
-    the ocean of Your mercy open to every soul,
-    and You sealed Your image with the words, "Jesus, I trust in You."
-    Through her intercession,
-    grant me unshakable trust in Your goodness.
-
-    Where I am afraid, give me confidence;
-    where I doubt Your forgiveness, give me hope;
-    where I measure Your love by my weakness,
-    let me measure it by Your Cross.
-    May I trust You without limit
-    and lead others to trust You likewise.
-    Through Christ our Lord. Amen.
-
-#### Day 2 — Conversion and Repentance
-
-**Scripture:** Luke 15:17–24.
-
-**Meditation:** The prodigal son returns, and the father runs to meet him. This is the whole Gospel of mercy: no sin is beyond the reach of the Father's forgiveness, and _"let no soul fear to draw near"_ (Diary, § 699). The novena asks not only for one's own conversion but for sinners everywhere, who most need someone to pray for them.
-
-**Prayer:**
-
-    Merciful Father, You welcome every sinner who returns to You.
-    Through the intercession of St. Faustina,
-    give me the grace of true conversion:
-    light to see my sins honestly,
-    sorrow to detest them,
-    courage to confess them humbly.
-
-    Deliver me from despair and from presumption,
-    from hiding my wounds and excusing my faults.
-    Bring me — and sinners everywhere —
-    to the embrace of Your forgiveness
-    in the Sacrament of Penance.
-    Through Christ our Lord. Amen.
-
-#### Day 3 — Priests and Consecrated Persons
-
-**Scripture:** John 20:21–23.
-
-**Meditation:** On Easter evening the Risen Lord breathed the Holy Spirit on the Apostles and entrusted to them the ministry of the forgiveness of sins — the very ministry this feast proclaims. St. Faustina's message honors priests and consecrated souls as the channels through which the mercy of Christ reaches the world; they are to be prayed for with gratitude and constancy.
-
-**Prayer:**
-
-    Merciful Jesus, on the evening of Your Resurrection
-    You sent Your Apostles into the world
-    and gave them the ministry of reconciliation.
-    Through the intercession of St. Faustina,
-    pour out Your grace on Your priests
-    and on all consecrated souls.
-
-    Keep them holy, courageous, and faithful;
-    make them true channels of Your mercy
-    in preaching, in the sacraments, and in their daily lives.
-    Grant perseverance to those who serve,
-    light to those who waver,
-    and to those who have wandered,
-    the grace to return.
-    Through Christ our Lord. Amen.
-
-#### Day 4 — The Sick and the Suffering
-
-**Scripture:** Colossians 1:24.
-
-**Meditation:** St. Paul rejoices to make up in his own flesh "what is lacking" in the afflictions of Christ, for the sake of His Body. Suffering accepted with Christ is not meaningless; St. Faustina, long ill with tuberculosis, offered her weakness and trials for the conversion of sinners. The sick are not abandoned; they are enrolled in the redemptive work of the Cross.
-
-**Prayer:**
-
-    Merciful Jesus, You united human suffering to Your own
-    and made it a participation in Your saving Passion.
-    Through the intercession of St. Faustina,
-    who offered her long illness for the conversion of sinners,
-    receive the sufferings of the sick, N.,
-    and of all who suffer.
-
-    Give them patience in weakness,
-    peace in anxiety,
-    and the grace to offer their trials with Yours.
-    Comfort those who care for them,
-    and let every pain accepted with love
-    become a channel of mercy for the world.
-    Through Christ our Lord. Amen.
-
-#### Day 5 — The Souls in Purgatory
-
-**Scripture:** 2 Maccabees 12:44–46.
-
-**Meditation:** Prayer for the dead is "holy and pious," that they may be delivered from their sins. In the revelations to St. Faustina, our Lord called the souls in Purgatory "very dear" to His Heart and asked that they be brought daily into the ocean of His mercy (the eighth day of the Divine Mercy Novena, § 6 above). Suffrage for the faithful departed is a work of mercy no living Christian may neglect.
-
-**Prayer:**
-
-    Merciful Father, merciful even in Your justice,
-    look upon the souls detained in Purgatory
-    through the Wounds of Your dearly beloved Son.
-    Through the intercession of St. Faustina,
-    who taught us to pray for them with confidence,
-    grant them refreshment, light, and peace.
-
-    Hasten the day of their happiness in Your presence;
-    let our prayers, sacrifices, and Masses assist them;
-    and when we too must pass through that purification,
-    purify us quickly and receive us into Your glory.
-    Through Christ our Lord. Amen.
-
-#### Day 6 — Humility and Littleness
-
-**Scripture:** Matthew 18:3–4.
-
-**Meditation:** God chose as His secretary of mercy an uneducated, hidden, obedient sister — that no flesh might glory in His presence. _"Only the humble soul is able to receive My grace"_ (Diary, § 6 novena). Littleness is not weakness; it is the capacity to receive.
-
-**Prayer:**
-
-    Merciful Jesus, Meek and Humble of Heart,
-    You hide the secrets of Your Kingdom from the wise
-    and reveal them to little ones.
-    Through the intercession of St. Faustina,
-    humble, hidden, and obedient,
-    give me the grace of true humility.
-
-    Free me from the need to be seen,
-    from rivalry and self-importance,
-    from the pride that blocks Your grace.
-    Make me small enough to receive Your mercy
-    and to pass it on without claiming it as my own.
-    Through Christ our Lord. Amen.
-
-#### Day 7 — The Works of Mercy
-
-**Scripture:** Matthew 25:34–40.
-
-**Meditation:** Mercy received must become mercy given. Our Lord taught St. Faustina that He requires of us deeds of mercy — by deed, by word, and by prayer (Diary, § 742) — and the Church's own decree for Divine Mercy Sunday directs the faithful to the frequent performance of works of charity. A novena that does not overflow into action remains unfinished.
-
-**Prayer:**
-
-    Merciful Jesus, You require of us deeds of mercy —
-    by deed, by word, and by prayer —
-    and You taught that what we do for the least
-    we do for You.
-    Through the intercession of St. Faustina,
-    make my mercy real.
-
-    Open my eyes to the poor, the sick, the lonely, the grieving;
-    open my mouth to forgive and to encourage;
-    open my hands to give;
-    open my heart to pray for those no one prays for.
-    Let me not pass by on the other side,
-    but be mercy for someone today.
-    Through Christ our Lord. Amen.
-
-#### Day 8 — The Eucharist and Penance
-
-**Scripture:** John 6:51, 53–54.
-
-**Meditation:** From the pierced Heart of Christ flow the two fountains of mercy in the Church: the water of Penance, which washes away sin, and the Blood of the Eucharist, which feeds us with His life. The Divine Mercy devotion exists to lead the faithful to these sacraments — never away from them.
-
-**Prayer:**
-
-    Merciful Jesus, You left us two fountains of mercy:
-    the water of Penance, which washes away our sins,
-    and the Blood of the Eucharist, which feeds us with Your life.
-    Through the intercession of St. Faustina,
-    give me a deeper love for these sacraments.
-
-    Make me worthy to receive You in Holy Communion;
-    give me grief for my sins and joy in Your forgiveness;
-    let me approach Your altar with reverence
-    and leave it transformed.
-    May every Communion unite me more closely to You
-    and make me an instrument of Your mercy.
-    Through Christ our Lord. Amen.
-
-#### Day 9 — A Merciful Death
-
-**Scripture:** Luke 23:42–43.
-
-**Meditation:** The good thief remembered Christ at his last hour and heard, "Today you will be with me in Paradise." St. Faustina died on 5 October 1938, commending herself to the mercy she had spent her life proclaiming; our Lord promised that the Chaplet prayed at the bedside of the dying envelops the soul in His mercy (Diary, § 687). The novena closes where every Christian life must: at the threshold of eternity.
-
-**Prayer:**
-
-    Merciful Jesus, You promised paradise to the thief
-    who remembered You at the end,
-    and You promised mercy at the hour of death
-    to those who trust in You.
-    Through the intercession of St. Faustina,
-    who died praising Your mercy,
-    grant N. and all the dying a merciful death.
-
-    Keep them firm in faith, in hope, and in love;
-    deliver them from the attacks of the evil one;
-    send Your holy angels to guard them;
-    and receive them into the house of Your Father.
-    When my own hour comes,
-    let me die with Your words on my lips:
-    "Jesus, I trust in You."
-    Through Christ our Lord. Amen.
-
-### 7.7 On the Feast Day (5 October)
-
-- **Assist at Holy Mass** where her Memorial is kept (an Optional Memorial in the Roman Rite; the Roman Martyrology commemorates her on 5 October). If the memorial yields to a higher-ranked celebration that year (for example, a Sunday), the novena continues privately regardless.
-- **Renew the intention and give thanks**: the ninth day is a day of thanksgiving for graces received and entrusted, not of anxious petition.
-- **Pray the Concluding Prayer of Thanksgiving** (§ 7.8), together with the [Chaplet of Divine Mercy](chaplet-divine-mercy.md) or the day's Rosary.
-- **Perform a work of mercy** for someone in need — the fitting seal of a novena in honor of the apostle of mercy.
-
-### 7.8 Concluding Prayer of Thanksgiving
-
-    Merciful Father, You chose Your servant Maria Faustina
-    as the herald of Your boundless mercy toward sinners
-    and made her a living image of the pierced Heart of Your Son.
-    Through her intercession, grant us the grace she preached with her whole life:
-    complete trust in Your goodness,
-    sincere contrition for our sins,
-    charity that flows into deeds of mercy,
-    and confidence in Your forgiveness at every hour of our lives,
-    especially at the hour of our death.
-    Grant also, through her prayers,
-    the favors we now entrust to her intercession, N.,
-    if such be Your holy will
-    and if it serves our salvation and Your greater glory.
-    We ask this through Christ our Lord. Amen.
-
-### 7.9 Pastoral and Doctrinal Notes
-
-- **Status**: This novena is a private devotion, freely used and never imposed. No decree of the Church attaches an indulgence to it (unlike Divine Mercy Sunday, § 5 above); its value lies in the intercession of the saint and in the dispositions of the one who prays (CCC 956; 2683).
-- **The placeholder N.**: Replace **N.** throughout with the name of the person or the intention for whom the novena is made.
-- **Not a substitute for the liturgy or the sacraments**: the novena exists to lead the faithful to Confession, Holy Communion, and the works of mercy — never to replace them.
-- **Praying for the dead**: when the novena is made for a deceased person, it becomes an act of suffrage for the faithful departed; see [liturgy/prayers-for-the-dead.md](prayers-for-the-dead.md).
-- **Keeping both novenas**: the two novenas do not compete — the Divine Mercy Novena (§ 6) belongs to the Paschal Octave, and the novena to St. Faustina to the days before her feast in autumn. Together they mark the year with the mercy of God.
-
----
+The complete daily guide — with preparation, order of prayer, Scripture links, original reading summaries, meditations, and prayers for all nine days — is in [liturgy/novena-st-faustina.md](novena-st-faustina.md). This is a private devotion, not a liturgical rite or obligatory formula; no decree attaches an indulgence to it (CCC 956; 2683).
 
 ## 8. Latin and Eastern Catholic Perspectives
 
 The Feast of Divine Mercy belongs, as a liturgical institution, to the **Roman Rite**: the name "Divine Mercy Sunday" was added to the calendar of the Roman Church by the decree of the Congregation for Divine Worship in 2000, and the indulgence decree of 2002 is addressed to the whole Latin Church.
 
-- **The Eastern Catholic Churches** continue to celebrate the Second Sunday of Easter under their own ancient title — **Thomas Sunday** (Greek _Antipascha_; Slavonic _Novaya Nedelya_, the "New Sunday"), with the stichera and Gospel proper to the appearance of the Risen Lord to Thomas. The Byzantine liturgy of that day already sings the mercy of the Risen Christ: the day opens the Sunday cycle of the Octoechos with the Resurrectional tones, and its kontakia rejoice that "Thomas, who was called the Twin... confessed Christ God."
-- The **Divine Mercy devotion** — the Image, the [Chaplet](chaplet-divine-mercy.md), the Novena, and the Hour of Mercy — has spread widely among Eastern Catholics, particularly in the Ukrainian, Ruthenian, Melkite, and Maronite Churches, and among the Orthodox faithful as a devotion practiced privately. It is not inserted into the Byzantine liturgical books; where an Eastern parish observes "Divine Mercy Sunday," it does so as a **devotion accompanying Antipascha** (chaplet, novena, veneration of the image), while the Divine Liturgy remains the liturgy of Thomas Sunday.
-- Theologically, the devotion resonates profoundly with the Eastern emphasis on the **_philanthrōpia_ (love for mankind) of God**, proclaimed in the repeated petitions of the Divine Liturgy — _"Have mercy on us, O Lord, according to Your great mercy"_ — and in the Paschal celebration of the mercy that "conquered death." The devotion thus functions, on both sides of the Roman-Byzantine line, as an application of one and the same Easter truth.
-
 For the wider ecclesiology of the Catholic communion of Churches, see [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md).
-
----
 
 ## 9. Levels of Doctrinal Authority
 
@@ -687,9 +387,7 @@ For the wider ecclesiology of the Catholic communion of Churches, see [church-hi
 | The plenary and partial indulgences and their conditions                                 | **Ecclesiastical discipline** (Apostolic Penitentiary decree, 29 June 2002) — mutable                 |
 | Our Lord's request for a Feast of Mercy; the promises of Diary, § 699                    | **Approved private revelation** (not required for salvation; CCC 67)                                  |
 | The Divine Mercy Novena, its nine intentions, and the graces promised through it         | **Approved private revelation** — to be understood in the light of the Easter liturgy (DPL § 154)     |
-| The Novena to St. Faustina for her intercession (§ 7 above)                              | **Private devotion** — legitimate prayer of intercession to the saints (CCC 956; 2683)                |
-
----
+| [The novena to St. Faustina for her intercession](novena-st-faustina.md)                 | **Private devotion** — legitimate prayer of intercession to the saints (CCC 956; 2683)                |
 
 ## 10. Frequently Asked Questions
 
@@ -703,10 +401,10 @@ The promise is private revelation; the Church has received it through the gramma
 Our Lord asked that it be prayed from Good Friday to the eve of the Feast of Mercy, and this is the normative and recommended practice, integral to the Paschal Octave. The novena may also be prayed at other times, but the Church directs that the devotion always be understood in the light of the Easter liturgy (DPL § 154).
 
 **What is the difference between the Divine Mercy Novena and the novena to St. Faustina?**
-The **Divine Mercy Novena** is the nine-day prayer dictated by Jesus to St. Faustina, offered for nine groups of souls; it ends on the eve of Divine Mercy Sunday. A **novena to St. Faustina** is a devotion asking her intercession, typically prayed before her feast day on 5 October. The two are often confused because the first is "the St. Faustina novena" in the sense of the novena given through her.
+The **Divine Mercy Novena** is the nine-day prayer dictated by Jesus to St. Faustina, offered for nine groups of souls; it ends on the eve of Divine Mercy Sunday. The separate autumn **novena to St. Faustina** asks her intercession; its full guide is at [liturgy/novena-st-faustina.md](novena-st-faustina.md).
 
 **How is the novena to St. Faustina for her intercession prayed?**
-Commonly from **27 September to 5 October**, the nine days concluding on her feast. Each day: the Sign of the Cross, the stated intention, the day's Scripture, its meditation and novena prayer, the invocation to St. Faustina, and an Our Father, Hail Mary, and Glory Be — with the [Chaplet of Divine Mercy](chaplet-divine-mercy.md) optionally added. The complete daily guide is in § 7 above.
+It is customarily prayed from **27 September through 5 October**. The order of prayer, linked readings with original summaries, meditations, and daily prayers are in [liturgy/novena-st-faustina.md](novena-st-faustina.md).
 
 **Is the Divine Mercy devotion obligatory?**
 No. As a devotion founded on approved private revelation, it is entirely optional (CCC 67); no private revelation adds to the deposit of faith or binds the faithful. It is nevertheless warmly commended by the modern Popes as a faithful echo of the Gospel's mercy.
@@ -730,6 +428,8 @@ No. As a devotion founded on approved private revelation, it is entirely optiona
 ---
 
 ## See Also
+
+- [liturgy/novena-st-faustina.md](novena-st-faustina.md) — The autumn novena asking St. Faustina's intercession
 
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — The Divine Mercy revelations: Image, Chaplet, Feast, and the life of St. Faustina
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) — The full text and method of the Chaplet of Divine Mercy
