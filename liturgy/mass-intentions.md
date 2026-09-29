@@ -77,17 +77,46 @@ Key points about the stipend:
 - The priest is **obligated** to accept Mass intentions even if a stipend cannot be offered. The Church "earnestly recommends" that Masses be offered for the needy who cannot give an offering.
 - A priest may accept only **one stipend per Mass** (Canon 948). If he celebrates several Masses in a day, he may accept an offering for each, but with restrictions on the amount he may retain (Canon 951).
 
-### 3.3 Practical Guide: Preparing the Envelope or Intention Slip
+### 3.3 Practical Guide: Envelopes, Intentions, and Offerings
+
+Parishes often place envelopes near the church entrance, in the pews, or beside a designated drop-box. The labels are local rather than universal, so the printed instructions and the fields on the envelope should be followed. When in doubt, give the envelope to the parish office or sacristy and ask how it is processed.
+
+#### Mass-intention envelopes
+
+A **Mass-intention envelope** asks the parish to have a Mass applied for a named person or a particular pious intention. Common examples include:
+
+| Wording on the intention               | Meaning                              |
+| -------------------------------------- | ------------------------------------ |
+| “For the repose of the soul of [name]” | Prayer for a deceased person         |
+| “For the special intention of [name]”  | Prayer for a living person or a need |
+| “For healing”                          | Petition for healing and strength    |
+| “In thanksgiving”                      | Gratitude for a received blessing    |
+
+The envelope should ordinarily state the intention, any preferred date, and the requester's name and contact details if the parish asks for them. A customary offering may be enclosed, but it is not a price for the Mass or a payment for grace. Canon 945 §2 specifically recommends that priests celebrate Mass for the faithful, especially the needy, even when no offering is received.
+
+#### Love-offering or donation envelopes
+
+**Love offering** is a common parish expression for a voluntary gift. It may support the parish's worship, maintenance, charitable work, a ministry, or a particular collection. Unless the envelope also asks for a Mass intention, it should be treated as a general donation rather than as a request for a Mass.
+
+Some parishes use “love offering” for the customary contribution accompanying a Mass intention. That is a local usage, not a separate sacrament or a universal category in canon law. If the envelope has spaces for a person's name, intention, and requested date, it is probably meant to accompany a Mass request; write the intention clearly or confirm this with the parish office.
+
+#### What to do with the envelope
+
+1. **For a Mass intention:** write the person or purpose, requested date if relevant, and your contact details if requested. Enclose the voluntary offering if you wish to give one.
+2. **For a general love offering:** write the purpose if the envelope provides a choice, such as parish support, charity, or a ministry. No Mass intention needs to be written unless you are specifically requesting one.
+3. **Submit it** in the parish collection, designated drop-box, parish office, or sacristy, according to the local instructions. For a date-sensitive intention, contact the parish office directly because a drop-box cannot confirm availability.
+4. **Keep the purposes clear:** if you are making both a donation and a Mass request, identify both separately or ask the parish how to record them.
+5. **If you cannot offer money,** you may still request prayer or a Mass intention. The Church does not make the Eucharistic sacrifice available only to those who can afford an offering.
 
 When submitting a Mass intention — whether at the parish office counter or through a drop-box — it helps to prepare a small envelope or slip with the necessary information clearly written.
 
 **What to write on the envelope (outside):**
 
-Here is a clear template for your specific case — offering a Mass for the repose of the soul of your deceased mother:
+Here is a general template for requesting a Mass for a deceased loved one:
 
 > **FOR:** Mass Intention
 >
-> **INTENTION:** For the repose of the soul of [your mother's full name]
+> **INTENTION:** For the repose of the soul of [full name]
 >
 > **DATE REQUESTED:** [leave blank if no preference, or write a specific date]
 >
@@ -104,7 +133,7 @@ Here is a clear template for your specific case — offering a Mass for the repo
 
 > I respectfully request a Mass to be offered for the repose of the soul of
 >
-> **_[Your Mother's Full Name]_**
+> **_[Full Name]_**
 >
 > May she rest in peace. Amen.
 >
