@@ -6,6 +6,8 @@ For a source-attributed video synthesis of the Rosary's relationship to the Brow
 
 For the complete text and theological context of the Litany of Loreto, see [Litany of the Blessed Virgin Mary](litany-of-the-blessed-virgin-mary.md).
 
+For the history, liturgical rank, indulgence conditions, and devotional context of the October 7 observance, see [Feast of the Holy Rosary](../feast-of-the-holy-rosary.md).
+
 ---
 
 ## 1. Visual Guide to the Rosary Beads

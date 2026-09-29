@@ -6,6 +6,8 @@ For a source-attributed video synthesis focused on the Rosary, Brown Scapular, F
 
 For the complete text and history of the Litany of Loreto, see [Litany of the Blessed Virgin Mary](litany-of-the-blessed-virgin-mary.md).
 
+For the liturgical history and current Roman and Eastern Catholic observance of October 7, see [Feast of the Holy Rosary](../feast-of-the-holy-rosary.md).
+
 ---
 
 ## 1. Early Antecedents: The "Paternoster" and Marian Psalters
