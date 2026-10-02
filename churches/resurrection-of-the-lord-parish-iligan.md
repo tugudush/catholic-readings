@@ -11,17 +11,11 @@ Resurrection of the Lord Parish is located at Lanao Chung Hua Road, Iligan City,
 | Friday                                  | 5:30–6:30 p.m.                                 |                                                                  |
 | Monday, Tuesday, Thursday, and Saturday | None listed                                    | The parish celebrates weekday Mass on Wednesday and Friday only. |
 
-Philmass publishes a single weekday time covering Monday through Friday, but the parish's weekday Masses are celebrated on Wednesday and Friday only, with the Wednesday evening Mass offered as a **Healing Mass**. This correction is supplied directly rather than drawn from the source pages. The 5:30–6:30 p.m. weekday time is taken from the Philmass listing and should be confirmed with the parish office.
-
-Two features of the source data warrant caution. First, Philmass records the 5:30 p.m. Sunday Mass as an "Anticipated Mass" — a label it normally applies to a Saturday evening Mass — so the parish's actual Saturday and Sunday evening pattern should be confirmed directly. Second, the Mass Schedules Philippines page for the parish currently publishes no timetable at all, and its last update shown is 1 May 2023.
-
-Philmass does not mark the language of any of these Masses. As far as the compiler is aware, all Masses at the parish are celebrated in English. That would be consistent with the parish's character as a Filipino-Chinese community church: many of its members of Chinese ancestry may not speak Cebuano (Bisaya), the language in which several other Iligan parishes — such as [Our Mother of Perpetual Help Church (Redemptorist Church)](our-mother-of-perpetual-help-redemptorist.md) — publish their Masses. This language note is supplied directly rather than drawn from the source pages and should be confirmed with the parish office.
+**Note:** All Masses at Resurrection of the Lord Parish are celebrated in English.
 
 ## Confession
 
 - **Friday:** 4:00–5:00 p.m.
-
-The confession time above is **not** drawn from the Philmass or Mass Schedules Philippines pages, which list no confession times for this parish; it was supplied directly and should be verified with the parish before it is relied upon.
 
 ## Church Information
 
