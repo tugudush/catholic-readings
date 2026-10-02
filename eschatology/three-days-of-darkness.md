@@ -298,7 +298,49 @@ Keeping a **crucifix** in the home, blessed **palm branches** from Palm Sunday, 
 
 ### 7.4 Staying indoors and not opening the door
 
-Some versions counsel remaining indoors and refusing to open the door — in a few modern forms, only after a special "testing prayer." Nothing in Catholic teaching identifies a specific prayer of this kind, and this is precisely the sort of **invented devotional apparatus** that should be received with caution.
+Many versions counsel remaining indoors; some go further and forbid that the door be opened at all. A few modern forms attach a further condition: that the door may be opened **only after the visitor recites a special "testing prayer."**
+
+#### 7.4.1 The "testing prayer" to which this page refers (2024)
+
+The concrete instance this page has in view is a prayer circulated in **May 2024** by the **Apostolate of the Green Scapular** (the ministry of **Anna Marie**), published as a message purporting to come from "Our Savior, Jesus Christ" on **9 May 2024** (Ascension Thursday). According to the published account, the prayer was given so that the faithful would not "be tricked into opening the door to evil spirits disguised as loved ones": before opening the door to anyone who knocks, the person inside is to ask the visitor to recite the following **word for word**:
+
+    In the Name of Jesus Christ, Son of the Living God,
+    I am His servant.
+    I adore only God the Father, God the Son and God the Holy Spirit.
+    I denounce satan and his emissaries in any form or aspect that they approach me.
+    I rebuke all evil spirits in the Name of Jesus Christ, Son of the Living God,
+    and I surrender to Jesus Christ my life now and forever. Amen.
+
+The message attaches several further instructions:
+
+- If the visitor is a demon disguised as a family member, he "will not repeat these words exactly"; in that case, **do not open the door**. If the visitor **does** recite the prayer, he may be admitted "for refuge."
+- If **more than one** person is at the door, **each** must recite the prayer before the door is opened.
+- A **blessed crucifix** is to be fixed **above** (not on) the front door — ideally on the outside — and also above the back door, sliding doors, and garage door.
+- The **candles** must be **100% beeswax**, "blessed by a Catholic or Orthodox Priest."
+
+A companion set of questions and answers, circulated by the blog **Mary Refuge of Souls** ("A Soul") on **20 May 2024**, adds that those who cannot speak (small children, the disabled) are "exempt"; that the prayer is meant for the days _preceding_ the darkness, not during it; and that no sign or locution will announce the darkness's onset. The same commentary asserts a "first" Three Days of Darkness at the end of a claimed "**Harbinger Week**" (the seven days before its expected "Great Warning"), with a final Three Days later at the end of the Great Tribulation.
+
+> **Reported, not endorsed.** None of this has any ecclesiastical approval. The Apostolate's alleged messages and the "A Soul" commentary are **unapproved private revelation**; the local bishop, not the publisher, is competent to judge them (see [../book-of-truth/catholic-discernment-guide.md](../book-of-truth/catholic-discernment-guide.md)). The account is recorded here because it is the specific "testing prayer" to which this page refers — and because it is a textbook illustration of the **proliferating devotional apparatus** the Church asks the faithful to weigh.
+
+#### 7.4.2 What is, and is not, objectionable here
+
+A careful judgment separates three things that are easily confused.
+
+**(a) The words themselves are largely unobjectionable.** The formula is essentially an **act of renunciation of Satan** and an **act of surrender to Christ** — a prayer of faith, in the tradition of the baptismal renunciations and of the prayer to St. Michael. Nothing in its vocabulary is contrary to faith or morals, and a Catholic may say such a prayer freely.
+
+**(b) The framework is the problem.** What should give a Catholic pause is not the wording but the **claims built around it**:
+
+- **A private revelation is imposing a new condition for safety.** A private revelation — even an approved one — "does not add to or correct the definitive public Revelation of Christ" and binds no one ([CCC 66–67](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/para-67); [_Dei Verbum_ 4](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f)). An unapproved message cannot make a new prayer, a new candle, or a new door ritual **necessary**.
+- **The prayer is treated as a test with a guaranteed result.** The claim that a demon "will never" recite the words, so that exact recitation proves a visitor is human, turns a prayer into a **formula** with quasi-automatic efficacy — precisely the mark of **superstition**, which the Church condemns ([CCC 2111, 2117](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f)). A sacramental works by the Church's prayer, disposing the soul to grace — not by compulsion of nature, and not as a charm.
+- **New _necessary_ sacramentals are multiplied.** "Only 100% beeswax, blessed by a Catholic or Orthodox priest" is not a Church requirement; the Church's _Book of Blessings_ blesses candles without prescribing a particular wax or a particular crisis ([sacramentals/blessings-of-daily-life.md](../sacramentals/blessings-of-daily-life.md)). The addition of a required **wax grade**, a required **blesser**, and **matches blessed by a priest** is the invention of a devotional apparatus.
+- **The timeline multiplies and contradicts itself.** A "Harbinger Week," a "first" Three Days at the Warning, and a final Three Days at the end of the Tribulation are dates and sequences asserted on private authority alone, and the sources elsewhere on this page describe different sequences. Christ forbids date-setting flatly ([Mark 13:32](https://www.drbo.org/x/d?b=drb&c=mk&g=13&p=32); [CCC 1040](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f)).
+- **"Exemptions" and later "corrections" follow.** As noted in [§4.5](#45-other-mystics-locutionists-and-movements-all-unverified), the message and its commentary were followed within days by clarifications and "corrections" — a pattern the Church lists among the **negative indicators** in the discernment of spirits.
+
+**(c) The Church already has what the apparatus promises.** The protection the message offers through a proprietary formula is the protection the Church offers through ordinary means: the **sacramental life** — Baptism, the Eucharist, Penance — and the **sacramentals** she has given for use in the home: **holy water**, the **crucifix**, blessed candles, blessed palms, the **Medal of St. Benedict**, and the blessings of homes. See [sacramentals/README.md](../sacramentals/README.md), [sacramentals/holy-water.md](../sacramentals/holy-water.md), [sacramentals/sacred-images.md](../sacramentals/sacred-images.md), [sacramentals/medal-of-st-benedict.md](../sacramentals/medal-of-st-benedict.md), and [sacramentals/blessings-of-daily-life.md](../sacramentals/blessings-of-daily-life.md).
+
+#### 7.4.3 The rule to apply
+
+The rule is the one the whole page applies. A **free private devotion** — including a prayer of renunciation and surrender — is a good thing when it expresses faith and reliance on God. It becomes harmful when it is presented as **necessary**, when its exact performance is treated as **guaranteeing** a result, when it multiplies **apparatus** and **conditions**, or when it is used to **bind the conscience** of others. The 2024 Dicastery norms are a call to hold private phenomena "at their proper level," remembering that even an approved apparition is approved only because its message "contains nothing contrary to faith or morals" — never because every attached instruction is true. See [doctrinal-foundations.md](doctrinal-foundations.md#6-the-2024-dicastery-norms).
 
 ### 7.5 Faith, conversion, and the sacraments
 
@@ -446,5 +488,6 @@ Discernment, humility, hope, and trust in the providence of God, who has reveale
 - **La Salette.** Bishop Philibert de Bruillard of Grenoble, decree declaring the apparition worthy of belief (19 September 1851); pastoral letter (16 November 1851); Holy Office decree restricting discussion of the "Secret" (21 December 1915), in the _Acta Apostolicae Sedis_, 1915; see also [../miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md).
 - **Mystics and devotional attributions.** St. Faustina Kowalska, _Diary_ 83, 1588; Bl. Anna Maria Taigi (beatified 1920); Bl. Elisabetta Canori Mora (beatified 1994); St. Mary of Jesus Crucified / Mariam Baouardy (canonized 2015); St. Pio of Pietrelcina (canonized 2002); Marie-Julie Jahenny (no formal ecclesiastical declaration); Servant of God Luisa Piccarreta, _Book of Heaven_ (cause opened 1994).
 - **Movements and modern claims.** Fr. Stefano Gobbi, _To the Priests, Our Lady's Beloved Sons_ (locutions 1972–1997; movement of pontifical right, 1993); Fr. Michel Rodrigue (talks and transcripts as circulated by "Countdown to the Kingdom"); John Leary (messages since 1993); Luz de María (messages of 19 May 2025 and 17 December 2023, as circulated by Mary Refuge of Souls); Christina Gallagher; Apostolate of the Green Scapular (messages of 13 October 2019 and 9 May 2024, with corrections of 12 May 2024); Mary Refuge of Souls commentary (1 November 2021).
+- **The "testing prayer" (unapproved private revelation; quoted only as its promoters publish it).** Apostolate of the Green Scapular, Anna Marie, "Message from Our Savior, Jesus Christ: 'I will to speak with you about the coming "Days of Darkness" and what my beloved Apostles should do in preparation for this event'" (9 May 2024, Ascension Thursday) — the "Special Testing Prayer," the instruction that each visitor recite it word-for-word before the door is opened, and the directions on blessed crucifixes and 100% beeswax candles; with the accompanying "Prepared Questions" and answers attributed to Jesus, received by "A Soul" of Mary Refuge of Souls (20 May 2024), and the excerpt PDF _Regarding the Special Testing Prayer for Three Days of Darkness_ (25 May 2024). Circulated via greenscapular.org and Mary Refuge of Souls / _Handbook of God the Father_ (handbook.faith); see [§7.4](#74-staying-indoors-and-not-opening-the-door). Recorded for study, not for belief.
 - **Modern catechesis.** Fr. Chris Alar, MIC, end-times catechesis (see [alar-end-times-interview.md](alar-end-times-interview.md)); Fr. Chad Ripperger, lectures on the last things and on the crisis (see [ripperger-our-times-part-iii-detachment-suffering-hope.md](ripperger-our-times-part-iii-detachment-suffering-hope.md)).
 - **Magisterial and conciliar sources.** _Catechism of the Catholic Church_ 65–67, 668, 675–677, 988–1004, 1038–1050, 1667–1679, 1817–1821, 2111, 2117; Vatican II, _Dei Verbum_ 4; Congregation for the Doctrine of the Faith, _Some Aspects of Christian Eschatology_ (17 May 1979), DH 3839; Dicastery for the Doctrine of the Faith, _Norms for Proceeding in the Discernment of Alleged Supernatural Phenomena_ (17 May 2024); _Code of Canon Law_ (CIC) 751, 1364 §1.
