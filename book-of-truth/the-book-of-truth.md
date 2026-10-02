@@ -68,7 +68,7 @@ The following are the recurring claims of the corpus, reported as claims. Where 
 
 Central to the corpus is a predicted global event called **"the Warning"** — an Illumination of Conscience in which God makes His presence known and reveals to each person his or her own sins. The messages allegedly state that "billions of people will convert during The Warning," and that this event would occur "after My Holy Vicar [Benedict XVI] has left Rome."
 
-> **Catholic note:** The _idea_ of a coming "illumination of conscience" is not unique to this corpus; it appears in various alleged revelations and in popular Catholic literature (see [eschatology/alar-end-times-interview.md](../eschatology/alar-end-times-interview.md)). But the specific attached date claims did not come to pass as stated, and the claim derives no authority from the Church.
+> **Catholic note:** The _idea_ of a coming "illumination of conscience" is not unique to this corpus; it appears in various alleged revelations and in popular Catholic literature (see [eschatology/alar-end-times-interview.md](../eschatology/alar-end-times-interview.md)). But the specific attached date claims did not come to pass as stated, and the claim derives no authority from the Church. For a full treatment of the Warning in this corpus and across other private revelations, see [../eschatology/the-warning.md](../eschatology/the-warning.md).
 
 ### 5.2 Pope Benedict XVI and the Papacy
 
