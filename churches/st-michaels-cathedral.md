@@ -16,7 +16,7 @@ The Monday through Friday timetable is identical on the source page for the disp
 
 - **Address:** Iligan City, Lanao del Norte
 - **Telephone:** 0916 590 0443
-- **Confession:** No schedule listed on the source page
+- **Confession:** Friday, 4:00–5:00 p.m. (not listed on the source page; provided directly to the compiler and pending confirmation with the cathedral)
 - **Facebook:** [St. Michael's Cathedral Iligan City Official](https://www.facebook.com/smichaelscathedraliligancityofficial)
 
 ## Source and Verification
@@ -24,5 +24,7 @@ The Monday through Friday timetable is identical on the source page for the disp
 - **Source:** [St. Michael's Cathedral Mass Schedule](https://www.mass-schedules.com/catholic-church/900/st-michaels-cathedral.html)
 - **Page update shown by source:** April 29, 2026, 8:44 a.m.
 - **Schedule displayed:** Sunday, 2 August through Saturday, 8 August 2026
+
+The confession schedule above is **not** drawn from the Mass Schedules Philippines page, which lists no confession times for this cathedral; it was supplied directly and should be verified with the cathedral before it is relied upon.
 
 Mass Schedules Philippines cautions that its data may not be accurate or updated. Confirm the timetable directly with the cathedral before attending, particularly on holy days, solemnities, and other exceptional dates.

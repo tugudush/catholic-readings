@@ -237,6 +237,8 @@ Published parish and cathedral schedules, confession times, contact details, and
 - **Church Schedule Index**: See [churches/README.md](churches/README.md) for the directory scope and source convention.
 - **St. Michael's Cathedral**: See [churches/st-michaels-cathedral.md](churches/st-michaels-cathedral.md) for the published weekly Mass timetable and church information in Iligan City, Lanao del Norte.
 - **Our Mother of Perpetual Help Church (Redemptorist Church)**: See [churches/our-mother-of-perpetual-help-redemptorist.md](churches/our-mother-of-perpetual-help-redemptorist.md) for the published weekly Mass timetable, confession schedule, and church information in Iligan City, Lanao del Norte.
+- **Resurrection of the Lord Parish**: See [churches/resurrection-of-the-lord-parish-iligan.md](churches/resurrection-of-the-lord-parish-iligan.md) for the published weekly Mass timetable and church information in Iligan City, Lanao del Norte.
+- **Chapel of the Holy Relics, OAD Middle Tabor Hill**: See [churches/chapel-of-holy-relics-cebu.md](churches/chapel-of-holy-relics-cebu.md) for the published Sunday Latin Mass schedule in Cebu City.
 
 ---
 

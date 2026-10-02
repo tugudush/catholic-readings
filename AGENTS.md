@@ -86,6 +86,8 @@ Before adding or modifying any documents, check the existing directory structure
   - [churches/README.md](churches/README.md): Local Catholic church records, published Mass schedules, confession times, contact details, and source-verification notes.
   - [churches/st-michaels-cathedral.md](churches/st-michaels-cathedral.md): Published Mass timetable and church information for St. Michael's Cathedral in Iligan City, Lanao del Norte.
   - [churches/our-mother-of-perpetual-help-redemptorist.md](churches/our-mother-of-perpetual-help-redemptorist.md): Published Mass timetable, confession schedule, and church information for Our Mother of Perpetual Help Church (Redemptorist Church) in Iligan City, Lanao del Norte.
+  - [churches/resurrection-of-the-lord-parish-iligan.md](churches/resurrection-of-the-lord-parish-iligan.md): Published Mass timetable and church information for Resurrection of the Lord Parish in Iligan City, Lanao del Norte.
+- [churches/chapel-of-holy-relics-cebu.md](churches/chapel-of-holy-relics-cebu.md): Published Sunday Latin Mass schedule at the Chapel of the Holy Relics, OAD Middle Tabor Hill, Cebu City.
 - [miracles/](miracles/):
   - [miracles/README.md](miracles/README.md): Master index and theological principles of discerning private revelations.
   - [miracles/marian-apparitions/](miracles/marian-apparitions/): Marian apparitions organized by canonical status into three categories — **approved** (declared "worthy of belief"), **ongoing-investigations** (permitted or unjudged, without a declaration of supernatural origin), and **rejected** (judged not of supernatural origin or prohibited):
