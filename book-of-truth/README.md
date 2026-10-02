@@ -64,7 +64,7 @@ Applying the repository's four-level distinction:
 - **The Church's true teaching on the end of the world** — see [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md) and [eschatology/README.md](../eschatology/README.md).
 - **Millenarianism and its condemnation** — see the Catechism discussion of the Church's rejection of millenarianism at [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md).
 - **Authentic vs. false private revelation** — see [miracles/README.md](../miracles/README.md) and [gifts-holy-spirit/discernment-of-spirits.md](../gifts-holy-spirit/discernment-of-spirits.md).
-- **Careful treatments of other popular end-times claims** — see [eschatology/three-days-of-darkness.md](../eschatology/three-days-of-darkness.md), [eschatology/alar-end-times-interview.md](../eschatology/alar-end-times-interview.md), [eschatology/hell-private-revelations.md](../eschatology/hell-private-revelations.md), and the source-critical study of the "Warning" in [eschatology/the-warning.md](../eschatology/the-warning.md).
+- **Careful treatments of other popular end-times claims** — see [eschatology/three-days-of-darkness.md](../eschatology/three-days-of-darkness.md), [eschatology/signs-in-the-heavens-and-the-cross.md](../eschatology/signs-in-the-heavens-and-the-cross.md), [eschatology/alar-end-times-interview.md](../eschatology/alar-end-times-interview.md), [eschatology/hell-private-revelations.md](../eschatology/hell-private-revelations.md), and the source-critical study of the "Warning" in [eschatology/the-warning.md](../eschatology/the-warning.md).
 
 ---
 
