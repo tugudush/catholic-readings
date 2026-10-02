@@ -11,6 +11,8 @@ Our Mother of Perpetual Help Church, also called Redemptorist Church, is listed 
 | Wednesday                         | 6:00–7:00 a.m. Cebuano; 5:30–6:30 p.m. English                                                   | Both Masses are marked Novena Mass and Facebook Live.                                         |
 | Saturday                          | 6:00–7:00 a.m. Cebuano; 5:30–6:30 p.m. English                                                   | The 5:30 p.m. Mass is the anticipated Mass.                                                   |
 
+> **Note on the "Novena Mass."** The Wednesday Masses are marked _Novena Mass_ in the source timetable. A "Novena Mass" is not a separate rite or sacrament; it is the Mass of the day celebrated in connection with the **Wednesday Novena to Our Mother of Perpetual Help**, a recurring Marian devotion promoted by the Redemptorists. The novena is prayed in connection with the Mass, while the Mass's own liturgical texts follow the Church's calendar. See [Novenas and Novena Masses](../liturgy/novenas.md) for a full explanation.
+
 ## Confession
 
 - **Tuesday–Saturday:** 4:30–5:15 p.m.

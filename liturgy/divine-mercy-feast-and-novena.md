@@ -430,6 +430,7 @@ No. As a devotion founded on approved private revelation, it is entirely optiona
 ## See Also
 
 - [liturgy/novena-st-faustina.md](novena-st-faustina.md) — The autumn novena asking St. Faustina's intercession
+- [liturgy/novenas.md](novenas.md) — What a novena is, and what a "Novena Mass" is (the distinction between devotion and the Mass)
 
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — The Divine Mercy revelations: Image, Chaplet, Feast, and the life of St. Faustina
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) — The full text and method of the Chaplet of Divine Mercy

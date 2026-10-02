@@ -396,6 +396,7 @@ Replace **N.** with the name of the person or the intention for whom the novena 
 ## See Also
 
 - [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md) — Divine Mercy Sunday, its indulgence, and the Divine Mercy Novena
+- [liturgy/novenas.md](novenas.md) — What a novena is, and what a "Novena Mass" is (the distinction between devotion and the Mass)
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) — The full text and method of the Chaplet
 - [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md) — The Hour of Great Mercy at 3:00 p.m.
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) — The Sacrament of Penance

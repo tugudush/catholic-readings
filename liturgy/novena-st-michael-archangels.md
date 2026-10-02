@@ -369,6 +369,7 @@ With the pastor's permission, a parish may pray the novena's daily prayer or the
 ## See Also
 
 - [Feast of St. Michael the Archangel](feast-of-st-michael-archangel.md) - Roman Rite feast, Eastern Catholic observances, Mass readings, and Michaelmas customs
+- [Novenas and Novena Masses](novenas.md) - what a novena is, and what a "Novena Mass" actually is
 - [St. Michael the Archangel](../saints/st-michael-archangel.md) - biblical identity, patronage, traditional prayer, and sources
 - [Foundational Catholic Prayers](foundational-prayers.md) - common prayers in Latin and Eastern Catholic forms
 - [Mass Intentions: Doctrine, Practice, and Pastoral Guidance](mass-intentions.md) - Mass offerings, intentions, canon law, and parish practice
