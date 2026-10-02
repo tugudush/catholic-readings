@@ -6,7 +6,7 @@ Resurrection of the Lord Parish is located at Lanao Chung Hua Road, Iligan City,
 
 | Day                                     | Mass times                                     | Notes                                                            |
 | --------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
-| Sunday                                  | 8:30–9:30 a.m.; 5:00–6:00 p.m.; 5:30–6:30 p.m. | The source labels the 5:30 p.m. Sunday Mass "Anticipated Mass."  |
+| Sunday                                  | 8:30–9:30 a.m.; 5:00–6:00 p.m.; 5:30–6:30 p.m. |                                                                  |
 | Wednesday                               | 5:30–6:30 p.m.                                 | Healing Mass.                                                    |
 | Friday                                  | 5:30–6:30 p.m.                                 |                                                                  |
 | Monday, Tuesday, Thursday, and Saturday | None listed                                    | The parish celebrates weekday Mass on Wednesday and Friday only. |
