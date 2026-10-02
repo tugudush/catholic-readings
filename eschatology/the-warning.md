@@ -72,7 +72,7 @@ The corpus says the Warning will be announced by visible signs in the heavens. T
 - **5 June 2011 — "Two comets will collide, My cross will appear in a red sky":** "They will see great signs in the skies, before The Warning takes place. Stars will clash … a great red sky will result and the Sign of My Cross will be seen all over the world, by everyone."
 - **8 June 2011 — "Prepare your family to witness My Cross in the Sky":** the Cross in the sky is presented as the "Divine Sign" marking that the Illumination has begun; "when they see My Cross in the sky they will be prepared."
 
-The same "Cross in the sky / two comets collide" motif appears in the earlier, unapproved **Garabandal** tradition (§3.2.1) — an example of the corpus absorbing an existing devotional image and re-anchoring it to its own timeline.
+The same "Cross in the sky / two comets collide" motif appears in the earlier, unapproved **Garabandal** tradition (§3.2.1) — an example of the corpus absorbing an existing devotional image and re-anchoring it to its own timeline. The motif in full — its biblical and patristic roots and its other private-revelation witnesses — is treated in [signs-in-the-heavens-and-the-cross.md](signs-in-the-heavens-and-the-cross.md).
 
 ### 2.4 What the corpus says follows the Warning
 
@@ -316,6 +316,7 @@ Christ Himself supplies it: "But of that day or hour, no one knows, neither the 
 - [doctrinal-foundations.md](doctrinal-foundations.md) — the Church's actual doctrine on the Last Things, including the 2024 Dicastery norms.
 - [alar-end-times-interview.md](alar-end-times-interview.md) — Fr. Chris Alar's catechesis on the Warning and the order of end-time events according to the saints.
 - [three-days-of-darkness.md](three-days-of-darkness.md) — the _Book of Truth_'s "days of darkness" material, Blessed Anna Maria Taigi, Marie-Julie Jahenny, Luisa Piccarreta, and the 1915 Holy Office decree.
+- [signs-in-the-heavens-and-the-cross.md](signs-in-the-heavens-and-the-cross.md) — the "Cross in the sky" precursor sign, its biblical/patristic roots, and the Dozulé ruling of 2025.
 - [../miracles/marian-apparitions/ongoing-investigations/garabandal.md](../miracles/marian-apparitions/ongoing-investigations/garabandal.md) — the classic Warning → Miracle → Chastisement schema, unapproved.
 - [../miracles/marian-apparitions/ongoing-investigations/medjugorje.md](../miracles/marian-apparitions/ongoing-investigations/medjugorje.md) — the 2024 _nihil obstat_ and the unverified "secrets."
 - [../miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md), [../miracles/marian-apparitions/approved/la-salette.md](../miracles/marian-apparitions/approved/la-salette.md), and [../miracles/marian-apparitions/approved/akita.md](../miracles/marian-apparitions/approved/akita.md) — the approved, conditional warnings.

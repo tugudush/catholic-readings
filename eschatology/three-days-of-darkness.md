@@ -468,6 +468,7 @@ Discernment, humility, hope, and trust in the providence of God, who has reveale
 
 - [Doctrinal Foundations](doctrinal-foundations.md) — the magisterial sources on eschatology, including the 2024 norms.
 - [The Warning (Illumination of Conscience)](the-warning.md) — the _Book of Truth_ corpus's central and still-unfulfilled claim, and the same motif across other private revelations.
+- [Signs in the Heavens and the Cross](signs-in-the-heavens-and-the-cross.md) — the companion treatment of the sky-sign (Cross in the sky) motif, with the Dozulé ruling of 2025.
 - [Hell in Private Revelation](hell-private-revelations.md) — the companion treatment of another popular eschatological topic, with the same doctrinal distinctions.
 - [Reading List](reading-list.md) — recommended books on Catholic eschatology.
 - [../book-of-truth/README.md](../book-of-truth/README.md) — the corpus's unapproved status and its documented claims.
