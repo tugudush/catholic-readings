@@ -4,11 +4,14 @@ Resurrection of the Lord Parish is located at Lanao Chung Hua Road, Iligan City,
 
 ## Mass Schedule
 
-| Day           | Mass times                                     | Notes                                                                                            |
-| ------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Sunday        | 8:30–9:30 a.m.; 5:00–6:00 p.m.; 5:30–6:30 p.m. | The source labels the 5:30 p.m. Sunday Mass "Anticipated Mass."                                  |
-| Monday–Friday | 5:30–6:30 p.m.                                 | A single evening Mass each weekday; the Monday through Friday times are identical in the source. |
-| Saturday      | None listed                                    | The source publishes no Saturday Mass for this parish.                                           |
+| Day                                     | Mass times                                     | Notes                                                            |
+| --------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------- |
+| Sunday                                  | 8:30–9:30 a.m.; 5:00–6:00 p.m.; 5:30–6:30 p.m. | The source labels the 5:30 p.m. Sunday Mass "Anticipated Mass."  |
+| Wednesday                               | 5:30–6:30 p.m.                                 | Healing Mass.                                                    |
+| Friday                                  | 5:30–6:30 p.m.                                 |                                                                  |
+| Monday, Tuesday, Thursday, and Saturday | None listed                                    | The parish celebrates weekday Mass on Wednesday and Friday only. |
+
+Philmass publishes a single weekday time covering Monday through Friday, but the parish's weekday Masses are celebrated on Wednesday and Friday only, with the Wednesday evening Mass offered as a **Healing Mass**. This correction is supplied directly rather than drawn from the source pages. The 5:30–6:30 p.m. weekday time is taken from the Philmass listing and should be confirmed with the parish office.
 
 Two features of the source data warrant caution. First, Philmass records the 5:30 p.m. Sunday Mass as an "Anticipated Mass" — a label it normally applies to a Saturday evening Mass — so the parish's actual Saturday and Sunday evening pattern should be confirmed directly. Second, the Mass Schedules Philippines page for the parish currently publishes no timetable at all, and its last update shown is 1 May 2023.
 
