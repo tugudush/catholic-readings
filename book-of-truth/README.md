@@ -1,0 +1,70 @@
+# The Book of Truth (Maria Divine Mercy)
+
+> ⚠️ **Doctrinal status — NOT APPROVED.** The writings promoted as _The Book of Truth_ are a body of **unapproved private revelation** attributed to an anonymous Irish woman writing under the pseudonym **"Maria Divine Mercy."** They have **no ecclesiastical approval** (Latin: _nihil probatum_), and several dioceses and bishops have formally prohibited or discouraged their dissemination after finding elements of the texts contrary to Catholic faith and theology. **Nothing in this directory is proposed for belief** as faith or morals, and no Catholic is bound — or even encouraged — to accept it. See [church-assessment-and-warnings.md](church-assessment-and-warnings.md) for the complete ecclesial record.
+
+---
+
+## Purpose of This Directory
+
+This directory documents _The Book of Truth_ corpus — the messages allegedly received by "Maria Divine Mercy" from 2010 to 2015 and promoted as preparation for the Second Coming of Christ — **as an object of study**, in the same way this repository documents rejected or disputed apparitions (see [miracles/marian-apparitions/rejected/](../miracles/marian-apparitions/rejected/) and [miracles/marian-apparitions/ongoing-investigations/](../miracles/marian-apparitions/ongoing-investigations/)).
+
+Because these texts circulate widely in print and online and are frequently presented to Catholics as authentic prophecy, this directory exists to:
+
+- record **what the corpus claims** and on what authority it claims it;
+- record **what competent Church authorities have actually said** about it;
+- explain the **doctrinal problems** identified by those authorities; and
+- provide a **Catholic framework for discernment** so that readers can evaluate such claims correctly.
+
+This is documentation, **not endorsement**. The repository's [AGENTS.md](../AGENTS.md) conventions require that private revelation be distinguished sharply from Divine Revelation, ecclesiastical discipline, and theological opinion; this directory applies that rule strictly.
+
+---
+
+## Directory Contents
+
+| Document                                                               | What it covers                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [the-book-of-truth.md](the-book-of-truth.md)                           | Comprehensive study of the corpus — the alleged locutionist, chronology, volumes, prayers, dissemination, principal claims and themes, writing style, and the unfulfilled predictions.                                                                                                |
+| [church-assessment-and-warnings.md](church-assessment-and-warnings.md) | The ecclesial record — the statements and prohibitions of the Diocese of Portland (2013), the Archdiocese of Brisbane (2013), the Archdiocese of Dublin (2014), and the Catholic Bishops' Conference of the Philippines (2019), together with the canonical and doctrinal assessment. |
+| [catholic-discernment-guide.md](catholic-discernment-guide.md)         | How a Catholic should approach unapproved private revelation — the theology of private revelation (CCC 66–67; _Dei Verbum_ 2–4), the Church's criteria for authenticity, practical do's and don'ts, and pastoral guidance for families.                                               |
+
+---
+
+## Quick Facts
+
+| Item                      | Detail                                                                                                                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Alleged recipient**     | An anonymous Irish woman using the pseudonym "Maria Divine Mercy" (widely reported in the press as Mary Carberry; her identity has never been officially confirmed by the Church).                                                                                             |
+| **Alleged sources**       | Claimed locutions from God the Father, Jesus Christ, the Holy Spirit, and the Virgin Mary.                                                                                                                                                                                     |
+| **Period**                | 8 November 2010 – 4 March 2015.                                                                                                                                                                                                                                                |
+| **Volume of material**    | Approximately 1,250–1,330 messages, compiled into a multi-volume set commonly sold as a five-volume collection, plus about 170 "Crusade Prayers" and several litanies.                                                                                                         |
+| **Primary distribution**  | Originally the website _thewarningsecondcoming.com_ (now defunct), plus printed books, social-media groups (e.g., "Jesus to Mankind"), PDFs, and mirrored blogs.                                                                                                               |
+| **Central claim**         | That the messages "unseal" the prophecies of the Book of Revelation and the Book of Daniel and prepare humanity for the Great Tribulation, a global "Warning" (Illumination of Conscience), and the Second Coming, followed by a literal 1,000-year earthly reign.             |
+| **Ecclesial status**      | **Unapproved.** No ecclesiastical approval has ever been granted. Several bishops have prohibited dissemination; the Archdiocese of Dublin (2014) stated the texts have "no ecclesiastical approval" and that "many of the texts are in contradiction with Catholic theology." |
+| **Key doctrinal problem** | Promotion of a **literal earthly millennium** (millenarianism), which the Church has rejected (CCC 675–677, esp. 676); and messages asserting that the successor of Benedict XVI is a "false prophet," which can lead adherents toward **schism** (CIC 751; 1364 §1).          |
+| **Level of authority**    | **Private revelation — and, as judged by multiple local ordinaries, one to be rejected.** It adds nothing to the deposit of faith (CCC 66) and requires no assent.                                                                                                             |
+
+---
+
+## Doctrinal Classification
+
+Applying the repository's four-level distinction:
+
+1. **Divine Revelation / Dogma** — _Not applicable._ _The Book of Truth_ is not Divine Revelation and contains no dogma. The Church's actual doctrine on the Last Things is set out in [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md).
+2. **Ecclesiastical Discipline / Pastoral Practice** — _Not applicable._ No liturgical or disciplinary status attaches to the corpus.
+3. **Private Revelation** — _Applicable, with a negative judgment._ These are alleged private revelations which, unlike the approved apparitions at Fatima, Lourdes, or Guadalupe, have **not** been declared worthy of belief. On the contrary, several diocesan authorities have judged them harmful to faith. See [miracles/README.md](../miracles/README.md) for the theology of authentic private revelation.
+4. **Theological Opinion** — _Applicable._ Assessments of the corpus by theologians and apologists (e.g., Jimmy Akin's analysis for the _National Catholic Register_) fall in this category and are cited as such.
+
+---
+
+## Cross-References
+
+- **The Church's true teaching on the end of the world** — see [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md) and [eschatology/README.md](../eschatology/README.md).
+- **Millenarianism and its condemnation** — see the Catechism discussion of the Church's rejection of millenarianism at [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md).
+- **Authentic vs. false private revelation** — see [miracles/README.md](../miracles/README.md) and [gifts-holy-spirit/discernment-of-spirits.md](../gifts-holy-spirit/discernment-of-spirits.md).
+- **Careful treatments of other popular end-times claims** — see [eschatology/three-days-of-darkness.md](../eschatology/three-days-of-darkness.md), [eschatology/alar-end-times-interview.md](../eschatology/alar-end-times-interview.md), and [eschatology/hell-private-revelations.md](../eschatology/hell-private-revelations.md).
+
+---
+
+## Note on Sources
+
+This directory relies on primary ecclesial documents where possible — the published statements of the Archdiocese of Dublin and the Diocese of Portland, and the circulars and news reports of the Catholic Bishops' Conference of the Philippines — supplemented by critical commentary from the _National Catholic Register_. Claims about the corpus itself (dates, volumes, contents) are reported as the promoters and their published editions present them, and are attributed as claims, not facts. Where a detail is contested or unverifiable, it is marked as such.
