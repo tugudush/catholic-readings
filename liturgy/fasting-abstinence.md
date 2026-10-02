@@ -149,6 +149,7 @@ _Paenitemini_ (Norm II) expressly permits "eggs, the products of milk, and condi
 
 - Those **outside the age limits** (under 14 for abstinence; under 18 or over 59 for fasting) are not bound by the law, though parents and pastors must educate them in the meaning of penance (canon 1252).
 - **The sick, the infirm, pregnant and nursing women, manual laborers, and all those for whom fasting would endanger health** are excused, either by the nature of the case or by legitimate dispensation. Fasting is a means, never an end; it must never harm health.
+- **Necessity and grave inconvenience**: the law binds only where it does not impose an insupportable burden. One who has no non-meat food reasonably available, or for whom obtaining some would involve serious hardship or notable expense, is excused. The law forbids eating meat; it does not oblige anyone to go out and purchase a substitute meal. This is the ancient principle that _necessity has no law_, applied to a precept that is ecclesiastical discipline and not divine law.
 - **Dispensation and commutation**: the pastor can dispense individual faithful and families for a just cause, and can commute the penance into another work of prayer or charity (canon 1245). Those who legitimately cannot fast are encouraged to substitute some other penance — a greater faithfulness to prayer, an act of charity, or the willing acceptance of their cross.
 
 ### 6.5 Friday Penance
@@ -248,6 +249,9 @@ Not automatically. On an ordinary Friday in the Latin Church, the usual obligati
 
 A person who knowingly and freely refuses a serious penitential obligation may commit grave sin, but mortal sin requires all three conditions: **grave matter, full knowledge, and deliberate consent** ([CCC 1857–1859](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1857)). Illness, danger to health, a lawful dispensation, or another legitimate exemption can remove or lessen the obligation. If the failure was deliberate or responsibility is unclear, it may be mentioned simply in the Sacrament of Penance; an accidental lapse should not become a cause for scrupulosity. Fasting is a school of conversion, not a trap.
 
+**I am very hungry and the only food at home is meat, though I could buy fish from a restaurant. May I eat the meat?**
+Ordinarily yes. The law of abstinence forbids eating meat; it does not oblige anyone to go out and _buy_ a substitute meal. The Church's discipline binds only where it does not impose an insupportable burden, so a person who has no other food at hand, or for whom obtaining an alternative would involve serious hardship or notable expense, is excused by necessity. (This is the same principle treated in §6.4, "Necessity and grave inconvenience.") If, however, a non-meat meal is genuinely and easily available at little cost or effort, the law still binds, and eating the meat anyway is at most a **venial** sin — the matter is light — never automatically mortal. In either case the pastoral counsel is the same: do not be scrupulous, and where the penance is missed, substitute another — greater prayer, an act of charity, or a small self-denial.
+
 ---
 
 ## 11. See Also
@@ -272,6 +276,7 @@ A person who knowingly and freely refuses a serious penitential obligation may c
 - Council of Florence, Bull _Cantate Domino_ (1442) — the temporary character of the apostolic prohibition of blood (DS 1350).
 - _1917 Code of Canon Law_, canons 858, 1251–1254.
 - St. Thomas Aquinas, _Summa Theologiae_, II–II, q. 147.
+- St. Alphonsus Liguori, _Theologia Moralis_, Lib. III, Tract. VI (on the precepts of the Church) — necessity and grave inconvenience as excusing from the law of abstinence.
 - St. Athanasius, _Letter 63_; St. Basil the Great, _Homilies on Fasting_; St. John Chrysostom, _Homilies on the Statues_; St. Leo the Great, _Sermon_ 12.
 - Catechism of the Ukrainian Catholic Church, _Christ – Our Pascha_, §786.
 - Catholic Encyclopedia, entries "Fast" and "Abstinence."
