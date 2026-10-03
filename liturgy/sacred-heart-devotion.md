@@ -590,6 +590,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Scapular of the Sacred Heart mentioned among approved sacramentals.
 - [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The First Saturday devotion and the Immaculate Heart.
 - [liturgy/first-saturdays-devotion.md](first-saturdays-devotion.md) — The Five First Saturdays of reparation to the Immaculate Heart of Mary, the Marian counterpart of the Nine First Fridays.
+- [liturgy/golden-arrow-holy-face-devotion.md](golden-arrow-holy-face-devotion.md) — The Golden Arrow and the Holy Face devotion: reparation for blasphemy and for the profanation of Sunday.
 - [christology/README.md](../christology/README.md) — Christological foundations of the devotion.
 - [saints/st-padre-pio.md](../saints/st-padre-pio.md) — The Efficacious Novena, traditionally the prayer by which St. Pio of Pietrelcina interceded for the intentions of the faithful.
 

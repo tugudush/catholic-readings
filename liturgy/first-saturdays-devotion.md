@@ -304,6 +304,7 @@ The devotion of the Five First Saturdays of reparation to the Immaculate Heart o
 
 - [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The Fatima apparitions, the Secret, and the ecclesial approval (1930).
 - [liturgy/sacred-heart-devotion.md](sacred-heart-devotion.md) — The Nine First Fridays and the Sacred Heart devotion from which the First Saturdays echo.
+- [liturgy/golden-arrow-holy-face-devotion.md](golden-arrow-holy-face-devotion.md) — The Golden Arrow: the companion reparatory devotion for blasphemy against the Holy Name and the profanation of Sunday.
 - [liturgy/rosary/how-to-pray.md](rosary/how-to-pray.md) — The Rosary, the third and fourth conditions of the devotion.
 - [liturgy/rosary/history.md](rosary/history.md) — The history of the Rosary and its papal endorsements.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Brown Scapular, the inseparable companion of the Fatima message.
