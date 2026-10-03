@@ -1,7 +1,5 @@
 # Crusade of Prayers — Common Prayers & Litanies
 
-> ⚠️ **Not approved by the Church — unapproved private revelation.** This is part of the repository's documentation of _The Book of Truth_ (Maria Divine Mercy) corpus, an alleged private revelation with **no ecclesiastical approval** (_nihil probatum_) that several diocesan ordinaries have prohibited after finding elements contrary to Catholic doctrine and morals. It is provided **for study and documentation, not for belief**. For where the corpus texts circulate see [resources.md](../../resources.md); for the Church's official judgments see [church-assessment-and-warnings.md](../../church-assessment-and-warnings.md); for Catholic discernment criteria see [catholic-discernment-guide.md](../../catholic-discernment-guide.md).
-
 _These are the prayers recited **every day** of the seven-day schedule — the opening prayers, the six Litany Prayers, and the closing prayers. Each day document repeats them in full so it can be prayed on its own; they are also collected here for reference._
 
 ---

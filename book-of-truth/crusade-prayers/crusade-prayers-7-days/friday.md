@@ -1,7 +1,5 @@
 # Friday — Crusade of Prayers
 
-> ⚠️ **Not approved by the Church — unapproved private revelation.** This is part of the repository's documentation of _The Book of Truth_ (Maria Divine Mercy) corpus, an alleged private revelation with **no ecclesiastical approval** (_nihil probatum_) that several diocesan ordinaries have prohibited after finding elements contrary to Catholic doctrine and morals. It is provided **for study and documentation, not for belief**. For where the corpus texts circulate see [resources.md](../../resources.md); for the Church's official judgments see [church-assessment-and-warnings.md](../../church-assessment-and-warnings.md); for Catholic discernment criteria see [catholic-discernment-guide.md](../../catholic-discernment-guide.md).
-
 ![Friday divider page](img/page079_img001.png)
 
 **Theme:** Unite our suffering to the suffering of Jesus on the Cross.

@@ -1,7 +1,5 @@
 # Crusade of Prayers — 7 Days
 
-> ⚠️ **Not approved by the Church — unapproved private revelation.** This document is a transcription of a promoter-produced prayer booklet, _Crusade of Prayers — 7 days_ (CrusadePrayerGroup.org edition), which arranges the "Crusade Prayers" attributed to the anonymous locutionist "Maria Divine Mercy" into a seven-day prayer-group format. The texts have **no ecclesiastical approval** (_nihil probatum_), and several diocesan ordinaries have formally prohibited their dissemination after finding elements contrary to Catholic doctrine and morals. This document is provided strictly **for study and documentation purposes**, not for belief. For where the corpus texts circulate, see [resources.md](../../resources.md); for the Church's official judgments, see [church-assessment-and-warnings.md](../../church-assessment-and-warnings.md); for Catholic discernment criteria, see [catholic-discernment-guide.md](../../catholic-discernment-guide.md).
-
 ---
 
 ## Sourcing & Editorial Scope
@@ -9,7 +7,7 @@
 - **Source document:** `Crusade_Prayers_7_Days.pdf`, a 118-page booklet in the CrusadePrayerGroup.org edition of the seven-day format (the booklet itself points readers to www.crusadeprayergroup.org). See [resources.md](../../resources.md) for the repository's hub of where the corpus's primary text circulates.
 - **Format:** a seven-day prayer-group schedule (Sunday through Saturday). Each day lists its theme, the Litanies and Crusade Prayers to be recited, the rosary mysteries for the day, and the Divine Mercy Chaplet.
 - **Editorial treatment:** text extracted from the PDF with Microsoft MarkItDown (embedded images extracted separately with PyMuPDF). Page numbers and page furniture were removed, hard line breaks introduced by PDF text extraction were rejoined, and prayer headings were promoted. All 14 embedded images are collected in the appendix.
-- **Citation caveat:** as with all promoter compilations, numbering, wording and page counts vary between editions — see the citation notes in [resources.md](../../resources.md).
+- **Note:** numbering, wording and page counts vary between editions.
 
 ---
 
