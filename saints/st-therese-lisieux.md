@@ -190,4 +190,5 @@ _A shorter invocation for daily use:_
 - [saints/st-teresa-avila.md](st-teresa-avila.md) — St. Teresa of Ávila, another Carmelite Doctor of the Church.
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — Another great modern mystic.
+- [liturgy/golden-arrow-holy-face-devotion.md](../liturgy/golden-arrow-holy-face-devotion.md) — The Golden Arrow and the Holy Face devotion, from which Thérèse took the second part of her religious name.
 - [saints/README.md](README.md) — Master index of the saints directory.
