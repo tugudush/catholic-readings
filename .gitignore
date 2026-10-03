@@ -30,6 +30,9 @@ Thumbs.db
 *.swp
 *~
 
+# MS Office owner/lock files (e.g. ~$document.docx) created while a file is open
+~$*
+
 # ---------------------------------------------------------------------------
 # Locally installed agent skills (`gh skill install`) — third-party content
 # ---------------------------------------------------------------------------
