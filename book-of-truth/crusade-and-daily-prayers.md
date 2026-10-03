@@ -6,7 +6,7 @@
 
 ## Sourcing & Editorial Scope
 
-- **Source Document:** the promoter booklet _cp-2015-regularsize-8x11.docx_ (Version 01.22.15.b – 6.5 x 9.25).
+- **Source Document:** the promoter booklet _[cp-2015-regularsize-8x11.docx](https://mariadivinemercymessages.weebly.com/uploads/4/9/8/9/49891201/cp-2015-regularsize-8x11.docx)_ (Version 01.22.15.b – 6.5 x 9.25).
 
 - **Booklet Notice:** On page 1, the compiler explicitly notes: `(Prayers that should be said daily are in red text)`.
 
