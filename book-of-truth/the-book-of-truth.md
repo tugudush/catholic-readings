@@ -72,11 +72,11 @@ Central to the corpus is a predicted global event called **"the Warning"** — a
 
 ### 5.2 Pope Benedict XVI and the Papacy
 
-The messages describe Benedict XVI as "the last Pope on earth … chosen by Me to lead My Church during the last days," and predicted that he would be "ousted from the Holy See in Rome" through a plot launched "within the corridors of the Vatican," and later that men "will now try to kill him … [and] will say that he was guilty of a crime of which he is totally innocent."
+The messages describe Benedict XVI as "the last Pope on earth … chosen by Me to lead My Church during the last days," and predicted that he would be "ousted from the Holy See in Rome" through a plot launched "within the corridors of the Vatican" (a message dated 11 February 2012, a year before the resignation), and later that men "will now try to kill him … [and] will say that he was guilty of a crime of which he is totally innocent."
 
 After Benedict's free resignation in February 2013 (which the corpus later claimed to have "predicted"), the messages asserted that the next elected pope would be a **"false prophet"** who would "take over the Seat in Rome," announce a plan to merge world religions, "condone sin," and lead "the shell of the Catholic Church on earth."
 
-> **Catholic note — a grave matter.** Pope Benedict XVI himself declared that he renounced the ministry "with full freedom" and for reasons of age and strength. To claim he was coerced is to contradict the Pope's own testimony. More seriously, to treat a legitimately elected Roman Pontiff as a "false prophet" and the Church's visible hierarchy as "the shell of the Catholic Church" is to set the reader on the road to **schism**, which the Code of Canon Law defines as "the refusal of submission to the Supreme Pontiff or of communion with the members of the Church subject to him" (CIC 751), a delict carrying _latae sententiae_ excommunication (CIC 1364 §1).
+> **Catholic note — a grave matter.** Pope Benedict XVI himself declared that he renounced the ministry "with full freedom" and for reasons of age and strength. To claim he was coerced is to contradict the Pope's own testimony; claims that the resignation was forced by infiltrators, including Freemasons, are unproven allegations and are treated at [../enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md#claims-of-masonic-infiltration-of-the-church). More seriously, to treat a legitimately elected Roman Pontiff as a "false prophet" and the Church's visible hierarchy as "the shell of the Catholic Church" is to set the reader on the road to **schism**, which the Code of Canon Law defines as "the refusal of submission to the Supreme Pontiff or of communion with the members of the Church subject to him" (CIC 751), a delict carrying _latae sententiae_ excommunication (CIC 1364 §1).
 
 ### 5.3 The Antichrist and the "New World Religion"
 
@@ -106,7 +106,7 @@ The messages are written in the first person in an authoritative, urgent, and re
 
 A decisive test of alleged prophecy is whether its predictions come to pass (cf. Deuteronomy 18:21–22). The corpus attached specific, checkable claims to itself, and several did not occur:
 
-- **The "ousting" of Benedict XVI.** The messages predicted the Pope would be forced out by a Vatican plot. He in fact freely resigned for reasons of age and health, and said so explicitly.
+- **The "ousting" of Benedict XVI.** The messages foretold that the Pope "will be ousted from the Holy See in Rome" through a plot, in a message dated 11 February 2012 — a year before the resignation. What happened was not an ousting: Benedict XVI resigned freely, for reasons of age and strength, and said so explicitly. The corpus's "ousting" therefore holds only if a voluntary act is read as a forced one.
 - **The Warning after Benedict "leaves Rome."** The predicted global Illumination of Conscience, tied to Benedict's departure, did not occur as described.
 - **The Great Tribulation's conclusion.** A tribulation period finishing around 2016 did not materialize.
 - **The "false prophet" and the New World Religion.** The predicted immediate installation of an antipope who would merge world religions did not occur.

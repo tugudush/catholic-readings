@@ -15,10 +15,11 @@ A comprehensive treatment of the history, beliefs, structure, and the Catholic C
 7. [The 1983 CDF Declaration](#the-1983-cdf-declaration)
 8. [The 2023 DDF Reaffirmation](#the-2023-ddf-reaffirmation)
 9. [Current Canonical and Disciplinary Status](#current-canonical-and-disciplinary-status)
-10. [Freemasonry and Protestantism](#freemasonry-and-protestantism)
-11. [Freemasonry in the Philippines](#freemasonry-in-the-philippines)
-12. [Nazi Persecution of Freemasons](#nazi-persecution-of-freemasons)
-13. [Summary](#summary)
+10. [Claims of Masonic Infiltration of the Church](#claims-of-masonic-infiltration-of-the-church)
+11. [Freemasonry and Protestantism](#freemasonry-and-protestantism)
+12. [Freemasonry in the Philippines](#freemasonry-in-the-philippines)
+13. [Nazi Persecution of Freemasons](#nazi-persecution-of-freemasons)
+14. [Summary](#summary)
 
 ---
 
@@ -329,6 +330,37 @@ The Catholic Bishops' Conference of the Philippines (CBCP) issued guidelines in 
 
 ---
 
+## Claims of Masonic Infiltration of the Church
+
+The Church's condemnation of Freemasonry is a judgment about **principles** (see [Theological Reasons for Incompatibility](#theological-reasons-for-incompatibility)). A separate and far weaker kind of statement is the allegation that individual Freemasons, or a coordinated Masonic plan, have covertly penetrated the Church's institutions and turned them to Masonic ends. Claims of this kind circulate widely in traditionalist and conspiracy literature. They are reported here as **claims**, marked for what they are, and measured against the standard of proof the Church's own defenders of orthodoxy apply to them.
+
+| Claim                                                                                                        | Status                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Freemasons hold or have held concealed posts in the curia, religious orders, or seminaries                   | **Unproven allegation.** Repeated in apologetic literature; not established by documentary evidence.          |
+| A plan by enemies within the Vatican, said to include Freemasons, forced Pope Benedict XVI to resign in 2013 | **Unproven allegation.** Contradicted by the Pope's own testimony (see below).                                |
+| The Second Vatican Council, the 1983 Code of Canon Law, or later reforms are Masonic in origin               | **Theological opinion or allegation.** A criticism of a text or of a person is not a demonstration of agency. |
+
+### The claim that Benedict XVI was forced out
+
+The most specific form of the allegation is that Benedict XVI did not resign freely but was driven from the See of Peter by enemies within the Vatican, sometimes identified as Freemasons. On the record:
+
+- **Pope Benedict XVI declared the contrary himself.** In his declaration of 11 February 2013 he stated that he renounced the ministry **"with full freedom"**, giving advanced age and declining strength as his reasons ([text](https://www.vatican.va/holy_father/benedict_xvi/speeches/2013/february/documents/hf_ben-xvi_spe_20130211_declaratio_en.html)). To accept the allegation, one must set aside the testimony of the man said to have been coerced.
+- **He repeated the denial afterwards.** In the book-length interviews with Peter Seewald conducted before and after his resignation, he again rejected the suggestion that he had been pressured.
+- **What is documented is different in kind.** The leak affair of 2012 ("Vatileaks"), the recollections of Cardinal Godfried Danneels about a reform-minded group of cardinals active around the 2013 conclave (the "St. Gallen group" named in Austen Ivereigh's biography of Pope Francis), and the 2018 testimony of Archbishop Carlo Maria Viganò concern curial governance, the conclave, and the Theodore McCarrick case respectively. None of them establishes a Masonic plan, and none of them establishes that the resignation was coerced.
+- **The allegation is the premise of a schismatic position.** If the 2013 resignation is treated as invalid or forced, the pope elected in 2013 is treated as an antipope — the position known as "Benevacantism" (or "Beneplenism"). That is the refusal of submission to the Supreme Pontiff which the Code of Canon Law defines as **schism** (CIC 751), a delict carrying _latae sententiae_ excommunication (CIC 1364 §1). The same allegation is also used to present as fulfilled the prediction of the unapproved _Book of Truth_ corpus that Benedict XVI would be "ousted" from the Holy See; that corpus's text circulates only through the channels catalogued at [book-of-truth/resources.md](../book-of-truth/resources.md), and its doctrinal difficulties are treated at [book-of-truth/the-book-of-truth.md](../book-of-truth/the-book-of-truth.md).
+
+### The standard of proof
+
+An allegation of infiltration is not made true by repetition, however serious the disorder invoked to explain it. This repository's own sources state the test plainly:
+
+> "A claim about infiltration requires documentary evidence, not only repetition in apologetic literature."
+
+See [eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md](../eschatology/ripperger-our-times-part-iv-qa-spiritual-warfare.md), which classifies such allegations as an _historical allegation requiring primary documentation_ and warns against treating "historical conspiracy as certainty", and [eschatology/ripperger-navigating-crisis-church-world.md](../eschatology/ripperger-navigating-crisis-church-world.md), which likewise flags "alleged communist infiltration" among the claims needing independent primary documentation.
+
+**Pastoral rule.** The Church's doctrine on Freemasonry needs no conspiracy theory to stand: it rests on the irreconcilability of principles and on the papal acts of 1738, 1884, 1983, and 2023. A Catholic may hold, as a private opinion, that individual Masons have at some time held office in Catholic institutions. A Catholic may not assert as fact a coerced papal resignation, and may not treat a canonically elected Roman Pontiff as an antipope; to do so is to set a private theory above the explicit testimony of the Pope who resigned.
+
+---
+
 ## Freemasonry and Protestantism
 
 The relationship between Freemasonry and Protestant churches varies significantly by denomination and by region.
@@ -412,6 +444,8 @@ The Catholic Church's teaching on Freemasonry may be summarized in the following
 
 7. **"Christianity and Freemasonry are essentially irreconcilable, so that enrolment in one means separation from the other"** (Pope Leo XIII, _Custodi_, 1892, quoted by the CDF in 1985).
 
+8. **The condemnation does not rest on unproven historical allegations.** Masonic principles are irreconcilable with Catholic doctrine whether or not any Mason has ever held office in a Catholic institution; claims of covert Masonic capture of the Church — including the claim that a papal resignation was forced — require documentary evidence, not repetition (see [Claims of Masonic Infiltration of the Church](#claims-of-masonic-infiltration-of-the-church)).
+
 ---
 
 ## Principal Magisterial Sources
@@ -441,5 +475,6 @@ The Catholic Church's teaching on Freemasonry may be summarized in the following
 - [Catechism of the Catholic Church, §§ 675, 846–848, 2104–2109 — on indifferentism, the necessity of the Church for salvation, and the true meaning of religious freedom]
 - [nazis-vs-freemasons-robbing-lodges.md](nazis-vs-freemasons-robbing-lodges.md) — Documentary summary: the Nazi looting of Masonic lodges during WWII, the Soviet seizure of the archives, and their repatriation in 1999
 - [church-history/sects-and-non-christian-communities.md](../church-history/sects-and-non-christian-communities.md) — Magisterial classification of sects, non-Christian communities, and true particular Churches
+- [book-of-truth/church-assessment-and-warnings.md](../book-of-truth/church-assessment-and-warnings.md) — The ecclesial record on the unapproved _Book of Truth_ corpus, whose predictions about Benedict XVI and his successor are sometimes read into the events treated above
 - [sacraments/apostasy-formal-defection.md](../sacraments/apostasy-formal-defection.md) — On the indelible baptismal character and the impossibility of truly ceasing to be Catholic
 - [catholic-organizations/knights-of-columbus.md](../catholic-organizations/knights-of-columbus.md) — The Knights of Columbus: the Catholic fraternal order founded in 1882 as a Catholic alternative to the oath-bound secret societies condemned by the Church, and the contrast between Catholic fraternal bodies and Freemasonry
