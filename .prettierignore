@@ -4,6 +4,9 @@
 # Installed dependencies
 node_modules/
 
+# Locally installed agent skills (`gh skill install`) — third-party content
+.agents/skills/
+
 # Private content that is intentionally not committed
 private-assets/
 private-confessions/

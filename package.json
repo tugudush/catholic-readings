@@ -4,8 +4,8 @@
   "private": true,
   "description": "Catholic content and source database — documentation repository",
   "scripts": {
-    "format": "node format.js",
-    "format:check": "node format.js --check"
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "devDependencies": {
     "prettier": "^3.6.2"
