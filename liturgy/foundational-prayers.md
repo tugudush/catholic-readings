@@ -74,6 +74,25 @@ In the Eastern Liturgies, the Lord's prayer is always followed immediately by th
 
 - **Doxology:** For Thine is the kingdom and the power and the glory, of the Father and of the Son and of the Holy Spirit, now and ever and forever. Amen.
 
+### Cebuano (Binisaya)
+
+The text below is the traditional Binisaya (Cebuano) rendering published by the Basilica Minore del Sto. Niño de Cebu — a Church source, reproduced as published rather than newly translated, with capitalization and punctuation normalized to sentence case. Several Cebuano variants circulate, for these devotional texts were long transmitted orally and diocese by diocese; for liturgical use the normative text is the Cebuano edition of the Roman Missal approved for the Philippine Church. The Catechism's exposition of the Lord's Prayer is at CCC 2759–2865.
+
+- **Cebuano (Binisaya):**  
+  Amahan namo nga anaa sa mga langit,  
+  pagdaygon ang imong ngalan,  
+  umabot kanamo ang imong gingharian,  
+  matuman ang imong pagbuot  
+  dinhi sa yuta maingon sa langit.  
+  Ang kalan-on namo sa matag adlaw  
+  ihatag kanamo karon adlawa,  
+  ug pasayloa kami sa among mga sala  
+  ingon nga nagapasaylo kami sa mga nakasala kanamo,  
+  ug dili mo kami itugyan sa panulay,  
+  hinunua luwasa kami sa dautan. Amen.
+
+_Source: Basilica Minore del Sto. Niño de Cebu, [Amahan Namo / Our Father](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/amahan-namo-our-father/)._
+
 ---
 
 ## 3. The Hail Mary (_Ave Maria_)
@@ -107,6 +126,19 @@ The Eastern tradition keeps the biblical formulation as an angelic salutation of
   and blessed is the fruit of thy womb,  
   for thou hast borne the Savior of our souls.
 
+### Cebuano (Binisaya)
+
+- **Cebuano (Binisaya):**  
+  Maghimaya ka Maria, puno ka sa grasya.  
+  Ang Ginoong Dios maanaa kanimo.  
+  Bulahan ikaw sa babaeng tanan,  
+  ug bulahan man usab ang bunga sa tiyan mo nga si Hesus.  
+  Santa Maria Inahan ka sa Dios,  
+  ig-ampo mo kaming makasasala.  
+  Karon ug sa oras sa among igkamatay. Amen.
+
+_Source: Basilica Minore del Sto. Niño de Cebu, [Maghimaya ka Maria / Hail Mary](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/maghimaya-ka-maria-hail-mary/)._
+
 ---
 
 ## 4. The Glory Be (_Gloria Patri_)
@@ -121,6 +153,17 @@ The traditional doxology of praise to the Trinity, recited at the end of Psalms 
 ### Byzantine Rite
 
 - **English:** Glory to the Father, and to the Son, and to the Holy Spirit, now and ever, and forever. Amen. (Or _...unto ages of ages. Amen._)
+
+### Cebuano (Binisaya)
+
+- **Cebuano (Binisaya):**  
+  Himaya sa Amahan,  
+  ug sa Anak,  
+  ug sa Espiritu Santo.  
+  Maingon sa sinugdan, karon ug sa gihapon,  
+  ug sa mga katuigan nga walay katapusan. Amen.
+
+_Source: Basilica Minore del Sto. Niño de Cebu, [Himaya sa Amahan / Glory Be](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/himaya-sa-amahan-glory-be/)._
 
 ---
 
@@ -164,6 +207,34 @@ A more literal line-by-line rendering where the opening "I believe" governs the 
   carnis resurrectionem, vitam aeternam. Amen._
 
 _Note on Eastern Practice:_ Eastern Catholic Churches (Byzantine, Maronite, Chaldean, etc.) do not traditionally use the Apostles' Creed in liturgical services, but recite the **Nicene-Constantinopolitan Creed** (see § 5a below). In their Greek and Byzantine-rite liturgies, they omit the Latin clause _Filioque_ ("and the Son") to preserve the original Greek Conciliar text, which is an accepted theological and canonical difference in complete communion with Rome.
+
+### Cebuano (Binisaya)
+
+The traditional Cebuano form is reproduced as published by the Basilica Minore del Sto. Niño de Cebu, including its older spellings (_Nagatoo_, _Ulay_, _ikatolo_, _minatay_), which are retained rather than modernized. It is a vernacular form of the same baptismal creed, not a distinct profession of faith.
+
+- **Cebuano (Binisaya):**  
+  Nagatoo ako sa Dios nga Amahan,  
+  makagagahum sa tanan,  
+  magbubuhat sa langit og sa yuta.  
+  Nagatoo ako kang Jesukristo,  
+  iyang bugtong anak nga atong Ginoo,  
+  gipanamkon siya sa lalang sa Espiritu Santo,  
+  ug natawo gikan ni Maria nga Ulay.  
+  Gisakit siya sa sugo ni Poncio Pilato,  
+  gilansang sa krus, namatay ug gilubong.  
+  Miadto siya sa mga nangamatay  
+  ug sa ikatolo ka adlaw nabanhaw siya.  
+  Misaka sa langit, ug nagalingkod sa too sa Dios Amahan,  
+  makagagahum sa tanan.  
+  Gikan didto mobalik siya aron paghukom sa mga buhi ug sa mga minatay.  
+  Nagatoo ako sa Espiritu Santo,  
+  sa santos ug Katoliko nga Simbahan,  
+  sa panag-ambit sa mga santos,  
+  sa kapasayloan sa mga sala,  
+  ug sa pagkabanhaw sa lawas  
+  ug sa kinabuhing walay katapusan. Amen.
+
+_Source: Basilica Minore del Sto. Niño de Cebu, [Nagatuo / Apostles' Creed / Credo](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/nagatuo-apostles-creed-credo/)._
 
 ---
 
