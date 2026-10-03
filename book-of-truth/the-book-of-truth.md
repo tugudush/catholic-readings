@@ -48,13 +48,13 @@ Press and Church sources have generally reported the woman to be Irish, and some
 
 The printed collection is commonly marketed as a **five-volume set** under the title _The Book of Truth_, though volume boundaries and edition details vary between publishers and print runs, so exact figures should be treated as the promoters' own.
 
-| Component         | Reported detail                                                                                                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Messages          | Approximately 1,250 to 1,330, received 8 November 2010 – 4 March 2015                                                                                                                                                   |
-| Volumes           | Commonly five printed volumes, organized chronologically by year and month (some editions publish messages and prayers together; others separate them)                                                                  |
-| "Crusade Prayers" | Roughly 170 short prayers attributed to Jesus and Mary, arranged for use in "Crusade Prayer" groups (see [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md) for a transcription of the daily prayers booklet) |
-| Litanies          | A small number (about six) of litanies included with the prayers                                                                                                                                                        |
-| Special editions  | e.g., a shorter compilation of messages said to be directed to priests and sacred servants; prayer cards and audio recordings in multiple languages                                                                     |
+| Component         | Reported detail                                                                                                                                                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Messages          | Approximately 1,250 to 1,330, received 8 November 2010 – 4 March 2015                                                                                                                                                                   |
+| Volumes           | Commonly five printed volumes, organized chronologically by year and month (some editions publish messages and prayers together; others separate them)                                                                                  |
+| "Crusade Prayers" | Roughly 170 short prayers attributed to Jesus and Mary, arranged for use in "Crusade Prayer" groups (see [crusade-and-daily-prayers.md](crusade-prayers/crusade-and-daily-prayers.md) for a transcription of the daily prayers booklet) |
+| Litanies          | A small number (about six) of litanies included with the prayers                                                                                                                                                                        |
+| Special editions  | e.g., a shorter compilation of messages said to be directed to priests and sacred servants; prayer cards and audio recordings in multiple languages                                                                                     |
 
 Promoters describe the messages as having been received in daily dictation sessions and transcribed before posting. The corpus was also circulated as free PDFs and through social-media groups (notably the Facebook page "Jesus to Mankind") and video interviews.
 
