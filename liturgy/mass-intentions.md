@@ -371,6 +371,7 @@ You may also request **multiple Masses** — for example, you could ask for a Ma
 ## 10. Cross-References
 
 - [liturgy/mass/order-of-the-mass.md](mass/order-of-the-mass.md) — The central act of Catholic worship, the Eucharistic sacrifice itself
+- [liturgy/birthday-prayers.md](birthday-prayers.md) — Prayers for a birthday, including the Mass _For the Giving of Thanks_ and how to have a Mass offered in thanksgiving
 - [liturgy/prayers-for-the-dead.md](prayers-for-the-dead.md) — Comprehensive guide to all Catholic rites, prayers, and devotions surrounding death
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist: Real Presence, transubstantiation, and liturgical traditions
 - [eschatology/doctrinal-foundations.md](../eschatology/doctrinal-foundations.md) — Magisterial sources on Purgatory, particular judgment, and the last things
