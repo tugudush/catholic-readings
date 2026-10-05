@@ -8,6 +8,8 @@
 
 For a timestamped source-critical synthesis of a contemporary video that uses private visions and devotional narratives to discuss Purgatory, see [Cameron Riecker on Purgatory](cameron-riecker-purgatory-eyewitnesses.md).
 
+For a source-critical verification of the widely circulated (but spurious) quotation attributed to St. Jerome — that the fire of Purgatory suspends its action during Mass and that many souls are released at every Mass — see [The Alleged St. Jerome Quotation on Masses for the Souls in Purgatory](jerome-mass-purgatory-quote.md).
+
 ---
 
 ## 1. The Three Final States After Death

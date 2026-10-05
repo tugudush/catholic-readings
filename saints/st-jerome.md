@@ -186,8 +186,17 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Primary Sources and Further Reading
+## 14. A Note on Spurious Quotations Attributed to St. Jerome
 
+Jerome's name is frequently attached, in popular devotional literature and on social media, to sayings he never wrote. The most widely circulated is the claim that he taught that "when Mass is celebrated for a soul in Purgatory, that burning fire suspends its action, and the soul ceases to suffer for the entire time that the celebration of the Sacrifice lasts," together with the companion claim that "for every Mass that is said, many souls leave Purgatory and fly to heaven." Neither sentence is found in any authentic work of Jerome, and the citation commonly given ("S. Hier., c. cum Mart. de celebr. Miss.") does not correspond to any known work of his. For the full source-critical verification, see [eschatology/jerome-mass-purgatory-quote.md](../eschatology/jerome-mass-purgatory-quote.md).
+
+What Jerome genuinely attests is the Church's ancient practice of prayer and offering for the dead, defended in his _Against Vigilantius_ (6, 8), and the purifying fire of [1 Corinthians 3:11–15](https://www.drbo.org/x/d?b=drb&c=1co&g=3&p=11) as he applies it in his _Commentary on Amos_. What he does not teach is the suspension of purgatorial fire during Mass or a fixed number of souls released per Mass.
+
+---
+
+## 15. Primary Sources and Further Reading
+
+- [eschatology/jerome-mass-purgatory-quote.md](../eschatology/jerome-mass-purgatory-quote.md) — Source-critical verification of the spurious "St. Jerome" quotation on Masses for the souls in Purgatory.
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The canon of Scripture and the history of the Vulgate.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine, contemporary and correspondent of Jerome.
 - [saints/st-ambrose.md](st-ambrose.md) — St. Ambrose, another Latin Doctor.
