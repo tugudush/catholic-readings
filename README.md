@@ -277,6 +277,17 @@ Documentation of the _Book of Truth_ corpus — the alleged private revelations 
 
 ---
 
+## 19. Protestantism — Catholic Comparative Studies
+
+Catholic comparative studies of the Protestant traditions — presented **for comparison and study only**, reporting what each tradition holds from its own confessions and setting that against Catholic doctrine in the Council of Trent, the Second Vatican Council, and the Catechism, with every difference graded as dogma, ecclesiastical discipline, or theological opinion:
+
+- **Master Index & Scope**: Read [protestantism/README.md](protestantism/README.md) for the directory's purpose, its ecclesiological framing (_Unitatis Redintegratio_ 13–22; _Dominus Iesus_ 17; _Apostolicae Curae_), its five guiding principles, and its planned study areas — Scripture and authority (_sola scriptura_ and the canon), justification, the sacraments, ministry and orders, the papacy, the communion of saints and Marian doctrine, liturgy and the Eucharist, eschatology and dispensationalism, denominational surveys (Lutheran, Reformed, Anglican, Baptist, Methodist, Anabaptist, Pentecostal, Evangelical, and Adventist), and ecumenical dialogue.
+- **The Reformation**: See [church-history/protestant-reformation.md](church-history/protestant-reformation.md) for the historical origins (1517–1555), the principal reformers and movements, the five _solae_ and the Catholic response, and the Council of Trent's definitive answer.
+- **Ecclesiological Classification**: See [church-history/sects-and-non-christian-communities.md](church-history/sects-and-non-christian-communities.md) for which communities are particular Churches, which are ecclesial communities, and which lack Christian baptism altogether (_Unitatis Redintegratio_ 13–22; _Dominus Iesus_).
+- **Reading Path for Protestant Inquirers**: Follow [church-history/catholic-conversion-reading-list.md](church-history/catholic-conversion-reading-list.md) for a staged study of Scripture, the Apostolic Fathers, later Fathers, the Catechism, the ecumenical councils, and papal documents, written especially for Protestant inquirers.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
