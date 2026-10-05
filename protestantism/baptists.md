@@ -135,6 +135,7 @@ The chief obstacles are **Baptism**, the **sacraments**, **ministry and orders**
 - [protestantism/reformed-churches.md](reformed-churches.md) — the Reformed tradition and the Particular Baptists
 - [protestantism/calvinism-and-baptists.md](calvinism-and-baptists.md) — how Calvinist and Baptist categories differ and overlap
 - [protestantism/1689-london-baptist-confession.md](1689-london-baptist-confession.md) — the Second London Confession, the classic Particular Baptist standard
+- [protestantism/chief-cornerstone-reformed-baptist-church-antipolo.md](chief-cornerstone-reformed-baptist-church-antipolo.md) — a local Reformed Baptist congregation in Antipolo City that subscribes to the 1689
 - [sacraments/baptism.md](../sacraments/baptism.md) — the sacrament of Baptism and infant Baptism
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — the canon of the seventy-three books
 - [church-history/protestant-reformation.md](../church-history/protestant-reformation.md) — the Reformation in full

@@ -233,6 +233,7 @@ This modern confessional use matters for Catholic readers: it explains why the c
 
 - [protestantism/README.md](README.md) — directory scope and principles
 - [protestantism/baptists.md](baptists.md) — the Baptist tradition as a whole
+- [protestantism/chief-cornerstone-reformed-baptist-church-antipolo.md](chief-cornerstone-reformed-baptist-church-antipolo.md) — a local congregation that subscribes to this confession
 - [protestantism/reformed-churches.md](reformed-churches.md) — the Reformed tradition whose confessions the 1689 reworks
 - [protestantism/anabaptists.md](anabaptists.md) — the Anabaptists, whose teaching on oaths and the sword the 1689 rejects
 - [protestantism/adventism.md](adventism.md) — a tradition that denies the intermediate state the 1689 affirms

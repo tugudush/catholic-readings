@@ -89,6 +89,14 @@ Alongside the surveys of traditions, the directory carries studies of individual
 | :---------------------------------------------- | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **The 1689 London Baptist Confession of Faith** | [1689-london-baptist-confession.md](1689-london-baptist-confession.md) | The Second London Confession (2LCF) — its 1677 origin and 1689 adoption, its textual descent from Westminster and Savoy, all 32 chapters, its Calvinistic Baptist doctrine, and a chapter-by-chapter Catholic assessment. |
 
+### Local Congregations
+
+Alongside the surveys of traditions and confessional standards, the directory also records individual congregations encountered locally — reported from their own public sources and assessed by the same method.
+
+| Congregation                                                  | File                                                                                                           | What it covers                                                                                                                                                                                                                                                                                                                              |
+| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Chief Cornerstone Reformed Baptist Church (Antipolo City)** | [chief-cornerstone-reformed-baptist-church-antipolo.md](chief-cornerstone-reformed-baptist-church-antipolo.md) | A Philippine Reformed (Particular) Baptist congregation holding the 1689 Confession — its self-description, Antipolo location and contact points, order of worship and weekly rhythm, reported ministry roles, and a graded Catholic assessment; with a caution distinguishing it from the Texas church that shares the `ccrbc1689` handle. |
+
 ---
 
 ## Related Documents Elsewhere in the Repository
