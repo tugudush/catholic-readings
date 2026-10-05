@@ -448,6 +448,7 @@ For further study within this repository:
 - [church-history/apostolic-foundation-councils.md](apostolic-foundation-councils.md): The structural and historical development of the Church from apostolic times.
 - [church-history/eastern-catholic-churches.md](eastern-catholic-churches.md): The Eastern Catholic _sui iuris_ Churches and their relations with Rome.
 - [church-history/greek-orthodox-church.md](greek-orthodox-church.md): Theological relations with Eastern Orthodoxy.
+- [church-history/orthodox-east-and-the-reformation.md](orthodox-east-and-the-reformation.md): Why the Orthodox East did not undergo a Protestant-style Reformation, and the comparative Catholic–Orthodox demographics after 1054.
 - [church-history/hebrew-catholicism-relations.md](hebrew-catholicism-relations.md): Catholic-Jewish relations, including _Nostra Aetate_.
 - [church-history/papal-chronology.md](papal-chronology.md): Comprehensive list of the Popes from St. Peter to the present.
 - [scripture/bible-history-canon.md](../scripture/bible-history-canon.md): The Catholic canon of 73 books and the Council of Trent's decree on the Vulgate.
