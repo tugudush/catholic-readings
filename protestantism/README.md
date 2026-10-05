@@ -59,7 +59,35 @@ As the directory is developed, its comparative studies will cover, among others:
 
 ## Documents in This Directory
 
-This is a newly established directory, and its own comparative studies will be listed here as they are added. Until then, the principal Protestant topics are treated in the documents below, which are housed elsewhere in the repository.
+The following comparative studies document the major Protestant families. Each is written to **report** the tradition from its own confessions, **compare** it with Catholic doctrine as defined in the Church's primary sources, and **situate** each difference as a matter of dogma, ecclesiastical discipline, or theological opinion.
+
+| Tradition                 | Document                                     | What it covers                                                                                                                                                                  |
+| :------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lutheranism**           | [lutheranism.md](lutheranism.md)             | Luther, the Augsburg Confession and Book of Concord, _sola fide_ and _sola scriptura_, the sacramental union, the loss of orders, and the _Joint Declaration_ on justification. |
+| **The Reformed Churches** | [reformed-churches.md](reformed-churches.md) | Zwingli and Calvin, the Reformed confessions, double predestination and TULIP, spiritual presence, the regulative principle, and presbyterian/congregational polity.            |
+| **Anglicanism**           | [anglicanism.md](anglicanism.md)             | Henry VIII and the Elizabethan Settlement, the _Book of Common Prayer_ and _Thirty-Nine Articles_, _Apostolicae Curae_, the ARCIC dialogue, and _Anglicanorum coetibus_.        |
+| **The Anabaptists**       | [anabaptists.md](anabaptists.md)             | The Radical Reformation, believers' Baptism, the Schleitheim Confession, nonviolence, the ban, and the Mennonite, Amish, and Hutterite communities.                             |
+| **The Baptists**          | [baptists.md](baptists.md)                   | English Separatism, believers' Baptism by immersion, the two ordinances, congregational autonomy, soul liberty, and the SBC and other bodies.                                   |
+| **Methodism**             | [methodism.md](methodism.md)                 | The Wesleys, Aldersgate, Arminianism and prevenient grace, entire sanctification, connectionalism, and the 2006 accession to the _Joint Declaration_.                           |
+| **Adventism**             | [adventism.md](adventism.md)                 | Miller and the Great Disappointment, the seventh-day Sabbath, the investigative judgment, conditional immortality, Ellen G. White, and the answer to the Sabbath claim.         |
+| **Pentecostalism**        | [pentecostalism.md](pentecostalism.md)       | Azusa Street, the baptism in the Spirit and tongues, the charismatic gifts, Oneness modalism, the prosperity gospel, and the Catholic Charismatic Renewal.                      |
+| **Evangelicalism**        | [evangelicalism.md](evangelicalism.md)       | The modern trans-denominational movement, the Bebbington quadrilateral, fundamentalism and neo-evangelicalism, inerrancy, and _Evangelicals and Catholics Together_.            |
+
+### Comparative Notes
+
+These notes clarify how the traditions and their theological labels relate to one another.
+
+| Topic                      | Document                                               | What it covers                                                                                                                                                                                                                   |
+| :------------------------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Calvinism and Baptists** | [calvinism-and-baptists.md](calvinism-and-baptists.md) | How the two categories differ and overlap — soteriology versus ecclesiology, the four possible combinations, where Calvinist Presbyterians and Calvinist Baptists part ways, common misconceptions, and the Catholic assessment. |
+
+### Confessional Documents
+
+Alongside the surveys of traditions, the directory carries studies of individual Protestant confessional standards.
+
+| Document                                        | File                                                                   | What it covers                                                                                                                                                                                                            |
+| :---------------------------------------------- | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **The 1689 London Baptist Confession of Faith** | [1689-london-baptist-confession.md](1689-london-baptist-confession.md) | The Second London Confession (2LCF) — its 1677 origin and 1689 adoption, its textual descent from Westminster and Savoy, all 32 chapters, its Calvinistic Baptist doctrine, and a chapter-by-chapter Catholic assessment. |
 
 ---
 
