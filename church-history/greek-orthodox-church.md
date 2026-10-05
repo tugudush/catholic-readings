@@ -181,3 +181,11 @@ In 1979, the **Joint International Commission for Theological Dialogue Between t
 - **The Chieti (2016) and Alexandria (2023) Documents:** Continued the historical exploration of Synodal ecclesiology and primacy in the first millennium.
 
 Despite these theological steps, hurdles remain. The structural status of Eastern Catholic Churches (often called Byzantine-rite Catholics, see [eastern-catholic-churches.md](eastern-catholic-churches.md)), questions of local jurisdiction, and deep-seated historical memories (such as the Fourth Crusade's sack of Constantinople in 1204) continue to shape relations between the two ancient Communions. Nonetheless, many clergy, monastics, and laypeople in both Greek Orthodoxy and Roman Catholicism share a profound mutual respect and hope for eventual full communion.
+
+---
+
+## See Also
+
+- [orthodox-east-and-the-reformation.md](orthodox-east-and-the-reformation.md) — Why the Orthodox East did not undergo a Protestant-style Reformation (the logical flaw in the claim that it "did not need" one, the East's own reform and schism movements, and the structural and political causes), with comparative Catholic–Orthodox demographics from 1054 to the present.
+- [eastern-catholic-churches.md](eastern-catholic-churches.md) — The twenty-three Eastern Catholic _sui iuris_ Churches and their relations with Rome.
+- [protestant-reformation.md](protestant-reformation.md) — Origins, doctrinal errors, and the Catholic response to the Western Reformation.
