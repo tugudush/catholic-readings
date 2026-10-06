@@ -37,7 +37,7 @@ Despite fierce opposition from his family—who had expected him to become a Ben
 
 ### The Imprisonment
 
-Thomas's mother, Teodora, was so opposed to his joining the Dominicans that she had him **kidnapped** and imprisoned in the family castle for over a year. During this time, his brothers tried to tempt him into abandoning his vocation by sending a prostitute to his room. Thomas drove her out with a burning brand from the fire, and thereafter, according to tradition, he was granted the grace of perfect chastity, confirmed by angels who girded him with a mystical belt.
+Thomas's mother, Teodora, was so opposed to his joining the Dominicans that she had him **kidnapped** and imprisoned in the family castle for over a year. Later biographical accounts relate that his brothers sent a woman to tempt him into abandoning his vocation, that he drove her away with a burning brand, and that angels later girded him with a cord as a sign of chastity. This is hagiographical tradition, not Thomas's own surviving testimony; see the [Catholic Encyclopedia account](https://www.magisterium.com/docs/f2c979a8-871d-4f46-a059-320d3b837a76/ref/St.%20Thomas%20Aquinas). The episode does not establish that he suffered recurrent lustful thoughts or composed a later prayer circulated under his name.
 
 ### Release and Recovery
 
@@ -171,7 +171,31 @@ In the _Summa Theologica_ (I, q. 2, a. 3), Thomas presents **five proofs for the
 
 ---
 
-## 12. Prayers Asking for the Intercession of St. Thomas Aquinas
+## 12. Attribution Caution: The Prayer for Chastity
+
+A Facebook post by the page [Fear Not](https://www.facebook.com/permalink.php?story_fbid=pfbid0kCamBAXJdrSTv1Jpn44SfdLJrhsvHhM7hozBfWnAu2r22w5asnxXA8UJ6bGrjuUNl&id=100093338191254) labels its text "An effective prayer against lustful thoughts, by St. Thomas Aquinas." It provides no source for the attribution. The post's English wording is a variant of a prayer printed by Reinhard Hütter in his 2012 essay _Pornography and Acedia_ (pp. 6–7), where it is presented as the daily prayer of the Angelic Warfare Confraternity. The cited passage supplies no Aquinas work, Latin original, manuscript, or early edition as the prayer's source ([pp. 6](https://www.magisterium.com/docs/e1f3211e-69a0-445e-b535-9354f732c7a6/ref/page6) and [7](https://www.magisterium.com/docs/e1f3211e-69a0-445e-b535-9354f732c7a6/ref/page7)). This establishes modern devotional use, not authorship by Aquinas.
+
+### Text Circulated in the Facebook Post
+
+The following transcription preserves the post's wording. Its inclusion documents the prayer as circulated and does not establish that St. Thomas Aquinas wrote it.
+
+    Dear Jesus,
+    I know that every perfect gift,
+    and especially that of chastity,
+    depends on the power of Your providence.
+    Without You a mere creature can do nothing.
+    Therefore, I beg You to defend by Your grace
+    the chastity and purity of my body and soul.
+    And if I have ever sensed or imagined anything
+    that could stain my chastity and purity,
+    blot it out, Supreme Lord of my powers,
+    that I may advance with a pure heart in Your love and service,
+    offering myself on the most pure altar of Your divinity
+    all the days of my life. Amen.
+
+The prayer's themes are consonant with Aquinas's treatment of chastity and purity in the _Summa Theologiae_, II-II, q. 151, aa. 1–4, and with his discussion of continence in _The Perfection of the Spiritual Life_, ch. 9. Thematic agreement, however, cannot authenticate a text. In the sources checked for this article, no primary-text locus for this wording has been identified. The responsible description is **a prayer for chastity traditionally attributed to St. Thomas Aquinas** or **a prayer associated with the Angelic Warfare Confraternity, with authorship unverified**. It should not be presented as a prayer securely written by Aquinas. The post's description of it as "effective" is devotional promotion, not a Church guarantee of a particular result.
+
+## 13. Prayers Asking for the Intercession of St. Thomas Aquinas
 
 > **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
 
@@ -203,7 +227,11 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 13. Primary Sources and Further Reading
+## 14. Primary Sources and Further Reading
+
+- Reinhard Hütter, ["Pornography and Acedia," pp. 6–7](https://www.magisterium.com/docs/e1f3211e-69a0-445e-b535-9354f732c7a6/ref/page7) — a modern witness to the prayer's use by the Angelic Warfare Confraternity, not a primary witness to Aquinas's authorship.
+- [St. Thomas Aquinas, _Summa Theologiae_, II-II, q. 151](https://www.newadvent.org/summa/3151.htm) — his treatment of chastity and purity.
+- [St. Thomas Aquinas, _The Perfection of the Spiritual Life_, ch. 9](https://www.magisterium.com/docs/78431c9b-8815-4658-83c7-6c7d2aef2d8d/ref/Chapter%209) — his discussion of continence.
 
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Most Holy Eucharist, whose theology Thomas expounded.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — St. Augustine of Hippo, whose thought Thomas synthesized with Aristotle.
