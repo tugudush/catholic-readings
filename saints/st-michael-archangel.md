@@ -153,6 +153,8 @@ In Eastern iconography, he is often shown in the robes of a courtier rather than
 
 > **Prayer status:** The short Prayer to St. Michael is the formula composed by Pope Leo XIII in 1886; the longer protection prayer below is a devotional composition for this article. Neither text is presented as words written by the archangel.
 
+> **Latin text note:** The Latin Prayer to St. Michael is the traditional text corresponding to Pope Leo XIII's formula. The Latin version of the longer prayer is an editorial rendering of this article's devotional composition, not a separate historical or liturgical text.
+
 St. Michael the Archangel is the Prince of the Heavenly Host, the defender of the Church against the powers of darkness, and the guardian who escorts souls to the judgment seat of God. The faithful invoke him for protection against evil, for strength in spiritual combat, for the dying, and for the Church in her trials. Pope Leo XIII composed the following prayer after a terrifying vision of the battle being waged by the evil one against the Church, and it remains the most widely used invocation of St. Michael:
 
     St. Michael the Archangel,
@@ -164,6 +166,19 @@ St. Michael the Archangel is the Prince of the Heavenly Host, the defender of th
     by the power of God,
     cast into hell Satan and all the evil spirits
     who prowl about the world seeking the ruin of souls.
+    Amen.
+
+_Latin:_
+
+    Sancte Michael Archangele,
+    defende nos in proelio;
+    contra nequitiam et insidias diaboli esto praesidium.
+
+    Imperet illi Deus, supplices deprecamur:
+    tuque, Princeps militiae caelestis,
+    Satanam aliosque spiritus malignos,
+    qui ad perditionem animarum pervagantur in mundo,
+    divina virtute, in infernum detrude.
     Amen.
 
 _A longer prayer for protection:_
@@ -184,10 +199,33 @@ _A longer prayer for protection:_
     pray for us now and at the hour of our death.
     Amen.
 
+_Latin rendering of this article's devotional composition:_
+
+    O gloriosus Princeps caelestis exercitus,
+    Sancte Michael Archangele,
+    defende nos in certamine
+    quod gerimus contra principatus et potestates,
+    contra mundi rectores tenebrarum harum,
+    contra spiritualia nequitiae in caelestibus.
+
+    Veni in auxilium hominum,
+    quos Deus immortales creavit,
+    ad imaginem suam et similitudinem fecit,
+    et a tyrannide diaboli magno pretio redemit.
+
+    Sancte Michael, signifer salutis,
+    ora pro nobis nunc et in hora mortis nostrae.
+    Amen.
+
 _A shorter invocation for daily use:_
 
     St. Michael the Archangel,
     defend us in battle.
+
+_Latin:_
+
+    Sancte Michael Archangele,
+    defende nos in proelio.
 
 ---
 
