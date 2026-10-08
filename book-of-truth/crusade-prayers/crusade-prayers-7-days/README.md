@@ -6,7 +6,7 @@
 
 - **Source document:** `Crusade_Prayers_7_Days.pdf`, a 118-page booklet in the CrusadePrayerGroup.org edition of the seven-day format (the booklet itself points readers to www.crusadeprayergroup.org). See [resources.md](../../resources.md) for the repository's hub of where the corpus's primary text circulates.
 - **Format:** a seven-day prayer-group schedule (Sunday through Saturday). Each day lists its theme, the Litanies and Crusade Prayers to be recited, the rosary mysteries for the day, and the Divine Mercy Chaplet.
-- **Editorial treatment:** text extracted from the PDF with Microsoft MarkItDown (embedded images extracted separately with PyMuPDF). Page numbers and page furniture were removed, hard line breaks introduced by PDF text extraction were rejoined, and prayer headings were promoted. All 14 embedded images are collected in the appendix.
+- **Editorial treatment:** text extracted from the PDF with Microsoft MarkItDown (embedded images extracted separately with PyMuPDF). Page numbers and page furniture were removed, hard line breaks introduced by PDF text extraction were rejoined, and prayer headings were promoted. The 14 extracted page images came out blank (solid black or empty) and carried no legible content, so they were dropped.
 - **Note:** numbering, wording and page counts vary between editions.
 
 ---
@@ -14,7 +14,7 @@
 ## How This Is Organised
 
 - **[common-prayers.md](common-prayers.md)** — the prayers recited every day: the opening prayers, the six Litany Prayers, and the closing prayers.
-- **One document per day** — Sunday through Saturday. Each repeats the common prayers in full so it can be prayed on its own, then gives that day's Crusade Prayers, rosary mysteries, and closing devotions.
+- **One document per day** — Sunday through Saturday. Each day names the prayers recited every day — linking to [common-prayers.md](common-prayers.md) and [crusade-and-daily-prayers.md](../crusade-and-daily-prayers.md) instead of repeating them — then gives that day's own Crusade Prayers and rosary mysteries.
 - **This page** — the schedule, the booklet's own recitation guidelines, and the message index.
 
 ## The Seven Days
@@ -222,28 +222,3 @@ In this section the messages referenced above are listed by prayer number, for t
 38. Mother Of Salvation: Pray For Peace In The World
 
 39. I Give You Now, The Final Crusade Prayer
-
----
-
-## Extracted Images
-
-_Ornamental pages from the source booklet: the cover and the Guidelines divider. Each day document carries its own divider page._
-
-### Page 1
-
-![page001_img001.png](img/page001_img001.png)
-
-### Page 2
-
-![page002_img001.png](img/page002_img001.png)
-![page002_img002.png](img/page002_img002.png)
-![page002_img003.png](img/page002_img003.png)
-![page002_img004.png](img/page002_img004.png)
-
-### Page 109
-
-![page109_img001.png](img/page109_img001.png)
-
-### Page 110
-
-![page110_img001.png](img/page110_img001.png)

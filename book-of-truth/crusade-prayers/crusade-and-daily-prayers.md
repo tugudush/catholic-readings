@@ -2,35 +2,6 @@
 
 ---
 
-## Sourcing & Editorial Scope
-
-- **Source Document:** the promoter booklet _[cp-2015-regularsize-8x11.docx](https://mariadivinemercymessages.weebly.com/uploads/4/9/8/9/49891201/cp-2015-regularsize-8x11.docx)_ (Version 01.22.15.b – 6.5 x 9.25).
-
-- **Booklet Notice:** On page 1, the compiler explicitly notes: `(Prayers that should be said daily are in red text)`.
-
-- **Editorial Selection:** In accordance with this directive, this document provides the complete preparatory devotions (Opening Prayers, Divine Mercy Chaplet, Holy Rosary and Fatima Prayers, Litany Prayers 1–6, and the "Other Prayers Received" appendix) while **filtering the main numbered Crusade Prayers (1–170) exclusively to those highlighted in red text for daily recitation**.
-
-- **Daily Crusade Prayers Included (17 in total):**
-  - Crusade of Prayer (1): _“My Gift to Jesus to Save Souls”_
-  - Crusade of Prayer (13): _Prayer calling for immunity_
-  - Crusade of Prayer (24): _Plenary Indulgence for Absolution_
-  - Crusade of Prayer (30): _Prayer to avert war, famine and religious persecution_
-  - Crusade of Prayer (33): _Rise now and accept the Seal of the Living God_
-  - Crusade Prayer (79): _For 2 Billion Lost Souls_
-  - Crusade Prayer (84): _To enlighten the souls of the elites who rule the world_
-  - Crusade Prayer (96): _To Bless and Protect our Crusade Prayer Group_ (included in Opening Prayers and in the numbered series)
-  - Crusade Prayer (102): _To sustain faith and belief in God’s Message for the world_
-  - Crusade Prayer (103): _To share the Cup of Suffering with Christ_
-  - Crusade Prayer (104): _Free this soul from slavery_
-  - Crusade Prayer (105): _Gift of Conversion for Others_
-  - Crusade Prayer (111): _To consecrate your children to Jesus Christ_
-  - Crusade Prayer (120): _Stop the Spread of War_
-  - Crusade Prayer (122): _For the consecration to the Precious Blood of Jesus Christ_
-  - Crusade Prayer (130): _Novena of Salvation Crusade Prayer_
-  - Crusade Prayer (164): _Prayer of Peace for Nations_
-
----
-
 ## Table of Contents
 
 - [Part I: Opening Prayers](#part-i-opening-prayers)
