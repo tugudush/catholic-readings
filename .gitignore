@@ -34,9 +34,12 @@ Thumbs.db
 ~$*
 
 # ---------------------------------------------------------------------------
-# Locally installed agent skills (`gh skill install`) — third-party content
+# Locally installed agent skills (`gh skill install`)
 # ---------------------------------------------------------------------------
-.agents/skills/
+# Skill sources under .agents/skills/ are tracked; the dependencies a skill
+# installs alongside itself are not. The top-level `node_modules/` rule above
+# already ignores any node_modules directory at any depth, including ones
+# nested inside .agents/skills/.
 
 # ---------------------------------------------------------------------------
 # Private content that is intentionally not committed
