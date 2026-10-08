@@ -16,7 +16,7 @@ Christian communities placed Scripture, preaching, liturgical formation, and the
 
 From the 11th and 12th centuries, communities of teachers and students developed into the medieval universities. Bologna, Paris, and Oxford emerged in distinct circumstances; their organization involved scholars, students, bishops, popes, emperors, towns, and other patrons. The University of Bologna traces its origins to 1088 and describes itself as the oldest university in the Western world. The papacy helped protect, recognize, and regulate some universities, while civil authorities also founded or supported them. The Church was a major patron and institutional partner, but the history does not support the claim that every university was simply founded by the papacy.
 
-The medieval university helped establish durable forms of organized higher learning: faculties, degrees, scholarly disputation, and a community with corporate privileges. Theology was prominent, alongside law, medicine, and the liberal arts. Catholic universities and schools later spread through Europe and, through missionary and local initiatives, to the Americas, Asia, Africa, and Oceania. Their histories are varied: some were founded by religious orders or dioceses, others by governments or lay communities, and many developed through cooperation among them. The Second Vatican Council's *Gravissimum Educationis* §10 and Pope Francis's *Veritatis Gaudium*, Foreword II, describe the Church's present educational mission and its historical relationship to schools and universities. These are valuable primary sources for Catholic self-understanding; specific institutional histories should also be assessed through historical scholarship.
+The medieval university helped establish durable forms of organized higher learning: faculties, degrees, scholarly disputation, and a community with corporate privileges. Theology was prominent, alongside law, medicine, and the liberal arts. Catholic universities and schools later spread through Europe and, through missionary and local initiatives, to the Americas, Asia, Africa, and Oceania. Their histories are varied: some were founded by religious orders or dioceses, others by governments or lay communities, and many developed through cooperation among them. The Second Vatican Council's _Gravissimum Educationis_ §10 and Pope Francis's _Veritatis Gaudium_, Foreword II, describe the Church's present educational mission and its historical relationship to schools and universities. These are valuable primary sources for Catholic self-understanding; specific institutional histories should also be assessed through historical scholarship.
 
 ### 2. Preservation and development of learning
 
@@ -30,7 +30,7 @@ The Church's relationship with science is neither a simple story of uninterrupte
 
 Catholic institutions also supported scientific teaching and research, including astronomy. At the same time, Church authorities sometimes restricted inquiry or judged scientific questions through mistaken interpretations of Scripture or prevailing philosophical assumptions. The trial of Galileo Galilei in 1633 is a major example of institutional error and conflict. It should be described in its historical particulars, not used to claim that the Church always opposed science or that the case was insignificant. Pope St. John Paul II later addressed the Galileo affair and the need for a more careful historical and theological understanding.
 
-The Second Vatican Council affirms the legitimate autonomy of the sciences and culture while insisting that human knowledge should serve the dignity of the person and the common good (*Gaudium et Spes* §§36, 53–62). This is a statement of Catholic teaching, not proof that every historical Church authority consistently honored that principle.
+The Second Vatican Council affirms the legitimate autonomy of the sciences and culture while insisting that human knowledge should serve the dignity of the person and the common good (_Gaudium et Spes_ §§36, 53–62). This is a statement of Catholic teaching, not proof that every historical Church authority consistently honored that principle.
 
 ### 4. Hospitals, nursing, and care for the sick
 
@@ -38,13 +38,13 @@ Christian charity helped give institutional form to the care of the sick, the po
 
 It is more accurate to say that Catholic communities helped build and sustain important traditions of organized health care than to claim that the Church invented hospitals. Forms of medical care and institutions for the sick existed in different ancient and non-Christian societies; the hospital itself developed over time under religious, civic, political, and scientific influences. Modern medicine also depends on the work of physicians, nurses, scientists, governments, and many other institutions.
 
-Pope Benedict XVI's *Deus Caritas Est* §§20–25 describes organized service to people in need as an essential responsibility of the Church, while distinguishing charitable service from political activity. That teaching helps explain the religious motive behind Catholic health care, but it does not substitute for the historical record of particular hospitals.
+Pope Benedict XVI's _Deus Caritas Est_ §§20–25 describes organized service to people in need as an essential responsibility of the Church, while distinguishing charitable service from political activity. That teaching helps explain the religious motive behind Catholic health care, but it does not substitute for the historical record of particular hospitals.
 
 ### 5. Charity, education, and social institutions
 
 Parishes, monasteries, confraternities, religious orders, and lay associations provided forms of almsgiving, hospitality, care for the poor, and assistance during crises. Religious congregations later developed schools, shelters, orphanages, and services for migrants, prisoners, and people with disabilities. In many places these institutions supplemented, preceded, or worked alongside civic and state provision; their availability and effectiveness differed substantially by time and place.
 
-In the modern period, Catholic social teaching addressed industrial labor, poverty, ownership, worker organization, and the responsibilities of employers and governments. Pope Leo XIII's *Rerum Novarum* (1891) is a foundational document in this tradition; later encyclicals and local Catholic movements developed its themes. The Church did not create modern labor law or social welfare on its own, and Catholic political movements have differed in how they applied this teaching. The enduring contribution is a body of moral argument and organized advocacy concerning workers, families, poverty, and the common good.
+In the modern period, Catholic social teaching addressed industrial labor, poverty, ownership, worker organization, and the responsibilities of employers and governments. Pope Leo XIII's _Rerum Novarum_ (1891) is a foundational document in this tradition; later encyclicals and local Catholic movements developed its themes. The Church did not create modern labor law or social welfare on its own, and Catholic political movements have differed in how they applied this teaching. The enduring contribution is a body of moral argument and organized advocacy concerning workers, families, poverty, and the common good.
 
 ### 6. Law, ethics, and political thought
 
@@ -52,7 +52,7 @@ Canon law became a developed legal system governing the Church's internal life a
 
 Catholic thinkers also contributed to debates about natural law, just war, legitimate authority, conscience, and the moral limits of political power. The scholastic writers associated with the University of Salamanca, including Francisco de Vitoria and Bartolomé de las Casas, argued about the rights of Indigenous peoples and the justice of Spanish imperial conduct. These arguments did not end conquest or exploitation, and Catholic actors took differing positions in colonial systems.
 
-Pope Paul III's bull *Sublimis Deus* (1537) declared that Indigenous peoples were truly human, capable of receiving the faith, and were not to be deprived of liberty or property or enslaved. This is a significant primary source in the history of Catholic teaching and debate about Indigenous peoples. It must be read alongside the record of colonial violence, forced labor, dispossession, and the frequent failure of civil and ecclesiastical authorities to secure the protections they proclaimed.
+Pope Paul III's bull _Sublimis Deus_ (1537) declared that Indigenous peoples were truly human, capable of receiving the faith, and were not to be deprived of liberty or property or enslaved. This is a significant primary source in the history of Catholic teaching and debate about Indigenous peoples. It must be read alongside the record of colonial violence, forced labor, dispossession, and the frequent failure of civil and ecclesiastical authorities to secure the protections they proclaimed.
 
 Modern ideas of human rights and political liberty have multiple intellectual and historical sources. Catholic moral thought is one important contributor, but it should not be presented as the sole origin of rights, democracy, or the rule of law.
 
@@ -64,7 +64,7 @@ Christian themes became part of European literature and visual culture, while Ca
 
 ### 8. Calendars, timekeeping, and shared civic life
 
-The Gregorian calendar is a particularly visible example of a Catholic institutional reform that became widely used for civil purposes. Pope Gregory XIII promulgated the reform in 1582 through *Inter gravissimas*, drawing on the work of astronomers and calendar reformers. The reform corrected the drift in the Julian calendar and refined the leap-year rule. It was adopted by different states over several centuries; its worldwide civil use resulted from later political and administrative decisions, not from a single act of the Church.
+The Gregorian calendar is a particularly visible example of a Catholic institutional reform that became widely used for civil purposes. Pope Gregory XIII promulgated the reform in 1582 through _Inter gravissimas_, drawing on the work of astronomers and calendar reformers. The reform corrected the drift in the Julian calendar and refined the leap-year rule. It was adopted by different states over several centuries; its worldwide civil use resulted from later political and administrative decisions, not from a single act of the Church.
 
 The calendar reform also illustrates a wider pattern: Church institutions sometimes helped standardize practices across political boundaries, while the resulting systems could later be used by societies of many religions and none. Some Christian communities continue to use other calendars for particular liturgical observances.
 
@@ -86,22 +86,22 @@ The most defensible conclusion is therefore strong but qualified: **the Catholic
 
 ### Catholic primary sources
 
-- Second Vatican Council, [*Gaudium et Spes*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), especially §§36 and 53–62, on the autonomy of earthly affairs, culture, science, and the Church's relation to human society.
-- Second Vatican Council, [*Gravissimum Educationis*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html), especially §10, on Catholic higher education.
-- Pope Francis, [*Veritatis Gaudium*](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html), Foreword II, on the Church's relationship to culture and universities. Its account of university history is a papal historical interpretation, to be read with independent scholarship.
-- Pope Benedict XVI, [*Deus Caritas Est*](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html), §§20–25, on organized charitable service.
-- Pope Leo XIII, [*Rerum Novarum*](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html), on the condition of workers and the duties of capital and labor.
-- Pope Paul III, [*Sublimis Deus*](https://www.magisterium.com/docs/6cfcceaa-b14c-41d5-8408-4ded69fef41b/ref/page1) (1537), on the humanity, liberty, and property of Indigenous peoples.
-- Pope Gregory XIII, [*Inter gravissimas*](https://www.magisterium.com/docs/a280834b-bf30-4fd3-9475-7c0c80c1910a/ref/6) (1582), on the Gregorian calendar reform and the drift of the equinox.
+- Second Vatican Council, [_Gaudium et Spes_](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), especially §§36 and 53–62, on the autonomy of earthly affairs, culture, science, and the Church's relation to human society.
+- Second Vatican Council, [_Gravissimum Educationis_](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html), especially §10, on Catholic higher education.
+- Pope Francis, [_Veritatis Gaudium_](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html), Foreword II, on the Church's relationship to culture and universities. Its account of university history is a papal historical interpretation, to be read with independent scholarship.
+- Pope Benedict XVI, [_Deus Caritas Est_](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html), §§20–25, on organized charitable service.
+- Pope Leo XIII, [_Rerum Novarum_](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html), on the condition of workers and the duties of capital and labor.
+- Pope Paul III, [_Sublimis Deus_](https://www.magisterium.com/docs/6cfcceaa-b14c-41d5-8408-4ded69fef41b/ref/page1) (1537), on the humanity, liberty, and property of Indigenous peoples.
+- Pope Gregory XIII, [_Inter gravissimas_](https://www.magisterium.com/docs/a280834b-bf30-4fd3-9475-7c0c80c1910a/ref/6) (1582), on the Gregorian calendar reform and the drift of the equinox.
 - Pope St. John Paul II, [Address to a group of young astronomy scholars](https://www.magisterium.com/docs/8e3b6f0c-1751-41d3-b0f5-9ba419a6daee/ref/2) (30 June 1986), on cathedral schools and the development of universities.
 - Pope St. John Paul II, [Address to the Pontifical Academy of Sciences](https://www.vatican.va/content/john-paul-ii/en/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html) (31 October 1992), on the Galileo affair.
 
 ### Historical scholarship and institutional histories
 
-- Walter Rüegg, ed., *A History of the University in Europe*, vol. 1, *Universities in the Middle Ages* (Cambridge University Press, 1992).
-- David C. Lindberg, *The Beginnings of Western Science*, 2nd ed. (University of Chicago Press, 2007).
-- Edward Grant, *God and Reason in the Middle Ages* (Cambridge University Press, 2001).
-- Guenter B. Risse, *Mending Bodies, Saving Souls: A History of Hospitals* (Oxford University Press, 1999).
+- Walter Rüegg, ed., _A History of the University in Europe_, vol. 1, _Universities in the Middle Ages_ (Cambridge University Press, 1992).
+- David C. Lindberg, _The Beginnings of Western Science_, 2nd ed. (University of Chicago Press, 2007).
+- Edward Grant, _God and Reason in the Middle Ages_ (Cambridge University Press, 2001).
+- Guenter B. Risse, _Mending Bodies, Saving Souls: A History of Hospitals_ (Oxford University Press, 1999).
 - The [University of Bologna's history](https://www.unibo.it/en/university/who-we-are/our-history), for the institution's account of its origins.
 
 For related topics in this repository, see [the Church's apostolic and conciliar history](./apostolic-foundation-councils.md), [the history of the Eastern Catholic Churches](./eastern-catholic-churches.md), [Catholic-Jewish relations](./hebrew-catholicism-relations.md), and [the Gregorian liturgical calendar](../liturgy/liturgical-calendar.md).
