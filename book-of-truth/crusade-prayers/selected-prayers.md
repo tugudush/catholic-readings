@@ -6,21 +6,23 @@
 
 ## Purpose of This Page
 
-This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It closes with one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series.
+This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes the **Act of Contrition** (an authentic Catholic prayer, included for convenience and not part of the corpus) and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series.
 
 Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer.
 
 ## The Selected Prayers at a Glance
 
-| #    | Prayer                                         | Theme                                     | Full transcription                                                   |
-| ---- | ---------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------- |
-| (33) | Rise now and accept the Seal of the Living God | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)         |
-| (24) | Plenary Indulgence for Absolution              | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)         |
-| (13) | Prayer calling for immunity                    | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)         |
-| (8)  | The Confession                                 | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md) |
-| (81) | For the Gift of the Holy Communion             | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md) |
-| (94) | To cure the mind, body and soul                | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md) |
-| —    | Prayer for Instant Pardon (16 April 2011)      | Pardon at The Warning                     | [resources.md](../resources.md)                                      |
+| #    | Prayer                                             | Theme                                     | Full transcription                                                       |
+| ---- | -------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------ |
+| (33) | Rise now and accept the Seal of the Living God     | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
+| (24) | Plenary Indulgence for Absolution                  | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
+| —    | Act of Contrition                                  | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md) |
+| —    | Prayer for Instant Pardon (16 April 2011)          | Pardon at The Warning                     | [resources.md](../resources.md)                                          |
+| (8)  | The Confession                                     | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)     |
+| —    | Conversion Prayer for the Lukewarm (16 April 2011) | Conversion of others                      | [resources.md](../resources.md)                                          |
+| (13) | Prayer calling for immunity                        | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
+| (81) | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)     |
+| (94) | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)     |
 
 ---
 
@@ -65,18 +67,27 @@ _Attributed to Jesus, Tuesday, 31 January 2012. The corpus asks that this prayer
 
 ---
 
-## Crusade Prayer (13): Prayer calling for immunity
+## Act of Contrition
 
-_Attributed to God the Father, Sunday, 11 December 2011 — for those who continue to reject the Mercy of Jesus. Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
+_Not part of the corpus. The **Act of Contrition** is an authentic Catholic prayer, prayed in the Sacrament of Penance. Its two approved formulas — and the fuller treatment of the sacrament — are in [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md#7-the-act-of-contrition) and [sacraments/order-of-confession.md](../../sacraments/order-of-confession.md)._
 
-    O Heavenly Father, through the Love of Your beloved Son,
-    Jesus Christ, Whose Passion on the Cross saved us from sin,
-    please save all those who still reject His Hand of Mercy.
-    Flood their souls, dear Father, with Your token of Love.
-    I plead with You, Heavenly Father,
-    hear my prayer and save these souls from eternal damnation.
-    Through your Mercy allow them to be the first to enter the New Era of Peace on Earth.
-    Amen.
+**Modern formula (Rite of Penance)**
+
+    My God, I am sorry for my sins with all my heart.
+    In choosing to do wrong and failing to do good,
+    I have sinned against You whom I should love above all things.
+    I firmly intend, with Your help, to do penance,
+    to sin no more, and to avoid whatever leads me to sin.
+    Our Savior Jesus Christ suffered and died for us.
+    In His name, my God, have mercy. Amen.
+
+---
+
+## Prayer for Instant Pardon (unnumbered — from the message of 16 April 2011)
+
+_This short prayer is **not** one of the numbered Crusade Prayers. It was given in an early message — "What you will experience during The Warning and Prayer for instant pardon" (Saturday, 16 April 2011 @ 10:00) — before the numbered Crusade Prayer series began on 17 November 2011. In the message Jesus is reported to say: "Turn to Me and say: '…' and I will pardon you instantly." Source: the compiled *Prayers from the Book of Truth* booklet and the *All Messages and Prayers* compilation (both Mary Refuge of Souls, 2015); see [resources.md](../resources.md)._
+
+    Please guide me towards the Light and Goodness of Your great Mercy and forgive me for my sins.
 
 ---
 
@@ -92,6 +103,29 @@ _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday
     I need you.
     I honour you and everything you stand for.
     Help me, Jesus, so that I may be worthy to enter your Kingdom. Amen.
+
+---
+
+## Conversion Prayer for the Lukewarm (from the message of 16 April 2011)
+
+_From the same message as the Prayer for Instant Pardon, and given to be offered for others rather than for oneself: "those of you who are strong in your faith have a huge responsibility now. You must pray this conversion prayer for the others." Source: see [resources.md](../resources.md)._
+
+    I urge you Jesus, in your Divine Mercy, to cover those lukewarm souls with your Precious Blood so that they can be converted.
+
+---
+
+## Crusade Prayer (13): Prayer calling for immunity
+
+_Attributed to God the Father, Sunday, 11 December 2011 — for those who continue to reject the Mercy of Jesus. Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
+
+    O Heavenly Father, through the Love of Your beloved Son,
+    Jesus Christ, Whose Passion on the Cross saved us from sin,
+    please save all those who still reject His Hand of Mercy.
+    Flood their souls, dear Father, with Your token of Love.
+    I plead with You, Heavenly Father,
+    hear my prayer and save these souls from eternal damnation.
+    Through your Mercy allow them to be the first to enter the New Era of Peace on Earth.
+    Amen.
 
 ---
 
@@ -117,18 +151,6 @@ _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday
     Let me be touched by Your Divine Presence, so that I will be flooded by Your Divine Light through my mind, body and soul.
     I trust in Your Mercy.
     I surrender my pain and suffering completely before You and I ask that You give me the grace to trust in You, so that You can cure me of this pain and darkness, so that I can become whole again and, so that I can follow the Path of Truth and allow You to lead me to life in the New Paradise. Amen.
-
----
-
-## Prayer for Instant Pardon (unnumbered — from the message of 16 April 2011)
-
-_This short prayer is **not** one of the numbered Crusade Prayers. It was given in an early message — "What you will experience during The Warning and Prayer for instant pardon" (Saturday, 16 April 2011 @ 10:00) — before the numbered Crusade Prayer series began on 17 November 2011. In the message Jesus is reported to say: "Turn to Me and say: '…' and I will pardon you instantly." Source: the compiled *Prayers from the Book of Truth* booklet and the *All Messages and Prayers* compilation (both Mary Refuge of Souls, 2015); see [resources.md](../resources.md)._
-
-    Please guide me towards the Light and Goodness of Your great Mercy and forgive me for my sins.
-
-_Immediately after it, the same message gives a short conversion prayer to be offered for others:_
-
-    I urge you Jesus, in your Divine Mercy, to cover those lukewarm souls with your Precious Blood so that they can be converted.
 
 ---
 
