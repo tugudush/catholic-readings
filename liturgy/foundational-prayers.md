@@ -423,6 +423,14 @@ Composed by Pope Leo XIII in 1884, this prayer invokes the intercession of Saint
   by the power of God, cast into hell Satan  
   and all the evil spirits who prowl about the world  
   seeking the ruin of souls. Amen.
+- **Latin:**  
+  _Sancte Michael Archangele, defende nos in proelio,  
+  contra nequitiam et insidias diaboli esto praesidium.  
+  Imperet illi Deus, supplices deprecamur:  
+  tuque, Princeps militiae caelestis,  
+  Satanam aliosque spiritus malignos,  
+  qui ad perditionem animarum pervagantur in mundo,  
+  divina virtute, in infernum detrude. Amen._
 
 ---
 
