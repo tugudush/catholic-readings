@@ -6,23 +6,24 @@
 
 ## Purpose of This Page
 
-This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes the **Act of Contrition** (an authentic Catholic prayer, included for convenience and not part of the corpus) and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series.
+This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes two authentic Catholic prayers — the **Act of Contrition** and the **Anima Christi** — given for convenience and not part of the corpus, and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series.
 
 Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer.
 
 ## The Selected Prayers at a Glance
 
-| #    | Prayer                                             | Theme                                     | Full transcription                                                       |
-| ---- | -------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------ |
-| (33) | Rise now and accept the Seal of the Living God     | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
-| (24) | Plenary Indulgence for Absolution                  | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
-| —    | Act of Contrition                                  | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md) |
-| —    | Prayer for Instant Pardon (16 April 2011)          | Pardon at The Warning                     | [resources.md](../resources.md)                                          |
-| (8)  | The Confession                                     | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)     |
-| —    | Conversion Prayer for the Lukewarm (16 April 2011) | Conversion of others                      | [resources.md](../resources.md)                                          |
-| (13) | Prayer calling for immunity                        | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)             |
-| (81) | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)     |
-| (94) | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)     |
+| #    | Prayer                                             | Theme                                     | Full transcription                                                           |
+| ---- | -------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
+| (33) | Rise now and accept the Seal of the Living God     | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| (24) | Plenary Indulgence for Absolution                  | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| —    | Act of Contrition                                  | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md)     |
+| —    | Prayer for Instant Pardon (16 April 2011)          | Pardon at The Warning                     | [resources.md](../resources.md)                                              |
+| (8)  | The Confession                                     | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
+| —    | Conversion Prayer for the Lukewarm (16 April 2011) | Conversion of others                      | [resources.md](../resources.md)                                              |
+| (13) | Prayer calling for immunity                        | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| (81) | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)         |
+| —    | Anima Christi (Soul of Christ)                     | Thanksgiving after Holy Communion         | [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md) |
+| (94) | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
 
 ---
 
@@ -140,6 +141,26 @@ _Transcribed in [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday
     Never let me doubt Your Presence.
     Help me to accept You in Body and Soul and that, by the Holy Eucharist, the Graces bestowed upon me will help me to proclaim the Glory of Our Lord Jesus Christ.
     Purify my heart. Open my soul and sanctify me when I receive the great Gift of the Holy Eucharist. Grant me the graces and the favours it bestows upon all God's children and grant me immunity from the fires of Purgatory. Amen.
+
+---
+
+## Anima Christi (Soul of Christ)
+
+_Not part of the corpus. The **Anima Christi** is an authentic Catholic prayer of thanksgiving after Holy Communion — in the Western tradition the most famous of all such prayers. It is traditionally attributed to St. Ignatius of Loyola, who placed it at the head of his_ Spiritual Exercises, _but it is in fact older than the Saint: it appears in manuscripts of c. 1370 and was enriched with indulgences by Pope John XXII in 1330. It remains the first-named formula for the partial indulgence attached to thanksgiving after Communion in the_ Enchiridion Indulgentiarum. _Its full treatment — the Latin original, its history, and its place among the classic prayers after Communion — is in_ [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md#51-the-anima-christi-soul-of-christ).
+
+    Soul of Christ, sanctify me.
+    Body of Christ, save me.
+    Blood of Christ, inebriate me.
+    Water from the side of Christ, wash me.
+    Passion of Christ, strengthen me.
+    O good Jesus, hear me.
+    Within Thy wounds hide me.
+    Suffer me not to be separated from Thee.
+    From the malignant enemy defend me.
+    At the hour of my death call me,
+    and bid me come to Thee,
+    that with Thy saints I may praise Thee
+    for ever and ever. Amen.
 
 ---
 
