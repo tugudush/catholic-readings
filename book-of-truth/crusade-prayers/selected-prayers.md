@@ -12,18 +12,19 @@ Citations follow the corpus's own numbering; note that numbering, wording, and p
 
 ## The Selected Prayers at a Glance
 
-| #    | Prayer                                             | Theme                                     | Full transcription                                                           |
-| ---- | -------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
-| (33) | Rise now and accept the Seal of the Living God     | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (24) | Plenary Indulgence for Absolution                  | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| —    | Act of Contrition                                  | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md)     |
-| —    | Prayer for Instant Pardon (16 April 2011)          | Pardon at The Warning                     | [resources.md](../resources.md)                                              |
-| (8)  | The Confession                                     | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
-| —    | Conversion Prayer for the Lukewarm (16 April 2011) | Conversion of others                      | [resources.md](../resources.md)                                              |
-| (13) | Prayer calling for immunity                        | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (81) | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)         |
-| —    | Anima Christi (Soul of Christ)                     | Thanksgiving after Holy Communion         | [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md) |
-| (94) | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
+| #     | Prayer                                             | Theme                                     | Full transcription                                                           |
+| ----- | -------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
+| (33)  | Rise now and accept the Seal of the Living God     | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| (24)  | Plenary Indulgence for Absolution                  | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| —     | Act of Contrition                                  | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md)     |
+| —     | Prayer for Instant Pardon (16 April 2011)          | Pardon at The Warning                     | [resources.md](../resources.md)                                              |
+| (8)   | The Confession                                     | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
+| —     | Conversion Prayer for the Lukewarm (16 April 2011) | Conversion of others                      | [resources.md](../resources.md)                                              |
+| (13)  | Prayer calling for immunity                        | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| (130) | Novena of Salvation                                | Salvation of all souls — seven-day novena | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
+| (81)  | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)         |
+| —     | Anima Christi (Soul of Christ)                     | Thanksgiving after Holy Communion         | [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md) |
+| (94)  | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
 
 ---
 
@@ -126,6 +127,24 @@ _Attributed to God the Father, Sunday, 11 December 2011 — for those who contin
     I plead with You, Heavenly Father,
     hear my prayer and save these souls from eternal damnation.
     Through your Mercy allow them to be the first to enter the New Era of Peace on Earth.
+    Amen.
+
+---
+
+## Crusade Prayer (130): Novena of Salvation
+
+_Attributed to the Mother of Salvation, Sunday, 1 December 2013. The corpus asks that this prayer be recited three times a day for seven consecutive days, beginning on a Monday, with fasting on one of those days. Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
+
+    My beloved Mother of Salvation,
+    please gain for all souls the Gift of Eternal Salvation through the Mercy of your Son,
+    Jesus Christ.
+    Through your intercession,
+    I plead that you will pray to release all souls from bondage to Satan.
+    Please ask your Son to show Mercy and forgiveness for those souls who reject Him,
+    hurt Him with their indifference,
+    and who adore false doctrine and false gods.
+    We beseech you, dear Mother,
+    to beg for the graces to open the hearts of those souls who are most in need of your help.
     Amen.
 
 ---
