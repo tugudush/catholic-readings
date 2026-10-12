@@ -133,7 +133,9 @@ _Attributed to God the Father, Sunday, 11 December 2011 — for those who contin
 
 ## Crusade Prayer (130): Novena of Salvation
 
-_Attributed to the Mother of Salvation, Sunday, 1 December 2013. The corpus asks that this prayer be recited three times a day for seven consecutive days, beginning on a Monday, with fasting on one of those days. Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
+**Message Context:**  
+_Sunday, December 1st, 2013 @ 16:12_  
+I now give all of you a special Gift, blessed by my Son, so that all souls will be granted immunity from the fires of Hell and be granted salvation. My Son desires that every soul be saved, no matter how grievous their sin. I ask that you now begin the Novena of Salvation. You must begin this immediately and continue it, as I instruct you to, to the end of time. You must recite this Prayer for a full seven consecutive days during one calendar month, commencing on Mondays, in the morning time. You must recite it three times during each of the seven days and on one of these days you must fast. By fasting you are requested to eat only one main meal during the day and then bread and water only at the other two meal times. This is the prayer you must say for each of the seven days.
 
     My beloved Mother of Salvation,
     please gain for all souls the Gift of Eternal Salvation through the Mercy of your Son,
