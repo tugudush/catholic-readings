@@ -6,7 +6,7 @@
 
 ## Purpose of This Page
 
-This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes two authentic Catholic prayers — the **Act of Contrition** and the **Anima Christi** — given for convenience and not part of the corpus, and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series.
+This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes two authentic Catholic prayers — the **Act of Contrition** and the **Anima Christi** — given for convenience and not part of the corpus, and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series. A final entry is included from the **printed volumes** (**Volume 3**, p. 287), which the booklet transcriptions this repository holds do not carry.
 
 Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer.
 
@@ -25,6 +25,7 @@ Citations follow the corpus's own numbering; note that numbering, wording, and p
 | (81)  | For the Gift of the Holy Communion                 | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)         |
 | —     | Anima Christi (Soul of Christ)                     | Thanksgiving after Holy Communion         | [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md) |
 | (94)  | To cure the mind, body and soul                    | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
+| —     | "Jesus, save me from the lies of Satan"            | Discernment — Truth against lies          | Volume 3, p. 287 (print edition)                                             |
 
 ---
 
@@ -193,6 +194,15 @@ _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday
     Let me be touched by Your Divine Presence, so that I will be flooded by Your Divine Light through my mind, body and soul.
     I trust in Your Mercy.
     I surrender my pain and suffering completely before You and I ask that You give me the grace to trust in You, so that You can cure me of this pain and darkness, so that I can become whole again and, so that I can follow the Path of Truth and allow You to lead me to life in the New Paradise. Amen.
+
+---
+
+## "Jesus, save me from the lies of Satan…" (Volume 3, p. 287)
+
+_Not among the Crusade Prayers carried in this repository's booklet transcriptions: this prayer appears in the published print edition, **Volume 3** (≈ 2012–2013), p. 287. The corpus's own title for it, and any prayer number, are not given in this repository's sources — verify against the edition named in [resources.md](../resources.md), which also records how volume page numbering differs from the free compilations._
+
+    Jesus, save me from the lies of Satan,
+    so that I can discern the Truth of your remnant church.
 
 ---
 
