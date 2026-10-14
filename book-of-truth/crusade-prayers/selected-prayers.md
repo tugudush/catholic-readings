@@ -8,7 +8,7 @@
 
 This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes two authentic Catholic prayers — the **Act of Contrition** and the **Anima Christi** — given for convenience and not part of the corpus, and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series. A final entry is included from the **printed volumes** (**Volume 3**, p. 287), which the booklet transcriptions this repository holds do not carry.
 
-Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer.
+Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer; the **line breaks have been reflowed** for devotional recitation, and the wording is otherwise unchanged.
 
 ## The Selected Prayers at a Glance
 
@@ -38,11 +38,14 @@ _Attributed to God the Father, Monday, 20 February 2012. Transcribed in [crusade
     Your Divinity encompasses my body and soul for eternity.
     I bow in humble thanksgiving and offer my deep love and loyalty to You,
     my beloved Father.
-    I beg You to protect me and my loved ones with this special Seal and I pledge my life to Your service forever and ever.
+    I beg You to protect me and my loved ones with this special Seal
+    and I pledge my life to Your service forever and ever.
     I love You, dear Father.
     I console You in these times, dear Father.
     I offer You the Body, Blood,
-    Soul and Divinity of Your dearly beloved Son in atonement for the sins of the world and for the salvation of all Your children.
+    Soul and Divinity of Your dearly beloved Son
+    in atonement for the sins of the world
+    and for the salvation of all Your children.
     Amen.
 
 ---
@@ -59,7 +62,10 @@ _Attributed to Jesus, Tuesday, 31 January 2012. The corpus asks that this prayer
     Grant us, O Lord, the Gift of Humility,
     so that we are deserving of Your New Kingdom.
     Fill us with the Holy Spirit,
-    so we can march forth and lead Your army to proclaim the Truth of Your Holy Word and prepare our brothers and sisters for the glory of Your Second Coming on earth.
+    so we can march forth and lead Your army
+    to proclaim the Truth of Your Holy Word
+    and prepare our brothers and sisters
+    for the glory of Your Second Coming on earth.
     We honour You.
     We Praise You.
     We offer ourselves, our sorrows,
@@ -90,7 +96,8 @@ _Not part of the corpus. The **Act of Contrition** is an authentic Catholic pray
 
 _This short prayer is **not** one of the numbered Crusade Prayers. It was given in an early message — "What you will experience during The Warning and Prayer for instant pardon" (Saturday, 16 April 2011 @ 10:00) — before the numbered Crusade Prayer series began on 17 November 2011. In the message Jesus is reported to say: "Turn to Me and say: '…' and I will pardon you instantly." Source: the compiled *Prayers from the Book of Truth* booklet and the *All Messages and Prayers* compilation (both Mary Refuge of Souls, 2015); see [resources.md](../resources.md)._
 
-    Please guide me towards the Light and Goodness of Your great Mercy and forgive me for my sins.
+    Please guide me towards the Light and Goodness of Your great Mercy
+    and forgive me for my sins.
 
 ---
 
@@ -98,10 +105,14 @@ _This short prayer is **not** one of the numbered Crusade Prayers. It was given 
 
 _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md), where it appears among the Friday prayers. The corpus presents it as a prayer to plead for clemency and the forgiveness of sin during and after The Warning._
 
-    Dearest Jesus, I ask your pardon for all my sins and for the hurt and injury I have caused to others.
-    I humbly pray for the graces to avoid offending you again and to offer penance according to your most holy will.
-    I plead for the forgiveness of any future offense which I may partake in and which will cause you pain and suffering.
-    Take me with you into the new Era of Peace so that I may become part of your family for eternity.
+    Dearest Jesus, I ask your pardon for all my sins
+    and for the hurt and injury I have caused to others.
+    I humbly pray for the graces to avoid offending you again
+    and to offer penance according to your most holy will.
+    I plead for the forgiveness of any future offense which I may partake in
+    and which will cause you pain and suffering.
+    Take me with you into the new Era of Peace
+    so that I may become part of your family for eternity.
     I love you Jesus.
     I need you.
     I honour you and everything you stand for.
@@ -113,7 +124,9 @@ _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday
 
 _From the same message as the Prayer for Instant Pardon, and given to be offered for others rather than for oneself: "those of you who are strong in your faith have a huge responsibility now. You must pray this conversion prayer for the others." Source: see [resources.md](../resources.md)._
 
-    I urge you Jesus, in your Divine Mercy, to cover those lukewarm souls with your Precious Blood so that they can be converted.
+    I urge you Jesus, in your Divine Mercy,
+    to cover those lukewarm souls with your Precious Blood
+    so that they can be converted.
 
 ---
 
@@ -161,8 +174,13 @@ _Transcribed in [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday
     Give me the graces to fulfil the Holy Will of God.
     Fill me with the peace and calm which comes from Your Holy Presence.
     Never let me doubt Your Presence.
-    Help me to accept You in Body and Soul and that, by the Holy Eucharist, the Graces bestowed upon me will help me to proclaim the Glory of Our Lord Jesus Christ.
-    Purify my heart. Open my soul and sanctify me when I receive the great Gift of the Holy Eucharist. Grant me the graces and the favours it bestows upon all God's children and grant me immunity from the fires of Purgatory. Amen.
+    Help me to accept You in Body and Soul
+    and that, by the Holy Eucharist,
+    the Graces bestowed upon me will help me to proclaim the Glory of Our Lord Jesus Christ.
+    Purify my heart.
+    Open my soul and sanctify me when I receive the great Gift of the Holy Eucharist.
+    Grant me the graces and the favours it bestows upon all God's children
+    and grant me immunity from the fires of Purgatory. Amen.
 
 ---
 
@@ -190,10 +208,17 @@ _Not part of the corpus. The **Anima Christi** is an authentic Catholic prayer o
 
 _Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md), where it appears among the Friday prayers. A prayer for healing of mind, body, and soul._
 
-    O dear Jesus, I lay myself before You, weary, sick, in pain and with a longing to hear Your Voice.
-    Let me be touched by Your Divine Presence, so that I will be flooded by Your Divine Light through my mind, body and soul.
+    O dear Jesus, I lay myself before You,
+    weary, sick, in pain and with a longing to hear Your Voice.
+    Let me be touched by Your Divine Presence,
+    so that I will be flooded by Your Divine Light through my mind, body and soul.
     I trust in Your Mercy.
-    I surrender my pain and suffering completely before You and I ask that You give me the grace to trust in You, so that You can cure me of this pain and darkness, so that I can become whole again and, so that I can follow the Path of Truth and allow You to lead me to life in the New Paradise. Amen.
+    I surrender my pain and suffering completely before You
+    and I ask that You give me the grace to trust in You,
+    so that You can cure me of this pain and darkness,
+    so that I can become whole again and,
+    so that I can follow the Path of Truth
+    and allow You to lead me to life in the New Paradise. Amen.
 
 ---
 
