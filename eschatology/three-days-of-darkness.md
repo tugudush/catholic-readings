@@ -159,6 +159,8 @@ St. Faustina supplies the **theological key** to the whole chastisement theme: t
 
 An Italian wife, mother of seven, and Trinitarian tertiary, known for mystical visions, prophecy, and bilocation; feast day 9 June. Popular literature — and much of the modern Three Days genre — attributes to her predictions of a coming chastisement and of a period of darkness in which only blessed candles would give light. The Church's beatification recognizes her **holiness**; it does **not** certify any specific prophecy attributed to her. The specific eschatological details are **not** part of the deposit of faith.
 
+A source-critical analysis of a Facebook video that repeats this attribution and connects it to claims about Purgatory is available in [Blessed Anna Maria Taigi and Purgatory](anna-maria-taigi-visions-video-analysis.md).
+
 #### 4.2.3 Blessed Elisabetta Canori Mora (1774–1825; beatified 1994)
 
 A Roman wife and Trinitarian tertiary who offered her sufferings for the conversion of her unfaithful husband, for the Church, and for Rome. Her writings, which received ecclesiastical approval in her cause, describe visions of a coming chastisement. As with Bl. Anna Maria Taigi, the beatification is not a certification of her specific eschatological details.
