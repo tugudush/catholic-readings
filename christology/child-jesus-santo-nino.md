@@ -279,3 +279,5 @@ The Magisterium of the Church, while carefully purifying popular piety of any el
 - _Acta Apostolicae Sedis_ — various decrees on the canonical coronation and liturgical veneration of the Santo Niño.
 - Catholic Bishops' Conference of the Philippines, Directory on Popular Piety and Liturgy.
 - _The Precious Heritage of the Infant Jesus_ (Carmelite publication, 1651).
+
+See also: ["Amazed and Afraid: The Lord Both Divine and Human" — Video Synthesis](barron-amazed-and-afraid-video-analysis.md), Bishop Robert Barron's treatment of the Incarnation and the infancy of Christ (the kenosis of Philippians 2 and the "strange warrior" of Bethlehem).

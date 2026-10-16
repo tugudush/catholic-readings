@@ -22,6 +22,7 @@ The Church's doctrine concerning the Person of Jesus Christ — the eternal Son 
 
 - **Master Index & Scope**: Read [christology/README.md](christology/README.md) for the introductory overview of the Christology directory, its scope, and its relationship to other directories in this repository.
 - **The Child Jesus (Santo Niño)**: See [christology/child-jesus-santo-nino.md](christology/child-jesus-santo-nino.md) for a comprehensive theological and historical study of devotion to the Child Jesus — including the theological significance of Christ's infancy, the spiritual childhood taught by the Gospel, the devotion to the Infant Jesus of Prague, the Santo Niño de Cebú in the Philippines with its papal endorsements, and other major Child Jesus devotions throughout the world.
+- **"Amazed and Afraid" (Bishop Barron's _Catholicism_ Series)**: Read [christology/barron-amazed-and-afraid-video-analysis.md](christology/barron-amazed-and-afraid-video-analysis.md) for a source-based synthesis of Bishop Robert Barron's documentary episode on the divinity and humanity of Jesus Christ — the kenosis of Philippians 2, the four messianic tasks, the "strange warrior" of Bethlehem and the Cross, and the proclamation "Jesus is Lord" over against "Caesar is Lord."
 
 ---
 
