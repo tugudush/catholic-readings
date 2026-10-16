@@ -162,7 +162,7 @@ Like the Eastern Orthodox, they possess valid apostolic succession, valid sacram
 
 ### 4.3 The Assyrian Church of the East
 
-The Assyrian Church of the East (sometimes called "Nestorian") accepted only the first two ecumenical councils. It is recognized as a true particular Church with valid apostolic succession and a valid Eucharist. In 2001, the Pontifical Council for Promoting Christian Unity issued _Guidelines for Admission to the Eucharist Between the Chaldean Church and the Assyrian Church of the East_, recognizing the validity of the Assyrian Eucharist.
+The Assyrian Church of the East (sometimes called "Nestorian") accepted only the first two ecumenical councils. It is recognized as a true particular Church with valid apostolic succession and a valid Eucharist. In 2001, the Pontifical Council for Promoting Christian Unity issued _Guidelines for Admission to the Eucharist Between the Chaldean Church and the Assyrian Church of the East_, recognizing the validity of the Assyrian Eucharist. The full history, Christology, liturgy, and ecumenical relations of this Church are treated comprehensively in [assyrian-church-of-the-east.md](assyrian-church-of-the-east.md).
 
 A related body, the **Ancient Church of the East** (separated from the Assyrian Church in 1964), is generally regarded as sharing the same sacramental reality.
 
