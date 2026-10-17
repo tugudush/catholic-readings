@@ -136,6 +136,7 @@ Theological truths regarding the visible and invisible creation:
 
 - **Holy Angels**: Learn about the nature, hierarchy, and roles of the heavenly hosts in [angelology/angelic-hierarchy-choirs.md](angelology/angelic-hierarchy-choirs.md).
 - **The Fall of the Rebel Angels**: Review the theological analysis of the angelic fall and its consequences in [angelology/fallen-angels-demonology.md](angelology/fallen-angels-demonology.md).
+- **Spiritual Warfare Interviews**: Two source-based syntheses of Catholic spiritual-warfare interviews — [angelology/adam-bly-demon-expert-catholics-need-to-know.md](angelology/adam-bly-demon-expert-catholics-need-to-know.md) (Adam Bly, canon lawyer and exorcism coordinator, on discernment, sacramentals, and the pyramid of spiritual warfare) and [angelology/dave-vanvickle-surprising-ways-people-get-possessed.md](angelology/dave-vanvickle-surprising-ways-people-get-possessed.md) (Dave VanVickle, exorcism assistant, on the four signs of possession, the role of St. Michael and Our Lady, the unexpected vectors for possession — yoga, tattoos, pornography — and the philosophical nature of demons).
 
 ---
 
