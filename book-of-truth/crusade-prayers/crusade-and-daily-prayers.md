@@ -93,8 +93,13 @@ _(Aug 23, 2014)_
 
 ### Daily Prayer to Jesus: When you pray to Me each day say this prayer
 
-    Oh my precious Jesus embrace me in your arms and allow my head to rest upon your shoulders so that you can raise me up to your glorious Kingdom when the time is right.
-    Allow your precious blood to flow over my heart that we can be united as one.
+    Oh my precious Jesus,
+    embrace me in your arms
+    and allow my head to rest upon your shoulders
+    so that you can raise me up to your glorious Kingdom
+    when the time is right.
+    Allow your precious blood to flow over my heart
+    that we can be united as one.
 
 ### God the Father: Prayer for the Key to the New Paradise
 
