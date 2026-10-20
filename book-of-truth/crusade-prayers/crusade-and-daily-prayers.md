@@ -88,7 +88,8 @@ _(Aug 23, 2014)_
     and to any evil spirits,
     which may torment us in this Sacred Mission to save souls.
     May we remain loyal and strong,
-    as we persevere to keep Your Holy Name before the world and never waive in our struggle to spread the Truth of Your Holy Word.
+    as we persevere to keep Your Holy Name before the world
+    and never waive in our struggle to spread the Truth of Your Holy Word.
     Amen.
 
 ### Daily Prayer to Jesus: When you pray to Me each day say this prayer
@@ -203,7 +204,9 @@ _(Each decade consists of:)_
     but with great confidence submit ourselves to Your holy will,
     which is Love and Mercy itself.
 
-    Fill me now Oh Lord with the gift of the Holy Spirit to carry your most Holy Word to sinners who I must help save in your name.
+    Fill me now Oh Lord with the gift of the Holy Spirit
+    to carry your most Holy Word to sinners
+    who I must help save in your name.
     Help me to cover them, through my prayers,
     with your precious blood so that they can be drawn to your Sacred Heart.
     Give me the gift of the Holy Spirit so that these poor souls can revel in your New Paradise.
@@ -651,7 +654,10 @@ _Tuesday, January 31st, 2012 @ 21:30 - My army, through their love for Me, will 
     Grant us, O Lord, the Gift of Humility,
     so that we are deserving of Your New Kingdom.
     Fill us with the Holy Spirit,
-    so we can march forth and lead Your army to proclaim the Truth of Your Holy Word and prepare our brothers and sisters for the glory of Your Second Coming on earth.
+    so we can march forth and lead Your army
+    to proclaim the Truth of Your Holy Word
+    and prepare our brothers and sisters
+    for the glory of Your Second Coming on earth.
     We honour You.
     We Praise You.
     We offer ourselves, our sorrows,
@@ -691,11 +697,14 @@ _Important SEAL for all of God’s followers on earth was given to Maria Divine 
     Your Divinity encompasses my body and soul for eternity.
     I bow in humble thanksgiving and offer my deep love and loyalty to You,
     my beloved Father.
-    I beg You to protect me and my loved ones with this special Seal and I pledge my life to Your service forever and ever.
+    I beg You to protect me and my loved ones with this special Seal
+    and I pledge my life to Your service forever and ever.
     I love You, dear Father.
     I console You in these times, dear Father.
     I offer You the Body, Blood,
-    Soul and Divinity of Your dearly beloved Son in atonement for the sins of the world and for the salvation of all Your children.
+    Soul and Divinity of Your dearly beloved Son
+    in atonement for the sins of the world
+    and for the salvation of all Your children.
     Amen.
 
 _Go, My children and do not fear. Trust in Me, Your beloved Father who lovingly created each of you. I know every single soul, every part of you is known to Me. Not one of you is loved less than the other. Because of this I do not want to lose one soul. Not one. Please continue to pray My Divine Mercy Chaplet every day. One day, you will understand why this purification is needed. Your loving Father in Heaven - God of the Most High_
@@ -734,7 +743,9 @@ _Crusade Prayer (84) to enlighten the souls of the elites who rule the world - F
     shortage of foods, forced adoptions of innocent children,
     and the splitting up of families from taking place.
     Heal them.
-    Cover them with Your Light and take them into the Bosom of Your Heart to save them from the snares of the evil one.
+    Cover them with Your Light
+    and take them into the Bosom of Your Heart
+    to save them from the snares of the evil one.
     Amen.
 
 <a id="crusade-prayer-96-full-instruction"></a>
@@ -751,7 +762,8 @@ _My dearly beloved daughter, I desire to instruct My Crusade Prayer Groups to be
     and to any evil spirits,
     which may torment us in this Sacred Mission to save souls.
     May we remain loyal and strong,
-    as we persevere to keep Your Holy Name before the world and never waive in our struggle to spread the Truth of Your Holy Word.
+    as we persevere to keep Your Holy Name before the world
+    and never waive in our struggle to spread the Truth of Your Holy Word.
     Amen.
 
 _Please recite this prayer before and after every prayer meeting. I must also instruct you, My beloved disciples, to ensure that prayer forms the basis for every prayer meeting. I do not wish you to contemplate negativity or create fear amongst yourselves, because all I bring is Love and Mercy. My Messages are full of hope and I will mitigate much of the suffering foretold, through the power of My Crusade Prayer Groups. The purpose of this Mission is to save souls. It has never been about anything else. My Messages are given to enlighten you, to alert you to the dangers, which affect your faith, and to prepare you for My New Paradise. Go now, in Peace. I will cover each Crusade Prayer Group with My Abundance of Graces, including the Gift of Discernment. Your Jesus_
@@ -897,7 +909,8 @@ _Sunday, August 24th, 2014 @ 17:00 - “I ask that you recite this Crusade Praye
     Give all of God’s children the Graces to receive Your Peace so that love and harmony can thrive;
     so that love for God will triumph over evil and that souls can be saved from the corruption of falsities,
     cruelty and evil ambition.
-    Let peace reign over all of those who devote their lives to the Truth of Your Holy Word and those who don’t know You at all.
+    Let peace reign over all of those who devote their lives to the Truth of Your Holy Word
+    and those who don’t know You at all.
     Amen.
 
 _Peace be yours dear children and remember that without love for God you can never find true peace. Your Beloved Mother - Mother of Salvation_
@@ -913,65 +926,85 @@ _Peace be yours dear children and remember that without love for God you can nev
 **Date:** _Tuesday, November 16th, 2010 @ 09:55 am_
 
     O my Lord,
-    lead me to Your Kingdom and protect me from the darkness that has engulfed my soul.
-    Hear me now O Sacred Heart and through Your Goodness let Your Light of Love and protection shine through.
+    lead me to Your Kingdom
+    and protect me from the darkness that has engulfed my soul.
+    Hear me now O Sacred Heart
+    and through Your Goodness
+    let Your Light of Love and protection shine through.
 
 ### 2. Atheist’s Prayer
 
 **Date:** _Thursday, November 18th, 2010 @ 09:00 pm_
 
-    God, if You are the Truth reveal to me the sign of Your Love.
+    God, if You are the Truth
+    reveal to me the sign of Your Love.
     Open my heart to receive guidance.
-    If You Exist let me feel Your Love so I can see the Truth.
+    If You Exist let me feel Your Love
+    so I can see the Truth.
     Pray for me now.
 
 ### 3. Prayer for non-believers who laugh, poke fun at or outwardly scorn those who pray
 
 **Date:** _Sunday, November 21st, 2010 @ 01:30 am_
 
-    My dear Lord I hold out my arms to ask You to take my beloved brother/sister into your tender arms.
-    Bless them with your Sacred Blood and give them the grace needed to allow them to receive the Spirit of Your Love to lead them into eternal salvation.
+    My dear Lord I hold out my arms
+    to ask You to take my beloved brother/sister into your tender arms.
+    Bless them with your Sacred Blood
+    and give them the grace needed
+    to allow them to receive the Spirit of Your Love
+    to lead them into eternal salvation.
 
 ### 4. Prayer that Jesus may reveal His presence to you
 
 **Date:** _Monday, November 22nd, 2010 @ 02:00 am_
 
     Jesus I feel lost.
-    Open my heart to accept Your Love and show me the Truth so that I may be saved.
+    Open my heart to accept Your Love
+    and show me the Truth so that I may be saved.
 
 ### 5. Prayer to convert others
 
 **Date:** _Saturday, April 16th, 2011 @ 10:00 am_
 
     I urge You, Jesus, in Your Divine Mercy,
-    to cover those lukewarm souls with Your Precious Blood so that they can be converted.
+    to cover those lukewarm souls with Your Precious Blood
+    so that they can be converted.
 
 ### 6. Prayer for encouragement
 
 **Date:** _Tuesday, May 10th, 2011 @ 04:00 pm_
 
     Fill me now, O Lord,
-    with the Gift of the Holy Spirit to carry Your most Holy Word to sinners who I must help save in Your Name.
+    with the Gift of the Holy Spirit
+    to carry Your most Holy Word to sinners who I must help save in Your Name.
     Help me to cover them, through my prayers,
     with Your Precious Blood so that they can be drawn to Your Sacred Heart.
-    Give me the Gift of the Holy Spirit so that these poor souls can revel in Your New Paradise.
+    Give me the Gift of the Holy Spirit
+    so that these poor souls can revel in Your New Paradise.
 
 ### 7. Prayer for each day
 
 **Date:** _Sunday, July 24th, 2011 @ 11:00 pm_
 
     O my precious Jesus,
-    embrace me in Your Arms and allow my head to rest upon Your Shoulders so that You can raise me up to Your glorious Kingdom when the time is right.
-    Allow Your Precious Blood to flow over my heart that we can be united as one.
+    embrace me in Your Arms
+    and allow my head to rest upon Your Shoulders
+    so that You can raise me up to Your glorious Kingdom
+    when the time is right.
+    Allow Your Precious Blood to flow over my heart
+    that we can be united as one.
 
 ### 8. Prayer to be able to see that these Messages are of Divine Origin
 
 **Date:** _Monday, August 15th, 2011 @ 12:05 am_
 
     Jesus, if this is really You,
-    please flood my soul with the sign of Your Love so that I can recognise You for Who You are.
+    please flood my soul with the sign of Your Love
+    so that I can recognise You for Who You are.
     Do not let me be deceived by lies.
-    Show me instead Your Mercy by opening my eyes to the Truth and the path to Your New Paradise on Earth.
+    Show me instead Your Mercy
+    by opening my eyes to the Truth
+    and the path to Your New Paradise on Earth.
 
 ### 9. Prayer to Resolve Your Worries
 
@@ -995,8 +1028,11 @@ _Peace be yours dear children and remember that without love for God you can nev
 **Date:** _Tuesday, August 30th, 2011 @ 02:30 pm_
 
     God, the Most High,
-    I come before Your Throne this week to plead for the souls of My brothers and sisters who refuse to acknowledge Your Existence.
-    I urge You to fill them with Your graces so that they will open their hearts to listen to Your most Holy Word.
+    I come before Your Throne this week
+    to plead for the souls of My brothers and sisters
+    who refuse to acknowledge Your Existence.
+    I urge You to fill them with Your graces
+    so that they will open their hearts to listen to Your most Holy Word.
 
 ### 12. Prayer to withstand the abomination which is on the way
 
@@ -1027,8 +1063,11 @@ _Peace be yours dear children and remember that without love for God you can nev
     in the Name of Your beloved Son Jesus Christ,
     Whom You sacrificed to save us, Your poor children,
     from the fires of Hell, hear our prayer.
-    May we offer our humble sacrifices and accept trials and tribulations as a means to gain the salvation of all souls during The Warning.
-    We plead with You to forgive sinners who find it hard to turn back and accept Your Merciful Goodness to make the necessary sacrifices as You see fit to redeem them in Your Holy Eyes.
+    May we offer our humble sacrifices and accept trials and tribulations
+    as a means to gain the salvation of all souls during The Warning.
+    We plead with You to forgive sinners who find it hard to turn back
+    and accept Your Merciful Goodness
+    to make the necessary sacrifices as You see fit to redeem them in Your Holy Eyes.
 
 ### 15. Prayer to mitigate the circumstances of persecution, which is being perpetrated behind closed doors.
 
@@ -1036,7 +1075,9 @@ _Peace be yours dear children and remember that without love for God you can nev
 
     God the Father, in the Name of Your beloved Son Jesus Christ,
     I beg of You to stop this abomination to control Your children.
-    Please protect all Your children in these terrible times so that we may find peace and dignity to live our lives free from the Evil One.
+    Please protect all Your children in these terrible times
+    so that we may find peace and dignity
+    to live our lives free from the Evil One.
 
 ### 16. Prayer to never give up when you feel down
 
@@ -1044,9 +1085,11 @@ _Peace be yours dear children and remember that without love for God you can nev
 
     Jesus if you can hear me then listen to my call for help.
     Please help me deal with those who cause me pain.
-    Help me to stop envy taking over my life and to stop me wishing for things I cannot have.
+    Help me to stop envy taking over my life
+    and to stop me wishing for things I cannot have.
     Instead open my heart to you dear Jesus.
-    Help me to feel real love – your love and to feel true peace in my heart.
+    Help me to feel real love – your love
+    and to feel true peace in my heart.
     Amen.
 
 ### 17. Prayer to become little
@@ -1055,14 +1098,17 @@ _Peace be yours dear children and remember that without love for God you can nev
 
     Heavenly Father help me to become little, as a child,
     in your eyes.
-    I ask for your graces to fall upon me so I can respond to your call to save all of your children.
+    I ask for your graces to fall upon me
+    so I can respond to your call to save all of your children.
     Amen.
 
 ### 18. Prayer for the graces of wisdom, calm and discernment
 
 **Date:** _Tuesday, March 20th, 2012 @ 09:20 pm_
 
-    O Jesus help me to see the truth of your Holy Word at all times and remain loyal to your teachings no matter how much I am forced to reject you.
+    O Jesus help me to see the truth of your Holy Word at all times
+    and remain loyal to your teachings
+    no matter how much I am forced to reject you.
 
 ### 19. When you find that being the focus of abuse becomes unbearable
 
