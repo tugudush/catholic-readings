@@ -47,3 +47,9 @@ Thumbs.db
 private-confessions/
 private-assets/
 other-matters/
+
+# ---------------------------------------------------------------------------
+# Downloaded source media for documented video clips
+# (large binaries and machine transcripts; kept local, never committed)
+# ---------------------------------------------------------------------------
+eschatology/**/media/
