@@ -1,38 +1,5 @@
 # The Book of Truth — Selected Crusade Prayers
 
-> ⚠️ **Not approved by the Church.** These are personally selected prayers from the _Book of Truth_ (Maria Divine Mercy) corpus — an **unapproved** body of alleged private revelation. They are reproduced here **for devotional study**, as the corpus's own promoters publish them; **nothing here is proposed for belief**. For the Church's judgment see [church-assessment-and-warnings.md](../church-assessment-and-warnings.md); for how to read such texts rightly see [catholic-discernment-guide.md](../catholic-discernment-guide.md); and for where the corpus's primary text circulates see [resources.md](../resources.md). See also the directory master index at [book-of-truth/README.md](../README.md).
-
----
-
-## Purpose of This Page
-
-This page gathers a **personal selection** of the roughly 170 "Crusade Prayers" — the prayers a reader may wish to keep together for private recitation, rather than the full corpus. Each entry gives the prayer's number and title as the promoters publish it, its attributed date and speaker, the full prayer text, and a link to the document in this repository that carries the complete transcription. It also includes two authentic Catholic prayers — the **Act of Contrition** and the **Anima Christi** — given for convenience and not part of the corpus, and one **early, unnumbered** corpus prayer (the "Prayer for Instant Pardon," April 2011) that pre-dates the numbered Crusade Prayer series. A further entry is included from the **printed volumes** (**Volume 3**, p. 287), which the booklet transcriptions this repository holds do not carry. The page opens with the booklet's four **daily opening prayers** — the humble confession ("Jesus forgive me, for I have sinned"), the deliverance invocation, the daily prayer to Jesus, and the Prayer for the Key to the New Paradise.
-
-Citations follow the corpus's own numbering; note that numbering, wording, and page counts **vary between editions** (see the citation notes in [resources.md](../resources.md)). The wording below is transcribed from the repository's own conversions, cited per prayer; the **line breaks have been reflowed** for devotional recitation, and the wording is otherwise unchanged.
-
-## The Selected Prayers at a Glance
-
-| #     | Prayer                                                               | Theme                                     | Full transcription                                                           |
-| ----- | -------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
-| —     | "Jesus forgive me, for I have sinned" (24 Sept 2013)                 | Daily opening — humble confession         | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| —     | "Jesus, deliver us helpless sinners from Your enemies" (23 Aug 2014) | Daily deliverance petition                | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| —     | Daily Prayer to Jesus (24 July 2011)                                 | Daily prayer of union with Jesus          | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| —     | God the Father: Prayer for the Key to the New Paradise (10 Apr 2013) | Daily petition to God the Father          | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (33)  | Rise now and accept the Seal of the Living God                       | The Seal of the Living God — protection   | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (24)  | Plenary Indulgence for Absolution                                    | Grace of total absolution                 | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| —     | Act of Contrition                                                    | Sorrow for sin (Sacrament of Penance)     | [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md)     |
-| —     | Prayer for Instant Pardon (16 April 2011)                            | Pardon at The Warning                     | [resources.md](../resources.md)                                              |
-| (8)   | The Confession                                                       | Pardon, penance, and forgiveness of sin   | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
-| —     | Conversion Prayer for the Lukewarm (16 April 2011)                   | Conversion of others                      | [resources.md](../resources.md)                                              |
-| (13)  | Prayer calling for immunity                                          | Immunity for those who still reject Mercy | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (130) | Novena of Salvation                                                  | Salvation of all souls — seven-day novena | [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)                 |
-| (81)  | For the Gift of the Holy Communion                                   | Thanksgiving after Holy Communion         | [crusade-prayers-7-days/monday.md](crusade-prayers-7-days/monday.md)         |
-| —     | Anima Christi (Soul of Christ)                                       | Thanksgiving after Holy Communion         | [liturgy/prayer-after-communion.md](../../liturgy/prayer-after-communion.md) |
-| (94)  | To cure the mind, body and soul                                      | Healing — mind, body, and soul            | [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md)         |
-| —     | "Jesus, save me from the lies of Satan"                              | Discernment — Truth against lies          | Volume 3, p. 287 (print edition)                                             |
-
----
-
 ## Daily Prayer: "Jesus forgive me, for I have sinned" (24 September 2013)
 
 _One of the booklet's daily opening prayers. The booklet introduces it with the instruction: "To communicate with Me properly, you must always come before Me first as a humble servant. When you kneel before Me or simply communicate with Me in your heart, always begin by saying: Jesus forgive me, for I have sinned." The note is dated 24 September 2013, and the same text appears in the booklet's appendix as the "Humble Servant's Opening Prayer" (Tuesday, 24 September 2013). Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
@@ -275,9 +242,3 @@ _Not among the Crusade Prayers carried in this repository's booklet transcriptio
 
     Jesus, save me from the lies of Satan,
     so that I can discern the Truth of your remnant church.
-
----
-
-## A Catholic Note on These Prayers
-
-These texts belong to the **unapproved** _Book of Truth_ corpus, not to the Church's public worship. They may be prayed privately as devotional formulas, but they carry no ecclesiastical guarantee, and their claimed promises (such as the "Seal of the Living God," a "Plenary Indulgence," or "immunity from the fires of Purgatory") are the corpus's own assertions, **not** Church teaching — an indulgence is the remission of temporal punishment under the Church's authority and its prescribed conditions, applied to the dead only by way of suffrage ([CCC 1471–1479](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1471); Paul VI, _Indulgentiarum Doctrina_). For authentic Catholic prayers and rites on the same themes, see the Sacrament of the Anointing of the Sick ([sacraments/anointing-of-the-sick.md](../../sacraments/anointing-of-the-sick.md)) and Healing Masses ([liturgy/healing-mass.md](../../liturgy/healing-mass.md)); for the theology of private revelation and the Church's criteria of authenticity, see [catholic-discernment-guide.md](../catholic-discernment-guide.md).
