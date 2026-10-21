@@ -253,6 +253,8 @@ Each day of the novena may include:
 
 The novena is not a dogmatic requirement but a **pious custom** approved and encouraged by the Church. The _Directory on Popular Piety and the Liturgy_ (2002) affirms the value of novenas as a form of prayer that unites the faithful with the Paschal Mystery of Christ ([Directory on Popular Piety and the Liturgy, §155](https://www.magisterium.com/docs/4fba701f-fda0-47a5-a2de-2e210d81f770/ref/155)).
 
+For a complete, transcribed example of such a novena — the **Novena for the Poor Souls in Purgatory** kept from 24 October to 1 November — with its nine meditations, daily prayers, and closing prayers, see [Novena for the Poor Souls in Purgatory](novena-poor-souls-in-purgatory.md).
+
 ---
 
 ## 7. Other Prayers and Devotions for the Dead

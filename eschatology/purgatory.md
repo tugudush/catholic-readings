@@ -299,6 +299,7 @@ The complete rites and devotions for the dead — the Commendation of the Dying,
 - [eschatology/ripperger-interview-last-things.md](ripperger-interview-last-things.md): the graded levels of heaven and hell in contemporary catechesis.
 - [sacraments/penance-reconciliation.md](../sacraments/penance-reconciliation.md) and [sacraments/order-of-confession.md](../sacraments/order-of-confession.md): the sacrament that begins every life of satisfaction.
 - [liturgy/prayers-for-the-dead.md](../liturgy/prayers-for-the-dead.md): what the living may do for those already in purgatory.
+- [liturgy/novena-poor-souls-in-purgatory.md](../liturgy/novena-poor-souls-in-purgatory.md): a nine-day novena of suffrage for the dead (24 October–1 November), with its full prayers and a source-critical note on its indulgence claims.
 - [liturgy/mass-intentions.md](../liturgy/mass-intentions.md): the propitiatory sacrifice offered for the living and the dead.
 - [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md): the Nine First Fridays and the theology of reparation.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) and [sacramentals/README.md](../sacramentals/README.md): indulgenced sacramentals in the order of purification.
