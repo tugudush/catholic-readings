@@ -64,6 +64,34 @@ _Attributed to God the Father, Monday, 20 February 2012. Transcribed in [crusade
 
 ---
 
+## Prayer for Instant Pardon (unnumbered — from the message of 16 April 2011)
+
+_This short prayer is **not** one of the numbered Crusade Prayers. It was given in an early message — "What you will experience during The Warning and Prayer for instant pardon" (Saturday, 16 April 2011 @ 10:00) — before the numbered Crusade Prayer series began on 17 November 2011. In the message Jesus is reported to say: "Turn to Me and say: '…' and I will pardon you instantly." Source: the compiled *Prayers from the Book of Truth* booklet and the *All Messages and Prayers* compilation (both Mary Refuge of Souls, 2015); see [resources.md](../resources.md)._
+
+    Please guide me towards the Light and Goodness of Your great Mercy
+    and forgive me for my sins.
+
+---
+
+## Crusade Prayer (8): The Confession
+
+_Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md), where it appears among the Friday prayers. The corpus presents it as a prayer to plead for clemency and the forgiveness of sin during and after The Warning._
+
+    Dearest Jesus, I ask your pardon for all my sins
+    and for the hurt and injury I have caused to others.
+    I humbly pray for the graces to avoid offending you again
+    and to offer penance according to your most holy will.
+    I plead for the forgiveness of any future offense which I may partake in
+    and which will cause you pain and suffering.
+    Take me with you into the new Era of Peace
+    so that I may become part of your family for eternity.
+    I love you Jesus.
+    I need you.
+    I honour you and everything you stand for.
+    Help me, Jesus, so that I may be worthy to enter your Kingdom. Amen.
+
+---
+
 ## Crusade Prayer (24): Plenary Indulgence for Absolution
 
 _Attributed to Jesus, Tuesday, 31 January 2012. The corpus asks that this prayer be said for seven consecutive days. Transcribed in [crusade-and-daily-prayers.md](crusade-and-daily-prayers.md)._
@@ -103,34 +131,6 @@ _Not part of the corpus. The **Act of Contrition** is an authentic Catholic pray
     to sin no more, and to avoid whatever leads me to sin.
     Our Savior Jesus Christ suffered and died for us.
     In His name, my God, have mercy. Amen.
-
----
-
-## Prayer for Instant Pardon (unnumbered — from the message of 16 April 2011)
-
-_This short prayer is **not** one of the numbered Crusade Prayers. It was given in an early message — "What you will experience during The Warning and Prayer for instant pardon" (Saturday, 16 April 2011 @ 10:00) — before the numbered Crusade Prayer series began on 17 November 2011. In the message Jesus is reported to say: "Turn to Me and say: '…' and I will pardon you instantly." Source: the compiled *Prayers from the Book of Truth* booklet and the *All Messages and Prayers* compilation (both Mary Refuge of Souls, 2015); see [resources.md](../resources.md)._
-
-    Please guide me towards the Light and Goodness of Your great Mercy
-    and forgive me for my sins.
-
----
-
-## Crusade Prayer (8): The Confession
-
-_Transcribed in [crusade-prayers-7-days/friday.md](crusade-prayers-7-days/friday.md), where it appears among the Friday prayers. The corpus presents it as a prayer to plead for clemency and the forgiveness of sin during and after The Warning._
-
-    Dearest Jesus, I ask your pardon for all my sins
-    and for the hurt and injury I have caused to others.
-    I humbly pray for the graces to avoid offending you again
-    and to offer penance according to your most holy will.
-    I plead for the forgiveness of any future offense which I may partake in
-    and which will cause you pain and suffering.
-    Take me with you into the new Era of Peace
-    so that I may become part of your family for eternity.
-    I love you Jesus.
-    I need you.
-    I honour you and everything you stand for.
-    Help me, Jesus, so that I may be worthy to enter your Kingdom. Amen.
 
 ---
 
