@@ -199,7 +199,7 @@ The appropriate Catholic disposition toward the Eastern Orthodox churches is nei
 
 ## See Also
 
-- [church-history/greek-orthodox-church.md](greek-orthodox-church.md) — history, theology, and structure of the Greek Orthodox tradition.
+- [church-history/eastern-orthodox-church.md](eastern-orthodox-church.md) — history, theology, and structure of the Eastern Orthodox communion, including the Greek and Russian families.
 - [church-history/eastern-catholic-churches.md](eastern-catholic-churches.md) — the twenty-three Eastern Catholic _sui iuris_ churches.
 - [church-history/protestant-reformation.md](protestant-reformation.md) — origins, doctrinal errors, and the Catholic response.
 - [church-history/church-hierarchy.md](church-hierarchy.md) — the hierarchy of order and jurisdiction in East and West.

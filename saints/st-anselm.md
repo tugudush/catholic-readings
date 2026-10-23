@@ -207,7 +207,7 @@ In **_De Concordia_** (1107–1108), his last work, he treats the compatibility 
 
 The defence of the Latin doctrine of the double procession at Bari in 1098 became a book: **_De Processione Spiritus Sancti_** (1102). Anselm argues that the Holy Spirit proceeds from the Father and the Son as from **one principle** (_tamquam ab uno principio_), because Father and Son are one God, and that the Greek objection confuses the distinction of the divine persons with a division of the divine essence. The treatise became a standard Western statement of the case and is still cited in Catholic–Orthodox discussion; the Eastern Christian objection that the Latin approach rationalises the mystery is one Anselm would have denied, since he held the procession to be revealed and only its grammar to be argued.
 
-> **Doctrinal weight:** The _Filioque_ as the Latin Church professes it is **doctrine**; its insertion into the Creed was an **ecclesiastical and disciplinary act**, and the question of its canonical legitimacy in the Creed is a distinct matter from its dogmatic truth. This distinction is central to the modern Catholic–Orthodox dialogue. See [church-history/greek-orthodox-church.md](../church-history/greek-orthodox-church.md).
+> **Doctrinal weight:** The _Filioque_ as the Latin Church professes it is **doctrine**; its insertion into the Creed was an **ecclesiastical and disciplinary act**, and the question of its canonical legitimacy in the Creed is a distinct matter from its dogmatic truth. This distinction is central to the modern Catholic–Orthodox dialogue. See [church-history/eastern-orthodox-church.md](../church-history/eastern-orthodox-church.md).
 
 ### 8.6 Mariology and the fittingness of the Virgin's purity
 
@@ -451,6 +451,6 @@ Several sayings and claims attached to Anselm in popular use require care.
 - [saints/st-augustine-hippo.md](st-augustine-hippo.md) — The Doctor of Grace, whose _crede ut intellegas_ stands behind Anselm's formula.
 - [saints/st-thomas-aquinas.md](st-thomas-aquinas.md) — The Angelic Doctor, who both received and qualified Anselm's arguments.
 - [saints/st-benedict.md](st-benedict.md) — The father of Western monasticism, whose Rule formed the world in which Anselm thought and prayed.
-- [church-history/greek-orthodox-church.md](../church-history/greek-orthodox-church.md) — The _Filioque_ controversy and Catholic-Orthodox relations.
+- [church-history/eastern-orthodox-church.md](../church-history/eastern-orthodox-church.md) — The _Filioque_ controversy and Catholic-Orthodox relations.
 - [church-history/church-hierarchy.md](../church-history/church-hierarchy.md) — The episcopate and the papacy, in light of the _libertas Ecclesiae_ Anselm defended.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The Eucharistic doctrine Anselm defended in his treatises against Greek usage.

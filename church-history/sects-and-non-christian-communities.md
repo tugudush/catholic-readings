@@ -313,7 +313,7 @@ Freemasonry is **not** a Christian denomination and is **not** classed alongside
 - [protestant-reformation.md](protestant-reformation.md) — The Reformation and the emergence of Ecclesial Communities
 - [hebrew-catholicism-relations.md](hebrew-catholicism-relations.md) — Catholic-Jewish relations and the covenant
 - [eastern-catholic-churches.md](eastern-catholic-churches.md) — The 23 Eastern Catholic _sui iuris_ Churches
-- [greek-orthodox-church.md](greek-orthodox-church.md) — Relations with the Eastern Orthodox
+- [eastern-orthodox-church.md](eastern-orthodox-church.md) — Relations with the Eastern Orthodox
 - [sacraments/baptism.md](../sacraments/baptism.md) — The theology of valid Christian baptism
 - [sacraments/holy-orders.md](../sacraments/holy-orders.md) — Apostolic succession and valid orders
 - [sacraments/apostasy-formal-defection.md](../sacraments/apostasy-formal-defection.md) — The indelible baptismal character and formal defection

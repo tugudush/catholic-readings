@@ -151,7 +151,7 @@ Throughout its history, the IFI has transformed from an isolated nationalist sec
 The IFI is in full communion with:
 
 - **The Anglican Communion:** Formalized via the 1961 Concordat of Intercommunion with the Episcopal Church in the USA and subsequently extended to all member churches of the Anglican Communion, including the Episcopal Church in the Philippines.
-- **The Union of Utrecht (Old Catholic Churches):** Sharing a common independent Catholic identity that rejects papal supremacy (analogous to the Greek Orthodox position in [greek-orthodox-church.md](greek-orthodox-church.md)), the IFI established full communion with the Old Catholic Churches of Europe.
+- **The Union of Utrecht (Old Catholic Churches):** Sharing a common independent Catholic identity that rejects papal supremacy (analogous to the Orthodox position in [eastern-orthodox-church.md](eastern-orthodox-church.md)), the IFI established full communion with the Old Catholic Churches of Europe.
 - **The Church of Sweden:** A Lutheran state church that preserves the historic episcopate, establishing mutual recognition and full communion.
 
 The IFI is also an active member of the **World Council of Churches (WCC)** and a founding member of the **National Council of Churches in the Philippines (NCCP)**.

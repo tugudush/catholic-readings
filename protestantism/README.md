@@ -6,7 +6,7 @@
 
 ## Purpose of This Directory
 
-The Reformation of the sixteenth century produced a family of ecclesial communities that together form the largest non-Catholic Christian body in the world. Because these communities are frequently encountered, and because their doctrines are often presented to Catholics as alternatives to Catholic teaching, this directory documents them deliberately and fairly — in the same spirit in which the repository documents the [Eastern Orthodox Church](../church-history/greek-orthodox-church.md), the [Eastern Catholic Churches](../church-history/eastern-catholic-churches.md), and the [traditionalist societies](../church-history/traditionalist-societies-sspx-fssp.md) separated from or irregularly related to Rome.
+The Reformation of the sixteenth century produced a family of ecclesial communities that together form the largest non-Catholic Christian body in the world. Because these communities are frequently encountered, and because their doctrines are often presented to Catholics as alternatives to Catholic teaching, this directory documents them deliberately and fairly — in the same spirit in which the repository documents the [Eastern Orthodox Church](../church-history/eastern-orthodox-church.md), the [Eastern Catholic Churches](../church-history/eastern-catholic-churches.md), and the [traditionalist societies](../church-history/traditionalist-societies-sspx-fssp.md) separated from or irregularly related to Rome.
 
 Each study in this directory is written to do three things:
 
@@ -114,7 +114,7 @@ Alongside the surveys of traditions and confessional standards, the directory al
 | **The Eastern witness**               | [church-history/orthodox-east-and-the-reformation.md](../church-history/orthodox-east-and-the-reformation.md)     | Why the Orthodox East did not undergo a Protestant-style rupture, and the East's own judgment of the Reformation.                                                                                     |
 | **Freemasonry and Protestantism**     | [enemies-of-the-church/freemasons.md](../enemies-of-the-church/freemasons.md)                                     | The varying relationship between Freemasonry and the Protestant churches, set alongside the Church's consistent condemnation.                                                                         |
 | **Eschatology and dispensationalism** | [eschatology/README.md](../eschatology/README.md)                                                                 | The Catholic doctrine of the Last Things, with the sectarian influences (including Protestant dispensationalism) distinguished from defined teaching.                                                 |
-| **Ecumenism and reunion**             | [church-history/greek-orthodox-church.md](../church-history/greek-orthodox-church.md)                             | Catholic relations with a separated communion that retains apostolic succession, illustrating the Church's method of ecumenical dialogue.                                                             |
+| **Ecumenism and reunion**             | [church-history/eastern-orthodox-church.md](../church-history/eastern-orthodox-church.md)                         | Catholic relations with a separated communion that retains apostolic succession, illustrating the Church's method of ecumenical dialogue.                                                             |
 
 ---
 

@@ -362,7 +362,7 @@ The Apostolic Fathers wrote in Greek (the lingua franca of the Eastern Mediterra
 - [st-papias-hierapolis.md](st-papias-hierapolis.md) — Dedicated biography of St. Papias of Hierapolis, hearer of St. John and preserver of the earliest patristic testimony to the origins of the Gospels.
 - [apostolic-foundation-councils.md](apostolic-foundation-councils.md) — The broader history of the early Church from apostolic times through the ecumenical councils.
 - [eastern-catholic-churches.md](eastern-catholic-churches.md) — The theology and structure of the 23 Eastern Catholic _sui iuris_ Churches.
-- [greek-orthodox-church.md](greek-orthodox-church.md) — Relations with the Eastern Orthodox tradition.
+- [eastern-orthodox-church.md](eastern-orthodox-church.md) — Relations with the Eastern Orthodox tradition.
 - [papal-chronology.md](papal-chronology.md) — The succession of popes from St. Peter onward.
 - [../scripture/bible-history-canon.md](../scripture/bible-history-canon.md) — The development of the canon of Sacred Scripture, including the role of the early Fathers.
 - [../saints/st-ignatius-loyola.md](../saints/st-ignatius-loyola.md) — St. Ignatius of Loyola, who took his religious name from St. Ignatius of Antioch.

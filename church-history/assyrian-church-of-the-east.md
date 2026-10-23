@@ -111,7 +111,7 @@ The nineteenth and twentieth centuries brought catastrophic suffering: the Kurdi
 
 ### 6.1 The Councils Received and the Creed
 
-The Assyrian Church of the East receives the first **two ecumenical councils** — **Nicaea I (325)** and **Constantinople I (381)** — and professes the **Nicene-Constantinopolitan Creed**, including the eternal procession of the Holy Spirit **from the Father** (as in the original form of the Creed, without the _Filioque_; compare the discussion in [greek-orthodox-church.md](greek-orthodox-church.md)). The Christological definitions of Ephesus (431) and Chalcedon (451) are not received as dogmatic, though — as the 1994 Declaration makes clear — the faith expressed by them is substantially shared.
+The Assyrian Church of the East receives the first **two ecumenical councils** — **Nicaea I (325)** and **Constantinople I (381)** — and professes the **Nicene-Constantinopolitan Creed**, including the eternal procession of the Holy Spirit **from the Father** (as in the original form of the Creed, without the _Filioque_; compare the discussion in [eastern-orthodox-church.md](eastern-orthodox-church.md)). The Christological definitions of Ephesus (431) and Chalcedon (451) are not received as dogmatic, though — as the 1994 Declaration makes clear — the faith expressed by them is substantially shared.
 
 ### 6.2 Marian Theology
 
@@ -271,7 +271,7 @@ On the thirtieth anniversary of the Common Christological Declaration, the Ponti
 
 - [sects-and-non-christian-communities.md](sects-and-non-christian-communities.md) — the magisterial classification of particular Churches, ecclesial communities, and non-Christian religious groups, including the summary entry for the Assyrian Church of the East (§4.3).
 - [eastern-catholic-churches.md](eastern-catholic-churches.md) — the twenty-three Eastern Catholic _sui iuris_ Churches, including the **Chaldean Catholic Church**, the sister heir of the same East Syriac tradition in full communion with Rome.
-- [greek-orthodox-church.md](greek-orthodox-church.md) — the Byzantine tradition, the Council of Ephesus and Chalcedon, and the question of the _Filioque_.
+- [eastern-orthodox-church.md](eastern-orthodox-church.md) — the Byzantine tradition, the Council of Ephesus and Chalcedon, and the question of the _Filioque_.
 - [orthodox-east-and-the-reformation.md](orthodox-east-and-the-reformation.md) — the Eastern Churches and the question of reform and schism.
 - [apostolic-fathers.md](apostolic-fathers.md) — the earliest post-apostolic witnesses, including the Didache's Eucharistic prayers, which resemble the Anaphora of Addai and Mari tradition.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — the Catholic doctrine of the Holy Eucharist and transubstantiation.

@@ -108,7 +108,7 @@ Much of what divides Anglicans and Catholics is **discipline** rather than dogma
 
 ## 6. Latin and Eastern Catholic Perspectives
 
-The Catholic answer to the Anglican reform is not merely Latin. The **Eastern Catholic** and **Eastern Orthodox** Churches share with Rome the **sacrificial Eucharist**, the **seven sacraments**, **apostolic succession**, and the **veneration of the Theotokos and saints** — the very elements the Anglican formularies formally set aside. Pope Leo XIII's judgment of 1896 invoked the unbroken tradition of both East and West on the sacrificial priesthood (_Sacerdotium_), and the Church's liturgical and Marian doctrine holds in both communions. See [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) and [church-history/greek-orthodox-church.md](../church-history/greek-orthodox-church.md).
+The Catholic answer to the Anglican reform is not merely Latin. The **Eastern Catholic** and **Eastern Orthodox** Churches share with Rome the **sacrificial Eucharist**, the **seven sacraments**, **apostolic succession**, and the **veneration of the Theotokos and saints** — the very elements the Anglican formularies formally set aside. Pope Leo XIII's judgment of 1896 invoked the unbroken tradition of both East and West on the sacrificial priesthood (_Sacerdotium_), and the Church's liturgical and Marian doctrine holds in both communions. See [church-history/eastern-catholic-churches.md](../church-history/eastern-catholic-churches.md) and [church-history/eastern-orthodox-church.md](../church-history/eastern-orthodox-church.md).
 
 ---
 
