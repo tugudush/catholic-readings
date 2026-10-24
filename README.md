@@ -301,6 +301,15 @@ Catholic comparative studies of the Protestant traditions — presented **for co
 
 ---
 
+## 20. Faith Testimonies & Interviews
+
+Source-critical documentation of first-person accounts of faith — conversion narratives, celebrity and public-figure interviews, and lay testimonies — reporting the speaker's own claims as **attributed testimony** and grading every substantive theological statement against Catholic doctrine, **for study, not as an endorsement** of the speaker's theology:
+
+- **Master Index & Scope**: Read [testimonies/README.md](testimonies/README.md) for the directory's scope (first-person accounts in, catechesis and comparative studies out), the five principles applied (testimony is evidence of experience, not of doctrine; attribute, then assess; grade the claims; note the silences; neither credulity nor contempt), and its cross-links to the spiritual-life, angelology, sacraments, and protestantism directories.
+- **Nicki Minaj — _The Bryce Crawford Podcast_, Episode 200**: Read [testimonies/nicki-minaj-bryce-crawford-interview.md](testimonies/nicki-minaj-bryce-crawford-interview.md) for a source-based synthesis of the ~47-minute interview — a childhood formed by violence and prayer in Trinidad and Southside Jamaica, Queens; prayer without ceasing and a recent discipline of daily Scripture reading; the drift from church that followed fame and the loss of anonymity that makes common worship difficult for the famous; humility as the condition of nearness to God; her moral indictment of the music industry ("it makes people feel that they're never enough") and her regret over her own lyrics; trust, betrayal, and discernment by patterns rather than words; and her careful refusal to affirm the "Illuminati" label while insisting the conflict "definitely has been spiritual" — with a timestamped outline, a nineteen-row graded Catholic assessment (dogma, doctrine, discipline, opinion), an analysis of what the interview omits (the sacraments, the Mass, Confession, Our Lady and the saints), pastoral and discernment notes, and a catalogue of machine-transcript errors.
+
+---
+
 ## Theological Conventions & Scholarly Rigor
 
 All documents in this repository are managed according to the highest standards of Catholic academic and theological commentary. When reading or contributing to this database, keep in mind:
