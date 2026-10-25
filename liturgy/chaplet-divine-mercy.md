@@ -10,6 +10,8 @@ Theologically, the Chaplet offers to **God the Father** the **Body and Blood, So
 
 _For the broader context of St. Faustina's revelations — including the Divine Mercy Image, the Feast of Mercy, and the Hour of Mercy — see [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md). For the Hour of Great Mercy devotion, see [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md). For Divine Mercy Sunday and the complete Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](divine-mercy-feast-and-novena.md). For the autumn novena asking St. Faustina's intercession, see [liturgy/novena-st-faustina.md](novena-st-faustina.md)._
 
+For a printable, self-contained order of prayer — giving the order of the beads, the full text of every prayer, the promises attached to the devotion, and the hour at which our Lord asked that it be prayed above all — see [for-printing/divine-mercy/how-to-pray-the-chaplet-of-divine-mercy.md](../for-printing/divine-mercy/how-to-pray-the-chaplet-of-divine-mercy.md).
+
 ---
 
 ## The Full Text of the Prayers
