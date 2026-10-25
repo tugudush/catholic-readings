@@ -201,6 +201,80 @@ function inlineToRuns(inlineTokens, parentBold = false, parentItalic = false) {
   return runs
 }
 
+// --- Heading inline runs ---
+// Headings previously used the raw markdown text (token.text), so any inline
+// emphasis in a heading ("### Title _(note)_") printed its literal _ and *.
+function headingRuns(inlineTokens, size, color, italics = false) {
+  const runs = []
+  for (const t of inlineTokens || []) {
+    switch (t.type) {
+      case 'text':
+        runs.push(
+          new TextRun({
+            text: decodeEntities(t.text || t.raw || ''),
+            bold: true,
+            italics,
+            font: FONT,
+            color,
+            size,
+          }),
+        )
+        break
+      case 'strong':
+        runs.push(...headingRuns(t.tokens, size, color, italics))
+        break
+      case 'em':
+        runs.push(...headingRuns(t.tokens, size, color, true))
+        break
+      case 'codespan':
+        runs.push(
+          new TextRun({
+            text: t.text,
+            bold: true,
+            italics,
+            font: CODE_FONT,
+            color,
+            size,
+          }),
+        )
+        break
+      case 'link':
+        runs.push(
+          new TextRun({
+            text: t.text || t.href,
+            bold: true,
+            italics,
+            font: FONT,
+            color,
+            size,
+            underline: {},
+          }),
+        )
+        break
+      case 'br':
+        runs.push(new TextRun({ break: 1, font: FONT }))
+        break
+      case 'html':
+        break
+      default:
+        if (t.raw) {
+          runs.push(
+            new TextRun({
+              text: decodeEntities(t.raw),
+              bold: true,
+              italics,
+              font: FONT,
+              color,
+              size,
+            }),
+          )
+        }
+        break
+    }
+  }
+  return runs
+}
+
 // --- Paragraph inline runs ---
 function paragraphRuns(token) {
   if (token.tokens) return inlineToRuns(token.tokens)
@@ -398,6 +472,34 @@ children.push(
 )
 
 // Pre-scan tokens for headings to build the TOC
+// plainText() strips markdown emphasis markers ("**", "_", "`") from a heading
+// so that TOC entries read as plain text instead of raw markdown.
+const plainText = (inlineTokens) => {
+  let out = ''
+  for (const t of inlineTokens || []) {
+    switch (t.type) {
+      case 'text':
+      case 'codespan':
+        out += decodeEntities(t.text || t.raw || '')
+        break
+      case 'strong':
+      case 'em':
+      case 'link':
+        out += plainText(t.tokens)
+        break
+      case 'br':
+        out += ' '
+        break
+      case 'image':
+      case 'html':
+        break
+      default:
+        if (t.raw) out += decodeEntities(t.raw)
+    }
+  }
+  return out
+}
+
 for (const tok of tokens) {
   if (tok.type !== 'heading' || tok.depth > 3) continue
   // Skip the first H1 title and the TOC heading itself
@@ -413,12 +515,13 @@ for (const tok of tokens) {
   const tocSize = tok.depth === 1 ? 24 : tok.depth === 2 ? 22 : 20
   const tocBold = tok.depth <= 2
   const tocColor = tok.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR
+  const tocText = plainText(tok.tokens) || decodeEntities(tok.text)
 
   children.push(
     new Paragraph({
       children: [
         new TextRun({
-          text: decodeEntities(tok.text),
+          text: tocText,
           font: FONT,
           size: tocSize,
           bold: tocBold,
@@ -464,15 +567,11 @@ for (const token of tokens) {
       children.push(
         new Paragraph({
           heading: headingMap[token.depth] || HeadingLevel.HEADING_4,
-          children: [
-            new TextRun({
-              text: decodeEntities(token.text),
-              font: FONT,
-              bold: true,
-              color: token.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR,
-              size: token.depth === 2 ? 32 : token.depth === 3 ? 26 : 24,
-            }),
-          ],
+          children: headingRuns(
+            token.tokens || [],
+            token.depth === 2 ? 32 : token.depth === 3 ? 26 : 24,
+            token.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR,
+          ),
           spacing: { before: token.depth === 2 ? 360 : 240, after: 120 },
         }),
       )
