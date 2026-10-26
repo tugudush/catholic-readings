@@ -4,6 +4,8 @@ The **Liturgy of the Hours**, also called the **Divine Office**, is the official
 
 It is not merely a private prayer book. When celebrated according to the approved liturgical books, it is the public prayer of the Church, offered by the Church and in the name of the Church.
 
+For a printable, self-contained order of prayer — the hours at a glance, the shape of each hour, and the full text of every fixed prayer (the opening verses, the Gospel canticles, the Te Deum in English and Latin, the examination of conscience, the blessing, and the _Salve Regina_) — see [for-printing/liturgy-of-the-hours/how-to-pray-the-liturgy-of-the-hours.md](../for-printing/liturgy-of-the-hours/how-to-pray-the-liturgy-of-the-hours.md).
+
 > **Practical note:** The text of the Hours changes according to the liturgical season, Sunday, feast, memorial, and local calendar. This document presents the structure and recurring prayers; the official breviary or an approved edition of the Liturgy of the Hours is needed for the complete daily psalmody, readings, antiphons, intercessions, and collects.
 
 ## 1. Theological Meaning
