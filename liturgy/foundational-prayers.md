@@ -15,6 +15,15 @@ Historically made with the right hand from forehead to breast, and then from lef
 - **English:** In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 - **Latin:** _In nomine Patris, et Filii, et Spiritus Sancti. Amen._
 
+### Cebuano (Binisaya)
+
+The common Binisaya form of the Sign of the Cross, known as _Ang Pagpanguros_ or _Timaan sa Krus_. The Cebuano prayers collection of the Basilica Minore del Sto. Niño de Cebu — from which the other Cebuano texts in this document are taken — carries no page for this prayer, so the wording given here is the form in general use in the Cebuano liturgy rather than a text transcribed from that collection.
+
+- **Cebuano (Binisaya):**  
+  Sa ngalan sa Amahan,  
+  ug sa Anak,  
+  ug sa Espiritu Santo. Amen.
+
 ### Eastern/Byzantine Rites
 
 Made by holding the thumb and first two fingers together (symbolizing the Holy Trinity) while the ring finger and pinky are pressed to the palm (symbolizing Christ's two natures). Byzantine Catholics cross themselves from the right shoulder to the left shoulder.
@@ -447,12 +456,25 @@ A prayer of confidence in the intercession of the Blessed Virgin Mary, tradition
   To thee do I come, before thee I stand, sinful and sorrowful.  
   O Mother of the Word Incarnate, despise not my petitions,  
   but in thy mercy hear and answer me. Amen.
+- **Latin:**  
+  _Memorare, O piissima Virgo Maria,  
+  a saeculo non esse auditum,  
+  quemquam ad tua currentem praesidia,  
+  tua implorantem auxilia, tua petentem suffragia,  
+  esse derelictum.  
+  Ego tali animatus confidentia,  
+  ad te, Virgo Virginum, Mater, curro,  
+  ad te venio, coram te gemens peccator assisto.  
+  Noli, Mater Verbi, verba mea despicere,  
+  sed audi propitia et exaudi. Amen._
+
+The Latin is the received text of the prayer as it circulated after Fr. Claude Bernard's popularization; the English above follows it clause for clause, so the two may be prayed in parallel.
 
 ---
 
 ## 10. Soul of Christ (_Anima Christi_)
 
-A Eucharistic prayer dating back to the early 14th century, often associated with Saint Ignatius of Loyola (who placed it at the beginning of his _Spiritual Exercises_).
+A Eucharistic prayer dating back to the early 14th century, often associated with Saint Ignatius of Loyola (who placed it at the beginning of his _Spiritual Exercises_). Its authorship is unknown; it has been ascribed, without proof, to Pope John XXII.
 
 - **English:**  
   Soul of Christ, sanctify me.  
@@ -464,10 +486,24 @@ A Eucharistic prayer dating back to the early 14th century, often associated wit
   Within Thy wounds hide me.  
   Suffer me not to be separated from Thee.  
   From the malignant enemy defend me.  
-  At the hour of my death call me,
+  At the hour of my death call me,  
   and bid me come unto Thee,  
   that with Thy saints I may praise Thee  
   for ever and ever. Amen.
+- **Latin:**  
+  _Anima Christi, sanctifica me.  
+  Corpus Christi, salva me.  
+  Sanguis Christi, inebria me.  
+  Aqua lateris Christi, lava me.  
+  Passio Christi, conforta me.  
+  O bone Iesu, exaudi me.  
+  Intra tua vulnera absconde me.  
+  Ne permittas me separari a te.  
+  Ab hoste maligno defende me.  
+  In hora mortis meae voca me.  
+  Et iube me venire ad te,  
+  ut cum Sanctis tuis laudem te  
+  in saecula saeculorum. Amen._
 
 ---
 
@@ -537,3 +573,7 @@ A personal evening prayer of thanksgiving, examination of conscience, contrition
   for You alone, O Lord, make me dwell in safety. Amen.
 
 The final petition echoes Psalm 4: “I will both lie down and sleep in peace; for You alone, O Lord, make me lie down in safety.” Compline is the Church’s final prayer of the day, normally prayed before going to bed, and its introduction fittingly includes an examination of conscience (General Instruction of the Liturgy of the Hours, §§84–91). This personal prayer is not a required formula; it may be adapted according to one’s circumstances.
+
+---
+
+For a printable booklet of these prayers in their Latin Rite forms — English, Latin, and Cebuano set out line by line for recitation — see [for-printing/foundational-prayers/foundational-prayers.md](for-printing/foundational-prayers/foundational-prayers.md).
