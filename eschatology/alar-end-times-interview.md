@@ -202,7 +202,7 @@ Fr. Alar cites the work of Rev. Gerald Culleton, whose book _Prophets and Our Ti
 
 ### Marie-Julie Jahenny (1850–1941)
 
-The Breton mystic and stigmatist Marie-Julie Jahenny (the "Breton Stigmatist") is cited for the detail that "only blessed candles made of wax will give some light" and that "one candle will last for all three days." Additionally, "in the house of the God-fearing, the candles won't be put out," but "they will not give light in the houses of the godless."
+The Breton mystic and stigmatist Marie-Julie Jahenny (the "Breton Stigmatist") is cited for the detail that "only blessed candles made of wax will give some light" and that "one candle will last for all three days." Additionally, "in the house of the God-fearing, the candles won't be put out," but "they will not give light in the houses of the godless." A full source-critical study of her life, texts, and doctrinal status is in [The Prophecies of Marie-Julie Jahenny](marie-julie-jahenny-prophecies.md).
 
 Fr. Alar notes further tradition that demons may appear "disguised as family members coming to get us," but again emphasizes: "This is not dogma. This is just something that will help us prepare."
 

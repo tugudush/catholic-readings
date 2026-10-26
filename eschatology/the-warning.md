@@ -185,7 +185,7 @@ The most developed **non-Garabandal** treatment of "the Warning" outside the _Bo
 
 #### 3.3.2 Marie-Julie Jahenny (1850–1941)
 
-A French stigmatist and "Breton mystic" whose alleged visions supply many of the details in the "Three Days of Darkness" literature (blessed candles of wax, demons roaming, a great warning). The Church has made **no formal declaration** on the supernatural character of her revelations. Her claims are to be received with the prudence the 2024 norms require ([three-days-of-darkness.md](three-days-of-darkness.md#43-marie-julie-jahenny-18501941--no-formal-ecclesiastical-approval)).
+A French stigmatist and "Breton mystic" whose alleged visions supply many of the details in the "Three Days of Darkness" literature (blessed candles of wax, demons roaming, a great warning). The Church has made **no formal declaration** on the supernatural character of her revelations. Her claims are to be received with the prudence the 2024 norms require ([three-days-of-darkness.md](three-days-of-darkness.md#43-marie-julie-jahenny-18501941--no-formal-ecclesiastical-approval)); a full study is in [The Prophecies of Marie-Julie Jahenny](marie-julie-jahenny-prophecies.md).
 
 #### 3.3.3 Servant of God Luisa Piccarreta (1865–1947)
 

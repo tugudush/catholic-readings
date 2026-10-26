@@ -175,7 +175,7 @@ Some devotional accounts attribute to Padre Pio prophetic statements about a per
 
 ### 4.3 Marie-Julie Jahenny (1850–1941) — no formal ecclesiastical approval
 
-A French stigmatist and "Breton mystic" whose alleged visions supply a striking share of the Three Days literature: **candles of blessed wax** as the only light, **demons roaming** the earth, a great chastisement, and the **"Purple Scapular"** ("Scapular of Benediction and Protection"). The Church has made **no formal declaration** on the supernatural character of her alleged revelations, and her claims are to be received with the prudence the **2024 norms** require. Her specific details are **devotional attribution**, and the Purple Scapular is not a Church-approved devotion in the sense that the Brown Scapular is (see [sacramentals/other-approved-scapulars.md](../sacramentals/other-approved-scapulars.md)).
+A French stigmatist and "Breton mystic" whose alleged visions supply a striking share of the Three Days literature: **candles of blessed wax** as the only light, **demons roaming** the earth, a great chastisement, and the **"Purple Scapular"** ("Scapular of Benediction and Protection"). The Church has made **no formal declaration** on the supernatural character of her alleged revelations, and her claims are to be received with the prudence the **2024 norms** require. Her specific details are **devotional attribution**, and the Purple Scapular is not a Church-approved devotion in the sense that the Brown Scapular is (see [sacramentals/other-approved-scapulars.md](../sacramentals/other-approved-scapulars.md)). A full source-critical study of her life, texts, devotions, and doctrinal status is in [The Prophecies of Marie-Julie Jahenny](marie-julie-jahenny-prophecies.md).
 
 ### 4.4 Servant of God Luisa Piccarreta (1865–1947) — cause open, writings not approved
 
@@ -471,6 +471,7 @@ Discernment, humility, hope, and trust in the providence of God, who has reveale
 - [Doctrinal Foundations](doctrinal-foundations.md) — the magisterial sources on eschatology, including the 2024 norms.
 - [The Warning (Illumination of Conscience)](the-warning.md) — the _Book of Truth_ corpus's central and still-unfulfilled claim, and the same motif across other private revelations.
 - [Signs in the Heavens and the Cross](signs-in-the-heavens-and-the-cross.md) — the companion treatment of the sky-sign (Cross in the sky) motif, with the Dozulé ruling of 2025.
+- [The Prophecies of Marie-Julie Jahenny](marie-julie-jahenny-prophecies.md) — the dedicated study of the Breton stigmatist whose texts supply many of the Three Days details, with the full canonical and textual analysis.
 - [Hell in Private Revelation](hell-private-revelations.md) — the companion treatment of another popular eschatological topic, with the same doctrinal distinctions.
 - [Reading List](reading-list.md) — recommended books on Catholic eschatology.
 - [../book-of-truth/README.md](../book-of-truth/README.md) — the corpus's unapproved status and its documented claims.

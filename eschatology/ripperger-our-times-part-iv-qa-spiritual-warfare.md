@@ -218,7 +218,7 @@ He presents a three-wave model of chastisement attributed to those revelations:
 
 He says the scapular should be used as a sign of devotion and a request for God's protection. It is not an absolute guarantee that a person wearing or keeping it will pass through a chastisement untouched. It does not remove the need for repentance, holiness, prudence, or the ordinary sacramental life.
 
-This is one of the clearest examples in the recording of a distinction between **devotion** and **certainty**. The speaker openly admits the lack of ecclesiastical approval and permits Catholics to withhold belief. His personal promotion of the item is not equivalent to a judgment by the Church. The repository's [Three Days of Darkness treatment](three-days-of-darkness.md) discusses Marie-Julie Jahenny and the broader canonical distinctions surrounding these claims.
+This is one of the clearest examples in the recording of a distinction between **devotion** and **certainty**. The speaker openly admits the lack of ecclesiastical approval and permits Catholics to withhold belief. His personal promotion of the item is not equivalent to a judgment by the Church. The repository's [Three Days of Darkness treatment](three-days-of-darkness.md) discusses Marie-Julie Jahenny and the broader canonical distinctions surrounding these claims; the full study is in [The Prophecies of Marie-Julie Jahenny](marie-julie-jahenny-prophecies.md).
 
 ### 10. The Three Days of Darkness
 
