@@ -49,6 +49,10 @@ For the practical rites and prayers surrounding death — from the sacraments fo
 
 - **[Prayers for the Dying and the Dead](../liturgy/prayers-for-the-dead.md)**: A comprehensive guide to the Catholic rites, prayers, and devotional practices surrounding death, including the Sacrament of Penance, Anointing of the Sick, Viaticum, the Apostolic Pardon, the Commendation of the Dying, the funeral rites (Vigil, Funeral Mass, Committal), and the periodic commemorations (3rd, 7th, 30th, 40th day, anniversary, All Souls' Day), with the novena for the dead and other devotions.
 
+## 6. Printable Compilation
+
+- **[The Last Things: A Printable Compilation of Catholic Eschatology](../for-printing/eschatology/the-last-things-compilation.md)**: A print-ready booklet gathering the doctrine of the Last Things with its scriptural and magisterial warrant, a claim-by-claim comparison of the popular end-times sequence with what the Church actually teaches, a guided index of the documents in this directory, the Church's prayers and practices for the dying and the dead, and a graded reading path. A Word edition is kept beside it in [for-printing/eschatology/](../for-printing/eschatology/).
+
 ---
 
 ## Theological Distinctions Essential to Catholic Eschatology
