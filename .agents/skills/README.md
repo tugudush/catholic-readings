@@ -1,11 +1,14 @@
 # Agent Skills — Install Guide
 
-This folder holds project-scoped agent skills installed with `gh skill install`. Each skill is a
-vendored third-party copy: its source files are tracked in git, but the `node_modules` a skill
-installs for itself is not.
+This folder holds project-scoped agent skills. Their source files are tracked in git, but any
+`node_modules` a skill installs for itself is not.
 
-- **md-to-docx** — from `github/awesome-copilot`; needs the `docx` and `marked` packages. See
-  [md-to-docx/SKILL.md](md-to-docx/SKILL.md) for what it does.
+- **md-to-docx** — vendored from `github/awesome-copilot` with `gh skill install`; needs the `docx`
+  and `marked` packages. See [md-to-docx/SKILL.md](md-to-docx/SKILL.md) for what it does.
+- **create-pamphlet** — written in this repository: turns a document into a folded print pamphlet
+  (condensed Markdown + paired `.docx` + an imposed A4 PDF in saddle-stitch order). No npm
+  dependencies; its scripts need Python with `pywin32` (drives Word to export a PDF) and `pymupdf`
+  (imposes the pages). See [create-pamphlet/SKILL.md](create-pamphlet/SKILL.md).
 
 ## Why packages are installed per skill
 
