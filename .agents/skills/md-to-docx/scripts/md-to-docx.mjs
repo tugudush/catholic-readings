@@ -2,6 +2,7 @@
  * md-to-docx.mjs - Markdown to Word converter
  * Pure JavaScript, no external tools required.
  * Usage: node md-to-docx.mjs <input.md> [output.docx]
+ *          [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--no-toc] [--no-meta]
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs'
@@ -37,13 +38,32 @@ function pngDimensions(buffer) {
 }
 
 // --- CLI argument parsing ---
-const inputPath = process.argv[2]
+// Positional: <input.md> [output.docx]. Long flags (--name or --name=value)
+// may appear anywhere and are collected into `flags`.
+const flags = {}
+const positional = []
+for (const arg of process.argv.slice(2)) {
+  if (arg.startsWith('--')) {
+    const [key, value] = arg.slice(2).split('=')
+    flags[key] = value === undefined ? true : value
+  } else {
+    positional.push(arg)
+  }
+}
+const inputPath = positional[0]
 if (!inputPath) {
-  console.error('Usage: node md-to-docx.mjs <input.md> [output.docx]')
+  console.error(
+    'Usage: node md-to-docx.mjs <input.md> [output.docx] [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--no-toc] [--no-meta]',
+  )
   process.exit(1)
 }
-const outputPath = process.argv[3] || inputPath.replace(/\.md$/i, '.docx')
+const outputPath = positional[1] || inputPath.replace(/\.md$/i, '.docx')
 const inputDir = dirname(resolve(inputPath))
+
+// Output options: a short pamphlet or handout wants no TOC and a title page
+// without the build-date / version line.
+const noToc = flags['no-toc'] === true
+const noMeta = flags['no-meta'] === true
 
 const mdSource = readFileSync(inputPath, 'utf-8')
 
@@ -429,33 +449,37 @@ if (subtitle) {
     }),
   )
 }
-children.push(
-  new Paragraph({
-    children: [
-      new TextRun({
-        text: `Date: ${date}  |  Version: ${version}`,
-        font: FONT,
-        size: 22,
-        color: '666666',
-      }),
-    ],
-    alignment: AlignmentType.CENTER,
-  }),
-)
-if (audience) {
+if (!noMeta) {
   children.push(
     new Paragraph({
       children: [
-        new TextRun({ text: `Audience: ${audience}`, font: FONT, size: 22, color: '666666' }),
+        new TextRun({
+          text: `Date: ${date}  |  Version: ${version}`,
+          font: FONT,
+          size: 22,
+          color: '666666',
+        }),
       ],
       alignment: AlignmentType.CENTER,
-      spacing: { after: 600 },
     }),
   )
+  if (audience) {
+    children.push(
+      new Paragraph({
+        children: [
+          new TextRun({ text: `Audience: ${audience}`, font: FONT, size: 22, color: '666666' }),
+        ],
+        alignment: AlignmentType.CENTER,
+        spacing: { after: 600 },
+      }),
+    )
+  }
 }
 children.push(new Paragraph({ children: [new PageBreak()] }))
 
 // Table of Contents (static, built from headings found in the markdown)
+// `--no-toc` discards the whole block afterwards by truncating back to here.
+const tocStartIndex = children.length
 children.push(
   new Paragraph({
     children: [
@@ -535,6 +559,7 @@ for (const tok of tokens) {
 }
 
 children.push(new Paragraph({ children: [new PageBreak()] }))
+if (noToc) children.length = tocStartIndex
 
 // --- Token walker ---
 let skipToc = false
@@ -738,6 +763,30 @@ for (const token of tokens) {
   }
 }
 
+// --- Page geometry ---
+// Dimensions in twips (1 inch = 1440 twips). The half-* presets are folded
+// pamphlet sizes: US Letter folded in half (5.5 x 8.5 in) and A4 folded in
+// half (A5, 148 x 210 mm). Without --size the library default page is kept.
+const PAGE_SIZES = {
+  letter: { width: 12240, height: 15840 },
+  a4: { width: 11906, height: 16838 },
+  'half-letter': { width: 7920, height: 12240 },
+  'half-a4': { width: 8391, height: 11906 },
+}
+let pageSize
+if (flags.size !== undefined) {
+  pageSize = PAGE_SIZES[flags.size]
+  if (!pageSize) {
+    console.error(`Unknown --size "${flags.size}". Use: ${Object.keys(PAGE_SIZES).join(', ')}`)
+    process.exit(1)
+  }
+}
+const marginTwips = flags.margin === undefined ? 1440 : Number(flags.margin)
+if (!Number.isFinite(marginTwips) || marginTwips < 0) {
+  console.error('--margin must be a non-negative number of twips (1440 = 1 inch)')
+  process.exit(1)
+}
+
 // --- Create and write document ---
 const doc = new Document({
   styles: {
@@ -760,7 +809,15 @@ const doc = new Document({
   sections: [
     {
       properties: {
-        page: { margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } },
+        page: {
+          ...(pageSize ? { size: pageSize } : {}),
+          margin: {
+            top: marginTwips,
+            bottom: marginTwips,
+            left: marginTwips,
+            right: marginTwips,
+          },
+        },
       },
       children,
     },
