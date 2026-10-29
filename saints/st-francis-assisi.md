@@ -160,9 +160,109 @@ St. Francis founded **three orders**:
 
 ---
 
-## 13. Prayers Asking for the Intercession of St. Francis of Assisi
+## 13. Prayers St. Francis Wrote
 
-> **Prayer status:** Unless a source is identified below, this prayer is a devotional composition for this article. It is not presented as words written by the saint or as an official liturgical collect.
+> **Source note:** The texts below are Francis's own, preserved in the critical collection of his _Opuscula_ (ed. Kajetan Esser) and translated in _Francis of Assisi: Early Documents_, vol. 1. English wording varies by translation; the renderings here are working translations of the Latin and early Italian. The _Canticle of Brother Sun_ is treated above in section 6.
+
+Francis wrote very little in the literary sense, but what he left is almost entirely prayer. His authentic writings comprise the Rule and the Testament, the letters, the _Office of the Passion_ compiled for his own recitation, the _Praises to Be Said at All the Hours_, a prayer inspired by the Our Father, the _Canticle of Brother Sun_, and the short orations gathered here. Most of what circulates in devotional booklets as "a prayer of St. Francis" is neither his nor contemporary with him; see the attribution cautions at the end of this section.
+
+### The Prayer Before the Crucifix (c. 1205–1206)
+
+According to the early lives, Francis composed this prayer while praying before the painted crucifix in the ruined chapel of San Damiano, from which he heard the call to repair God's house. It is the earliest datable text from his hand, and it is built almost entirely out of Gospel petitions:
+
+    Most High and glorious God,
+    enlighten the darkness of my heart,
+    and give me right faith,
+    certain hope,
+    and perfect charity,
+    with insight and knowledge, Lord,
+    that I may carry out
+    your holy and true command.
+    Amen.
+
+The closing petition is textually debated: some editors hold that the earliest witness ends with "insight and knowledge," and that the final line is a later addition. The substance of the prayer is secure in either case.
+
+### The Praises of God Most High (La Verna, 1224)
+
+In September 1224 at La Verna, Francis wrote out his praises of God on a small parchment and gave it to Brother Leo as a blessing. The parchment, in Francis's own hand and still preserved at Assisi, carries the _Praises of God Most High_ on one side and the _Blessing of Brother Leo_ (Numbers 6:24–26, signed with the _tau_) on the other. The _Praises_ are not petition but pure doxology, a heaped-up series of "You are" clauses:
+
+    You are holy, Lord, the only God,
+    and your deeds are wonderful.
+    You are strong. You are great. You are the Most High.
+    You are almighty. You, holy Father, King of heaven and earth.
+    You are three and one, Lord God, all good.
+    You are good, all good, supreme good,
+    Lord God, living and true.
+    You are love. You are wisdom.
+    You are humility. You are endurance.
+    You are rest. You are peace.
+    You are joy and gladness.
+    You are justice and moderation.
+    You are all our riches, and you suffice for us.
+    You are beauty. You are gentleness.
+    You are our protector. You are our guardian and defender.
+    You are courage. You are our haven and our hope.
+    You are our faith, our great consolation.
+    You are our eternal life, great and wonderful Lord,
+    God almighty, merciful Savior.
+
+### The "Absorbeat" (Prayer to Obtain Love)
+
+This brief prayer, preserved among Francis's shorter writings, asks for the charity that consumed him. Its opening word, _Absorbeat_, supplies its customary name:
+
+    Lord, I beg you,
+    let the sweet and burning power of your love
+    absorb my mind,
+    that I may die for love of your love,
+    you who deigned to die
+    for love of my love.
+
+### Attribution Cautions
+
+Several texts are habitually printed as prayers "of St. Francis" without warrant:
+
+| Text                                                                                                     | Status                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "Lord, make me an instrument of your peace" (the "Peace Prayer")                                         | Not by Francis. First published anonymously in 1912 in the French Franciscan bulletin _La Clochette_, and attributed to him only from about 1916 onward. Pope John Paul II, praying it at Assisi in 1986, introduced it as a prayer "commonly attributed to Saint Francis" — a popular attribution, not a claim of authorship. The standard study is Christian Renoux, _La prière pour la paix attribuée à saint François: une énigme_ (2001). |
+| "Preach the Gospel at all times. When necessary, use words." (quoted in section 1)                       | A modern aphorism. No such sentence occurs in Francis's writings or in the early biographies; it summarizes his practice rather than reporting his words.                                                                                                                                                                                                                                                                                      |
+| The "Prayer for Animals," the "Prayer for Peace in the Family," and similar texts in devotional booklets | Generally anonymous devotional compositions of the nineteenth and twentieth centuries, written in a Franciscan spirit.                                                                                                                                                                                                                                                                                                                         |
+
+A prayer may express Francis's spirit, and the Church may commend it to the faithful, without being a text he wrote. That distinction is why the three prayers above are given with their manuscripts and the prayers in the following section are labelled for what they are.
+
+---
+
+## 14. Prayers Asking for the Intercession of St. Francis of Assisi
+
+> **Prayer status:** The collect quoted below is the official liturgical prayer of the Church for the saint's feast. The second prayer is a devotional composition for this article; it is not presented as words written by the saint.
+
+### The Official Prayer of His Feast (4 October)
+
+The Church's own prayer asking Francis's intercession is the Collect of his Mass. His celebration is a **Memorial** in the General Roman Calendar and a **Feast** in Italy, since Pope Pius XII proclaimed him patron of Italy on 18 June 1939. The Missal provides a complete proper — Collect, Prayer over the Offerings, and Prayer after Communion — but no proper Preface, directing the Common Prefaces of Saints or of Religious.
+
+From the _Messale Romano_, "San Francesco d'Assisi, patrono d'Italia":
+
+    O Padre, che hai concesso a san Francesco
+    di essere immagine viva di Cristo povero e umile,
+    fa' che, camminando sulle sue orme,
+    possiamo seguire il tuo Figlio
+    e unirci a te in carità e letizia.
+    Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio,
+    e vive e regna con te, nell'unità dello Spirito Santo,
+    per tutti i secoli dei secoli.
+
+A working English rendering of the same collect (the approved English wording varies by translation):
+
+    Father, you granted Saint Francis
+    to be a living image of Christ, poor and humble;
+    grant that, walking in his footsteps,
+    we may follow your Son
+    and be united to you in charity and joy.
+    Through our Lord Jesus Christ, your Son,
+    who is God, and lives and reigns with you,
+    in the unity of the Holy Spirit,
+    one God, for ever and ever.
+
+### A Devotional Prayer Seeking His Intercession
 
 St. Francis of Assisi, Il Poverello, embodied the radical poverty and joyous love of Christ to such a degree that he received the sacred stigmata — the very wounds of the Crucified. The faithful seek his intercession for the grace of simplicity, for peace in a divided world, for love of all God's creation, and for the courage to live the Gospel without compromise. The following prayer, inspired by the Franciscan tradition, may be used to seek his intercession:
 
@@ -190,8 +290,9 @@ _A shorter invocation for daily use:_
 
 ---
 
-## 14. Primary Sources and Further Reading
+## 15. Primary Sources and Further Reading
 
+- [for-printing/saints/prayers-of-st-francis-of-assisi.md](../for-printing/saints/prayers-of-st-francis-of-assisi.md) — A printable prayer companion: a short introduction to the saint, his own prayers, the Collect of his feast, and a prayer asking his intercession.
 - [saints/st-clare-assisi.md](st-clare-assisi.md) — St. Clare of Assisi, foundress of the Poor Clares.
 - [miracles/saint-phenomena/stigmata-padre-pio.md](../miracles/saint-phenomena/stigmata-padre-pio.md) — The stigmata in the lives of the saints.
 - [church-history/apostolic-foundation-councils.md](../church-history/apostolic-foundation-councils.md) — Medieval Church history context.
