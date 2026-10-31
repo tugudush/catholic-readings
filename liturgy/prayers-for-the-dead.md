@@ -504,6 +504,8 @@ The Church grants **indulgences** applicable to the souls in Purgatory:
   - Visiting a cemetery and praying for the dead
   - Reciting the _Requiem Aeternam_
 
+Both plenary grants are applicable **only** to the souls in Purgatory, and only one plenary indulgence may be gained each day. For a clause-by-clause verification of these grants against _Enchiridion Indulgentiarum_, Concessio 29, see [The November Plenary Indulgences for the Holy Souls](../eschatology/ewtn-vatican-november-indulgences-holy-souls.md).
+
 ---
 
 ## 8. Latin Rite vs. Eastern Catholic Practice

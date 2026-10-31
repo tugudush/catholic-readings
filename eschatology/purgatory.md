@@ -148,12 +148,12 @@ The doctrine rests on the **communion of saints**: Christ's infinite merits, the
 **Conditions for a plenary indulgence** (all five must accompany the indulgenced work; _Indulgentiarum Doctrina_, Norms 17, 20; [Compendium of the CCC 211](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/211)):
 
 1. **Perform the indulgenced work** itself, with at least general intention to gain the indulgence;
-2. **Sacramental Confession** — one confession (within about twenty days before or after) may serve for several plenary indulgences;
+2. **Sacramental Confession** — one confession (made within several days before or after, _Normae_ 8) may serve for several plenary indulgences;
 3. **Eucharistic Communion** — for each plenary indulgence;
-4. **Prayer for the intentions of the Supreme Pontiff** — one _Our Father_ and one _Creed_ (or any prayer according to the Pope's mind) for each;
+4. **Prayer for the intentions of the Supreme Pontiff** — one _Our Father_ and one _Hail Mary_ (or any prayer according to the Pope's mind) for each (_Normae_ 10);
 5. **Complete detachment from all sin, including venial sin** — the interior condition without which the indulgence, even when the work is done, is only partial.
 
-Ordinarily **one plenary indulgence may be gained per day** (except for those in danger of death); a partial indulgence may be gained **many times a day**, unless otherwise stated. Where the conditions are imperfectly fulfilled, a plenary indulgence becomes **partial**.
+Ordinarily **one plenary indulgence may be gained per day** (except for those in danger of death); a partial indulgence may be gained **many times a day**, unless otherwise stated. Where the conditions are imperfectly fulfilled, a plenary indulgence becomes **partial**. The norms governing the November indulgences for the dead are verified clause by clause in [ewtn-vatican-november-indulgences-holy-souls.md](ewtn-vatican-november-indulgences-holy-souls.md), which explains why those two plenary grants may be applied **only** to the souls in Purgatory and why the once-a-day rule prevents gaining both of them on 2 November.
 
 **Principal indulgenced works for the living** (Enchiridion Indulgentiarum, 4th ed. 1999):
 

@@ -332,7 +332,7 @@ The current _Enchiridion_ ([Concessiones 29](https://www.magisterium.com/docs/b4
 
 The plenary grants carry the **usual conditions**: sacramental confession (within about twenty days), reception of Holy Communion, prayer for the intentions of the Holy Father, and complete detachment from all sin, including venial sin ([CCC 1478](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1478)). It is fitting to fulfill them during the novena itself, so that the novena leads to Penance and the Eucharist rather than standing apart from them.
 
-The full catalogue of means for aiding the dead — the funeral rites, the 3rd/7th/30th/40th-day commemorations, the Office of the Dead, and the November indulgences — is in [Prayers for the Dying and the Dead](prayers-for-the-dead.md) and [Purgatory § 6](../eschatology/purgatory.md#6-reducing-temporal-punishment-while-still-living).
+The full catalogue of means for aiding the dead — the funeral rites, the 3rd/7th/30th/40th-day commemorations, the Office of the Dead, and the November indulgences — is in [Prayers for the Dying and the Dead](prayers-for-the-dead.md) and [Purgatory § 6](../eschatology/purgatory.md#6-reducing-temporal-punishment-while-still-living). A clause-by-clause verification of this table against the norms, with the rules the popular guides usually omit (both plenary grants are applicable only to the dead; only one plenary a day; prayer at the graveside may be wholly mental), is in [The November Plenary Indulgences for the Holy Souls](../eschatology/ewtn-vatican-november-indulgences-holy-souls.md).
 
 ---
 
