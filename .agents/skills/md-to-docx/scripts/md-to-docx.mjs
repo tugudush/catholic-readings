@@ -368,15 +368,16 @@ function buildTable(token) {
 }
 
 // --- Code block builder ---
-function buildCodeBlock(token) {
+function buildCodeBlock(token, breakFirst = false) {
   const lines = (token.text || '').split('\n')
   return lines.map(
-    (line) =>
+    (line, i) =>
       new Paragraph({
         children: [new TextRun({ text: line || ' ', font: CODE_FONT, size: sz(18) })],
-        spacing: { before: 20, after: 20 },
+        spacing: { before: 20, after: i === lines.length - 1 ? 120 : 20 },
         shading: { type: ShadingType.SOLID, color: CODE_BG, fill: CODE_BG },
         indent: { left: 360 },
+        pageBreakBefore: i === 0 ? breakFirst : false,
       }),
   )
 }
@@ -577,6 +578,16 @@ if (noToc) children.length = tocStartIndex
 
 // --- Token walker ---
 let skipToc = false
+// A `<!-- pagebreak -->` marker sets this; the NEXT block consumes it as
+// `pageBreakBefore`, so the break belongs to the block that starts the page
+// (a standalone break paragraph would add an empty page when the previous
+// panel was already full).
+let pendingBreak = false
+const takeBreak = () => {
+  const b = pendingBreak
+  pendingBreak = false
+  return b
+}
 
 for (const token of tokens) {
   switch (token.type) {
@@ -612,6 +623,7 @@ for (const token of tokens) {
             token.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR,
           ),
           spacing: { before: token.depth === 2 ? 360 : 240, after: 120 },
+          pageBreakBefore: takeBreak(),
         }),
       )
       break
@@ -624,6 +636,7 @@ for (const token of tokens) {
             children: inlineToRuns(inner.tokens, false, true),
             indent: { left: 360 },
             spacing: { before: 120, after: 120 },
+            pageBreakBefore: takeBreak(),
           }),
         )
       }
@@ -709,6 +722,7 @@ for (const token of tokens) {
             new Paragraph({
               children: runs,
               spacing: { before: 80, after: 80 },
+              pageBreakBefore: takeBreak(),
             }),
           )
         }
@@ -717,6 +731,10 @@ for (const token of tokens) {
     }
     case 'table':
       if (skipToc) continue
+      if (pendingBreak) {
+        pendingBreak = false
+        children.push(new Paragraph({ children: [new PageBreak()] }))
+      }
       children.push(buildTable(token))
       children.push(new Paragraph({ spacing: { after: 120 } }))
       break
@@ -740,12 +758,17 @@ for (const token of tokens) {
           }),
         )
       } else {
-        children.push(...buildCodeBlock(token))
+        children.push(...buildCodeBlock(token, takeBreak()))
       }
-      children.push(new Paragraph({ spacing: { after: 80 } }))
       break
     case 'list':
       if (skipToc) continue
+      if (pendingBreak) {
+        // Lists cannot carry `pageBreakBefore` from here; fall back to a break
+        // paragraph, which is safe because a list never starts at a full page.
+        pendingBreak = false
+        children.push(new Paragraph({ children: [new PageBreak()] }))
+      }
       children.push(...buildList(token))
       break
     case 'hr':
@@ -758,7 +781,12 @@ for (const token of tokens) {
       )
       break
     case 'html':
-      // Drop block-level raw HTML (anchors, stray tags) entirely
+      // A lone `<!-- pagebreak -->` comment forces the next block onto a new
+      // page (pamphlets use it so every panel is filled deliberately). Any
+      // other block-level raw HTML (anchors, stray tags) is dropped entirely.
+      if (!skipToc && /<!--\s*pagebreak\s*-->/i.test(token.raw || token.text || '')) {
+        pendingBreak = true
+      }
       break
     case 'space':
       break
