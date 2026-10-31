@@ -1,6 +1,7 @@
 ---
 description: 'Use when personalizing a general prayer for a specific request (e.g., a user asking for a prayer for "my mother"), or when generalizing a prayer from a specific person to a public-facing document. Transforms first-person kinship references and proper names to/from canonical placeholders.'
-applyTo: '**/*.md'
+paths:
+  - '**/*.md'
 name: 'Prayer Personalization & Generalization'
 ---
 

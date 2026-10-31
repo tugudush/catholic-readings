@@ -1,7 +1,8 @@
 ---
 name: 'Catholic Saint Documentation'
 description: 'Use when creating, expanding, or revising documentation about a Catholic saint or multiple saints. Covers source-critical biography, chronology, works, letters, theology, patronage, feast days, authentic prayers, intercession prayers, and Catholic citation practices.'
-applyTo: 'saints/**/*.md'
+paths:
+  - 'saints/**/*.md'
 ---
 
 # Catholic Saint Documentation

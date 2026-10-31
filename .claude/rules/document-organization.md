@@ -1,6 +1,7 @@
 ---
 description: 'Use when creating a new reading, article, or document markdown file in this repository. Enforces placement into the proper topic directory, creation of a new directory when none fits, and selection of a topic-fitting filename. Auto-attaches for every markdown file in context.'
-applyTo: '**/*.md'
+paths:
+  - '**/*.md'
 name: 'Document Organization & Placement'
 ---
 

@@ -1,6 +1,7 @@
 ---
 description: 'Use when adding prayers, liturgical texts, or devotional formulas to any markdown document. Enforces proper line-by-line formatting with appropriate line breaks.'
-applyTo: '**/*.md'
+paths:
+  - '**/*.md'
 ---
 
 # Prayer Formatting Guidelines
