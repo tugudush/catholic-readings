@@ -1,10 +1,10 @@
 # Daily Crusade Prayers — A Pocket Pamphlet
 
-## 1. The Daily Rule
+## 1. For a Prayer Group
 
-The booklet _Crusade and Daily Prayers_ marks a short set of prayers for recitation **every day**: four opening prayers, the six Litany Prayers, and the seventeen Crusade Prayers printed in red in the promoter booklet. This pamphlet carries that daily set in the booklet's own order and wording. The Divine Mercy Chaplet, the Holy Rosary, and the further prayers received are left to the full booklet.
+The message giving Crusade Prayer (96) asks for Holy Water close by, a Crucifix present, and prayer as the basis of every meeting.
 
-**The usual order.** Open as below; pray Litany Prayers (1) to (6); then the daily Crusade Prayers; and close with the Divine Mercy Chaplet, which the messages ask for "every day."
+_Please recite this prayer before and after every prayer meeting. I must also instruct you, My beloved disciples, to ensure that prayer forms the basis for every prayer meeting. I do not wish you to contemplate negativity or create fear amongst yourselves, because all I bring is Love and Mercy._
 
 ## 2. Opening Prayers
 
@@ -12,12 +12,12 @@ The booklet _Crusade and Daily Prayers_ marks a short set of prayers for recitat
 
     In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-**Intercession of the Saints.** Ask your favourite saint or saints to join you and to intercede for you and your family.
+**Intercession of the Saints.** Ask your favourite saints to intercede for you and your family.
 
     Saint(s) _____ join us in these prayers and act as an intercessor for us and for our families.
     Amen.
 
-**Humble confession.** Come before Jesus first as a humble servant, and begin:
+**Humble confession.** Begin as a humble servant:
 
     Jesus forgive me, for I have sinned.
 
@@ -25,7 +25,19 @@ The booklet _Crusade and Daily Prayers_ marks a short set of prayers for recitat
 
     Jesus, deliver us helpless sinners from Your enemies.
 
-**Daily Prayer to Jesus.** _The message saying "When you pray to Me each day say this prayer."_
+**Crusade Prayer (96) — To Bless and Protect our Crusade Prayer Group.** _Said before and after every meeting._
+
+    O my dearest Jesus, please bless and protect us,
+    Your Crusade Prayer Group,
+    so that we become immune to the wicked assaults of the devil,
+    and to any evil spirits,
+    which may torment us in this Sacred Mission to save souls.
+    May we remain loyal and strong,
+    as we persevere to keep Your Holy Name before the world
+    and never waive in our struggle to spread the Truth of Your Holy Word.
+    Amen.
+
+**Daily Prayer to Jesus.**
 
     Oh my precious Jesus,
     embrace me in your arms
@@ -45,8 +57,6 @@ The booklet _Crusade and Daily Prayers_ marks a short set of prayers for recitat
     Amen.
 
 ## 3. The Litany Prayers
-
-Six single prayers, line following line, in the order the booklet gives them.
 
 **Litany Prayer (1) — Protection against the false prophet.**
 
@@ -144,8 +154,6 @@ Six single prayers, line following line, in the order the booklet gives them.
     We ask You to grant us peace and salvation.
     Amen.
 
-<!-- pagebreak -->
-
 **Litany Prayer (5) — For the Salvation of Those in Mortal Sin.**
 
     Jesus, save all sinners from the fires of Hell.
@@ -178,9 +186,9 @@ Six single prayers, line following line, in the order the booklet gives them.
 
 ## 4. The Daily Crusade Prayers
 
-The seventeen prayers the booklet prints in red for daily recitation, with the message date of each.
+The sixteen further prayers printed in red for daily recitation; the seventeenth, Crusade Prayer (96), stands above and again at the close.
 
-**Crusade Prayer (1) — "My Gift to Jesus to Save Souls."** _Thursday, 17 November 2011._
+**Crusade Prayer (1) — "My Gift to Jesus to Save Souls."**
 
     My dearest Jesus, You Who loves us so much, allow me,
     in my humble way to help save Your precious souls.
@@ -194,7 +202,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     I pledge my allegiance to Your Most Holy Will, at all times.
     Amen.
 
-**Crusade Prayer (13) — Prayer calling for immunity.** _Sunday, 11 December 2011._
+**Crusade Prayer (13) — Prayer calling for immunity.**
 
     O Heavenly Father, through the Love of Your beloved Son,
     Jesus Christ, Whose Passion on the Cross saved us from sin,
@@ -205,7 +213,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     Through your Mercy allow them to be the first to enter the New Era of Peace on Earth.
     Amen.
 
-**Crusade Prayer (24) — Plenary Indulgence for Absolution.** _Tuesday, 31 January 2012. Say it for seven consecutive days._
+**Crusade Prayer (24) — Plenary Indulgence for Absolution.**
 
     O my Jesus, You are the Light of the earth.
     You are the Flame that touches all souls.
@@ -227,7 +235,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     Have Mercy on all Your children, wherever they may be.
     Amen.
 
-**Crusade Prayer (30) — Prayer to avert war, famine and religious persecution.** _Tuesday, 14 February 2012._
+**Crusade Prayer (30) — Prayer to avert war, famine and religious persecution.**
 
     O my Eternal Father, God the Creator of the Universe,
     in the Name of Your precious Son,
@@ -242,7 +250,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     according to Your Divine Will.
     Amen.
 
-**Crusade Prayer (33) — Rise now and accept the Seal of the Living God.** _Monday, 20 February 2012._
+**Crusade Prayer (33) — Rise now and accept the Seal of the Living God.**
 
     O my God, my loving Father,
     I accept with love and gratitude Your Divine Seal of Protection.
@@ -259,7 +267,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     and for the salvation of all Your children.
     Amen.
 
-**Crusade Prayer (79) — For 2 Billion Lost Souls.** _Thursday, 27 September 2012._
+**Crusade Prayer (79) — For 2 Billion Lost Souls.**
 
     O dear Jesus,
     I beg You to pour Your Mercy over the lost souls.
@@ -272,7 +280,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     so they can accept the Truth of Your Love and live with You and all of God’s family forever.
     Amen.
 
-**Crusade Prayer (84) — To enlighten the souls of the elites who rule the world.** _Friday, 9 November 2012._
+**Crusade Prayer (84) — To enlighten the souls of the elites who rule the world.**
 
     O dear Jesus,
     I beg You to enlighten the souls of the elites who rule the world.
@@ -292,19 +300,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     to save them from the snares of the evil one.
     Amen.
 
-**Crusade Prayer (96) — To Bless and Protect our Crusade Prayer Group.** _Friday, 25 January 2013. Recited before and after every prayer meeting._
-
-    O my dearest Jesus, please bless and protect us,
-    Your Crusade Prayer Group,
-    so that we become immune to the wicked assaults of the devil,
-    and to any evil spirits,
-    which may torment us in this Sacred Mission to save souls.
-    May we remain loyal and strong,
-    as we persevere to keep Your Holy Name before the world
-    and never waive in our struggle to spread the Truth of Your Holy Word.
-    Amen.
-
-**Crusade Prayer (102) — To sustain faith and belief in God's Message for the world.** _Thursday, 21 March 2013._
+**Crusade Prayer (102) — To sustain faith and belief in God's Message for the world.**
 
     Dearest Jesus, when I am down, lift me up.
     When I doubt, enlighten me.
@@ -324,7 +320,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     Help me to forgive those who offend me and give me the grace I need to follow You to the ends of the earth.
     Amen.
 
-**Crusade Prayer (103) — To share the Cup of Suffering with Christ.** _Friday, 22 March 2013. Three times, preferably in time of fasting._
+**Crusade Prayer (103) — To share the Cup of Suffering with Christ.** _Three times, preferably in time of fasting._
 
     I lay before You, dear Jesus,
     and at Your Feet to do what you will with me for the good of all.
@@ -338,9 +334,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     so that you can redeem all sinners and unite all God’s children forever and ever.
     Amen.
 
-<!-- pagebreak -->
-
-**Crusade Prayer (104) — Free this soul from slavery.** _Thursday, 11 April 2013._
+**Crusade Prayer (104) — Free this soul from slavery.**
 
     Dearest Jesus,
     I present to You the soul of my brother and sister,
@@ -349,9 +343,7 @@ The seventeen prayers the booklet prints in red for daily recitation, with the m
     Free this soul from slavery to the beast and bring it eternal salvation.
     Amen.
 
-_My Mercy will continue to be given to mankind, and especially, to every single soul who rejects the Word of God. I bless you, My loyal disciples, and I continue to pour upon you the Gift of the Holy Spirit. Your Jesus_
-
-**Crusade Prayer (105) — Gift of Conversion for Others.** _Friday, 19 April 2013._
+**Crusade Prayer (105) — Gift of Conversion for Others.**
 
     O my dearest Jesus,
     with my love for You please accept my soul in union with You.
@@ -362,7 +354,7 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     Listen to my pleas and through Your Mercy salvage the souls of the whole of humanity.
     Amen.
 
-**Crusade Prayer (111) — To consecrate your children to Jesus Christ.** _Wednesday, 26 June 2013. Name the children in the place marked._
+**Crusade Prayer (111) — To consecrate your children to Jesus Christ.**
 
     O dear Mother of Salvation,
     I consecrate my children (name of child/children here) before your Son,
@@ -372,7 +364,7 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     when they are tempted to turn away from Him.
     Amen.
 
-**Crusade Prayer (120) — Stop the Spread of War.** _Sunday, 8 September 2013._
+**Crusade Prayer (120) — Stop the Spread of War.**
 
     O my sweet Jesus, take away the wars, which destroy humanity.
     Protect the innocents from suffering.
@@ -386,9 +378,7 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     We beg You to stop the spread of war and bring souls into the Sacred Refuge of Your Heart.
     Amen.
 
-<!-- pagebreak -->
-
-**Crusade Prayer (122) — For the consecration to the Precious Blood of Jesus Christ.** _Wednesday, 18 September 2013._
+**Crusade Prayer (122) — For the consecration to the Precious Blood of Jesus Christ.**
 
     Dear Jesus I ask You to consecrate me, my family,
     friends and nation to the Protection of Your Precious Blood.
@@ -399,7 +389,7 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     Cover me and all those who need Your Protection with Your Precious Blood.
     Amen.
 
-**Crusade Prayer (130) — Novena of Salvation.** _Sunday, 1 December 2013. Three times a day for seven consecutive days, beginning on a Monday, with one day of fasting in the week._
+**Crusade Prayer (130) — Novena of Salvation.** _Three times a day for seven consecutive days, beginning on a Monday, with one day of fasting in the week._
 
     My beloved Mother of Salvation,
     please gain for all souls the Gift of Eternal Salvation through the Mercy of your Son,
@@ -413,7 +403,7 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     to beg for the graces to open the hearts of those souls who are most in need of your help.
     Amen.
 
-**Crusade Prayer (164) — Prayer of Peace for Nations.** _Sunday, 24 August 2014. Said daily for your nation._
+**Crusade Prayer (164) — Prayer of Peace for Nations.** _Said daily for your nation._
 
     O Jesus bring me peace.
     Bring peace to my nation and all those countries torn asunder because of war and division.
@@ -425,86 +415,40 @@ _My Mercy will continue to be given to mankind, and especially, to every single 
     and those who don’t know You at all.
     Amen.
 
-_Peace be yours dear children and remember that without love for God you can never find true peace. Your Beloved Mother - Mother of Salvation_
-
-<!-- pagebreak -->
-
 ## 5. Concluding Devotions
 
-**Hail, Holy Queen (Salve Regina).**
+**Prayer for Salvation.**
 
-    Hail, holy Queen, Mother of mercy, our life, our sweetness, and our hope.
-    To thee do we cry, poor banished children of Eve.
-    To thee do we send up our sighs, mourning and weeping in this valley of tears.
-    Turn then, most gracious Advocate, thine eyes of mercy toward us,
-    and after this our exile, show unto us the blessed fruit of thy womb, Jesus.
-    O clement, O loving, O sweet Virgin Mary.
+    O my Lord,
+    lead me to Your Kingdom
+    and protect me from the darkness that has engulfed my soul.
+    Hear me now O Sacred Heart
+    and through Your Goodness
+    let Your Light of Love and protection shine through.
 
-    V. Pray for us, O holy Mother of God.
-    R. That we may be made worthy of the promises of Christ.
+**Prayer that Jesus may reveal His presence to you.**
 
-**Memorare of St Bernard.**
+    Jesus I feel lost.
+    Open my heart to accept Your Love
+    and show me the Truth so that I may be saved.
 
-    Remember, O most gracious Virgin Mary,
-    that never was it known that anyone who fled to thy protection,
-    implored thy help,
-    or sought thine intercession was left unaided.
-    Inspired by this confidence, I fly unto thee,
-    O Virgin of virgins, my mother; to thee do I come,
-    before thee I stand, sinful and sorrowful.
-    O Mother of the Word Incarnate, despise not my petitions,
-    but in thy mercy hear and answer me.
+**Prayer to convert others.**
+
+    I urge You, Jesus, in Your Divine Mercy,
+    to cover those lukewarm souls with Your Precious Blood
+    so that they can be converted.
+
+**Prayer Expressing True Love for Jesus.**
+
+    Jesus Your Will is all that matters.
+    My free will is Yours.
+    Do with it as You may.
+
+**Prayer before Jesus on that day.**
+
+    Jesus,
+    I beg for Mercy for all those who reject You and who are in most need of your help.
     Amen.
-
-**The Fatima Prayers.** The seven the booklet gives, in its own numbering.
-
-**Fatima Prayer 1.**
-
-    Sweet Heart of Mary, be the salvation of Russia, Spain,
-    Portugal, Europe (Canada,
-    the United States) and the whole world.
-
-**Fatima Prayer 2.**
-
-    By Thy pure and Immaculate Conception, O Mary,
-    obtain for me the conversion of Russia, Spain, Portugal,
-    Europe (Canada, the United States) and the whole world.
-
-**Fatima Prayer 3.**
-
-    My God, I believe, I adore, I hope, and I love You.
-    I beg pardon of You for those who do not believe,
-    do not adore, do not hope, and do not love You.
-
-**Fatima Prayer 4.**
-
-    Most Holy Trinity, Father, Son, and Holy Ghost,
-    I adore Thee profoundly,
-    and I offer Thee the Most Precious Body, Blood,
-    Soul and Divinity of the same Son Jesus Christ,
-    present in all the Tabernacles of the world,
-    in reparation for all the sacrileges,
-    outrages and indifferences by which He is offended.
-    And by the infinite merits of His Most Sacred Heart,
-    and through the Immaculate Heart of Mary,
-    I beg the conversion of poor sinners.
-
-**Fatima Prayer 5.**
-
-    O Most Holy Trinity, I adore Thee; My God, My God,
-    I love Thee in the Most Blessed Sacrament.
-
-**Fatima Prayer 6.**
-
-    O My Jesus, forgives us our sins,
-    saves us from the fires of Hell; lead all souls to Heaven,
-    especially those most in need (of Thy Mercy).
-
-**Fatima Prayer 7.**
-
-    O My Jesus, it is for love of Thee,
-    for the conversion of sinners and in reparation for sins committed against the Immaculate Heart of Mary,
-    I offer this sacrifice to Thee.
 
 **Prayer to Saint Michael the Archangel.**
 
@@ -517,10 +461,14 @@ _Peace be yours dear children and remember that without love for God you can nev
     who roam throughout the world seeking the ruin of souls.
     Amen.
 
-## 6. A Note on These Texts
+**Crusade Prayer (96) — To Bless and Protect our Crusade Prayer Group.** _Again, as the meeting closes._
 
-**Two kinds of prayer stand side by side here.** The Sign of the Cross and the invocation of the saints are the Church's own; the Chaplet and the Rosary are standard Catholic devotions, printed in [How to Pray the Chaplet of Divine Mercy](../divine-mercy/how-to-pray-the-chaplet-of-divine-mercy.md) and [How to Pray the Rosary](../rosary/how-to-pray-the-rosary.md).
-
-**The Litany and Crusade Prayers** are corpus texts: prayers presented as received in the messages given to Maria Divine Mercy between 2010 and 2015. They are private revelation, and no Catholic is obliged to believe any private revelation, the faith being complete in Christ (CCC 66–67); they are offered here as devotional petitions, to be weighed against the Church's teaching rather than treated as a rule of faith.
-
-**The wording** is transcribed as the booklet prints it, with the message dates it supplies. The full booklet, with message contexts and the twenty-six further prayers, is at [Crusade and Daily Prayers](../../book-of-truth/crusade-prayers/crusade-and-daily-prayers.md).
+    O my dearest Jesus, please bless and protect us,
+    Your Crusade Prayer Group,
+    so that we become immune to the wicked assaults of the devil,
+    and to any evil spirits,
+    which may torment us in this Sacred Mission to save souls.
+    May we remain loyal and strong,
+    as we persevere to keep Your Holy Name before the world
+    and never waive in our struggle to spread the Truth of Your Holy Word.
+    Amen.
