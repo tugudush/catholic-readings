@@ -1,7 +1,11 @@
 ---
 description: 'Use when answering queries about, or writing/revising documents on, The Book of Truth (Maria Divine Mercy) corpus — its messages, Crusade Prayers, claimed end-times sequence, chronology, or doctrinal status — or when a document in eschatology/, miracles/, or liturgy/ treats the corpus. Directs the agent to the corpus source-and-citation hub at book-of-truth/resources.md.'
 name: 'Book of Truth Sourcing & References'
-applyTo: ['book-of-truth/**/*.md', 'eschatology/**/*.md', 'miracles/**/*.md', 'liturgy/**/*.md']
+paths:
+  - 'book-of-truth/**/*.md'
+  - 'eschatology/**/*.md'
+  - 'miracles/**/*.md'
+  - 'liturgy/**/*.md'
 ---
 
 # Book of Truth — Sourcing & References

@@ -125,7 +125,7 @@ unless asked.
 ## 6. Build the .docx
 
 ```bash
-node .agents/skills/md-to-docx/scripts/md-to-docx.mjs \
+node .claude/skills/md-to-docx/scripts/md-to-docx.mjs \
   for-printing/<topic>/<name>-pamphlet.md \
   for-printing/<topic>/<name>-pamphlet.docx \
   --size=half-a4 --margin=720 --font-size=10 --no-toc --no-meta
@@ -163,8 +163,8 @@ content, or trim back a panel — see section 3.
 This step is never optional: build the imposed PDF even when only a `.docx` was asked for.
 
 ```bash
-python .agents/skills/create-pamphlet/scripts/export-pdf.py <docx> /tmp/<name>.pdf
-python .agents/skills/create-pamphlet/scripts/impose.py /tmp/<name>.pdf for-printing/<topic>/<name>-pamphlet-imposed.pdf
+python .claude/skills/create-pamphlet/scripts/export-pdf.py <docx> /tmp/<name>.pdf
+python .claude/skills/create-pamphlet/scripts/impose.py /tmp/<name>.pdf for-printing/<topic>/<name>-pamphlet-imposed.pdf
 ```
 
 `export-pdf.py` drives the installed Word through COM (pywin32), prints Word's own page size,

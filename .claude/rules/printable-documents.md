@@ -1,7 +1,8 @@
 ---
 name: 'Printable & Word Documents'
 description: 'Use when asked to create a printable document, print-ready version, Word document, .docx, handout, or booklet from any document in this repository — especially a Markdown file. Enforces that every print artifact goes in the for-printing/ directory, inside the subdirectory matching its topic, and that each .docx is paired with the Markdown it was generated from.'
-applyTo: 'for-printing/**/*.md'
+paths:
+  - 'for-printing/**/*.md'
 ---
 
 # Printable & Word Documents
@@ -12,7 +13,7 @@ under `for-printing/` at the repository root. The topical directories
 [book-of-truth/](../../book-of-truth/), …) hold the study documents; they never hold a `.docx`.
 
 This file governs **where the result goes**. The build procedure itself lives in the md-to-docx
-skill at [.agents/skills/md-to-docx/SKILL.md](../../.agents/skills/md-to-docx/SKILL.md).
+skill at [.claude/skills/md-to-docx/SKILL.md](../../.claude/skills/md-to-docx/SKILL.md).
 
 ## 1. Placement
 

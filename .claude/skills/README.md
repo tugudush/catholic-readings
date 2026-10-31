@@ -31,32 +31,32 @@ skill. Every command below runs from the repository root; the last two assume a 
 
 ```bash
 # One skill, without leaving the root
-npm --prefix .agents/skills/md-to-docx/scripts install
+npm --prefix .claude/skills/md-to-docx/scripts install
 ```
 
 Or equivalently, from inside the skill's script folder:
 
 ```bash
-cd .agents/skills/md-to-docx/scripts && npm install
+cd .claude/skills/md-to-docx/scripts && npm install
 ```
 
 To install the dependencies of every skill in this folder in one pass:
 
 ```bash
-find .agents/skills -name package.json -not -path '*/node_modules/*' \
+find .claude/skills -name package.json -not -path '*/node_modules/*' \
   -exec sh -c 'npm --prefix "$(dirname "$1")" install' _ {} \;
 ```
 
 ### Verify the install
 
 ```bash
-npm --prefix .agents/skills/md-to-docx/scripts ls --depth=0
+npm --prefix .claude/skills/md-to-docx/scripts ls --depth=0
 ```
 
 Expected output:
 
 ```text
-scripts@ C:\devworks\holy-agent\.agents\skills\md-to-docx\scripts
+scripts@ C:\devworks\holy-agent\.claude\skills\md-to-docx\scripts
 ├── docx@9.8.1
 └── marked@17.0.6
 ```
@@ -64,7 +64,7 @@ scripts@ C:\devworks\holy-agent\.agents\skills\md-to-docx\scripts
 ## Running the converter
 
 ```bash
-node .agents/skills/md-to-docx/scripts/md-to-docx.mjs <input.md> [output.docx]
+node .claude/skills/md-to-docx/scripts/md-to-docx.mjs <input.md> [output.docx]
 ```
 
 If the output name is omitted it defaults to `<input-basename>.docx` in the current directory.
@@ -82,8 +82,8 @@ anchors). These are committed here, so git is the record of them.
 overwrite these patches. Because the sources are tracked, the damage is visible and reversible:
 
 ```bash
-git diff -- .agents/skills/            # what the re-install changed
-git restore .agents/skills/md-to-docx/ # put the patched version back
+git diff -- .claude/skills/            # what the re-install changed
+git restore .claude/skills/md-to-docx/ # put the patched version back
 ```
 
 To freeze a skill at a known revision so updates skip it, install it pinned:
