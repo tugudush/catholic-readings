@@ -2,7 +2,8 @@
  * md-to-docx.mjs - Markdown to Word converter
  * Pure JavaScript, no external tools required.
  * Usage: node md-to-docx.mjs <input.md> [output.docx]
- *          [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--no-toc] [--no-meta]
+ *          [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--font-size=<pt>]
+ *          [--no-toc] [--no-meta]
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs'
@@ -53,7 +54,7 @@ for (const arg of process.argv.slice(2)) {
 const inputPath = positional[0]
 if (!inputPath) {
   console.error(
-    'Usage: node md-to-docx.mjs <input.md> [output.docx] [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--no-toc] [--no-meta]',
+    'Usage: node md-to-docx.mjs <input.md> [output.docx] [--size=letter|a4|half-letter|half-a4] [--margin=<twips>] [--font-size=<pt>] [--no-toc] [--no-meta]',
   )
   process.exit(1)
 }
@@ -127,6 +128,19 @@ const CODE_BG = 'F5F5F5'
 const CODE_FONT = 'Consolas'
 const BORDER_COLOR = 'B4C6E7'
 
+// --- Type scale ---
+// Every size below is written in half-points at the 11 pt default (`size: 22`).
+// --font-size=<pt> scales all of them by bodyPoints / 11, so a pamphlet can be
+// set at 10 pt (or tighter) without rewriting any of the literals.
+const rawFontSize = flags['font-size']
+const bodyPoints = rawFontSize === undefined ? 11 : Number(rawFontSize)
+if (!Number.isFinite(bodyPoints) || bodyPoints < 6 || bodyPoints > 24) {
+  console.error('--font-size must be a number of points between 6 and 24')
+  process.exit(1)
+}
+const FONT_SCALE = bodyPoints / 11
+const sz = (halfPoints) => Math.max(2, Math.round(halfPoints * FONT_SCALE))
+
 const tableBorder = { style: BorderStyle.SINGLE, size: 1, color: BORDER_COLOR }
 const tableBorders = {
   top: tableBorder,
@@ -160,7 +174,7 @@ function inlineToRuns(inlineTokens, parentBold = false, parentItalic = false) {
             bold: parentBold,
             italics: parentItalic,
             font: FONT,
-            size: 22,
+            size: sz(22),
           }),
         )
         break
@@ -175,7 +189,7 @@ function inlineToRuns(inlineTokens, parentBold = false, parentItalic = false) {
           new TextRun({
             text: t.text,
             font: CODE_FONT,
-            size: 20,
+            size: sz(20),
             bold: parentBold,
             shading: { type: ShadingType.SOLID, color: CODE_BG, fill: CODE_BG },
           }),
@@ -188,7 +202,7 @@ function inlineToRuns(inlineTokens, parentBold = false, parentItalic = false) {
             bold: parentBold,
             italics: parentItalic,
             font: FONT,
-            size: 22,
+            size: sz(22),
             color: ACCENT_COLOR,
             underline: {},
           }),
@@ -211,7 +225,7 @@ function inlineToRuns(inlineTokens, parentBold = false, parentItalic = false) {
               bold: parentBold,
               italics: parentItalic,
               font: FONT,
-              size: 22,
+              size: sz(22),
             }),
           )
         }
@@ -298,7 +312,7 @@ function headingRuns(inlineTokens, size, color, italics = false) {
 // --- Paragraph inline runs ---
 function paragraphRuns(token) {
   if (token.tokens) return inlineToRuns(token.tokens)
-  return [new TextRun({ text: token.text || token.raw || '', font: FONT, size: 22 })]
+  return [new TextRun({ text: token.text || token.raw || '', font: FONT, size: sz(22) })]
 }
 
 // --- Table builder ---
@@ -359,7 +373,7 @@ function buildCodeBlock(token) {
   return lines.map(
     (line) =>
       new Paragraph({
-        children: [new TextRun({ text: line || ' ', font: CODE_FONT, size: 18 })],
+        children: [new TextRun({ text: line || ' ', font: CODE_FONT, size: sz(18) })],
         spacing: { before: 20, after: 20 },
         shading: { type: ShadingType.SOLID, color: CODE_BG, fill: CODE_BG },
         indent: { left: 360 },
@@ -390,14 +404,14 @@ function buildList(token, level = 0) {
               new TextRun({
                 text: decodeEntities(block.text || block.raw || '').replace(/\*\*/g, ''),
                 font: FONT,
-                size: 22,
+                size: sz(22),
               }),
             ]
       if (!runs.length) continue
       items.push(
         new Paragraph({
           children: [
-            new TextRun({ text: rendered === 0 ? `${bullet}  ` : '', font: FONT, size: 22 }),
+            new TextRun({ text: rendered === 0 ? `${bullet}  ` : '', font: FONT, size: sz(22) }),
             ...runs,
           ],
           spacing: { before: 40, after: 40 },
@@ -410,11 +424,11 @@ function buildList(token, level = 0) {
       items.push(
         new Paragraph({
           children: [
-            new TextRun({ text: `${bullet}  `, font: FONT, size: 22 }),
+            new TextRun({ text: `${bullet}  `, font: FONT, size: sz(22) }),
             new TextRun({
               text: decodeEntities(item.text || '').replace(/\*\*/g, ''),
               font: FONT,
-              size: 22,
+              size: sz(22),
             }),
           ],
           spacing: { before: 40, after: 40 },
@@ -435,7 +449,7 @@ children.push(
   new Paragraph({ spacing: { before: 2400 } }),
   new Paragraph({
     children: [
-      new TextRun({ text: mainTitle, font: FONT, size: 56, bold: true, color: HEADER_COLOR }),
+      new TextRun({ text: mainTitle, font: FONT, size: sz(56), bold: true, color: HEADER_COLOR }),
     ],
     alignment: AlignmentType.CENTER,
   }),
@@ -443,7 +457,7 @@ children.push(
 if (subtitle) {
   children.push(
     new Paragraph({
-      children: [new TextRun({ text: subtitle, font: FONT, size: 36, color: ACCENT_COLOR })],
+      children: [new TextRun({ text: subtitle, font: FONT, size: sz(36), color: ACCENT_COLOR })],
       alignment: AlignmentType.CENTER,
       spacing: { after: 400 },
     }),
@@ -456,7 +470,7 @@ if (!noMeta) {
         new TextRun({
           text: `Date: ${date}  |  Version: ${version}`,
           font: FONT,
-          size: 22,
+          size: sz(22),
           color: '666666',
         }),
       ],
@@ -467,7 +481,7 @@ if (!noMeta) {
     children.push(
       new Paragraph({
         children: [
-          new TextRun({ text: `Audience: ${audience}`, font: FONT, size: 22, color: '666666' }),
+          new TextRun({ text: `Audience: ${audience}`, font: FONT, size: sz(22), color: '666666' }),
         ],
         alignment: AlignmentType.CENTER,
         spacing: { after: 600 },
@@ -486,7 +500,7 @@ children.push(
       new TextRun({
         text: 'Table of Contents',
         font: FONT,
-        size: 32,
+        size: sz(32),
         bold: true,
         color: HEADER_COLOR,
       }),
@@ -536,7 +550,7 @@ for (const tok of tokens) {
   if (tok.text === 'Table of Contents') continue
 
   const indent = (tok.depth - 1) * 360
-  const tocSize = tok.depth === 1 ? 24 : tok.depth === 2 ? 22 : 20
+  const tocSize = sz(tok.depth === 1 ? 24 : tok.depth === 2 ? 22 : 20)
   const tocBold = tok.depth <= 2
   const tocColor = tok.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR
   const tocText = plainText(tok.tokens) || decodeEntities(tok.text)
@@ -594,7 +608,7 @@ for (const token of tokens) {
           heading: headingMap[token.depth] || HeadingLevel.HEADING_4,
           children: headingRuns(
             token.tokens || [],
-            token.depth === 2 ? 32 : token.depth === 3 ? 26 : 24,
+            sz(token.depth === 2 ? 32 : token.depth === 3 ? 26 : 24),
             token.depth <= 2 ? HEADER_COLOR : ACCENT_COLOR,
           ),
           spacing: { before: token.depth === 2 ? 360 : 240, after: 120 },
@@ -660,7 +674,7 @@ for (const token of tokens) {
                   new TextRun({
                     text: imgToken.text,
                     font: FONT,
-                    size: 18,
+                    size: sz(18),
                     italics: true,
                     color: '666666',
                   }),
@@ -677,7 +691,7 @@ for (const token of tokens) {
                 new TextRun({
                   text: `[Image not found: ${href}]`,
                   font: FONT,
-                  size: 20,
+                  size: sz(20),
                   italics: true,
                   color: '888888',
                 }),
@@ -715,7 +729,7 @@ for (const token of tokens) {
               new TextRun({
                 text: '[Diagram: See source .md file for interactive Mermaid diagram]',
                 font: FONT,
-                size: 20,
+                size: sz(20),
                 italics: true,
                 color: '888888',
               }),
@@ -753,7 +767,7 @@ for (const token of tokens) {
         children.push(
           new Paragraph({
             children: [
-              new TextRun({ text: decodeEntities(token.raw.trim()), font: FONT, size: 22 }),
+              new TextRun({ text: decodeEntities(token.raw.trim()), font: FONT, size: sz(22) }),
             ],
             spacing: { before: 80, after: 80 },
           }),
@@ -791,17 +805,17 @@ if (!Number.isFinite(marginTwips) || marginTwips < 0) {
 const doc = new Document({
   styles: {
     default: {
-      document: { run: { font: FONT, size: 22 } },
+      document: { run: { font: FONT, size: sz(22) } },
       heading1: {
-        run: { font: FONT, size: 36, bold: true, color: HEADER_COLOR },
+        run: { font: FONT, size: sz(36), bold: true, color: HEADER_COLOR },
         paragraph: { spacing: { before: 360, after: 160 } },
       },
       heading2: {
-        run: { font: FONT, size: 32, bold: true, color: HEADER_COLOR },
+        run: { font: FONT, size: sz(32), bold: true, color: HEADER_COLOR },
         paragraph: { spacing: { before: 320, after: 120 } },
       },
       heading3: {
-        run: { font: FONT, size: 26, bold: true, color: ACCENT_COLOR },
+        run: { font: FONT, size: sz(26), bold: true, color: ACCENT_COLOR },
         paragraph: { spacing: { before: 240, after: 100 } },
       },
     },

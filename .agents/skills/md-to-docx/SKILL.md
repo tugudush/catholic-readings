@@ -24,6 +24,18 @@ node skills/md-to-docx/scripts/md-to-docx.mjs <input.md> [output.docx]
 
 If `output.docx` is omitted, it defaults to `<input-basename>.docx` in the current directory.
 
+### Options
+
+Long flags (`--name` or `--name=value`) may appear anywhere on the command line:
+
+| Flag | Effect |
+| --- | --- |
+| `--size=letter\|a4\|half-letter\|half-a4` | page size; the `half-*` presets are folded pamphlet sizes (A5 = `half-a4`) |
+| `--margin=<twips>` | page margin in twips (1440 = 1 in); `720` is the 12.7 mm pamphlet margin |
+| `--font-size=<pt>` | body type size in points (default 11). Every heading, list, table, image-caption and code size scales by the same factor, so `--font-size=10` shrinks the whole document by about a tenth — use it for pamphlets and handouts rather than for full documents |
+| `--no-toc` | drop the generated table of contents and its page break |
+| `--no-meta` | drop the "Date / Version / Audience" line from the title page |
+
 ## Skill Folder Contents
 
 | File                     | Purpose                            |
