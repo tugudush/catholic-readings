@@ -228,6 +228,7 @@ The interview converges with ordinary magisterial teaching at almost every point
 For deeper doctrinal context, see:
 
 - [Catholic View of Fallen Angels and the Nephilim](fallen-angels-demonology.md)
+- [Fr. Gabriele Amorth, _An Exorcist Tells His Story_](gabriele-amorth-exorcist-tells-his-story.md) — the classic exorcist's manual that stands behind most of the practice described here
 - [The Angelic Hierarchy and the Nine Choirs](angelic-hierarchy-choirs.md)
 - [St. Michael the Archangel and the Leonine Prayers](../sacramentals/st-michael-prayer.md)
 - [The Holy Rosary](../liturgy/rosary/how-to-pray.md)

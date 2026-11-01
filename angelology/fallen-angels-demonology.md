@@ -290,3 +290,8 @@ The Church consistently warns against excessive speculation about demonic affair
 ### Reference Works
 
 - Catholic Encyclopedia (1913): entries on "Angels," "Demons," "Demonology," "Devil," "Asmodeus," "Abaddon," "Beelzebub," "Exorcism"
+
+## Related Studies
+
+- [Fr. Gabriele Amorth, _An Exorcist Tells His Story_](gabriele-amorth-exorcist-tells-his-story.md) — the Roman exorcist's own account of the fall, the permitted power of Satan, the six forms of extraordinary activity, and the ministry of exorcism, summarized and graded by doctrinal weight.
+- [Adam Bly on Demons, Exorcism, and What Every Catholic Needs to Know](adam-bly-demon-expert-catholics-need-to-know.md) and [Dave VanVickle on the Surprising Ways People Get Possessed](dave-vanvickle-surprising-ways-people-get-possessed.md) — two contemporary spiritual-warfare interviews.

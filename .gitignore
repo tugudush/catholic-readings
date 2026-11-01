@@ -49,7 +49,9 @@ private-assets/
 other-matters/
 
 # ---------------------------------------------------------------------------
-# Downloaded source media for documented video clips
-# (large binaries and machine transcripts; kept local, never committed)
+# Downloaded source media for documented clips and books
+# (large binaries, converted source text, machine transcripts; kept local,
+# never committed — third-party material stays out of the published repo)
 # ---------------------------------------------------------------------------
 eschatology/**/media/
+angelology/**/media/
