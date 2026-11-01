@@ -18,8 +18,6 @@ Characteristically, Francis left very little writing, and what he left is almost
 | Principal shrine | Basilica of St. Francis, Assisi                    |
 | Patronage        | Italy; ecology and animals; merchants; peacemakers |
 
----
-
 ## 1. The Prayer Before the Crucifix (San Damiano, c. 1205–1206)
 
 According to the early lives, Francis composed this prayer while praying before the painted crucifix in the ruined chapel of San Damiano, from which he heard the call to repair God's house. It is the earliest datable text from his hand, and it is built almost entirely out of Gospel petitions.
@@ -33,8 +31,6 @@ According to the early lives, Francis composed this prayer while praying before 
     that I may carry out
     your holy and true command.
     Amen.
-
----
 
 ## 2. The Praises of God Most High (La Verna, 1224)
 
@@ -60,8 +56,6 @@ In September 1224 at La Verna, Francis wrote out his praises of God on a small p
     You are our eternal life, great and wonderful Lord,
     God almighty, merciful Savior.
 
----
-
 ## 3. The "Absorbeat" — A Prayer to Obtain Love
 
 This brief prayer, preserved among Francis's shorter writings, asks for the charity that consumed him. Its opening word, _Absorbeat_, supplies its customary name.
@@ -72,8 +66,6 @@ This brief prayer, preserved among Francis's shorter writings, asks for the char
     that I may die for love of your love,
     you who deigned to die
     for love of my love.
-
----
 
 ## 4. The Canticle of Brother Sun (1225)
 
@@ -122,8 +114,6 @@ In the spring of 1225, suffering from severe illness and near-blindness, Francis
     Praise and bless my Lord, and give him thanks,
     and serve him with great humility.
 
----
-
 ## 5. The Blessing of Brother Leo
 
 On the reverse of the La Verna parchment, Francis wrote out the priestly blessing of Numbers 6:24–26 for Brother Leo, signing it with the _tau_ — the sign of the cross shaped like a T, which he loved as a mark of penance and election. It is the blessing the Church still gives, and it may be prayed over anyone in need of it.
@@ -134,8 +124,6 @@ On the reverse of the La Verna parchment, Francis wrote out the priestly blessin
     and give you peace.
 
     Amen.
-
----
 
 ## 6. The Collect of His Feast (4 October)
 
@@ -166,8 +154,6 @@ A working English rendering of the same collect (the approved English wording va
 
     Amen.
 
----
-
 ## 7. A Prayer Asking His Intercession
 
 St. Francis embodied the radical poverty and joyous love of Christ to such a degree that he received the sacred stigmata — the very wounds of the Crucified. The faithful seek his intercession for the grace of simplicity, for peace in a divided world, for love of all God's creation, and for the courage to live the Gospel without compromise. This prayer is a devotional composition inspired by the Franciscan tradition; it is not a text written by the saint.
@@ -195,8 +181,6 @@ A shorter invocation for daily use:
     St. Francis of Assisi,
     pray for us.
 
----
-
 ## 8. The "Peace Prayer" — Commonly Attributed to St. Francis
 
 The best-known prayer in the world under Francis's name is not his. "Lord, make me an instrument of your peace" was first published anonymously in 1912 in the French Franciscan bulletin _La Clochette_, and was attributed to Francis only from about 1916 onward. Pope John Paul II, praying it at Assisi in 1986, introduced it as a prayer "commonly attributed to Saint Francis" — a popular attribution, not a claim of authorship. It is printed here because it is widely loved and is often wanted for prayer, but it should not be quoted as his own words.
@@ -219,12 +203,10 @@ The best-known prayer in the world under Francis's name is not his. "Lord, make 
 
     Amen.
 
----
-
 ## A Note on This Print Edition
 
 - **The sources of these texts.** Sections 1–3 and 5 are Francis's own, preserved in the critical collection of his _Opuscula_ and translated in _Francis of Assisi: Early Documents_, vol. 1. Section 4 is his _Cantico delle Creature_. Section 6 is the Collect of the Roman Missal. Sections 7 and 8 are later devotional compositions and are labelled as such.
 - **Wording varies.** English renderings of Francis's prayers and of the Italian Collect differ between translations; none of the renderings above is normative or official except the Italian of the Collect.
 - **One common misattribution.** "Preach the Gospel at all times. When necessary, use words" is a modern aphorism found neither in Francis's writings nor in the early biographies. It summarises his practice rather than reporting his words.
 - **A caution on the "Prayer for Animals"** and similar texts in devotional booklets: these are generally anonymous compositions of the nineteenth and twentieth centuries written in a Franciscan spirit. A prayer may express Francis's spirit, and the Church may commend it to the faithful, without being a text he wrote.
-- **The full study** — his life, conversion, the rule, the stigmata at La Verna, the canonization, patronage, and the Franciscan family — is in [saints/st-francis-assisi.md](../../saints/st-francis-assisi.md). The stigmata in the wider lives of the saints are treated in [miracles/saint-phenomena/stigmata-padre-pio.md](../../miracles/saint-phenomena/stigmata-padre-pio.md).
+- **The full study** — his life, conversion, the rule, the stigmata at La Verna, the canonization, patronage, and the Franciscan family — is set out in the fuller study of St Francis.

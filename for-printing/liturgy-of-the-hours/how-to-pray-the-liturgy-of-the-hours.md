@@ -2,9 +2,7 @@
 
 A printable companion for praying the Divine Office, with the shape of each hour and the full text of every fixed prayer — the opening verses, the Gospel canticles, the Te Deum, the examination of conscience, and the blessing at Night Prayer.
 
-The psalms, hymns, readings, antiphons, intercessions, and collects change daily with the liturgical calendar; they are found in the approved breviary or an edition of the Liturgy of the Hours. For the fuller study of this prayer — its theology, history, obligation, and Eastern Catholic parallels — see [liturgy/liturgy-of-the-hours.md](../../liturgy/liturgy-of-the-hours.md).
-
----
+The psalms, hymns, readings, antiphons, intercessions, and collects change daily with the liturgical calendar; they are found in the approved breviary or an edition of the Liturgy of the Hours. For the fuller study of this prayer — its theology, history, obligation, and Eastern Catholic parallels — see the fuller study of the Divine Office.
 
 ## The Hours at a Glance
 
@@ -32,8 +30,6 @@ The psalms, hymns, readings, antiphons, intercessions, and collects change daily
 10. **Blessing or dismissal.**
 
 Daytime Prayer follows a simpler form: opening verse, hymn, three psalms, short reading, responsory, collect, dismissal.
-
----
 
 ## The Opening
 
@@ -73,8 +69,6 @@ At the close of Morning, Daytime, and Evening Prayer:
 
     Let us praise the Lord.
     Thanks be to God.
-
----
 
 ## Morning Prayer: The Benedictus
 
@@ -171,8 +165,6 @@ The Canticle of Simeon (Luke 2:29–32):
     as it was in the beginning, is now,
     and will be for ever. Amen.
 
----
-
 ## The Te Deum
 
 Sung or recited at the end of the Office of Readings on Sundays, solemnities, and feasts, and omitted during Lent. The English text is the approved ICEL translation:
@@ -262,8 +254,6 @@ Sung or recited at the end of the Office of Readings on Sundays, solemnities, an
     Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te.
     In te, Domine, speravi: non confundar in aeternum.
 
----
-
 ## Night Prayer
 
 ### The Examination of Conscience
@@ -318,8 +308,6 @@ Night Prayer ends with a Marian antiphon, appointed by season:
     Pray for us, O holy Mother of God.
     That we may be made worthy of the promises of Christ.
 
----
-
 ## A Simple Daily Plan for the Laity
 
 The lay faithful are not bound to pray the Hours, but are earnestly encouraged to. A sustainable beginning:
@@ -332,11 +320,9 @@ One hour a day is a good start. The aim is not to finish pages but to let the ps
 
 Those bound to the Office by law — diocesan bishops, priests, and deacons (CIC can. 276 §2, 3°), and religious according to their constitutions — follow the approved books and the calendar of their own Church and territory.
 
----
-
 ## Sources
 
-- [Catechism of the Catholic Church, §§1174–1178](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1174)
-- [Second Vatican Council, _Sacrosanctum Concilium_, §§83–101](https://www.magisterium.com/docs/6c499d17-83df-470e-8558-6c60ebcf2814/ref/83)
+- Catechism of the Catholic Church, §§1174–1178
+- Second Vatican Council, _Sacrosanctum Concilium_, §§83–101
 - General Instruction of the Liturgy of the Hours, §§1–35, 84–91, 199–203
 - Code of Canon Law, canon 276 §2, 3°

@@ -2,9 +2,7 @@
 
 A printable companion for praying the Rosary, with the opening prayer, the order of the beads, the full texts of every prayer, and the twenty mysteries with their days.
 
-For the fuller study of the Rosary — its history, the Dominican tradition, Lepanto, the papal documents, and the theological structure of the mysteries — see [liturgy/rosary/how-to-pray.md](../../liturgy/rosary/how-to-pray.md) and [liturgy/rosary/history.md](../../liturgy/rosary/history.md).
-
----
+For the fuller study of the Rosary — its history, the Dominican tradition, Lepanto, the papal documents, and the theological structure of the mysteries — see the full study of the Rosary and its history.
 
 ## Prayer Before the Rosary
 
@@ -19,8 +17,6 @@ For the fuller study of the Rosary — its history, the Dominican tradition, Lep
     for Thine own honor, and for the good of souls,
     especially for my own.
     Amen.
-
----
 
 ## The Beads at a Glance
 
@@ -38,8 +34,6 @@ A standard Dominican Rosary has five parts: the **crucifix**, one **large bead**
 | Single large bead      | Announce the next Mystery, then the Our Father  |
 | Return to centerpiece  | Hail, Holy Queen and the Concluding Prayer      |
 
----
-
 ## The Order of Prayer, Step by Step
 
 1. **Begin at the crucifix.** Make the **Sign of the Cross** and recite the **Apostles' Creed**, holding the crucifix.
@@ -52,8 +46,6 @@ A standard Dominican Rosary has five parts: the **crucifix**, one **large bead**
 8. **Announce the next Mystery** on the single large bead and pray the **Our Father**; repeat steps 6 and 7 for the second, third, fourth, and fifth decades.
 9. **At the centerpiece after the fifth decade**, pray the **Hail, Holy Queen** and the **Concluding Prayer**. Many also add the **Memorare of St. Bernard** here, asking Our Lady's intercession for the graces just requested.
 10. **Close** with the Sign of the Cross, and, if desired, the **Prayer to Saint Michael the Archangel**.
-
----
 
 ## The Prayers of the Rosary
 
@@ -165,8 +157,6 @@ A standard Dominican Rosary has five parts: the **crucifix**, one **large bead**
     satan and all the evil spirits,
     who roam throughout the world seeking the ruin of souls. Amen.
 
----
-
 ## The Mysteries and Their Days
 
 | Day       | Mysteries to pray       |
@@ -221,8 +211,6 @@ _Said on **Sundays and Wednesdays**._
 4. **The Fourth Glorious Mystery, the Assumption.** — At the end of her earthly life, the Blessed Virgin Mary is taken body and soul into Heaven by God (_CCC 966_).
 5. **The Fifth Glorious Mystery, the Coronation.** — Mary is crowned by her Son as Queen of Heaven and Earth, surrounded by all the choirs of angels (_Revelation 12:1_).
 
----
-
 ## Notes for the One Praying
 
 - **The Rosary is a meditation, not a recitation only.** The words are the rhythm; the Mystery is the subject. If the mind wanders, return gently to the scene of the Mystery rather than to the words.
@@ -232,4 +220,4 @@ _Said on **Sundays and Wednesdays**._
 - **An Eastern Catholic note.** The Rosary is a Latin-Rite devotion, though it is widely loved in the Eastern Catholic Churches. Its closest Eastern analogues are the **Jesus Prayer** with the chotki, the **Akathist Hymn** to the Mother of God, and the **Paraklesis** — all of which honour the same mystery of the Incarnation in a different form.
 - **No particular prayer or formula is required for validity.** The Rosary is a devotional practice, not a sacrament; the Church commends it and attaches indulgences to it, but the praying of it is governed by custom and pastoral guidance rather than by divine law.
 
-For the Rosary's indulgences and the conditions attached to them under the current _Enchiridion Indulgentiarum_, see [liturgy/feast-of-the-holy-rosary.md](../../liturgy/feast-of-the-holy-rosary.md). For the Litany of Loreto, traditionally recited after the Rosary in many places, see [liturgy/rosary/litany-of-the-blessed-virgin-mary.md](../../liturgy/rosary/litany-of-the-blessed-virgin-mary.md).
+For the Rosary's indulgences and the conditions attached to them under the current _Enchiridion Indulgiarum_, see the Church's norms on indulgences. The Litany of Loreto is traditionally recited after the Rosary in many places.

@@ -2,9 +2,7 @@
 
 A printable companion gathering the common daily prayers of the Church — in their English and Latin texts, together with the Cebuano (Binisaya) versions of the five prayers most often learned in the Philippines. Each prayer is given in full, line by line, so that it may be prayed directly from these pages.
 
-This print edition presents the Latin (Roman) Rite texts only. For the fuller study of these prayers — including the Eastern Catholic and Byzantine forms, the history of each formula, the scriptural foundations, and the alternative modern renderings — see [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md).
-
----
+This print edition presents the Latin (Roman) Rite texts only. For the fuller study of these prayers — including the Eastern Catholic and Byzantine forms, the history of each formula, the scriptural foundations, and the alternative modern renderings — see the fuller study of these prayers.
 
 ## The Prayers at a Glance
 
@@ -26,8 +24,6 @@ This print edition presents the Latin (Roman) Rite texts only. For the fuller st
 | Morning Prayer                 | On rising                                                 |
 | Prayer Before Sleep            | Before going to bed                                       |
 
----
-
 ## 1. The Sign of the Cross (_Signum Crucis_)
 
 The foundational prayer and sacramental of the Christian life: it marks the body with the Cross, invokes the Holy Trinity, and opens and closes almost every other prayer. In the Latin Rite it is made with the right hand, from the forehead to the breast, and then from the left shoulder to the right shoulder.
@@ -47,8 +43,6 @@ The foundational prayer and sacramental of the Christian life: it marks the body
     ug sa Espiritu Santo. Amen.
 
 _The common Binisaya form of the Sign of the Cross, also called Ang Pagpanguros or Timaan sa Krus. As with the other Cebuano texts in this booklet, several dialect variants circulate; the normative text is the Cebuano edition of the Roman Missal approved for the Philippine Church._
-
----
 
 ## 2. The Lord's Prayer (_Pater Noster_)
 
@@ -92,9 +86,7 @@ Composed by Jesus Christ Himself (Matthew 6:9–13; Luke 11:2–4), this is the 
     ug dili mo kami itugyan sa panulay,
     hinunua luwasa kami sa dautan. Amen.
 
-_Source: Basilica Minore del Sto. Niño de Cebu, [Amahan Namo / Our Father](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/amahan-namo-our-father/)._
-
----
+_Source: Basilica Minore del Sto. Niño de Cebu.__
 
 ## 3. The Hail Mary (_Ave Maria_)
 
@@ -128,9 +120,7 @@ A scriptural prayer praising the Mother of God. Its first half draws on the Arch
     ig-ampo mo kaming makasasala.
     Karon ug sa oras sa among igkamatay. Amen.
 
-_Source: Basilica Minore del Sto. Niño de Cebu, [Maghimaya ka Maria / Hail Mary](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/maghimaya-ka-maria-hail-mary/)._
-
----
+_Source: Basilica Minore del Sto. Niño de Cebu.__
 
 ## 4. The Glory Be (_Gloria Patri_)
 
@@ -156,9 +146,7 @@ The traditional doxology of praise to the Most Holy Trinity, recited at the end 
     Maingon sa sinugdan, karon ug sa gihapon,
     ug sa mga katuigan nga walay katapusan. Amen.
 
-_Source: Basilica Minore del Sto. Niño de Cebu, [Himaya sa Amahan / Glory Be](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/himaya-sa-amahan-glory-be/)._
-
----
+_Source: Basilica Minore del Sto. Niño de Cebu.__
 
 ## 5. The Apostles' Creed (_Symbolum Apostolorum_)
 
@@ -221,9 +209,7 @@ A faithful summary of the Apostles' faith, which arose as a baptismal creed in t
     ug sa pagkabanhaw sa lawas
     ug sa kinabuhing walay katapusan. Amen.
 
-_Source: Basilica Minore del Sto. Niño de Cebu, [Nagatuo / Apostles' Creed / Credo](https://santoninodecebubasilica.org/cebuano-prayers-binisaya-nga-mga-pag-ampo/nagatuo-apostles-creed-credo/). The older spellings of the published text are retained._
-
----
+_Source: Basilica Minore del Sto. Niño de Cebu._ The older spellings of the published text are retained._
 
 ## 6. The Nicene Creed (_Symbolum Nicaeno-Constantinopolitanum_)
 
@@ -303,8 +289,6 @@ The definitive Trinitarian profession of faith, formulated at the First Council 
     Et expecto resurrectionem mortuorum,
     et vitam venturi saeculi. Amen.
 
----
-
 ## 7. Hail, Holy Queen (_Salve Regina_)
 
 The traditional Marian antiphon sung at Night Prayer from Trinity Sunday to Advent, and the concluding prayer of the Holy Rosary.
@@ -337,8 +321,6 @@ The traditional Marian antiphon sung at Night Prayer from Trinity Sunday to Adve
     nobis post hoc exsilium ostende.
     O clemens, o pia, o dulcis Virgo Maria. Amen.
 
----
-
 ## 8. The Act of Contrition
 
 A prayer expressing sincere sorrow for sins, prayed above all in the Sacrament of Penance.
@@ -361,8 +343,6 @@ A prayer expressing sincere sorrow for sins, prayed above all in the Sacrament o
     to sin no more, and to avoid whatever leads me to sin.
     Our Savior Jesus Christ suffered and died for us.
     In His name, my God, have mercy. Amen.
-
----
 
 ## 9. Prayer to St. Michael the Archangel
 
@@ -387,8 +367,6 @@ Composed by Pope Leo XIII in 1884, this prayer invokes the intercession of Saint
     Satanam aliosque spiritus malignos,
     qui ad perditionem animarum pervagantur in mundo,
     divina virtute, in infernum detrude. Amen.
-
----
 
 ## 10. The Memorare
 
@@ -417,8 +395,6 @@ A prayer of confidence in the intercession of the Blessed Virgin Mary, tradition
     ad te venio, coram te gemens peccator assisto.
     Noli, Mater Verbi, verba mea despicere,
     sed audi propitia et exaudi. Amen.
-
----
 
 ## 11. Soul of Christ (_Anima Christi_)
 
@@ -456,8 +432,6 @@ A Eucharistic prayer dating from the early fourteenth century, often associated 
     ut cum Sanctis tuis laudem te
     in saecula saeculorum. Amen.
 
----
-
 ## 12. Guardian Angel Prayer (_Angele Dei_)
 
 A traditional prayer invoking the protection of one's given Guardian Angel.
@@ -474,8 +448,6 @@ A traditional prayer invoking the protection of one's given Guardian Angel.
     Angele Dei, qui custos es mei,
     me, tibi commissum pietate superna,
     illumina, custodi, rege et guberna. Amen.
-
----
 
 ## 13. Grace Before and After Meals
 
@@ -495,8 +467,6 @@ Traditional mealtime prayers acknowledging God as the source of every gift.
     May the souls of the faithful departed,
     through the mercy of God, rest in peace. Amen.
 
----
-
 ## 14. Morning Prayer
 
 A simple personal prayer of thanksgiving and offering for the day. This is a devotional formula, not a required text; a Catholic may equally pray in his own words or use Morning Prayer from the Liturgy of the Hours. Scripture presents the morning as a fitting time to turn toward God: _"In the morning You hear my voice; in the morning I plead my case before You and watch"_ (Psalm 5:4–5).
@@ -508,8 +478,6 @@ A simple personal prayer of thanksgiving and offering for the day. This is a dev
     Help me to love You, do Your will, and avoid sin.
     Jesus, be with me today.
     Mary, pray for me. Amen.
-
----
 
 ## 15. Prayer Before Sleep
 
@@ -536,11 +504,9 @@ A personal evening prayer of thanksgiving, examination of conscience, contrition
     May I lie down and sleep in peace,
     for You alone, O Lord, make me dwell in safety. Amen.
 
----
-
 ## A Note on This Print Edition
 
-This booklet gathers the Latin (Roman) Rite forms of the foundational prayers, with the full historical and theological commentary on each prayer given in [liturgy/foundational-prayers.md](../../liturgy/foundational-prayers.md).
+This booklet gathers the Latin (Roman) Rite forms of the foundational prayers, with the full historical and theological commentary on each prayer given in the fuller study of these prayers.
 
 The Cebuano (Binisaya) texts are reproduced as published by the Basilica Minore del Sto. Niño de Cebu, with capitalization and punctuation normalized to sentence case. Several Cebuano variants circulate, for these devotional texts were long transmitted orally and diocese by diocese; for liturgical use the normative text is the Cebuano edition of the Roman Missal approved for the Philippine Church.
 

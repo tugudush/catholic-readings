@@ -10,7 +10,7 @@
 
 ## Prayers Recited Every Day
 
-_The full texts are collected once in [common-prayers.md](../../../book-of-truth/crusade-prayers/crusade-prayers-7-days/common-prayers.md):_
+_The full texts are collected once in the common prayers:_
 
 - Sign of the Cross
 - Intercession of the Saints
@@ -20,7 +20,7 @@ _The full texts are collected once in [common-prayers.md](../../../book-of-truth
 - Prayer to God the Father: Prayer for the Key to the New Paradise
 - Litany Prayers (1)–(6)
 
-_The **daily Crusade Prayers** — (1), (13), (24), (30), (33), (79), (84), (102), (103), (104), (105), (111), (120), (122), (130), (164) — are recited every day and are collected in [crusade-and-daily-prayers.md](../../../book-of-truth/crusade-prayers/crusade-and-daily-prayers.md)._
+_The **daily Crusade Prayers** — (1), (13), (24), (30), (33), (79), (84), (102), (103), (104), (105), (111), (120), (122), (130), (164) — are recited every day and are collected with the daily prayers._
 
 ---
 
@@ -199,12 +199,10 @@ _The **daily Crusade Prayers** — (1), (13), (24), (30), (33), (79), (84), (102
 
 ## Closing Prayers
 
-_Recited every day. The full texts are in [common-prayers.md](../../../book-of-truth/crusade-prayers/crusade-prayers-7-days/common-prayers.md):_
+_Recited every day. The full texts are in the common prayers:_
 
 - Divine Mercy Chaplet
 - Crusade of Prayer (96): To Bless and Protect our Crusade Prayer Group
 - Sign of the Cross
 
 ---
-
-See also: [common-prayers.md](../../../book-of-truth/crusade-prayers/crusade-prayers-7-days/common-prayers.md) · [README.md](../../../book-of-truth/crusade-prayers/crusade-prayers-7-days/README.md) · [resources.md](../../../book-of-truth/resources.md)

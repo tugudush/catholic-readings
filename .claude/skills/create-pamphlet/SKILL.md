@@ -43,14 +43,18 @@ fit the page budget: see section 3.
 composition, private revelation, or editorial inference. The repository's doctrinal-grading convention
 is not optional in a pamphlet — it is the reason a devotional text can be distributed safely.
 
-**Retarget links.** A pamphlet in `for-printing/<topic>/` sits two levels below the repository root,
-so topic links become `../../<topic>/<file>.md`; links to a sibling print file stay flat.
+**Strip every link.** A pamphlet is read on paper, where a Markdown link prints as its link text — a
+bare filename such as `common-prayers.md` that means nothing to the reader. Delete the link, say the
+same thing in words ("the full texts are printed in the companion booklet"), or print the substance
+itself. Never retarget a link to the print folder's depth: on paper the target is unreachable
+either way. See [printable-documents.md](../../rules/printable-documents.md) §2.
 
 ## 3. Conserve space — mandatory
 
 A pamphlet has a hard, physical budget: every half-blank panel is paper the reader folds, carries and
 pays for. **Fill the pages.** A build that leaves an inch of white at the foot of a panel, or that runs
-a rule between items which already have headings, is a defect — not breathing room.
+a rule between items which already have headings, is a defect — not breathing room. A full-page
+`.docx` follows the same rule; see [printable-documents.md](../../rules/printable-documents.md) §3.
 
 **First, delete the source's furniture.** On an A5 panel each of these costs whole lines:
 
@@ -201,6 +205,7 @@ The cover must be the **right-hand** panel of side 1, with the last page on the 
 | Cover illustration or hand formatting disappears | A Word-edited `.docx` is the master copy — never rebuild it from the Markdown. Patch the package instead, or re-impose from the existing PDF. |
 | Printed sheets will not fold correctly | Page count is not a multiple of 4, or the second side was flipped about the other axis (the text then prints upside down — a visible, not silent, failure). |
 | Half of every panel comes out blank | The source's `---` rules, `##` spacing and long notes were carried straight over, or the content was never budgeted against the page count. Apply section 3: strip the rules, condense the notes, re-budget and rebuild — never shrink the type to force a fit. |
+| The printed page shows `common-prayers.md` or `../../topic/file.md` | A Markdown link from the source was copied into the print `.md`; the converter prints link text and never a hyperlink. Strip the link and rebuild — see [printable-documents.md](../../rules/printable-documents.md) §2. |
 | Shrinking the type stopped helping | Below 10 pt the fixed twip block spacing and page-break granularity dominate — 9 pt can give the same page count as 10 pt. Drop the `---` rules and trim or add content instead. |
 | `docProps/app.xml` reports a silly page count | Word's cached statistic goes stale (it can read "1 page"). Use `export-pdf.py` for the real count. |
 

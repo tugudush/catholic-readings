@@ -2,9 +2,7 @@
 
 A printable companion for praying the Chaplet of Divine Mercy, with the order of the beads, the full text of every prayer, the promises our Lord attached to the devotion, and the hour at which He asked that it be prayed above all.
 
-For the fuller study of this devotion — its origin in the revelations to St. Maria Faustina Kowalska, its doctrinal status, its comparison with the Holy Rosary, and the Eastern Catholic dimension — see [liturgy/chaplet-divine-mercy.md](../../liturgy/chaplet-divine-mercy.md). For the Hour of Great Mercy (3:00 p.m.) devotion of which this Chaplet is the heart, see [liturgy/hour-of-great-mercy.md](../../liturgy/hour-of-great-mercy.md). For Divine Mercy Sunday and the Divine Mercy Novena, see [liturgy/divine-mercy-feast-and-novena.md](../../liturgy/divine-mercy-feast-and-novena.md).
-
----
+This leaflet gives the prayers themselves — the beads, the order, and the full text of the Chaplet. The Hour of Great Mercy at three o'clock, Divine Mercy Sunday, and the Divine Mercy Novena are separate devotions, each with its own prayers and its own place in the Church's year.
 
 ## Before You Begin
 
@@ -13,8 +11,6 @@ For the fuller study of this devotion — its origin in the revelations to St. M
 - **Where to pray:** anywhere — at home, in a pew, in a chapel, beside a bed, on a journey. The Chaplet may also be prayed before the Blessed Sacrament.
 - **When to pray:** at any hour and for any intention — for oneself, for a sick person, for a dying person, for sinners, or for the whole world.
 - **An image of Divine Mercy**, signed _"Jesus, I trust in You,"_ may be placed where you pray; a candle is optional.
-
----
 
 ## The Beads at a Glance
 
@@ -30,8 +26,6 @@ The Chaplet is prayed on the ordinary beads of a five-decade Rosary, in a repeat
 | Ten small beads of each decade         | The decade prayer, ten times      |
 | After the fifth decade                 | The Closing Doxology, three times |
 
----
-
 ## The Order of Prayer, Step by Step
 
 1. **Begin at the crucifix.** Make the **Sign of the Cross**.
@@ -44,8 +38,6 @@ The Chaplet is prayed on the ordinary beads of a five-decade Rosary, in a repeat
 8. **On the large bead of the second decade**, repeat the **Eternal Father** prayer, then the decade prayer ten times more. Repeat this pattern for the third, fourth and fifth decades.
 9. **After the fifth decade**, recite the **Closing Doxology** three times.
 10. **(Optional)** Recite the **Optional Closing Prayers**, then make the Sign of the Cross.
-
----
 
 ## The Prayers of the Chaplet
 
@@ -192,16 +184,12 @@ _(This doxology is recited three times.)_
     we pass through to Heaven.
     (Diary, § 1570)
 
----
-
 ## When to Pray the Chaplet
 
 - **At any hour.** The Chaplet may be prayed at any time of the day or night, for any intention.
 - **At the Hour of Mercy (3:00 p.m.).** Our Lord asked St. Faustina that the Chaplet be prayed especially at the hour of His death on the Cross, promising: _"In this hour you can obtain everything for yourself and for others for the asking; it was the hour of grace for the whole world — mercy triumphed over justice."_ (Diary, § 1572)
 - **For the dying.** Our Lord promised that when the Chaplet is recited at the bedside of a dying person, His mercy envelops the soul and His anger is placated (Diary, § 1565, § 687).
 - **On Divine Mercy Sunday** (the Second Sunday of Easter), the solemnity on which our Lord asked that the whole world be reminded of His mercy, and on which the Church has attached a plenary indulgence to the observance of the day.
-
----
 
 ## The Promises of Our Lord
 
@@ -212,8 +200,6 @@ _(This doxology is recited three times.)_
 > _"As often as you hear the clock strike the third hour, immerse yourself completely in My mercy, adoring and glorifying it; invoke its omnipotence for the whole world, and particularly for poor sinners; for at that moment mercy was opened wide for every soul. In this hour you can obtain everything for yourself and for others for the asking; it was the hour of grace for the whole world — mercy triumphed over justice."_ (Diary, § 1572)
 
 The graces of the devotion are bound to **trust** in God's goodness and mercy, to **active love of neighbor** in the works of mercy, and to the **state of sanctifying grace** — the reception of the Sacraments of Confession and Holy Communion, especially worthily on Divine Mercy Sunday.
-
----
 
 ## Notes for the One Praying
 
@@ -226,5 +212,3 @@ The graces of the devotion are bound to **trust** in God's goodness and mercy, t
 - **The Hours of the Passion.** Our Lord asked that the Chaplet be accompanied by meditation on His Passion — the Stations of the Cross, adoration before the Blessed Sacrament, or a brief meditation on the wounds and the Blood — especially at 3:00 p.m.
 - **An Eastern Catholic note.** The Chaplet is a Latin-Rite devotion, though it is widely loved in the Eastern Catholic Churches. Eastern Catholics may make the Sign of the Cross with the Eastern formula and add an Eastern-style introductory prayer or the Trisagion.
 - **No particular formula is required.** The Chaplet is a devotion, not a sacrament; the Church commends it and grants indulgences attached to the Divine Mercy observance, but the praying of it is governed by custom and pastoral guidance rather than by divine law.
-
-For the Rosary with which the Chaplet is usually joined, see [for-printing/rosary/how-to-pray-the-rosary.md](../rosary/how-to-pray-the-rosary.md).
