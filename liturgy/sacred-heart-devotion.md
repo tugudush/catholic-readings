@@ -360,6 +360,8 @@ The **Litany of the Sacred Heart of Jesus** is a formal liturgical prayer approv
 
 The faithful are encouraged to display and venerate an image of the Sacred Heart — typically depicting Christ with His Heart visible, encircled by flames (symbolizing consuming love), surmounted by a cross (symbolizing the Crucifixion), and crowned with thorns (symbolizing the crown placed on Christ's head and the wounds of sin). This image is a sacramental that directs the mind and heart to the reality of Christ's love.
 
+The standard painting is Pompeo Batoni's altarpiece of 1767, still in the north side chapel of the Church of the Gesù in Rome. The picture most often hung in homes is a later print in that same tradition. Neither is a photograph of the apparitions. Copies of those images, of Leopold Kupelwieser's _Heart of Mary_, of the Miraculous Medal (the first image of both Hearts that the Church spread everywhere), and of an 1829–1831 painting of the two Hearts, are kept with their sources in [liturgy/images/](images/README.md).
+
 ### 8. The Scapular of the Sacred Heart
 
 Among the Church's approved devotional scapulars is the **Scapular of the Sacred Heart of Jesus**, a small scapular of red cloth bearing the image of the Sacred Heart, enrolled and worn as an outward sign of consecration to Christ's Heart. Like the Brown Scapular, it serves as a visible pledge of the wearer's devotion and belongs to the Church's sacramentals. _For the theology of scapulars and the rite of enrollment, see [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md)._
