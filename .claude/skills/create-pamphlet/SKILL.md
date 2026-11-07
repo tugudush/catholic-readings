@@ -113,12 +113,16 @@ rebuild of an old one, applies it.
 ```
 for-printing/<topic>/<name>-pamphlet.md        ← source, hand-editable
 for-printing/<topic>/<name>-pamphlet.docx      ← built
-for-printing/<topic>/<name>-pamphlet-imposed.pdf ← printable
+for-printing/<topic>/<name>-pamphlet-imposed-enhanced.pdf ← printable
 ```
 
 Follows `printable-documents.instructions.md`: print artifacts live only under `for-printing/`, every
 `.docx` is paired with the Markdown it came from, and the AGENTS.md map / README portal are left alone
 unless asked.
+
+Use the `-pamphlet-imposed-enhanced.pdf` suffix for future pamphlets; do not rename, replace, or
+regenerate existing imposed PDFs solely for this naming change. The enhanced name identifies the
+duplex-ready workflow, not a different imposition: existing imposed PDFs are duplex-ready too.
 
 ## 5. Write the Markdown, normalize, format
 
@@ -168,7 +172,7 @@ This step is never optional: build the imposed PDF even when only a `.docx` was 
 
 ```bash
 python .claude/skills/create-pamphlet/scripts/export-pdf.py <docx> /tmp/<name>.pdf
-python .claude/skills/create-pamphlet/scripts/impose.py /tmp/<name>.pdf for-printing/<topic>/<name>-pamphlet-imposed.pdf
+python .claude/skills/create-pamphlet/scripts/impose.py /tmp/<name>.pdf for-printing/<topic>/<name>-pamphlet-imposed-enhanced.pdf
 ```
 
 `export-pdf.py` drives the installed Word through COM (pywin32), prints Word's own page size,
@@ -177,6 +181,9 @@ book-fold flag and page count, and exports the **logical** pages — Word's PDF 
 `impose.py` lays those pages two-up on A4 landscape sheets in saddle-stitch order, with faint fold
 ticks at the centre of each sheet. For `n` pages and sheet `i` (1 = outermost) the order is
 `front = (n − 2(i−1), 2i − 1)` and `back = (2i, n − 2i + 1)`.
+Each sheet's front and back are consecutive PDF pages, so the complete PDF can be sent as one
+two-sided print job. Four PDF pages represent two sheets; four folded booklet pages occupy one sheet
+and therefore two PDF pages.
 
 **Then look at it.** Render every side and view it before reporting success:
 
@@ -188,13 +195,23 @@ The cover must be the **right-hand** panel of side 1, with the last page on the 
 
 ## 10. Hand over a print brief
 
-- A4 paper, **1 page per sheet** (never "2 pages per sheet" — it stacks the imposition), scale
-  **Default / 100 %** (never "fit to printable area": it shrinks the panels and drifts the fold line).
-- Two-sided with **flip on short edge**, or two passes: print `1`, turn the sheet over sideways keeping
-  the top edge up, print `2`.
+- Choose A4 **landscape**, **1 PDF page per sheet** (never "2 pages per sheet" — it stacks the
+  imposition), and scale **100 % / Actual size**. Ensure the application and printer preferences
+  agree on landscape; do not shrink to fit the printable area.
+- For an Epson L5390 using Chrome on Windows: open **More settings → Print using system dialog →
+  More settings → Printing preferences**. Set **2-Sided Printing → Manual (Short-edge binding)**,
+  uncheck **Reverse Order**, and print all pages as one job. When the driver prompts, reload the
+  printed stack exactly as directed and continue; manual duplex still requires a reload. Do not also
+  select odd/even pages manually when the driver manages both passes.
+- With automatic duplex, choose **flip on short edge** and print all pages once. Other printers may
+  label or handle the binding setting differently; test the first sheet before printing the full job.
+- Without driver-managed duplex, print one sheet's consecutive sides at a time: print `1`, turn the
+  sheet over sideways keeping the top edge up, then print `2`; repeat with `3` and `4`, and so on.
 - Sheet 1 wraps the booklet, sheet 2 nests inside; crease on the fold ticks; staple twice through the
   crease, about 40 mm from each end, using an opened stapler over a magazine.
-- Tell the user to test one sheet before running the rest.
+- Test PDF pages `1–2` on one sheet first: both sides must be upright and the cover on the outside
+  right. Check the folded page order before running the complete job; discard the test sheet or avoid
+  printing it twice when completing the job.
 
 ## Pitfalls
 
