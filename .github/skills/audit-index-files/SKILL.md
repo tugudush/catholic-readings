@@ -1,10 +1,9 @@
 ---
+name: audit-index-files
 description: 'Audit index files (README.md, AGENTS.md) against actual repo content — find missing, stale, or incomplete file references and fix them in one pass.'
-name: 'Audit Index Files'
+disable-model-invocation: true
 argument-hint: 'Which index files? (default: README.md AGENTS.md)'
-agent: 'agent'
 ---
-
 Audit the specified repository index files against the actual content on disk and fix all discrepancies. Default targets are `README.md` and `AGENTS.md`.
 
 ## Procedure
