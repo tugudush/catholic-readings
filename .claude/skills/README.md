@@ -14,6 +14,12 @@ This folder holds project-scoped agent skills. Their source files are tracked in
   under-described entries in one pass. Instruction-only, no scripts or dependencies. Moved here from
   `.github/skills/`, which held a single-skill Copilot copy of the same procedure. See
   [audit-index-files/SKILL.md](audit-index-files/SKILL.md).
+- **saint-documentation** — source-critical workflow for substantial biographies and group articles
+  about saints, with a checklist for sources, doctrine, and prayer attribution. See
+  [saint-documentation/SKILL.md](saint-documentation/SKILL.md); the concise safeguards remain in
+  the [saint documentation rule](../rules/saint-documentation.md).
+- **video-analysis** — source-based video analysis using videoMcp, including access safeguards and
+  timestamped documentation. See [video-analysis/SKILL.md](video-analysis/SKILL.md).
 
 ## Invoking a skill
 

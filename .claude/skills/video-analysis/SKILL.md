@@ -1,10 +1,11 @@
 ---
-name: Video MCP Analysis
+name: video-analysis
 description: 'Use when asked to check, analyze, inspect, summarize, transcribe, document, or locate content in a video, especially a YouTube video. Use videoMcp for video retrieval and analysis, including the configured YT_DLP_COOKIES_FILE when access fails.'
 ---
 
 # Video Analysis with videoMcp
 
+- If another available video-analysis skill is applicable, use it only in a way consistent with this repository's videoMcp-first and access safeguards; do not replace an available videoMcp analysis with another provider.
 - Use the `videoMcp` server and its `mcp_video-mcp_*` tools as the primary source for actual video analysis. Do not replace an available videoMcp analysis with a text-only web summary.
 - You may visit the video URL itself only to collect source-page metadata such as the title, channel, publication date, description, chapter list, and links. Treat that page material as publisher-provided context, not as analysis of the video's spoken or visual content; use videoMcp for that analysis.
 - For a remote video, gather the least amount of source evidence needed for the request: use video metadata for basic facts, transcription for spoken content, structured summarization for an overview, and frame extraction or timestamp search when visual content or a specific moment matters.
