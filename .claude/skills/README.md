@@ -9,6 +9,19 @@ This folder holds project-scoped agent skills. Their source files are tracked in
   (condensed Markdown + paired `.docx` + an imposed A4 PDF in saddle-stitch order). No npm
   dependencies; its scripts need Python with `pywin32` (drives Word to export a PDF) and `pymupdf`
   (imposes the pages). See [create-pamphlet/SKILL.md](create-pamphlet/SKILL.md).
+- **audit-index-files** — written in this repository: audits [README.md](../../README.md) and
+  [AGENTS.md](../../AGENTS.md) against the markdown actually on disk and repairs missing, stale, and
+  under-described entries in one pass. Instruction-only, no scripts or dependencies. Moved here from
+  `.github/skills/`, which held a single-skill Copilot copy of the same procedure. See
+  [audit-index-files/SKILL.md](audit-index-files/SKILL.md).
+
+## Invoking a skill
+
+Most skills load on their own when a request matches their description. `audit-index-files` sets
+`disable-model-invocation: true`, so the model never reaches for it unasked — invoke it explicitly as
+`/audit-index-files`. It rewrites the two root index files, so it is deliberate by design. Delete
+that one frontmatter line in [audit-index-files/SKILL.md](audit-index-files/SKILL.md) to let the
+model pick it up automatically.
 
 ## Why packages are installed per skill
 

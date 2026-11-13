@@ -10,13 +10,16 @@ Audit the specified repository index files against the actual content on disk an
 
 ### 1. Discover Actual Content
 
-Enumerate all markdown files on disk (excluding `.git/`):
+Enumerate every tracked markdown file, plus any new file not yet committed, while excluding agent configuration and every path git ignores (the private content directories and downloaded media must never surface as index discrepancies):
 
-```bash
-find . -type f -name "*.md" ! -path "./.git/*" | sort
+```powershell
+git ls-files --cached --others --exclude-standard '*.md' |
+  Where-Object { $_ -notmatch '^\.(claude|github)/' } | Sort-Object
 ```
 
-Also list directory contents with `list_dir` for each top-level topic folder.
+In a POSIX shell the same listing is `git ls-files --cached --others --exclude-standard '*.md' | grep -v -E '^\.(claude|github)/' | sort`.
+
+Also list the contents of each top-level topic folder so that directories, not only files, can be checked against the index.
 
 ### 2. Read Index Files
 
@@ -30,6 +33,7 @@ For each index file, identify:
 - **Stale references**: Files referenced in the index that no longer exist on disk
 - **Under-listed directories**: Directories where the index uses "e.g." or "such as" but omits several existing files
 - **Missing directories**: Entire topic folders present on disk but absent from the index
+- **Mismatched annotations**: Entries whose description no longer matches what the file actually contains
 
 ### 4. Apply Fixes
 
@@ -43,13 +47,8 @@ Update the index files to accurately reflect current repository content, followi
 - Distinguish levels of doctrinal weight: dogma, discipline, private revelation, theological opinion
 - For new sections, write descriptions that match the scholarly, historically-grounded tone of existing entries
 - For `AGENTS.md`, mirror the exact structure of its directory map entries (directory header, then individual file entries with descriptions)
+- Keep `README.md` and `AGENTS.md` consistent with each other — a document added to one belongs in the other unless the difference is deliberate
 
 ### 5. Full Re-Scan Verification
 
-After applying all edits, re-run the file discovery command and confirm zero discrepancies remain:
-
-```bash
-find . -type f -name "*.md" ! -path "./.git/*" | sort
-```
-
-Then read the modified sections in both index files to verify formatting, link correctness, and descriptive quality. If any discrepancy persists, apply additional fixes until the indexes are fully accurate.
+After applying all edits, re-run the discovery command from step 1 and confirm zero discrepancies remain. Then read the modified sections in both index files to verify formatting, link correctness, and descriptive quality. If any discrepancy persists, apply additional fixes until the indexes are fully accurate.
