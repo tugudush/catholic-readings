@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "magisterium": {
+      "url": "https://mcp.magisterium.com",
+      "type": "http"
+    }
+  }
+}
