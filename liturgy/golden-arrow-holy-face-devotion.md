@@ -149,6 +149,7 @@ The Golden Arrow is a **devotional formula**, not a liturgical text, and may be 
 - **Before the Blessed Sacrament**, in [Eucharistic adoration](eucharistic-adoration.md), or immediately after Holy Communion, when the Sacred Heart is present in the Most Holy Sacrament of the Altar that the prayer itself names;
 - **Together with the Divine Praises**, whose line _"Blessed be His Holy Name"_ belongs to the same family of acts of reparation;
 - **As a brief offering for the conversion of sinners**, joined to the Rosary, the [Chaplet of Divine Mercy](chaplet-divine-mercy.md), or an [act of spiritual communion](spiritual-communion.md).
+- **With the Little Chaplet of the Holy Face** — the thirty-nine-bead chaplet of the Carmel of Tours, which honours the five senses of Christ in His Passion and prays for the triumph of the Church; see [liturgy/chaplet-holy-face.md](chaplet-holy-face.md).
 
 It may be repeated freely and needs no special permission, enrollment, or ceremony. No specific indulgence is attached to the Golden Arrow as such; it is an act of **latria** (the worship due to God alone) offered in a spirit of praise and reparation. As with all devotions, it should be ordered to and never substituted for the Church's sacred liturgy.
 
@@ -201,6 +202,7 @@ _For the theology of the veneration of images and the difference between latria 
 - [liturgy/sacred-heart-devotion.md](sacred-heart-devotion.md) — the sister devotion of reparation, and the Heart from which the Golden Arrow's graces are said to flow.
 - [liturgy/first-saturdays-devotion.md](first-saturdays-devotion.md) — the Marian devotion of reparation for the five blasphemies against the Immaculate Heart.
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) and [liturgy/eucharistic-adoration.md](eucharistic-adoration.md) — devotions of praise, atonement, and adoration.
+- [liturgy/chaplet-holy-face.md](chaplet-holy-face.md) — the Little Chaplet of the Holy Face: its thirty-nine beads, its prayers, the five senses of the Passion, the history of its attribution and approvals, and the corrected account of its indulgences.
 - [sacraments/examination-of-conscience.md](../sacraments/examination-of-conscience.md) — the Second and Third Commandments, blasphemy, and the Sunday obligation.
 - [spiritual-life/blasphemy-against-the-holy-spirit.md](../spiritual-life/blasphemy-against-the-holy-spirit.md) — the related but distinct question of the sin against the Holy Spirit.
 - [saints/st-therese-lisieux.md](../saints/st-therese-lisieux.md) — Thérèse "of the Child Jesus and of the Holy Face."

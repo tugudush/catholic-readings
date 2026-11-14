@@ -166,6 +166,7 @@ The practical conclusions of the Church's teaching:
 - [Hell in Private Revelations](../eschatology/hell-private-revelations.md) — the Church's firm teaching that no specific human being has been declared to be in hell, and the doctrine of final impenitence.
 - [Doctrinal Foundations of Eschatology](../eschatology/doctrinal-foundations.md) — the magisterial sources on death, judgment, and the final states.
 - [The Golden Arrow and the Devotion to the Holy Face](../liturgy/golden-arrow-holy-face-devotion.md) — the distinct sin of blasphemy against the Holy Name, and the Church's reparatory response through the Holy Face devotion.
+- [The Chaplet of the Holy Face of Jesus](../liturgy/chaplet-holy-face.md) — the reparation chaplet of the Carmel of Tours, honouring the five senses of Christ outraged in His Passion and praying for the conversion of blasphemers.
 
 ## Primary Sources
 
