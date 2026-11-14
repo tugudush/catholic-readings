@@ -588,6 +588,7 @@ The devotion to the Sacred Heart of Jesus is a magisterially approved and deeply
 
 - [miracles/prophecies-visions/sacred-heart-st-margaret-mary.md](../miracles/prophecies-visions/sacred-heart-st-margaret-mary.md) — Full account of the apparitions at Paray-le-Monial and the life of St. Margaret Mary.
 - [liturgy/chaplet-divine-mercy.md](chaplet-divine-mercy.md) — The Divine Mercy Chaplet, also flowing from the pierced Heart of Christ.
+- [liturgy/chaplet-precious-blood.md](chaplet-precious-blood.md) — The Chaplet of the Most Precious Blood, the devotion to the Blood that flowed from the pierced Side of Christ (John 19:34), which John XXIII's _Inde a Primis_ bound inseparably to the devotion to the Sacred Heart.
 - [liturgy/hour-of-great-mercy.md](hour-of-great-mercy.md) — The 3:00 p.m. devotion to the Divine Mercy.
 - [sacramentals/brown-scapular.md](../sacramentals/brown-scapular.md) — The Scapular of the Sacred Heart mentioned among approved sacramentals.
 - [miracles/marian-apparitions/approved/fatima.md](../miracles/marian-apparitions/approved/fatima.md) — The First Saturday devotion and the Immaculate Heart.
