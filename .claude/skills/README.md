@@ -19,7 +19,8 @@ This folder holds project-scoped agent skills. Their source files are tracked in
   [saint-documentation/SKILL.md](saint-documentation/SKILL.md); the concise safeguards remain in
   the [saint documentation rule](../rules/saint-documentation.md).
 - **video-analysis** — source-based video analysis using videoMcp, including access safeguards and
-  timestamped documentation. See [video-analysis/SKILL.md](video-analysis/SKILL.md).
+  timestamped documentation, with a documented fallback to the user-scope `video-analyzer` skill when
+  videoMcp itself is unavailable. See [video-analysis/SKILL.md](video-analysis/SKILL.md).
 
 ## Invoking a skill
 
