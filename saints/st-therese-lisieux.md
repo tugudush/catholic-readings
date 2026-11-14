@@ -191,4 +191,5 @@ _A shorter invocation for daily use:_
 - [saints/st-john-cross.md](st-john-cross.md) — St. John of the Cross, Carmelite reformer and Doctor.
 - [miracles/prophecies-visions/divine-mercy-st-faustina.md](../miracles/prophecies-visions/divine-mercy-st-faustina.md) — Another great modern mystic.
 - [liturgy/golden-arrow-holy-face-devotion.md](../liturgy/golden-arrow-holy-face-devotion.md) — The Golden Arrow and the Holy Face devotion, from which Thérèse took the second part of her religious name.
+- [liturgy/chaplet-holy-face.md](../liturgy/chaplet-holy-face.md) — the thirty-nine-bead chaplet of the Holy Face that carries forward the devotion Thérèse made her own.
 - [saints/README.md](README.md) — Master index of the saints directory.
