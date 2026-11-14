@@ -271,6 +271,7 @@ _A shorter invocation for daily use:_
 - [church-history/holy-lance-relic.md](../church-history/holy-lance-relic.md) — The complete history of the Holy Lance (Spear of Destiny), from Jerusalem through Constantinople, Vienna, Hitler's seizure, and the WWII recovery.
 - [christology/README.md](../christology/README.md) — Christology: the Person and work of Jesus Christ, including the Passion.
 - [liturgy/sacred-heart-devotion.md](../liturgy/sacred-heart-devotion.md) — The devotion to the Sacred Heart of Jesus, pierced by the lance, with theological foundations, magisterial documents, and prayers.
+- [liturgy/chaplet-precious-blood.md](../liturgy/chaplet-precious-blood.md) — The Chaplet of the Most Precious Blood, whose seventh mystery contemplates the piercing of the Side from which flowed blood and water (John 19:34).
 - [sacraments/baptism.md](../sacraments/baptism.md) — The sacrament prefigured by the water flowing from Christ's side.
 - [sacraments/eucharist.md](../sacraments/eucharist.md) — The sacrament prefigured by the blood flowing from Christ's side.
 - [saints/st-michael-archangel.md](st-michael-archangel.md) — St. Michael the Archangel, patron of soldiers.
