@@ -462,7 +462,7 @@ For the Eastern Catholic Churches generally, see [church-history/eastern-catholi
 | ------------------------------------------ | ------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
 | **The Holy Rosary**                        | 59 beads (53 Hail Mary, 6 Our Father) | Contemplation of the mysteries of Christ with Mary      | Medieval; codified by Pope St. Pius V (1569)             |
 | **The Chaplet of Divine Mercy**            | Rosary beads (5 decades)              | Offering the Passion to the Father for mercy on sinners | St. Maria Faustina Kowalska (1930s)                      |
-| **The Chaplet of the Most Precious Blood** | 7 groups of 7 beads                   | The seven sheddings of the Blood of Christ              | Archconfraternity of the Most Precious Blood (1808–1809) |
+| **The Chaplet of the Most Precious Blood** | 33 beads in 7 groups (6 × 5 + 3)      | The seven sheddings of the Blood of Christ              | Archconfraternity of the Most Precious Blood (1808–1809) |
 | **The Chaplet of the Holy Face**           | 39 beads (6 large + 33 small) + medal | The five senses of Christ and the triumph of the Church | Carmel of Tours; 1887 _Manual_                           |
 
 Closely related devotions of reparation:
