@@ -135,7 +135,58 @@ In the Byzantine tradition, the sacrament is called **Holy Chrismation** or simp
 
 ---
 
-## 11. Cross-References
+## 11. The Order of the Rite and the Responses (Latin Rite)
+
+This section is a practical guide for the candidate. In the Roman Rite, Confirmation celebrated separately from Baptism opens with the renewal of baptismal promises and the profession of faith by the confirmands ([CCC 1298](https://www.magisterium.com/docs/0583c069-d4bf-42dd-97de-c19f0b80150f/ref/1298)). The wording varies slightly between English translations and national editions; the booklet your parish provides is the authoritative text.
+
+### 11.1 Sequence at a Glance
+
+| Step | What happens                                                                                                                                                                                                                                                                                                        | What the candidate says or does                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1    | **Introduction.** The bishop explains that God gave new birth in Baptism and asks the Church to pray for the outpouring of the Holy Spirit.                                                                                                                                                                         | Stand and listen.                                                                            |
+| 2    | **Renunciation of sin.** Bishop: "Do you renounce Satan, and all his works, and all his empty promises?"                                                                                                                                                                                                            | Each candidate answers: **"I do."**                                                          |
+| 3    | **Profession of faith.** Bishop: "Do you believe in God, the Father almighty, Creator of heaven and earth?" Then, in turn, the Son and the Holy Spirit, the Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting.                                           | Answer each question with **"I do."**                                                        |
+| 4    | **Conclusion of the profession.** Bishop: "This is our faith. This is the faith of the Church. We are proud to profess it in Christ Jesus our Lord."                                                                                                                                                                | All respond: **"Amen."**                                                                     |
+| 5    | **Prayer over the candidates.** The bishop extends his hands over them in silence, then prays: "All-powerful God, Father of our Lord Jesus Christ, by water and the Holy Spirit you freed your sons and daughters from sin and gave them new life. Send your Holy Spirit upon them to be their helper and guide..." | All respond at the end of the prayer: **"Amen."** Candidates do not speak during the prayer. |
+| 6    | **Presentation.** Your sponsor places the right hand on your shoulder, and you step forward before the bishop.                                                                                                                                                                                                      | Stand before the bishop.                                                                     |
+| 7    | **Anointing with chrism.** The bishop traces the sign of the cross with chrism on your forehead, using his right thumb, and says your name (N. in the printed text): "N., be sealed with the Gift of the Holy Spirit."                                                                                              | Respond: **"Amen."**                                                                         |
+| 8    | **Peace.** Bishop: "Peace be with you."                                                                                                                                                                                                                                                                             | Respond: **"And with your spirit."**                                                         |
+| 9    | **Conclusion.** The bishop leads the prayer of the faithful. If Confirmation is celebrated within Mass, the Liturgy of the Eucharist follows.                                                                                                                                                                       | Respond to the prayers as usual, for example **"Amen"** or **"Lord, hear our prayer."**      |
+
+### 11.2 The Responses to Memorize
+
+- **"I do."** to each renunciation and each question of the Creed.
+- **"Amen."** after the bishop's concluding statement of the faith, after the prayer over the candidates, and after the words "Be sealed with the Gift of the Holy Spirit."
+- **"And with your spirit."** in reply to "Peace be with you."
+
+The candidate should not say "Yes" in place of "I do" or "Amen," and should not recite the answers ahead of the bishop. The bishop speaks first at each step.
+
+### 11.3 Practical Notes
+
+- **Confirmation name.** Most candidates choose a saint's name, and the bishop uses that name when anointing. Confirm the spelling with your catechist or parish office before the day.
+- **Sponsor.** The sponsor's right hand rests on your shoulder during the anointing. The sponsor should be a practicing Catholic who is eligible under the parish's and the diocese's rules (Code of Canon Law, c. 892–893).
+- **Eastern Catholic (Byzantine) Chrismation.** The priest anoints the newly baptized with myron on the forehead, eyes, nostrils, lips, ears, breast, hands, and feet. At each anointing he says "The seal of the gift of the Holy Spirit," and the newly chrismated responds "Amen." There is no renewal of promises and no bishop-led question-and-answer sequence.
+
+### 11.4 Cebuano (Bisaya) Responses
+
+The [Holy Child Academy of Pitogo, Bohol, Confirmation Mass slideshow](https://www.slideshare.net/slideshow/order-of-the-mass-bisaya-confirmation-2023-pptx/288130667#32) places four short responses immediately after the homily, on slides 32–35. A separate [Midsayap Confirmation service program](https://www.studocu.com/ph/document/notre-dame-of-midsayap-college/basic-accounting/liturgy-kumpil-2021/98549020) contains Cebuano words of the archbishop. The cues below are **short excerpts**, not the complete questions or formula; only indexed excerpts of the Midsayap program were accessible for this comparison.
+
+Read alongside the Latin Order of Confirmation, [no. 40](https://www.magisterium.com/docs/696927a3-38e7-455d-a31c-b3b5322f30f4/ref/page29) and [nos. 42–44](https://www.magisterium.com/docs/696927a3-38e7-455d-a31c-b3b5322f30f4/ref/page31), these form a **local practice guide**, not proof of an officially approved Cebuano text or the wording your parish will use.
+
+| Cebuano cue from the minister                                                               | Response to prepare     | Evidence and qualification                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **“Isalikway ba ninyo …?”**                                                                 | **Isalikway.**          | The Midsayap program includes a question beginning with these words; slide 32 of the Bohol slideshow displays the response.                                                                                                                                                  |
+| **“Nagatuo ba kamo …?”**                                                                    | **Nagatoo.**            | The Midsayap program includes questions beginning with these words; slide 33 of the Bohol slideshow displays the response.                                                                                                                                                   |
+| **“Dawata kining timaan …”**                                                                | **Amen.**               | The Midsayap program gives these opening words for the anointing. Slide 34 displays “Amen” without identifying its exact use; the Latin Order explicitly prescribes “Amen” after the anointing.                                                                              |
+| **Pagtimbaya sa kalinaw:** the exact Cebuano words for Confirmation have not been verified. | **Maanaa usab kanimo.** | Slide 35 displays this response after “Amen,” suggesting the peace exchange. It also appears as a response to a greeting in a separate [Cebuano Order of Mass](https://sulugoon.com/missal/); neither source establishes its approved wording specifically for Confirmation. |
+
+Another local example, a [GKK San Vicente Ferrer post for the Easter Vigil](https://www.facebook.com/meurpni/videos/sabado-de-gloria-pagbag-o-sa-saad-sa-atong-kinabuhipangulo-nagsalikway-ba-kamo-k/1193196384668415/), gives **“Nagsalikway ako”** and **“Nagatoo ako”** for the renewal of baptismal promises. That is a different celebration, not a Confirmation ritual book, and does not establish which responses your parish uses.
+
+**Before Confirmation, check the complete Cebuano responses and the bishop's words with your parish or catechist.** No approved Cebuano edition of the Confirmation rite was located for this comparison.
+
+---
+
+## 12. Cross-References
 
 - For Baptism, the gateway to the sacraments of initiation, see [baptism.md](baptism.md).
 - For the Eucharist, the third sacrament of initiation that completes Confirmation in the Eastern Churches (in the Latin Rite it is usually received before Confirmation), see [eucharist.md](eucharist.md).
